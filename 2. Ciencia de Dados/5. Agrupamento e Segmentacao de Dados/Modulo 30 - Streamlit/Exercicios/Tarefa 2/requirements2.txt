@@ -1,0 +1,14 @@
+fqdn==1.5.1
+gower==0.1.2
+ipython==8.26.0
+matplotlib==3.10.0
+numpy==1.26.4
+scikit-image @ file:///C:/b/abs_85dh_ywewv/croot/scikit-image_1726762076100/work
+scikit-learn @ file:///C:/b/abs_aajc9f7v6r/croot/scikit-learn_1722067652693/work/dist/scikit_learn-1.5.1-cp312-cp312-win_amd64.whl#sha256=96ed6defb86c154d2ff360afdbf0c37c33c4c729d4a15c9d8ada0b70fd817816
+scipy @ file:///C:/b/abs_efv75hqhju/croot/scipy_1717521501389/work/dist/scipy-1.13.1-cp312-cp312-win_amd64.whl#sha256=b29dba691773ea983857b31cad894f31623348583937b6f03783facfd7abc734
+seaborn==0.13.2
+streamlit==1.44.1
+tqdm @ file:///C:/b/abs_77wju137gk/croot/tqdm_1724853945787/work
+pandas==2.2.3
+XlsxWriter==3.2.3
+ydata-profiling==4.16.1
