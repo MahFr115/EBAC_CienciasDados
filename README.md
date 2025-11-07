@@ -18,7 +18,7 @@ Aqui estão reunidas as principais trilhas, projetos, experimentos e entregas pr
 
 ## 🎥 Guia de Navegação (em breve)
 
-Em breve será disponibilizado um **vídeo explicativo** apresentando a organização do repositório e demonstrando:  
+Vídeo explicativo apresentando a organização do repositório disponibilizado no arquivo "navegacao.mp4":  
 🎯 Como navegar entre as trilhas  
 📁 Onde localizar os módulos e seus arquivos  
 📈 Como acessar os notebooks, dashboards e projetos interativos  
