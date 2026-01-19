@@ -1,0 +1,1513 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 5,
+  "total": 3170,
+  "setlist": [
+    {
+      "id": "134fe17d",
+      "versionId": "g3659dc7",
+      "eventDate": "06-11-2025",
+      "lastUpdated": "2025-11-07T14:01:24.974+0000",
+      "artist": {
+        "mbid": "4ddb355f-7565-496f-a553-c85113eb4470",
+        "name": "Cyro Sampaio",
+        "sortName": "Cyro Sampaio",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/cyro-sampaio-73fdd65d.html"
+      },
+      "venue": {
+        "id": "1bd535f4",
+        "name": "Jai Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/jai-club-sao-paulo-brazil-1bd535f4.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/cyro-sampaio/2025/jai-club-sao-paulo-brazil-134fe17d.html"
+    },
+    {
+      "id": "134ed919",
+      "versionId": "g1365ddf5",
+      "eventDate": "06-11-2025",
+      "lastUpdated": "2025-11-08T23:32:48.486+0000",
+      "artist": {
+        "mbid": "4ad8190b-d2fd-46f8-a3d9-c0f55c034976",
+        "name": "Poppy",
+        "sortName": "Poppy",
+        "disambiguation": "US post‐genre artist, AKA That Poppy",
+        "url": "https://www.setlist.fm/setlists/poppy-3c3b177.html"
+      },
+      "venue": {
+        "id": "23de9453",
+        "name": "Cine Joia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cine-joia-sao-paulo-brazil-23de9453.html"
+      },
+      "tour": {
+        "name": "They're All Around Us"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Intro",
+                "tape": true
+              },
+              {
+                "name": "have you had enough?"
+              },
+              {
+                "name": "BLOODMONEY"
+              },
+              {
+                "name": "V.A.N",
+                "cover": {
+                  "mbid": "eecada09-acfc-472d-ae55-e9e5a43f12d8",
+                  "name": "Bad Omens",
+                  "sortName": "Bad Omens",
+                  "disambiguation": "metalcore band",
+                  "url": "https://www.setlist.fm/setlists/bad-omens-53c0ab3d.html"
+                }
+              },
+              {
+                "name": "Doll Interlude",
+                "tape": true,
+                "info": "Without Doll"
+              },
+              {
+                "name": "the cost of giving up"
+              },
+              {
+                "name": "Anything Like Me"
+              },
+              {
+                "name": "crystallized"
+              },
+              {
+                "name": "from me to u",
+                "cover": {
+                  "mbid": "27e2997f-f7a1-4353-bcc4-57b9274fa9a4",
+                  "name": "BABYMETAL",
+                  "sortName": "BABYMETAL",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/babymetal-5bd19f80.html"
+                }
+              },
+              {
+                "name": "the center’s falling out"
+              },
+              {
+                "name": "Scary Mask",
+                "info": "Extended Intro"
+              },
+              {
+                "name": "I Disagree"
+              },
+              {
+                "name": "Bite Your Teeth"
+              },
+              {
+                "name": "Concrete"
+              },
+              {
+                "name": "surviving on defiance"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "they’re all around us"
+              },
+              {
+                "name": "new way out"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "First Poppy solo concert in Brazil and South America. \"Bruised Sky\" was on the printed setlist, but wasn’t played.",
+      "url": "https://www.setlist.fm/setlist/poppy/2025/cine-joia-sao-paulo-brazil-134ed919.html"
+    },
+    {
+      "id": "134e6185",
+      "versionId": "g3b677890",
+      "eventDate": "06-11-2025",
+      "lastUpdated": "2025-10-27T15:54:52.852+0000",
+      "artist": {
+        "mbid": "53477174-604a-4405-be1d-39a521bed5c1",
+        "name": "Horse Jumper of Love",
+        "sortName": "Horse Jumper of Love",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/horse-jumper-of-love-bc22dce.html"
+      },
+      "venue": {
+        "id": "5bd04f38",
+        "name": "Bar Alto",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bar-alto-sao-paulo-brazil-5bd04f38.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/horse-jumper-of-love/2025/bar-alto-sao-paulo-brazil-134e6185.html"
+    },
+    {
+      "id": "b4ff156",
+      "versionId": "g3644993",
+      "eventDate": "05-11-2025",
+      "lastUpdated": "2025-11-06T04:47:16.536+0000",
+      "artist": {
+        "mbid": "7179d333-f7b5-498c-88c1-99cdb5af6220",
+        "name": "Thomas Strønen",
+        "sortName": "Strønen, Thomas",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/thomas-stronen-53d35fe9.html"
+      },
+      "venue": {
+        "id": "7bde3634",
+        "name": "SESC 24 de Maio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-24-de-maio-sao-paulo-brazil-7bde3634.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/thomas-stronen/2025/sesc-24-de-maio-sao-paulo-brazil-b4ff156.html"
+    },
+    {
+      "id": "634e56d7",
+      "versionId": "g63645293",
+      "eventDate": "05-11-2025",
+      "lastUpdated": "2025-11-06T00:55:33.325+0000",
+      "artist": {
+        "mbid": "6ca6f49f-41f3-49ae-8403-44d07bc6f564",
+        "name": "Geordie Greep",
+        "sortName": "Greep, Geordie",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/geordie-greep-5bf2cb04.html"
+      },
+      "venue": {
+        "id": "5bd04f38",
+        "name": "Bar Alto",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bar-alto-sao-paulo-brazil-5bd04f38.html"
+      },
+      "tour": {
+        "name": "Latin America 2025"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Walk Up"
+              },
+              {
+                "name": "Terra"
+              },
+              {
+                "name": "The New Sound"
+              },
+              {
+                "name": "Through a War"
+              },
+              {
+                "name": "Blues"
+              },
+              {
+                "name": "Holy, Holy"
+              },
+              {
+                "name": "Bongo Season"
+              },
+              {
+                "name": "As If Waltz"
+              },
+              {
+                "name": "The Magician"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "",
+      "url": "https://www.setlist.fm/setlist/geordie-greep/2025/bar-alto-sao-paulo-brazil-634e56d7.html"
+    },
+    {
+      "id": "3b4e4cfc",
+      "versionId": "gb65e936",
+      "eventDate": "05-11-2025",
+      "lastUpdated": "2025-11-08T16:29:04.967+0000",
+      "artist": {
+        "mbid": "b3adc16a-abdb-4668-9b05-baabbf942db6",
+        "name": "Tash Sultana",
+        "sortName": "Sultana, Tash",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/tash-sultana-3bc4a8f8.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "tour": {
+        "name": "Return to the Roots Latin America"
+      },
+      "sets": {
+        "set": [
+          {
+            "name": "Full Band",
+            "song": [
+              {
+                "name": "Unleash the Rage"
+              },
+              {
+                "name": "I Shot the Sheriff",
+                "cover": {
+                  "mbid": "c9e99d40-4a2c-4ca7-ac5b-e842264ee271",
+                  "name": "The Wailers",
+                  "sortName": "Wailers, The",
+                  "disambiguation": "’60s – ’70s Jamaican reggae band of Wailer, Marley & Tosh",
+                  "url": "https://www.setlist.fm/setlists/the-wailers-7bd6d680.html"
+                }
+              },
+              {
+                "name": "Kiss the Sky"
+              },
+              {
+                "name": "Hazard to Myself"
+              },
+              {
+                "name": "Greed"
+              },
+              {
+                "name": "Nights Over Egypt",
+                "cover": {
+                  "mbid": "2abe50ac-74df-4baf-8928-b90cb9f19f68",
+                  "name": "The Jones Girls",
+                  "sortName": "Jones Girls, The",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/the-jones-girls-7bd6a68c.html"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Solo",
+            "song": [
+              {
+                "name": "Milk & Honey"
+              },
+              {
+                "name": "Mystik"
+              },
+              {
+                "name": "Notion"
+              },
+              {
+                "name": "Jungle"
+              },
+              {
+                "name": "Pink Moon"
+              }
+            ]
+          },
+          {
+            "name": "Full Band",
+            "song": [
+              {
+                "name": "Crop Circles"
+              },
+              {
+                "name": "Ain't It Kinda Funny"
+              },
+              {
+                "name": "Coma"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Blackbird"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/tash-sultana/2025/audio-sao-paulo-brazil-3b4e4cfc.html"
+    },
+    {
+      "id": "334ebc71",
+      "versionId": "g6b79861a",
+      "eventDate": "04-11-2025",
+      "lastUpdated": "2025-10-07T17:21:38.255+0000",
+      "artist": {
+        "mbid": "8b060f17-69f6-48ae-add3-29df62e5eb0d",
+        "name": "Kiko Dinucci",
+        "sortName": "Dinucci, Kiko",
+        "disambiguation": "Brazilian musician",
+        "url": "https://www.setlist.fm/setlists/kiko-dinucci-2bddc4aa.html"
+      },
+      "venue": {
+        "id": "bd1f98e",
+        "name": "Bona Casa de Música",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bona-casa-de-musica-sao-paulo-brazil-bd1f98e.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/kiko-dinucci/2025/bona-casa-de-musica-sao-paulo-brazil-334ebc71.html"
+    },
+    {
+      "id": "2b4f8812",
+      "versionId": "g4b6473ce",
+      "eventDate": "04-11-2025",
+      "lastUpdated": "2025-11-05T02:28:35.019+0000",
+      "artist": {
+        "mbid": "67e97898-3bb5-412a-a51e-95a7b59a1bef",
+        "name": "Ney Matogrosso",
+        "sortName": "Matogrosso, Ney",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/ney-matogrosso-bd62de6.html"
+      },
+      "venue": {
+        "id": "5bd26bb0",
+        "name": "Google",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/google-sao-paulo-brazil-5bd26bb0.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Jardins da Babilônia",
+                "cover": {
+                  "mbid": "3f962bf0-42a0-45a0-830f-07b66301d35f",
+                  "name": "Rita Lee",
+                  "sortName": "Lee, Rita",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/rita-lee-53d6c705.html"
+                }
+              },
+              {
+                "name": "Iolanda (Yolanda)",
+                "cover": {
+                  "mbid": "d7437c1b-08fd-4903-9b3a-ec7be866c38d",
+                  "name": "Pablo Milanés",
+                  "sortName": "Milanés, Pablo",
+                  "disambiguation": "Cuban composer",
+                  "url": "https://www.setlist.fm/setlists/pablo-milanes-2bd660fa.html"
+                }
+              },
+              {
+                "name": "Balada do louco",
+                "cover": {
+                  "mbid": "a3212186-5da5-4e84-a935-6952b3e14921",
+                  "name": "Os Mutantes",
+                  "sortName": "Mutantes, Os",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/os-mutantes-63d62eeb.html"
+                }
+              },
+              {
+                "name": "Na rua, na chuva, na fazenda (Casinha de sapê)",
+                "cover": {
+                  "mbid": "88565ca6-ba92-4c71-898e-ef8ed80266d9",
+                  "name": "Hyldon",
+                  "sortName": "Hyldon",
+                  "disambiguation": "Brazilian musician",
+                  "url": "https://www.setlist.fm/setlists/hyldon-53d4db9d.html"
+                }
+              },
+              {
+                "name": "Sangue latino",
+                "cover": {
+                  "mbid": "6840dcbe-3aca-4057-8d16-4799c3730e3a",
+                  "name": "Secos & Molhados",
+                  "sortName": "Secos & Molhados",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/secos-and-molhados-73d62eed.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Ney Matogrosso presentantion at the Tiny Desk Brasil session, premiered on November 4th, 2025.",
+      "url": "https://www.setlist.fm/setlist/ney-matogrosso/2025/google-sao-paulo-brazil-2b4f8812.html"
+    },
+    {
+      "id": "2b4e4cfa",
+      "versionId": "g2b6460ae",
+      "eventDate": "04-11-2025",
+      "lastUpdated": "2025-11-05T12:59:25.406+0000",
+      "artist": {
+        "mbid": "abc31be8-02b2-4bb1-867d-604d50b7be78",
+        "name": "L’Impératrice",
+        "sortName": "Impératrice, L’",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/limperatrice-43da4b8f.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Intro"
+              },
+              {
+                "name": "Amour ex Machina"
+              },
+              {
+                "name": "La lune"
+              },
+              {
+                "name": "Anomalie bleue"
+              },
+              {
+                "name": "Me da igual"
+              },
+              {
+                "name": "chrysalis"
+              },
+              {
+                "name": "Vacances"
+              },
+              {
+                "name": "Submarine"
+              },
+              {
+                "name": "La piscine",
+                "cover": {
+                  "mbid": "d77339ff-6b50-4bec-ab31-f4667be82180",
+                  "name": "Hypnolove",
+                  "sortName": "Hypnolove",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/hypnolove-1bd70960.html"
+                }
+              },
+              {
+                "name": "Agitations tropicales"
+              },
+              {
+                "name": "Danza Marilù"
+              },
+              {
+                "name": "Sweet & Sublime"
+              },
+              {
+                "name": "Matahari"
+              },
+              {
+                "name": "Aquadanse"
+              },
+              {
+                "name": "Rappel"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Sonate pacifique"
+              },
+              {
+                "name": "Erreur 404"
+              },
+              {
+                "name": "Voodoo?"
+              },
+              {
+                "name": "Aerodynamic",
+                "cover": {
+                  "mbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+                  "name": "Daft Punk",
+                  "sortName": "Daft Punk",
+                  "disambiguation": "French electronic duo",
+                  "url": "https://www.setlist.fm/setlists/daft-punk-bd6d5a2.html"
+                }
+              },
+              {
+                "name": "ENTROPIA"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Second show in Brazil",
+      "url": "https://www.setlist.fm/setlist/limperatrice/2025/audio-sao-paulo-brazil-2b4e4cfa.html"
+    },
+    {
+      "id": "2b4e4cf2",
+      "versionId": "g636742c7",
+      "eventDate": "04-11-2025",
+      "lastUpdated": "2025-10-29T13:32:41.617+0000",
+      "artist": {
+        "mbid": "de642515-2eda-48e6-abe3-ee2d9c81ed53",
+        "name": "PLUMA",
+        "sortName": "PLUMA",
+        "disambiguation": "Brazilian band",
+        "url": "https://www.setlist.fm/setlists/pluma-43fedfef.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/pluma/2025/audio-sao-paulo-brazil-2b4e4cf2.html"
+    },
+    {
+      "id": "734e5ef1",
+      "versionId": "g13676569",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-10-28T04:18:35.345+0000",
+      "artist": {
+        "mbid": "cf919993-9dd9-4700-93d3-0d9ab3dbe694",
+        "name": "Id Est Me",
+        "sortName": "Me, Id Est",
+        "disambiguation": "Brazilian band",
+        "url": "https://www.setlist.fm/setlists/id-est-me-23ee48c7.html"
+      },
+      "venue": {
+        "id": "63d012db",
+        "name": "Depois do Fim do Mundo Estúdio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/depois-do-fim-do-mundo-estudio-sao-paulo-brazil-63d012db.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/id-est-me/2025/depois-do-fim-do-mundo-estudio-sao-paulo-brazil-734e5ef1.html"
+    },
+    {
+      "id": "734e565d",
+      "versionId": "g3675587",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-10-28T20:15:31.623+0000",
+      "artist": {
+        "mbid": "eec043c7-f5fa-4f84-b3b6-3e339f2ed2bb",
+        "name": "A.K.A. Linda Green",
+        "sortName": "A.K.A. Linda Green",
+        "disambiguation": "Cecilia Lindgren",
+        "url": "https://www.setlist.fm/setlists/aka-linda-green-4b952bba.html"
+      },
+      "venue": {
+        "id": "3bd638bc",
+        "name": "Parque do Ibirapuera",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-do-ibirapuera-sao-paulo-brazil-3bd638bc.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/aka-linda-green/2025/parque-do-ibirapuera-sao-paulo-brazil-734e565d.html"
+    },
+    {
+      "id": "6b4e6a5e",
+      "versionId": "g536713c1",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-10-26T23:44:57.862+0000",
+      "artist": {
+        "mbid": "3b6bf2c1-3226-43e8-8c75-2e91e8c05820",
+        "name": "Sturm Café",
+        "sortName": "Sturm Cafe",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/sturm-cafe-73d616dd.html"
+      },
+      "venue": {
+        "id": "5bd72378",
+        "name": "Madame Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/madame-club-sao-paulo-brazil-5bd72378.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/sturm-cafe/2025/madame-club-sao-paulo-brazil-6b4e6a5e.html"
+    },
+    {
+      "id": "634e5ef3",
+      "versionId": "g23643cc3",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-03T00:03:01.814+0000",
+      "artist": {
+        "mbid": "92fbe331-ec9b-4510-92c4-1f1200b2b405",
+        "name": "Bebê Feio",
+        "sortName": "Bebê Feio",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/bebe-feio-33e63809.html"
+      },
+      "venue": {
+        "id": "63d012db",
+        "name": "Depois do Fim do Mundo Estúdio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/depois-do-fim-do-mundo-estudio-sao-paulo-brazil-63d012db.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Bestiário"
+              },
+              {
+                "name": "Tarântula"
+              },
+              {
+                "name": "Abutres"
+              },
+              {
+                "name": "O fio da lâmina"
+              },
+              {
+                "name": "Antimatéria"
+              },
+              {
+                "name": "Toxina da fé"
+              },
+              {
+                "name": "Sono"
+              },
+              {
+                "name": "Tragédia"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/bebe-feio/2025/depois-do-fim-do-mundo-estudio-sao-paulo-brazil-634e5ef3.html"
+    },
+    {
+      "id": "5b43731c",
+      "versionId": "g5b659368",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-07T16:21:07.681+0000",
+      "artist": {
+        "mbid": "8c538f11-c141-4588-8ecb-931083524186",
+        "name": "Bloc Party",
+        "sortName": "Bloc Party",
+        "disambiguation": "English indie rock band",
+        "url": "https://www.setlist.fm/setlists/bloc-party-13d6bdc1.html"
+      },
+      "venue": {
+        "id": "3bd638bc",
+        "name": "Parque do Ibirapuera",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-do-ibirapuera-sao-paulo-brazil-3bd638bc.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "So Here We Are"
+              },
+              {
+                "name": "She's Hearing Voices"
+              },
+              {
+                "name": "Mercury"
+              },
+              {
+                "name": "Hunting for Witches",
+                "info": "by fan request"
+              },
+              {
+                "name": "Song for Clay (Disappear Here)",
+                "info": "Lyrics from \"Spin Spin Sugar\" by Sneaker Pimps used as acustic intro"
+              },
+              {
+                "name": "Banquet"
+              },
+              {
+                "name": "Traps"
+              },
+              {
+                "name": "Different Drugs"
+              },
+              {
+                "name": "Blue"
+              },
+              {
+                "name": "The Love Within"
+              },
+              {
+                "name": "Like Eating Glass"
+              },
+              {
+                "name": "Helicopter"
+              },
+              {
+                "name": "Flux"
+              },
+              {
+                "name": "This Modern Love"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "",
+      "url": "https://www.setlist.fm/setlist/bloc-party/2025/parque-do-ibirapuera-sao-paulo-brazil-5b43731c.html"
+    },
+    {
+      "id": "534fa3b5",
+      "versionId": "g136439f5",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-03T02:29:07.184+0000",
+      "artist": {
+        "mbid": "c9e99d40-4a2c-4ca7-ac5b-e842264ee271",
+        "name": "The Wailers",
+        "sortName": "Wailers, The",
+        "disambiguation": "’60s – ’70s Jamaican reggae band of Wailer, Marley & Tosh",
+        "url": "https://www.setlist.fm/setlists/the-wailers-7bd6d680.html"
+      },
+      "venue": {
+        "id": "3d021cb",
+        "name": "Espaço Unimed",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/espaco-unimed-sao-paulo-brazil-3d021cb.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Lively Up Yourself",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "Stir It Up"
+              },
+              {
+                "name": "So Much Trouble in the World",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "I Shot the Sheriff"
+              },
+              {
+                "name": "Crazy Baldhead",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "Is This Love",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "Who the Cap Fit",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "No Woman, No Cry",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "One Drop",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "Africa Unite",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "Waiting in Vain",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "Iron Lion Zion",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "Three Little Birds",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "One Love"
+              },
+              {
+                "name": "Jamming",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "Get Up, Stand Up",
+                "info": "with guest"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Redemption Song",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "Happy Birthday to You",
+                "cover": {
+                  "mbid": "9be7f096-97ec-4615-8957-8d40b5dcbc41",
+                  "name": "[traditional]",
+                  "sortName": "[traditional]",
+                  "disambiguation": "special purpose artist",
+                  "url": "https://www.setlist.fm/setlists/traditional-5bd2f7e4.html"
+                },
+                "info": "Sung for Carlton Bennett (drummer)"
+              },
+              {
+                "name": "Natural Mystic",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "Evolution"
+              },
+              {
+                "name": "Buffalo Soldier",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              },
+              {
+                "name": "Could You Be Loved",
+                "cover": {
+                  "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                  "name": "Bob Marley & The Wailers",
+                  "sortName": "Marley, Bob & The Wailers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-marley-and-the-wailers-13d6d9f9.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/the-wailers/2025/espaco-unimed-sao-paulo-brazil-534fa3b5.html"
+    },
+    {
+      "id": "53445b79",
+      "versionId": "g4367c33f",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-10-25T17:42:57.758+0000",
+      "artist": {
+        "mbid": "29cb45d6-d339-4ab2-a2e2-40715aa9f3bf",
+        "name": "I Set My Friends on Fire",
+        "sortName": "I Set My Friends on Fire",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/i-set-my-friends-on-fire-13d7e139.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/i-set-my-friends-on-fire/2025/audio-sao-paulo-brazil-53445b79.html"
+    },
+    {
+      "id": "53445795",
+      "versionId": "g2364285b",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-03T16:18:58.379+0000",
+      "artist": {
+        "mbid": "b7dc7c76-53f1-49ac-8dc2-d469ed7f8e65",
+        "name": "Marduk",
+        "sortName": "Marduk",
+        "disambiguation": "Swedish black metal",
+        "url": "https://www.setlist.fm/setlists/marduk-43d6834b.html"
+      },
+      "venue": {
+        "id": "5bd6d340",
+        "name": "Manifesto Bar",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/manifesto-bar-sao-paulo-brazil-5bd6d340.html"
+      },
+      "tour": {
+        "name": "35 Years Anniversary"
+      },
+      "sets": {
+        "set": [
+          {
+            "name": "Panzer Division Marduk",
+            "song": [
+              {
+                "name": "Panzer Division Marduk"
+              },
+              {
+                "name": "Baptism by Fire"
+              },
+              {
+                "name": "Christraping Black Metal"
+              },
+              {
+                "name": "Scorched Earth"
+              },
+              {
+                "name": "Beast of Prey"
+              },
+              {
+                "name": "Blooddawn"
+              },
+              {
+                "name": "502"
+              },
+              {
+                "name": "Fistfucking God's Planet"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "song": [
+              {
+                "name": "Those of the Unlight"
+              },
+              {
+                "name": "With Satan and Victorious Weapons"
+              },
+              {
+                "name": "Shovel Beats Sceptre"
+              },
+              {
+                "name": "Slay the Nazarene"
+              },
+              {
+                "name": "The Black..."
+              },
+              {
+                "name": "The Blond Beast"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/marduk/2025/manifesto-bar-sao-paulo-brazil-53445795.html"
+    },
+    {
+      "id": "53437311",
+      "versionId": "g5365d745",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-09T05:01:12.455+0000",
+      "artist": {
+        "mbid": "45de883b-cfb6-42c0-bb9a-cfb86e27a18f",
+        "name": "Otoboke Beaver",
+        "sortName": "Otoboke Beaver",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/otoboke-beaver-63c0f6cf.html"
+      },
+      "venue": {
+        "id": "3bd638bc",
+        "name": "Parque do Ibirapuera",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-do-ibirapuera-sao-paulo-brazil-3bd638bc.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Yakitori"
+              },
+              {
+                "name": "Akimahenka"
+              },
+              {
+                "name": "Don't light my fire"
+              },
+              {
+                "name": "Bad luck"
+              },
+              {
+                "name": "S'il vous plait"
+              },
+              {
+                "name": "Love Is Short"
+              },
+              {
+                "name": "What do you mean you have talk to me at this late date?"
+              },
+              {
+                "name": "6 day working week is a pain"
+              },
+              {
+                "name": "Datsu . Hikage no onna"
+              },
+              {
+                "name": "Dirty old fart is waiting for my reaction"
+              },
+              {
+                "name": "I am not maternal"
+              },
+              {
+                "name": "Don't call me Mojo"
+              },
+              {
+                "name": "I put my love to you in a song JASRAC"
+              },
+              {
+                "name": "PARDON?"
+              },
+              {
+                "name": "Don't enter my strike zone"
+              },
+              {
+                "name": "I won't dish out salads"
+              },
+              {
+                "name": "Leave me alone! No, stay with me!"
+              },
+              {
+                "name": "I don't want to die alone"
+              },
+              {
+                "name": "Na Na Na Arigato Ha?"
+              },
+              {
+                "name": "Anata Watashi Daita Ato Yome No Meshi"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "",
+      "url": "https://www.setlist.fm/setlist/otoboke-beaver/2025/parque-do-ibirapuera-sao-paulo-brazil-53437311.html"
+    },
+    {
+      "id": "4b4fa3b6",
+      "versionId": "g3b643c2c",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-02T23:42:42.034+0000",
+      "artist": {
+        "mbid": "df2c2780-1ec2-4388-9d89-c7daf8013f2f",
+        "name": "Ponto de Equilíbrio",
+        "sortName": "Ponto de Equilíbrio",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/ponto-de-equilibrio-5bd737fc.html"
+      },
+      "venue": {
+        "id": "3d021cb",
+        "name": "Espaço Unimed",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/espaco-unimed-sao-paulo-brazil-3d021cb.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": ""
+              },
+              {
+                "name": "Só quero o que é meu"
+              },
+              {
+                "name": "Hipócritas"
+              },
+              {
+                "name": "Santa kaya"
+              },
+              {
+                "name": "Novo dia"
+              },
+              {
+                "name": "Estar com você"
+              },
+              {
+                "name": "Mais Amor"
+              },
+              {
+                "name": "Ponto de Equilíbrio"
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": "Aonde Você Vai Chegar Assim (Coisa Feia)"
+              },
+              {
+                "name": "Malandragem às Avessas"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/ponto-de-equilibrio/2025/espaco-unimed-sao-paulo-brazil-4b4fa3b6.html"
+    }
+  ]
+}

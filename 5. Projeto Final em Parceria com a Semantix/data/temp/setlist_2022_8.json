@@ -1,0 +1,1777 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 8,
+  "total": 1994,
+  "setlist": [
+    {
+      "id": "73bf7669",
+      "versionId": "g3814dab",
+      "eventDate": "04-12-2022",
+      "lastUpdated": "2023-11-11T16:32:53.625+0000",
+      "artist": {
+        "mbid": "8c51b06d-b678-4bbf-aeac-7295dfb69d13",
+        "name": "Watain",
+        "sortName": "Watain",
+        "disambiguation": "Swedish black metal band",
+        "url": "https://www.setlist.fm/setlists/watain-4bd683e6.html"
+      },
+      "venue": {
+        "id": "73d29ac9",
+        "name": "Fabrique Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fabrique-club-sao-paulo-brazil-73d29ac9.html"
+      },
+      "tour": {
+        "name": "Agony & Ecstasy Tour 2022"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Ecstasies in Night Infinite"
+              },
+              {
+                "name": "Black Flames March"
+              },
+              {
+                "name": "The Howling"
+              },
+              {
+                "name": "I Am the Earth"
+              },
+              {
+                "name": "Reaping Death"
+              },
+              {
+                "name": "Devil's Blood"
+              },
+              {
+                "name": "Serimosa"
+              },
+              {
+                "name": "",
+                "tape": true,
+                "info": "Not Sun nor Man nor God"
+              },
+              {
+                "name": "Before the Cataclysm"
+              },
+              {
+                "name": "Nuclear Alchemy"
+              },
+              {
+                "name": "Malfeitor"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/watain/2022/fabrique-club-sao-paulo-brazil-73bf7669.html"
+    },
+    {
+      "id": "6bbf6ec6",
+      "versionId": "g39b1937",
+      "eventDate": "04-12-2022",
+      "lastUpdated": "2023-08-22T09:47:53.431+0000",
+      "artist": {
+        "mbid": "c1a669b9-30f4-4171-a2a9-a15d9461ca04",
+        "name": "Titãs",
+        "sortName": "Titãs",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/titas-63d6d233.html"
+      },
+      "venue": {
+        "id": "23d038af",
+        "name": "Tokio Marine Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/tokio-marine-hall-sao-paulo-brazil-23d038af.html"
+      },
+      "tour": {
+        "name": "Olho Furta-Cor"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Apocalipse só"
+              },
+              {
+                "name": "Desordem"
+              },
+              {
+                "name": "Caos"
+              },
+              {
+                "name": "Televisão"
+              },
+              {
+                "name": "Cabeça dinossauro"
+              },
+              {
+                "name": "Epitáfio"
+              },
+              {
+                "name": "Pra dizer adeus"
+              },
+              {
+                "name": "Isso"
+              },
+              {
+                "name": "Enquanto houver sol"
+              },
+              {
+                "name": "Go Back"
+              },
+              {
+                "name": "Marvin"
+              },
+              {
+                "name": "Sonífera ilha"
+              },
+              {
+                "name": "Flores"
+              },
+              {
+                "name": "Homem primata"
+              },
+              {
+                "name": "Bichos escrotos"
+              },
+              {
+                "name": "AA UU"
+              },
+              {
+                "name": "Pra dizer adeus"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/titas/2022/tokio-marine-hall-sao-paulo-brazil-6bbf6ec6.html"
+    },
+    {
+      "id": "6bbf6eba",
+      "versionId": "g3be294e8",
+      "eventDate": "04-12-2022",
+      "lastUpdated": "2022-12-04T11:22:32.820+0000",
+      "artist": {
+        "mbid": "2d442d7e-5d17-4a47-99d7-e4e1717af8b8",
+        "name": "Supla",
+        "sortName": "Supla",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/supla-43d7e7fb.html"
+      },
+      "venue": {
+        "id": "23d038af",
+        "name": "Tokio Marine Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/tokio-marine-hall-sao-paulo-brazil-23d038af.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/supla/2022/tokio-marine-hall-sao-paulo-brazil-6bbf6eba.html"
+    },
+    {
+      "id": "6bbc1ac2",
+      "versionId": "gbe0a542",
+      "eventDate": "04-12-2022",
+      "lastUpdated": "2022-12-31T18:16:39.213+0000",
+      "artist": {
+        "mbid": "b7be8029-5ebe-4e4b-bc0c-a4d4756463c7",
+        "name": "Fantastic Negrito",
+        "sortName": "Fantastic Negrito",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/fantastic-negrito-5bdb47f0.html"
+      },
+      "venue": {
+        "id": "2bd24026",
+        "name": "Blue Note São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/blue-note-sao-paulo-sao-paulo-brazil-2bd24026.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/fantastic-negrito/2022/blue-note-sao-paulo-sao-paulo-brazil-6bbc1ac2.html"
+    },
+    {
+      "id": "53bf03c1",
+      "versionId": "g2be280aa",
+      "eventDate": "04-12-2022",
+      "lastUpdated": "2022-12-05T11:58:55.141+0000",
+      "artist": {
+        "mbid": "18e9bfd5-db23-4bc1-be0f-5710e5d656e4",
+        "name": "Exodus",
+        "sortName": "Exodus",
+        "disambiguation": "American thrash metal band",
+        "url": "https://www.setlist.fm/setlists/exodus-7bd68e94.html"
+      },
+      "venue": {
+        "id": "73d6daed",
+        "name": "Carioca Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/carioca-club-sao-paulo-brazil-73d6daed.html"
+      },
+      "tour": {
+        "name": "The Beatings Will Continue... Tour"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "We Will Rock You",
+                "tape": true,
+                "cover": {
+                  "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name": "Queen",
+                  "sortName": "Queen",
+                  "disambiguation": "UK rock group",
+                  "url": "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+                }
+              },
+              {
+                "name": "The Beatings Will Continue (Until Morale Improves)"
+              },
+              {
+                "name": "A Lesson in Violence"
+              },
+              {
+                "name": "Blood In, Blood Out"
+              },
+              {
+                "name": "And Then There Were None"
+              },
+              {
+                "name": "Body Harvest"
+              },
+              {
+                "name": "The Years of Death and Dying"
+              },
+              {
+                "name": "Deathamphetamine"
+              },
+              {
+                "name": "Blacklist"
+              },
+              {
+                "name": "Piranha"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Prescribing Horror"
+              },
+              {
+                "name": "Bonded by Blood"
+              },
+              {
+                "name": "The Toxic Waltz",
+                "info": "with Raining Blood Intro"
+              },
+              {
+                "name": "Strike of the Beast"
+              }
+            ]
+          },
+          {
+            "encore": 2,
+            "song": [
+              {
+                "name": "War Is My Shepherd"
+              },
+              {
+                "name": "Metal Command"
+              },
+              {
+                "name": "We Are the Champions",
+                "tape": true,
+                "cover": {
+                  "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name": "Queen",
+                  "sortName": "Queen",
+                  "disambiguation": "UK rock group",
+                  "url": "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/exodus/2022/carioca-club-sao-paulo-brazil-53bf03c1.html"
+    },
+    {
+      "id": "3bf6d37",
+      "versionId": "g1be29dac",
+      "eventDate": "04-12-2022",
+      "lastUpdated": "2022-12-04T02:07:01.303+0000",
+      "artist": {
+        "mbid": "2f49af32-c4c1-4577-a217-1b5f777c98de",
+        "name": "Fancy Inc",
+        "sortName": "Fancy Inc",
+        "disambiguation": "house music producers",
+        "url": "https://www.setlist.fm/setlists/fancy-inc-bc1952a.html"
+      },
+      "venue": {
+        "id": "3d021cb",
+        "name": "Espaço Unimed",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/espaco-unimed-sao-paulo-brazil-3d021cb.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/fancy-inc/2022/espaco-unimed-sao-paulo-brazil-3bf6d37.html"
+    },
+    {
+      "id": "3bf657f",
+      "versionId": "g33e28865",
+      "eventDate": "04-12-2022",
+      "lastUpdated": "2022-12-05T01:03:41.395+0000",
+      "artist": {
+        "mbid": "de25f861-7578-49b2-b646-31d2c561d5ed",
+        "name": "IZA",
+        "sortName": "IZA",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/iza-23c1c4cf.html"
+      },
+      "venue": {
+        "id": "53d60b41",
+        "name": "Memorial da América Latina",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/memorial-da-america-latina-sao-paulo-brazil-53d60b41.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Gueto"
+              },
+              {
+                "name": "Ginga",
+                "info": "Contains elements of “Andar com fé” by Gilberto Gil"
+              },
+              {
+                "name": "Linha de frente"
+              },
+              {
+                "name": "Boa noite",
+                "info": "Greeting song"
+              },
+              {
+                "name": "Esse brilho é meu"
+              },
+              {
+                "name": "Te pegar"
+              },
+              {
+                "name": "Quem mandou chamar",
+                "cover": {
+                  "mbid": "b2152f2d-c2c6-46fa-b3cf-44055c2c86af",
+                  "name": "Tropkillaz",
+                  "sortName": "Tropkillaz",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/tropkillaz-23da78cf.html"
+                }
+              },
+              {
+                "name": "Evapora"
+              },
+              {
+                "name": "Linha de frente / Ginga",
+                "tape": true,
+                "info": "Dance break"
+              },
+              {
+                "name": "Mole"
+              },
+              {
+                "name": "Band Jam",
+                "tape": true
+              },
+              {
+                "name": "Meu talismã"
+              },
+              {
+                "name": "Mó paz"
+              },
+              {
+                "name": "Droga"
+              },
+              {
+                "name": "Sem filtro"
+              },
+              {
+                "name": "Fé"
+              },
+              {
+                "name": "Dona de mim"
+              },
+              {
+                "name": "Pesadão"
+              },
+              {
+                "name": "Brisa"
+              },
+              {
+                "name": "Pesadão",
+                "tape": true,
+                "info": "Remix outro"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/iza/2022/memorial-da-america-latina-sao-paulo-brazil-3bf657f.html"
+    },
+    {
+      "id": "3bbf6464",
+      "versionId": "g2b56c89e",
+      "eventDate": "04-12-2022",
+      "lastUpdated": "2024-10-08T20:02:28.603+0000",
+      "artist": {
+        "mbid": "93eb7110-0bc9-4d3f-816b-4b52ef982ec8",
+        "name": "Metronomy",
+        "sortName": "Metronomy",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/metronomy-63d6de7b.html"
+      },
+      "venue": {
+        "id": "23de9453",
+        "name": "Cine Joia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cine-joia-sao-paulo-brazil-23de9453.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Love Factory"
+              },
+              {
+                "name": "The Bay"
+              },
+              {
+                "name": "Corinne"
+              },
+              {
+                "name": "Reservoir"
+              },
+              {
+                "name": "It's Good to Be Back"
+              },
+              {
+                "name": "Everything Goes My Way"
+              },
+              {
+                "name": "Things Will Be Fine"
+              },
+              {
+                "name": "The Light"
+              },
+              {
+                "name": "Boy Racers"
+              },
+              {
+                "name": "The End of You Too"
+              },
+              {
+                "name": "Holiday"
+              },
+              {
+                "name": "Insecurity"
+              },
+              {
+                "name": "Loneliness on the Run"
+              },
+              {
+                "name": "Salted Caramel Ice Cream"
+              },
+              {
+                "name": "Right On Time"
+              },
+              {
+                "name": "The Look"
+              },
+              {
+                "name": "The Upsetter"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Old Skool"
+              },
+              {
+                "name": "Back on the Motorway"
+              },
+              {
+                "name": "Love Letters"
+              },
+              {
+                "name": "You Could Easily Have Me"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/metronomy/2022/cine-joia-sao-paulo-brazil-3bbf6464.html"
+    },
+    {
+      "id": "2bbb101a",
+      "versionId": "g1beb7144",
+      "eventDate": "04-12-2022",
+      "lastUpdated": "2023-03-30T12:32:04.341+0000",
+      "artist": {
+        "mbid": "8e8f9c82-ca4e-48b1-8f30-4b62eb689050",
+        "name": "Skinner Project",
+        "sortName": "Skinner Project",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/skinner-project-1bfbc9b0.html"
+      },
+      "venue": {
+        "id": "53d05bf9",
+        "name": "Red Star Studios",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/red-star-studios-sao-paulo-brazil-53d05bf9.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Phantom Pain"
+              },
+              {
+                "name": "Fields of June"
+              },
+              {
+                "name": "A Broken Window"
+              },
+              {
+                "name": "In My Exile"
+              },
+              {
+                "name": "To Earth With Love"
+              },
+              {
+                "name": "The Missing Song"
+              },
+              {
+                "name": "Mental Dialogue"
+              },
+              {
+                "name": "Under the Water"
+              },
+              {
+                "name": "Behavior"
+              },
+              {
+                "name": "Danger"
+              },
+              {
+                "name": "Instafame"
+              },
+              {
+                "name": "Celebration"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/skinner-project/2022/red-star-studios-sao-paulo-brazil-2bbb101a.html"
+    },
+    {
+      "id": "1bbf65a0",
+      "versionId": "g43e28bb3",
+      "eventDate": "04-12-2022",
+      "lastUpdated": "2022-12-05T02:11:50.509+0000",
+      "artist": {
+        "mbid": "8f2dbc82-6dea-4432-88c7-afc9e9efc44c",
+        "name": "Torture Squad",
+        "sortName": "Torture Squad",
+        "disambiguation": "Brazilian thrash/death metal",
+        "url": "https://www.setlist.fm/setlists/torture-squad-63d712eb.html"
+      },
+      "venue": {
+        "id": "73d6daed",
+        "name": "Carioca Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/carioca-club-sao-paulo-brazil-73d6daed.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/torture-squad/2022/carioca-club-sao-paulo-brazil-1bbf65a0.html"
+    },
+    {
+      "id": "13bbc145",
+      "versionId": "g6b741aaa",
+      "eventDate": "04-12-2022",
+      "lastUpdated": "2025-07-02T19:53:29.291+0000",
+      "artist": {
+        "mbid": "3b5bc4eb-d60e-406c-a5e4-f08197d4c9de",
+        "name": "Crypta",
+        "sortName": "Crypta",
+        "disambiguation": "Brazilian death metal fourpiece",
+        "url": "https://www.setlist.fm/setlists/crypta-43f217eb.html"
+      },
+      "venue": {
+        "id": "73d0ae35",
+        "name": "Centro Cultural da Juventude Ruth Cardoso",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-cultural-da-juventude-ruth-cardoso-sao-paulo-brazil-73d0ae35.html"
+      },
+      "tour": {
+        "name": "Echoes Over Latin America Tour 2022"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Blood Stained Heritage"
+              },
+              {
+                "name": "From the Ashes"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Setlist incomplete",
+      "url": "https://www.setlist.fm/setlist/crypta/2022/centro-cultural-da-juventude-ruth-cardoso-sao-paulo-brazil-13bbc145.html"
+    },
+    {
+      "id": "13a6d12d",
+      "versionId": "gb938d62",
+      "eventDate": "04-12-2022",
+      "lastUpdated": "2023-06-10T21:39:00.243+0000",
+      "artist": {
+        "mbid": "feb5a528-e781-4454-bc40-54607f59feec",
+        "name": "Kaê Guajajara",
+        "sortName": "Guajajara, Kaê",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/kae-guajajara-33f17885.html"
+      },
+      "venue": {
+        "id": "53d60b41",
+        "name": "Memorial da América Latina",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/memorial-da-america-latina-sao-paulo-brazil-53d60b41.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/kae-guajajara/2022/memorial-da-america-latina-sao-paulo-brazil-13a6d12d.html"
+    },
+    {
+      "id": "7bbf029c",
+      "versionId": "g7be29660",
+      "eventDate": "03-12-2022",
+      "lastUpdated": "2022-12-04T13:40:51.636+0000",
+      "artist": {
+        "mbid": "3ef9936f-9f5a-45f8-a80d-73684e4f2ef2",
+        "name": "Silva",
+        "sortName": "Silva",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/silva-43d3db0f.html"
+      },
+      "venue": {
+        "id": "3bd638bc",
+        "name": "Parque do Ibirapuera",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-do-ibirapuera-sao-paulo-brazil-3bd638bc.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "A cor é rosa"
+              },
+              {
+                "name": "Me abraça",
+                "cover": {
+                  "mbid": "38e2bd6c-c8f0-4e63-ae1e-ccbd2e085772",
+                  "name": "Banda Eva",
+                  "sortName": "Banda Eva",
+                  "disambiguation": "Brazilian axé/samba-reggae band",
+                  "url": "https://www.setlist.fm/setlists/banda-eva-73d62ee1.html"
+                }
+              },
+              {
+                "name": "Araketu bom demais",
+                "cover": {
+                  "mbid": "126d22ae-77a0-431c-976e-199501eb5e42",
+                  "name": "Ara Ketu",
+                  "sortName": "Ara Ketu",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ara-ketu-73d70ed9.html"
+                }
+              },
+              {
+                "name": "Você não entende nada",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Não enche",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Toda menina baiana",
+                "cover": {
+                  "mbid": "cf6b70f6-2616-481c-912c-0263cabfc974",
+                  "name": "Gilberto Gil",
+                  "sortName": "Gil, Gilberto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gilberto-gil-3d6e18f.html"
+                }
+              },
+              {
+                "name": "Um pôr do sol na praia"
+              },
+              {
+                "name": "Farol das estrelas"
+              },
+              {
+                "name": "Duas da tarde"
+              },
+              {
+                "name": "Mal acostumado",
+                "cover": {
+                  "mbid": "126d22ae-77a0-431c-976e-199501eb5e42",
+                  "name": "Ara Ketu",
+                  "sortName": "Ara Ketu",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ara-ketu-73d70ed9.html"
+                }
+              },
+              {
+                "name": "Sozinho",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Uma brasileira",
+                "cover": {
+                  "mbid": "f197a8df-ac2b-4e78-9913-4abf13741f12",
+                  "name": "Os Paralamas do Sucesso",
+                  "sortName": "Paralamas do Sucesso, Os",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/os-paralamas-do-sucesso-43d6c7ef.html"
+                }
+              },
+              {
+                "name": "Tão seu",
+                "cover": {
+                  "mbid": "25db5fde-2384-4baf-8e3d-d8299b4c99ef",
+                  "name": "Skank",
+                  "sortName": "Skank",
+                  "disambiguation": "Brazilian band",
+                  "url": "https://www.setlist.fm/setlists/skank-73d6d23d.html"
+                }
+              },
+              {
+                "name": "Vem meu amor",
+                "cover": {
+                  "mbid": "6171965e-3875-4101-bf19-688e1317d90d",
+                  "name": "Olodum",
+                  "sortName": "Olodum",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/olodum-73d70661.html"
+                }
+              },
+              {
+                "name": "Odara",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "João e maria",
+                "tape": true,
+                "info": "band intermission"
+              },
+              {
+                "name": "Nobre vagabundo",
+                "cover": {
+                  "mbid": "2cf241c0-0d6e-472c-be49-d7691a7aec61",
+                  "name": "Daniela Mercury",
+                  "sortName": "Mercury, Daniela",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/daniela-mercury-13d78155.html"
+                }
+              },
+              {
+                "name": "Fica tudo bem"
+              },
+              {
+                "name": "A luz de tieta",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Nossa gente (avisa lá)",
+                "cover": {
+                  "mbid": "6171965e-3875-4101-bf19-688e1317d90d",
+                  "name": "Olodum",
+                  "sortName": "Olodum",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/olodum-73d70661.html"
+                }
+              },
+              {
+                "name": "Deusa do amor",
+                "cover": {
+                  "mbid": "6171965e-3875-4101-bf19-688e1317d90d",
+                  "name": "Olodum",
+                  "sortName": "Olodum",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/olodum-73d70661.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/silva/2022/parque-do-ibirapuera-sao-paulo-brazil-7bbf029c.html"
+    },
+    {
+      "id": "6bbf6e02",
+      "versionId": "g1ba74990",
+      "eventDate": "03-12-2022",
+      "lastUpdated": "2024-06-25T14:34:36.305+0000",
+      "artist": {
+        "mbid": "9665a711-de65-4d95-a8cf-06076a4f9815",
+        "name": "Agrotóxico",
+        "sortName": "Agrotóxico",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/agrotoxico-3d7457b.html"
+      },
+      "venue": {
+        "id": "3bd63414",
+        "name": "Hangar 110",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/hangar-110-sao-paulo-brazil-3bd63414.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": ""
+              },
+              {
+                "name": "Fim do mundo"
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": "Vozes da Periferia"
+              },
+              {
+                "name": ""
+              }
+            ]
+          }
+        ]
+      },
+      "info": "setlist incompleto",
+      "url": "https://www.setlist.fm/setlist/agrotoxico/2022/hangar-110-sao-paulo-brazil-6bbf6e02.html"
+    },
+    {
+      "id": "6bbf029e",
+      "versionId": "g53e297a9",
+      "eventDate": "03-12-2022",
+      "lastUpdated": "2022-12-04T13:19:00.243+0000",
+      "artist": {
+        "mbid": "6797c795-08b4-4da2-a4d8-95a554c2a91c",
+        "name": "Jão",
+        "sortName": "Jão",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/jao-73cdd649.html"
+      },
+      "venue": {
+        "id": "3bd638bc",
+        "name": "Parque do Ibirapuera",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-do-ibirapuera-sao-paulo-brazil-3bd638bc.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Santo"
+              },
+              {
+                "name": "Vou morrer sozinho"
+              },
+              {
+                "name": "AMOR PIRATA"
+              },
+              {
+                "name": "Me beija com raiva"
+              },
+              {
+                "name": "Essa eu fiz pro nosso amor"
+              },
+              {
+                "name": "Exagerado",
+                "cover": {
+                  "mbid": "e554daf4-4ad0-438f-a7f9-832519451fd2",
+                  "name": "Cazuza",
+                  "sortName": "Cazuza",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/cazuza-43d6c707.html"
+                }
+              },
+              {
+                "name": "Ainda te amo"
+              },
+              {
+                "name": "Não te amo"
+              },
+              {
+                "name": "A rua"
+              },
+              {
+                "name": "A boba fui eu",
+                "cover": {
+                  "mbid": "cf71e106-1003-4390-8477-cf268229df66",
+                  "name": "LUDMILLA",
+                  "sortName": "LUDMILLA",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/ludmilla-4bd9b3c2.html"
+                }
+              },
+              {
+                "name": "Respect",
+                "tape": true,
+                "cover": {
+                  "mbid": "2f9ecbed-27be-40e6-abca-6de49d50299e",
+                  "name": "Aretha Franklin",
+                  "sortName": "Franklin, Aretha",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/aretha-franklin-13d6b9a1.html"
+                },
+                "info": "backing vocals performance"
+              },
+              {
+                "name": "VSF",
+                "info": "stripped"
+              },
+              {
+                "name": "Imaturo",
+                "info": "stripped"
+              },
+              {
+                "name": "CORINGA"
+              },
+              {
+                "name": "Trem das onze",
+                "cover": {
+                  "mbid": "b3cf1138-7300-4c6a-9f5d-79457848499b",
+                  "name": "Adoniran Barbosa",
+                  "sortName": "Barbosa, Adoniran",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/adoniran-barbosa-33d788ed.html"
+                }
+              },
+              {
+                "name": "Meninos e meninas"
+              },
+              {
+                "name": "Acontece",
+                "info": "audience request"
+              },
+              {
+                "name": "Idiota"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/jao/2022/parque-do-ibirapuera-sao-paulo-brazil-6bbf029e.html"
+    },
+    {
+      "id": "6bbcbeda",
+      "versionId": "g6be22e9e",
+      "eventDate": "03-12-2022",
+      "lastUpdated": "2022-12-09T12:16:18.293+0000",
+      "artist": {
+        "mbid": "6733a849-0e99-4a82-85ec-dc99b21f5474",
+        "name": "Terno Rei",
+        "sortName": "Terno Rei",
+        "disambiguation": "Brazilian alt rock band from São Paulo",
+        "url": "https://www.setlist.fm/setlists/terno-rei-43cf6f2b.html"
+      },
+      "venue": {
+        "id": "3bd5d0d4",
+        "name": "Cultura Livre",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cultura-livre-sao-paulo-brazil-3bd5d0d4.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Esperando você"
+              },
+              {
+                "name": "Brutal"
+              },
+              {
+                "name": "Internet"
+              },
+              {
+                "name": "Dias da juventude"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/terno-rei/2022/cultura-livre-sao-paulo-brazil-6bbcbeda.html"
+    },
+    {
+      "id": "63bf728b",
+      "versionId": "g7b710e70",
+      "eventDate": "03-12-2022",
+      "lastUpdated": "2025-08-09T20:54:08.426+0000",
+      "artist": {
+        "mbid": "5e2c3b33-b734-41ba-ac71-2148338840f6",
+        "name": "Zé Ramalho",
+        "sortName": "Ramalho, Zé",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/ze-ramalho-43d7ab07.html"
+      },
+      "venue": {
+        "id": "23d038af",
+        "name": "Tokio Marine Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/tokio-marine-hall-sao-paulo-brazil-23d038af.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "O que é o que é?",
+                "cover": {
+                  "mbid": "7169b325-505c-4daf-aa90-d3a84c112bc7",
+                  "name": "Gonzaguinha",
+                  "sortName": "Gonzaguinha",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gonzaguinha-1bd711f8.html"
+                }
+              },
+              {
+                "name": "Tá tudo mudando (Things Have Changed)",
+                "cover": {
+                  "mbid": "72c536dc-7137-4477-a521-567eeb840fa8",
+                  "name": "Bob Dylan",
+                  "sortName": "Dylan, Bob",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bob-dylan-1bd6adb8.html"
+                }
+              },
+              {
+                "name": "Kryptônia"
+              },
+              {
+                "name": "Beira-mar"
+              },
+              {
+                "name": "Entre a serpente e a estrela"
+              },
+              {
+                "name": "Táxi lunar"
+              },
+              {
+                "name": "A terceira lâmina"
+              },
+              {
+                "name": "Banquete de signos"
+              },
+              {
+                "name": "Eternas ondas"
+              },
+              {
+                "name": "Avôhai"
+              },
+              {
+                "name": "Vila do sossego"
+              },
+              {
+                "name": "Chão de giz"
+              },
+              {
+                "name": "Garoto de aluguel (Taxi Boy)"
+              },
+              {
+                "name": "Admirável gado novo"
+              },
+              {
+                "name": "Gîtâ",
+                "cover": {
+                  "mbid": "c4efd92a-5692-41d5-91bb-b23d4b75e735",
+                  "name": "Raul Seixas",
+                  "sortName": "Seixas, Raul",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/raul-seixas-6bd6d23e.html"
+                }
+              },
+              {
+                "name": "Medo da chuva",
+                "cover": {
+                  "mbid": "c4efd92a-5692-41d5-91bb-b23d4b75e735",
+                  "name": "Raul Seixas",
+                  "sortName": "Seixas, Raul",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/raul-seixas-6bd6d23e.html"
+                }
+              },
+              {
+                "name": "Frevo mulher"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Sinônimos"
+              },
+              {
+                "name": "A vida do viajante",
+                "cover": {
+                  "mbid": "712fcc0f-25f5-45bf-bbb8-2601872d08e1",
+                  "name": "Luiz Gonzaga",
+                  "sortName": "Gonzaga, Luiz",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/luiz-gonzaga-3bd6ccdc.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/ze-ramalho/2022/tokio-marine-hall-sao-paulo-brazil-63bf728b.html"
+    },
+    {
+      "id": "63bf6e87",
+      "versionId": "g7b701ab8",
+      "eventDate": "03-12-2022",
+      "lastUpdated": "2025-08-01T14:35:07.606+0000",
+      "artist": {
+        "mbid": "899a40e7-eb76-4fd3-be31-02e92f7f1e36",
+        "name": "Pitty & Nando Reis",
+        "sortName": "Pitty & Reis, Nando",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pitty-and-nando-reis-43e77353.html"
+      },
+      "venue": {
+        "id": "43d01ba3",
+        "name": "Vibra São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/vibra-sao-paulo-sao-paulo-brazil-43d01ba3.html"
+      },
+      "tour": {
+        "name": "As Suas, as Minhas e as Nossas"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "PITTYNANDO",
+                "tape": true
+              },
+              {
+                "name": "Os cegos do castelo",
+                "cover": {
+                  "mbid": "c1a669b9-30f4-4171-a2a9-a15d9461ca04",
+                  "name": "Titãs",
+                  "sortName": "Titãs",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/titas-63d6d233.html"
+                }
+              },
+              {
+                "name": "Admirável chip novo / Do seu lado"
+              },
+              {
+                "name": "Memórias / Me diga"
+              },
+              {
+                "name": "Sou dela / Semana que vem"
+              },
+              {
+                "name": "Os cegos do castelo",
+                "cover": {
+                  "mbid": "c1a669b9-30f4-4171-a2a9-a15d9461ca04",
+                  "name": "Titãs",
+                  "sortName": "Titãs",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/titas-63d6d233.html"
+                }
+              },
+              {
+                "name": "Na sua estante",
+                "cover": {
+                  "mbid": "ce1509b1-fc1a-4b0a-aeb3-36cbf9cc11fb",
+                  "name": "Pitty",
+                  "sortName": "Pitty",
+                  "disambiguation": "Brazilian rock singer",
+                  "url": "https://www.setlist.fm/setlists/pitty-4bdcc3a2.html"
+                }
+              },
+              {
+                "name": "All Star / Temporal"
+              },
+              {
+                "name": "Por onde andei / Equalize"
+              },
+              {
+                "name": "Resposta",
+                "cover": {
+                  "mbid": "25db5fde-2384-4baf-8e3d-d8299b4c99ef",
+                  "name": "Skank",
+                  "sortName": "Skank",
+                  "disambiguation": "Brazilian band",
+                  "url": "https://www.setlist.fm/setlists/skank-73d6d23d.html"
+                }
+              },
+              {
+                "name": "Déjà vu",
+                "cover": {
+                  "mbid": "ce1509b1-fc1a-4b0a-aeb3-36cbf9cc11fb",
+                  "name": "Pitty",
+                  "sortName": "Pitty",
+                  "disambiguation": "Brazilian rock singer",
+                  "url": "https://www.setlist.fm/setlists/pitty-4bdcc3a2.html"
+                }
+              },
+              {
+                "name": "Luz dos olhos / Teto de vidro"
+              },
+              {
+                "name": "Relicário",
+                "cover": {
+                  "mbid": "cda86e8a-a26a-4b3a-959c-bc9f8a88a1c1",
+                  "name": "Nando Reis",
+                  "sortName": "Reis, Nando",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/nando-reis-5bd6c7ec.html"
+                }
+              },
+              {
+                "name": "Me adora",
+                "cover": {
+                  "mbid": "ce1509b1-fc1a-4b0a-aeb3-36cbf9cc11fb",
+                  "name": "Pitty",
+                  "sortName": "Pitty",
+                  "disambiguation": "Brazilian rock singer",
+                  "url": "https://www.setlist.fm/setlists/pitty-4bdcc3a2.html"
+                }
+              },
+              {
+                "name": "Máscara / Não vou me adaptar"
+              },
+              {
+                "name": "O segundo sol",
+                "cover": {
+                  "mbid": "cda86e8a-a26a-4b3a-959c-bc9f8a88a1c1",
+                  "name": "Nando Reis",
+                  "sortName": "Reis, Nando",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/nando-reis-5bd6c7ec.html"
+                }
+              },
+              {
+                "name": "Mantra / Serpente"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Recorded for release as a live album and DVD in 2023",
+      "url": "https://www.setlist.fm/setlist/pitty-and-nando-reis/2022/vibra-sao-paulo-sao-paulo-brazil-63bf6e87.html"
+    },
+    {
+      "id": "63bf029f",
+      "versionId": "g53b40791",
+      "eventDate": "03-12-2022",
+      "lastUpdated": "2024-02-21T10:23:57.261+0000",
+      "artist": {
+        "mbid": "ed667cac-2fdb-4401-973b-81c5b4a1717d",
+        "name": "Luísa Sonza",
+        "sortName": "Luísa Sonza",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/luisa-sonza-7bcad274.html"
+      },
+      "venue": {
+        "id": "3bd638bc",
+        "name": "Parque do Ibirapuera",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-do-ibirapuera-sao-paulo-brazil-3bd638bc.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "INTERE$$EIRA"
+              },
+              {
+                "name": "VIP *-*"
+              },
+              {
+                "name": "TOMA"
+              },
+              {
+                "name": "Boa menina"
+              },
+              {
+                "name": "MULHER DO ANO XD"
+              },
+              {
+                "name": "INTERlude :(",
+                "tape": true
+              },
+              {
+                "name": "Hotel caro"
+              },
+              {
+                "name": "melhor sozinha :-)-:"
+              },
+              {
+                "name": "penhasco."
+              },
+              {
+                "name": "ANACONDA *o* ~~~"
+              },
+              {
+                "name": "ATENÇÃO",
+                "cover": {
+                  "mbid": "796bc8a9-efd1-43e8-bacf-5eba68835928",
+                  "name": "PEDRO SAMPAIO",
+                  "sortName": "SAMPAIO, PEDRO",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pedro-sampaio-3bf66cd4.html"
+                }
+              },
+              {
+                "name": "CAFÉ DA MANHÃ ;P"
+              },
+              {
+                "name": "sentaDONA (remix) s2",
+                "cover": {
+                  "mbid": "3da363e8-780f-400b-af5f-ae2b09346083",
+                  "name": "MC Frog",
+                  "sortName": "Frog, MC",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/mc-frog-7bfcbaa0.html"
+                }
+              },
+              {
+                "name": "Medley Funk",
+                "tape": true
+              },
+              {
+                "name": "MAMA.CITA (hasta la vista)",
+                "info": "snippet"
+              },
+              {
+                "name": "CACHORRINHAS"
+              },
+              {
+                "name": "BRABA"
+              },
+              {
+                "name": "MODO TURBO"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/luisa-sonza/2022/parque-do-ibirapuera-sao-paulo-brazil-63bf029f.html"
+    },
+    {
+      "id": "63ba7ebf",
+      "versionId": "g4340c75b",
+      "eventDate": "03-12-2022",
+      "lastUpdated": "2025-04-03T07:47:05.609+0000",
+      "artist": {
+        "mbid": "99999777-3d19-4f59-acb5-8f06bc7ca201",
+        "name": "Halleck",
+        "sortName": "Halleck",
+        "disambiguation": "tattoo artist and bass player",
+        "url": "https://www.setlist.fm/setlists/halleck-2bf730f6.html"
+      },
+      "venue": {
+        "id": "73d0d2c9",
+        "name": "Porão da Cerveja",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/porao-da-cerveja-sao-paulo-brazil-73d0d2c9.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "730 passos"
+              },
+              {
+                "name": "Zero"
+              },
+              {
+                "name": "Lápides"
+              },
+              {
+                "name": "Funeral",
+                "cover": {
+                  "mbid": "9978427b-0fe0-4442-8724-baefad8bf3e2",
+                  "name": "Lupercais",
+                  "sortName": "Lupercais",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/lupercais-5bd9674c.html"
+                }
+              },
+              {
+                "name": "Mundo real"
+              },
+              {
+                "name": "28 de agosto"
+              },
+              {
+                "name": "A dança não para (No outro lado da lua)",
+                "cover": {
+                  "mbid": "a79f14c9-7e70-4931-9f77-a72e7d8e396e",
+                  "name": "Gangue Morcego",
+                  "sortName": "Gangue Morcego",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gangue-morcego-43dd07db.html"
+                }
+              },
+              {
+                "name": "Walking on Both Sides",
+                "cover": {
+                  "mbid": "66c82752-3488-472e-8bc1-89b853da56df",
+                  "name": "Pink Turns Blue",
+                  "sortName": "Pink Turns Blue",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pink-turns-blue-43d6534f.html"
+                }
+              },
+              {
+                "name": "Tarde demais"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/halleck/2022/porao-da-cerveja-sao-paulo-brazil-63ba7ebf.html"
+    }
+  ]
+}

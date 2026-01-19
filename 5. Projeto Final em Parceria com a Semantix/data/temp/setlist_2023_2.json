@@ -1,0 +1,2001 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 2,
+  "total": 2415,
+  "setlist": [
+    {
+      "id": "53ac73b1",
+      "versionId": "g43b65baf",
+      "eventDate": "19-12-2023",
+      "lastUpdated": "2024-02-05T01:28:07.235+0000",
+      "artist": {
+        "mbid": "30af9387-037c-4f4f-9a81-17c6d9f5a26e",
+        "name": "Gloria Groove",
+        "sortName": "Groove, Gloria",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/gloria-groove-23c11053.html"
+      },
+      "venue": {
+        "id": "3d4b503",
+        "name": "Altas Horas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/altas-horas-sao-paulo-brazil-3d4b503.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "VERMELHO"
+              },
+              {
+                "name": "Um anjo veio me falar",
+                "cover": {
+                  "mbid": "812935b2-06fd-4e9d-a287-ced4845ec016",
+                  "name": "Rouge",
+                  "sortName": "Rouge",
+                  "disambiguation": "Brazilian girlband",
+                  "url": "https://www.setlist.fm/setlists/rouge-bd7095e.html"
+                },
+                "info": "com Diego Martins"
+              },
+              {
+                "name": "AO SOM DO TUIM / PLANETA OUSADIA"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Data de exibição: 3 de fevereiro de 2024",
+      "url": "https://www.setlist.fm/setlist/gloria-groove/2023/altas-horas-sao-paulo-brazil-53ac73b1.html"
+    },
+    {
+      "id": "4bac73b6",
+      "versionId": "g4bb65baa",
+      "eventDate": "19-12-2023",
+      "lastUpdated": "2024-02-05T01:27:20.081+0000",
+      "artist": {
+        "mbid": "fe4e7dc9-adf8-4436-a1b0-79f6465928d8",
+        "name": "Diogo Nogueira",
+        "sortName": "Nogueira, Diogo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/diogo-nogueira-2bd70436.html"
+      },
+      "venue": {
+        "id": "3d4b503",
+        "name": "Altas Horas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/altas-horas-sao-paulo-brazil-3d4b503.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Clareou"
+              },
+              {
+                "name": "Nuvem de lágrimas",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                },
+                "with": {
+                  "mbid": "7df5de77-f197-4326-805e-2b2a128feb25",
+                  "name": "Fafá de Belém",
+                  "sortName": "Fafá de Belém",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/fafa-de-belem-7bd77efc.html"
+                }
+              },
+              {
+                "name": "Flor de lis",
+                "cover": {
+                  "mbid": "751e517d-9663-4692-8c20-942e16d484c5",
+                  "name": "Djavan",
+                  "sortName": "Djavan",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/djavan-7bd62e48.html"
+                },
+                "with": {
+                  "mbid": "30af9387-037c-4f4f-9a81-17c6d9f5a26e",
+                  "name": "Gloria Groove",
+                  "sortName": "Groove, Gloria",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gloria-groove-23c11053.html"
+                }
+              },
+              {
+                "name": "Herança nacional"
+              },
+              {
+                "name": "Sangrando",
+                "cover": {
+                  "mbid": "7169b325-505c-4daf-aa90-d3a84c112bc7",
+                  "name": "Gonzaguinha",
+                  "sortName": "Gonzaguinha",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gonzaguinha-1bd711f8.html"
+                },
+                "with": {
+                  "mbid": "7df5de77-f197-4326-805e-2b2a128feb25",
+                  "name": "Fafá de Belém",
+                  "sortName": "Fafá de Belém",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/fafa-de-belem-7bd77efc.html"
+                }
+              },
+              {
+                "name": "Pé na areia"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Data de exibição: 3 de fevereiro de 2024",
+      "url": "https://www.setlist.fm/setlist/diogo-nogueira/2023/altas-horas-sao-paulo-brazil-4bac73b6.html"
+    },
+    {
+      "id": "5bae47d8",
+      "versionId": "g3b8ae8a8",
+      "eventDate": "18-12-2023",
+      "lastUpdated": "2023-12-18T14:08:57.527+0000",
+      "artist": {
+        "mbid": "1dd9be0a-d663-4513-9f2d-95123121ccf1",
+        "name": "OUTROEU",
+        "sortName": "OUTROEU",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/outroeu-73c83629.html"
+      },
+      "venue": {
+        "id": "6bd7fa42",
+        "name": "União Fraterna",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/uniao-fraterna-sao-paulo-brazil-6bd7fa42.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/outroeu/2023/uniao-fraterna-sao-paulo-brazil-5bae47d8.html"
+    },
+    {
+      "id": "5bae43fc",
+      "versionId": "g3b8adc30",
+      "eventDate": "18-12-2023",
+      "lastUpdated": "2023-12-19T02:06:29.096+0000",
+      "artist": {
+        "mbid": "6797c795-08b4-4da2-a4d8-95a554c2a91c",
+        "name": "Jão",
+        "sortName": "Jão",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/jao-73cdd649.html"
+      },
+      "venue": {
+        "id": "4bd7b3be",
+        "name": "Sala São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sala-sao-paulo-sao-paulo-brazil-4bd7b3be.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Maria"
+              },
+              {
+                "name": "Essa eu fiz pro nosso amor"
+              },
+              {
+                "name": "Lábia",
+                "info": "Live debut"
+              },
+              {
+                "name": "Se o problema era você, por que doeu em mim?",
+                "info": "Live debut"
+              },
+              {
+                "name": "Idiota"
+              },
+              {
+                "name": "Meninos e meninas"
+              },
+              {
+                "name": "Acontece"
+              },
+              {
+                "name": "Julho"
+              },
+              {
+                "name": "Locadora",
+                "info": "Live debut"
+              },
+              {
+                "name": "Triste pra sempre"
+              },
+              {
+                "name": "Santo"
+              },
+              {
+                "name": "Tempos de glória"
+              },
+              {
+                "name": "Alinhamento milenar"
+              },
+              {
+                "name": "Me lambe"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/jao/2023/sala-sao-paulo-sao-paulo-brazil-5bae43fc.html"
+    },
+    {
+      "id": "53ae47d9",
+      "versionId": "g138adde9",
+      "eventDate": "18-12-2023",
+      "lastUpdated": "2023-12-19T01:11:49.537+0000",
+      "artist": {
+        "mbid": "7b904546-c35d-456c-95f3-fc9122594721",
+        "name": "Luiza Lian",
+        "sortName": "Lian, Luiza",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/luiza-lian-2bc09c5e.html"
+      },
+      "venue": {
+        "id": "6bd7fa42",
+        "name": "União Fraterna",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/uniao-fraterna-sao-paulo-brazil-6bd7fa42.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Mil mulheres"
+              },
+              {
+                "name": "Desabriga"
+              },
+              {
+                "name": "Sou Yabá"
+              },
+              {
+                "name": "Deságua"
+              },
+              {
+                "name": "Mira"
+              },
+              {
+                "name": "Azul moderno"
+              },
+              {
+                "name": "Alumiô (cai na terra)"
+              },
+              {
+                "name": "Pomba gira do luar"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Acoustic Set with Gabriel Milliet on Acoustic Guitar",
+      "url": "https://www.setlist.fm/setlist/luiza-lian/2023/uniao-fraterna-sao-paulo-brazil-53ae47d9.html"
+    },
+    {
+      "id": "23ae40f3",
+      "versionId": "g638ae243",
+      "eventDate": "18-12-2023",
+      "lastUpdated": "2023-12-18T23:04:51.920+0000",
+      "artist": {
+        "mbid": "f95875c0-9040-4952-a680-be05201e6da9",
+        "name": "Pedro Altério",
+        "sortName": "Altério, Pedro",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pedro-alterio-6bfde6d6.html"
+      },
+      "venue": {
+        "id": "6bd7fa42",
+        "name": "União Fraterna",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/uniao-fraterna-sao-paulo-brazil-6bd7fa42.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/pedro-alterio/2023/uniao-fraterna-sao-paulo-brazil-23ae40f3.html"
+    },
+    {
+      "id": "bafad1a",
+      "versionId": "g38a31df",
+      "eventDate": "17-12-2023",
+      "lastUpdated": "2023-12-21T09:06:35.770+0000",
+      "artist": {
+        "mbid": "5e8fdd97-c7ea-4579-a77c-7ab17e4ac6d4",
+        "name": "Children of the Beast",
+        "sortName": "Children of the Beast",
+        "disambiguation": "Brazilian Iron Maiden tribute band",
+        "url": "https://www.setlist.fm/setlists/children-of-the-beast-63f74a5b.html"
+      },
+      "venue": {
+        "id": "33d0c07d",
+        "name": "ZN Highway",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/zn-highway-sao-paulo-brazil-33d0c07d.html"
+      },
+      "tour": {
+        "name": "Tour 30 Anos"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/children-of-the-beast/2023/zn-highway-sao-paulo-brazil-bafad1a.html"
+    },
+    {
+      "id": "bacf552",
+      "versionId": "g1b892d60",
+      "eventDate": "17-12-2023",
+      "lastUpdated": "2024-01-22T18:28:20.889+0000",
+      "artist": {
+        "mbid": "bd4d397a-849a-48bf-be24-52eec87feeee",
+        "name": "Adriana Calcanhotto",
+        "sortName": "Calcanhotto, Adriana",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/adriana-calcanhotto-6bd62e4e.html"
+      },
+      "venue": {
+        "id": "6bd6226a",
+        "name": "SESC Pinheiros",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-pinheiros-sao-paulo-brazil-6bd6226a.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/adriana-calcanhotto/2023/sesc-pinheiros-sao-paulo-brazil-bacf552.html"
+    },
+    {
+      "id": "73ac268d",
+      "versionId": "g3bb6e830",
+      "eventDate": "17-12-2023",
+      "lastUpdated": "2024-01-30T19:14:50.417+0000",
+      "artist": {
+        "mbid": "7c908b36-6ae2-45d2-b0bd-7b58fa5708a1",
+        "name": "MARO",
+        "sortName": "MARO",
+        "disambiguation": "Portuguese multi-instrumentalist and composer Mariana Secca",
+        "url": "https://www.setlist.fm/setlists/maro-73f2b2e1.html"
+      },
+      "venue": {
+        "id": "bd1f98e",
+        "name": "Bona Casa de Música",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bona-casa-de-musica-sao-paulo-brazil-bd1f98e.html"
+      },
+      "tour": {
+        "name": "100 Anos, 1 Noite   (com Pedro Altério)"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/maro/2023/bona-casa-de-musica-sao-paulo-brazil-73ac268d.html"
+    },
+    {
+      "id": "6bae4af2",
+      "versionId": "g534b7759",
+      "eventDate": "17-12-2023",
+      "lastUpdated": "2025-05-28T11:12:40.012+0000",
+      "artist": {
+        "mbid": "71505862-7946-4f32-81de-95328307cd21",
+        "name": "Amigos",
+        "sortName": "Amigos",
+        "disambiguation": "Brazilian multi-artist live show recorded for TV music specials",
+        "url": "https://www.setlist.fm/setlists/amigos-bd6498e.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "Amigos 20 Anos - De Volta à Estrada"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Disparada",
+                "cover": {
+                  "mbid": "5aaf332c-1a4d-4c03-a585-aeafa2f663b8",
+                  "name": "Geraldo Vandré",
+                  "sortName": "Geraldo Vandré",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/geraldo-vandre-bd2414a.html"
+                }
+              },
+              {
+                "name": "Sinônimos / Pense em mim / É o amor"
+              },
+              {
+                "name": "Nascemos para cantar",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                }
+              },
+              {
+                "name": "Pode ser pra valer",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                }
+              },
+              {
+                "name": "Entre tapas e beijos",
+                "cover": {
+                  "mbid": "c1139317-02cf-4310-8722-93a095f5b1fa",
+                  "name": "Leandro & Leonardo",
+                  "sortName": "Leandro & Leonardo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/leandro-and-leonardo-4bd49fae.html"
+                }
+              },
+              {
+                "name": "Sonho de amor",
+                "cover": {
+                  "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+                  "name": "Zezé Di Camargo & Luciano",
+                  "sortName": "Zezé Di Camargo & Luciano",
+                  "disambiguation": "Brazilian sertanejo/country duo",
+                  "url": "https://www.setlist.fm/setlists/zeze-di-camargo-and-luciano-63d75abf.html"
+                }
+              },
+              {
+                "name": "Rumo a Goiânia",
+                "cover": {
+                  "mbid": "e98247e9-ba53-4003-a325-0bcd64db2ab3",
+                  "name": "Juliano Cezar",
+                  "sortName": "Juliano Cezar",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/juliano-cezar-13d0f199.html"
+                }
+              },
+              {
+                "name": "Fio de cabelo",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                }
+              },
+              {
+                "name": "Eu juro",
+                "cover": {
+                  "mbid": "c1139317-02cf-4310-8722-93a095f5b1fa",
+                  "name": "Leandro & Leonardo",
+                  "sortName": "Leandro & Leonardo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/leandro-and-leonardo-4bd49fae.html"
+                }
+              },
+              {
+                "name": "Não aprendi dizer adeus",
+                "cover": {
+                  "mbid": "e98247e9-ba53-4003-a325-0bcd64db2ab3",
+                  "name": "Juliano Cezar",
+                  "sortName": "Juliano Cezar",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/juliano-cezar-13d0f199.html"
+                }
+              },
+              {
+                "name": "A ferro e fogo",
+                "cover": {
+                  "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+                  "name": "Zezé Di Camargo & Luciano",
+                  "sortName": "Zezé Di Camargo & Luciano",
+                  "disambiguation": "Brazilian sertanejo/country duo",
+                  "url": "https://www.setlist.fm/setlists/zeze-di-camargo-and-luciano-63d75abf.html"
+                }
+              },
+              {
+                "name": "Brincar de ser feliz",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                }
+              },
+              {
+                "name": "Sem medo de ser feliz",
+                "cover": {
+                  "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+                  "name": "Zezé Di Camargo & Luciano",
+                  "sortName": "Zezé Di Camargo & Luciano",
+                  "disambiguation": "Brazilian sertanejo/country duo",
+                  "url": "https://www.setlist.fm/setlists/zeze-di-camargo-and-luciano-63d75abf.html"
+                }
+              },
+              {
+                "name": "No dia em que eu saí de casa",
+                "cover": {
+                  "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+                  "name": "Zezé Di Camargo & Luciano",
+                  "sortName": "Zezé Di Camargo & Luciano",
+                  "disambiguation": "Brazilian sertanejo/country duo",
+                  "url": "https://www.setlist.fm/setlists/zeze-di-camargo-and-luciano-63d75abf.html"
+                }
+              },
+              {
+                "name": "Toma juízo / Preciso ser amado",
+                "cover": {
+                  "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+                  "name": "Zezé Di Camargo & Luciano",
+                  "sortName": "Zezé Di Camargo & Luciano",
+                  "disambiguation": "Brazilian sertanejo/country duo",
+                  "url": "https://www.setlist.fm/setlists/zeze-di-camargo-and-luciano-63d75abf.html"
+                }
+              },
+              {
+                "name": "Alô",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                }
+              },
+              {
+                "name": "Página de amigos",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                }
+              },
+              {
+                "name": "Talismã",
+                "cover": {
+                  "mbid": "c1139317-02cf-4310-8722-93a095f5b1fa",
+                  "name": "Leandro & Leonardo",
+                  "sortName": "Leandro & Leonardo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/leandro-and-leonardo-4bd49fae.html"
+                }
+              },
+              {
+                "name": "Te amo demais",
+                "cover": {
+                  "mbid": "14ddb467-b2e6-4fb0-88db-75ea45f23d5b",
+                  "name": "Leonardo",
+                  "sortName": "Leonardo",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/leonardo-73d75ab9.html"
+                }
+              },
+              {
+                "name": "Saudade de minha terra",
+                "cover": {
+                  "mbid": "321d0094-53ca-417e-8ce7-f2edccd3cfe8",
+                  "name": "Belmonte & Amaraí",
+                  "sortName": "Belmonte & Amaraí",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/belmonte-and-amarai-33c57491.html"
+                }
+              },
+              {
+                "name": "Nuvem de lágrimas",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                }
+              },
+              {
+                "name": "Temporal de amor",
+                "cover": {
+                  "mbid": "c1139317-02cf-4310-8722-93a095f5b1fa",
+                  "name": "Leandro & Leonardo",
+                  "sortName": "Leandro & Leonardo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/leandro-and-leonardo-4bd49fae.html"
+                }
+              },
+              {
+                "name": "60 dias apaixonado",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                }
+              },
+              {
+                "name": "Vá pro inferno com seu amor / Galopeira",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                }
+              },
+              {
+                "name": "Cumade e cumpade",
+                "cover": {
+                  "mbid": "c1139317-02cf-4310-8722-93a095f5b1fa",
+                  "name": "Leandro & Leonardo",
+                  "sortName": "Leandro & Leonardo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/leandro-and-leonardo-4bd49fae.html"
+                }
+              },
+              {
+                "name": "Flores em vida",
+                "cover": {
+                  "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+                  "name": "Zezé Di Camargo & Luciano",
+                  "sortName": "Zezé Di Camargo & Luciano",
+                  "disambiguation": "Brazilian sertanejo/country duo",
+                  "url": "https://www.setlist.fm/setlists/zeze-di-camargo-and-luciano-63d75abf.html"
+                }
+              },
+              {
+                "name": "Sinônimos",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                }
+              },
+              {
+                "name": "Estrada da vida",
+                "cover": {
+                  "mbid": "b667be67-2c26-490d-a665-22d1d8113dd6",
+                  "name": "Milionário & José Rico",
+                  "sortName": "Milionário & José Rico",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/milionario-and-jose-rico-43ddfb7b.html"
+                }
+              },
+              {
+                "name": "Pra não pensar em você",
+                "cover": {
+                  "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+                  "name": "Zezé Di Camargo & Luciano",
+                  "sortName": "Zezé Di Camargo & Luciano",
+                  "disambiguation": "Brazilian sertanejo/country duo",
+                  "url": "https://www.setlist.fm/setlists/zeze-di-camargo-and-luciano-63d75abf.html"
+                }
+              },
+              {
+                "name": "É o amor",
+                "cover": {
+                  "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+                  "name": "Zezé Di Camargo & Luciano",
+                  "sortName": "Zezé Di Camargo & Luciano",
+                  "disambiguation": "Brazilian sertanejo/country duo",
+                  "url": "https://www.setlist.fm/setlists/zeze-di-camargo-and-luciano-63d75abf.html"
+                }
+              },
+              {
+                "name": "Se Deus me ouvisse",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                }
+              },
+              {
+                "name": "Como um anjo",
+                "cover": {
+                  "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+                  "name": "Zezé Di Camargo & Luciano",
+                  "sortName": "Zezé Di Camargo & Luciano",
+                  "disambiguation": "Brazilian sertanejo/country duo",
+                  "url": "https://www.setlist.fm/setlists/zeze-di-camargo-and-luciano-63d75abf.html"
+                }
+              },
+              {
+                "name": "Mano",
+                "cover": {
+                  "mbid": "14ddb467-b2e6-4fb0-88db-75ea45f23d5b",
+                  "name": "Leonardo",
+                  "sortName": "Leonardo",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/leonardo-73d75ab9.html"
+                }
+              },
+              {
+                "name": "Um sonhador  / Não olhe assim",
+                "cover": {
+                  "mbid": "c1139317-02cf-4310-8722-93a095f5b1fa",
+                  "name": "Leandro & Leonardo",
+                  "sortName": "Leandro & Leonardo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/leandro-and-leonardo-4bd49fae.html"
+                }
+              },
+              {
+                "name": "Desculpe, mas eu vou chorar",
+                "cover": {
+                  "mbid": "c1139317-02cf-4310-8722-93a095f5b1fa",
+                  "name": "Leandro & Leonardo",
+                  "sortName": "Leandro & Leonardo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/leandro-and-leonardo-4bd49fae.html"
+                }
+              },
+              {
+                "name": "Você vai ver",
+                "cover": {
+                  "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+                  "name": "Zezé Di Camargo & Luciano",
+                  "sortName": "Zezé Di Camargo & Luciano",
+                  "disambiguation": "Brazilian sertanejo/country duo",
+                  "url": "https://www.setlist.fm/setlists/zeze-di-camargo-and-luciano-63d75abf.html"
+                }
+              },
+              {
+                "name": "Pão de mel",
+                "cover": {
+                  "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+                  "name": "Zezé Di Camargo & Luciano",
+                  "sortName": "Zezé Di Camargo & Luciano",
+                  "disambiguation": "Brazilian sertanejo/country duo",
+                  "url": "https://www.setlist.fm/setlists/zeze-di-camargo-and-luciano-63d75abf.html"
+                }
+              },
+              {
+                "name": "Evidências",
+                "cover": {
+                  "mbid": "bafc346c-8c25-4e94-b9dd-5e0183db32c8",
+                  "name": "José Augusto",
+                  "sortName": "Augusto, José",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jose-augusto-5bd487f8.html"
+                }
+              },
+              {
+                "name": "Cerveja",
+                "cover": {
+                  "mbid": "c1139317-02cf-4310-8722-93a095f5b1fa",
+                  "name": "Leandro & Leonardo",
+                  "sortName": "Leandro & Leonardo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/leandro-and-leonardo-4bd49fae.html"
+                }
+              },
+              {
+                "name": "Festa de rodeio / Bailão de peão / Mexe que é bom"
+              },
+              {
+                "name": "Canção da amizade"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Show de despedida da turnê",
+      "url": "https://www.setlist.fm/setlist/amigos/2023/allianz-parque-sao-paulo-brazil-6bae4af2.html"
+    },
+    {
+      "id": "63afbacf",
+      "versionId": "g338ac45d",
+      "eventDate": "17-12-2023",
+      "lastUpdated": "2023-12-20T10:42:39.812+0000",
+      "artist": {
+        "mbid": "9ff5e307-138d-45b8-ab0c-4b5d4099761b",
+        "name": "The Beast Experience",
+        "sortName": "Experience, The Beast",
+        "disambiguation": "Iron Maiden tribute band from Brazil",
+        "url": "https://www.setlist.fm/setlists/the-beast-experience-1bf84dec.html"
+      },
+      "venue": {
+        "id": "4bd11f7e",
+        "name": "Anjos Studio",
+        "city": {
+          "id": "3455775",
+          "name": "Osasco",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5325,
+            "long": -46.79166667
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/anjos-studio-osasco-brazil-4bd11f7e.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Moonchild",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Infinite Dreams",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Man on the Edge",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Wrathchild",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Revelations",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Die With Your Boots On",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Ghost of the Navigator",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Brave New World",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "If Eternity Should Fail",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "The Writing on the Wall",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "The Trooper",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Powerslave",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Rime of the Ancient Mariner",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "The Number of the Beast",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "No Prayer for the Dying",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Wasted Years",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "The Loneliness of the Long Distance Runner",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Reach Out",
+                "cover": {
+                  "mbid": "4800f3c2-79be-40b3-9cdf-cdf1d79e2f20",
+                  "name": "The Entire Population of Hackney",
+                  "sortName": "Entire Population of Hackney, The",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/the-entire-population-of-hackney-bf4bdae.html"
+                }
+              },
+              {
+                "name": "Phantom of the Opera",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Fear of the Dark",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Hallowed Be Thy Name",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Run to the Hills",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/the-beast-experience/2023/anjos-studio-osasco-brazil-63afbacf.html"
+    },
+    {
+      "id": "6340ae2f",
+      "versionId": "g3b7f00f0",
+      "eventDate": "17-12-2023",
+      "lastUpdated": "2025-08-25T13:58:34.817+0000",
+      "artist": {
+        "mbid": "c570a81c-b692-4ec4-829a-c3b24218e874",
+        "name": "Menores Atos",
+        "sortName": "Menores Atos",
+        "disambiguation": "Brazilian hardcore band from Rio de Janeiro",
+        "url": "https://www.setlist.fm/setlists/menores-atos-2bcb841e.html"
+      },
+      "venue": {
+        "id": "5bd10f88",
+        "name": "City Lights Music Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/city-lights-music-hall-sao-paulo-brazil-5bd10f88.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/menores-atos/2023/city-lights-music-hall-sao-paulo-brazil-6340ae2f.html"
+    },
+    {
+      "id": "13ae65d5",
+      "versionId": "g7b67d2a0",
+      "eventDate": "17-12-2023",
+      "lastUpdated": "2025-10-25T04:47:12.532+0000",
+      "artist": {
+        "mbid": "ffc6218b-6ec8-46eb-b6d2-040f92c95d2c",
+        "name": "Carol Biazin",
+        "sortName": "Biazin, Carol",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/carol-biazin-23f6606b.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "tour": {
+        "name": "REVERSA Tour"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "ASREVER",
+                "tape": true,
+                "info": "Intro"
+              },
+              {
+                "name": "Mala memo"
+              },
+              {
+                "name": "Garota infernal"
+              },
+              {
+                "name": "Tentação"
+              },
+              {
+                "name": "Caos perfeito"
+              },
+              {
+                "name": "Dessa vez não"
+              },
+              {
+                "name": "Inveja",
+                "info": "Acoustic"
+              },
+              {
+                "name": "Início do fim",
+                "info": "Acoustic"
+              },
+              {
+                "name": "Ex não ama"
+              },
+              {
+                "name": "Glitter"
+              },
+              {
+                "name": "Bacardi"
+              },
+              {
+                "name": "Menta com chá"
+              },
+              {
+                "name": "Real valor",
+                "info": "Live debut",
+                "with": {
+                  "mbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+                  "name": "Marina Sena",
+                  "sortName": "Sena, Marina",
+                  "disambiguation": "Brazilian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/marina-sena-13f0f1f5.html"
+                }
+              },
+              {
+                "name": "Talvez",
+                "info": "Acoustic"
+              },
+              {
+                "name": "Raio X",
+                "info": "Acoustic"
+              },
+              {
+                "name": "Pouco",
+                "info": "Acoustic - Extended"
+              },
+              {
+                "name": "Suas linhas"
+              },
+              {
+                "name": "Fallin'",
+                "tape": true,
+                "cover": {
+                  "mbid": "8ef1df30-ae4f-4dbd-9351-1a32b208a01e",
+                  "name": "Alicia Keys",
+                  "sortName": "Keys, Alicia",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/alicia-keys-43d6bf97.html"
+                },
+                "info": "Interlude"
+              },
+              {
+                "name": "Playlist de sexo"
+              },
+              {
+                "name": "Ligações de alma"
+              },
+              {
+                "name": "Fica pro café"
+              },
+              {
+                "name": "Brinca com a..."
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Isso é tão 2007",
+                "info": "Live debut"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "",
+      "url": "https://www.setlist.fm/setlist/carol-biazin/2023/audio-sao-paulo-brazil-13ae65d5.html"
+    },
+    {
+      "id": "73af9e05",
+      "versionId": "g2b8a0036",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2023-12-24T03:46:22.680+0000",
+      "artist": {
+        "mbid": "2afe142b-93af-49f8-a23f-373c02de1ae0",
+        "name": "Tim Bernardes",
+        "sortName": "Bernardes, Tim",
+        "disambiguation": "Brazilian singer, musician, et al.",
+        "url": "https://www.setlist.fm/setlists/tim-bernardes-3bcd40d0.html"
+      },
+      "venue": {
+        "id": "23d5accb",
+        "name": "Theatro Municipal de São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/theatro-municipal-de-sao-paulo-sao-paulo-brazil-23d5accb.html"
+      },
+      "tour": {
+        "name": "Raro Momento Infinito"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Nascer, viver, morrer"
+              },
+              {
+                "name": "Mistificar"
+              },
+              {
+                "name": "Fases"
+              },
+              {
+                "name": "BB (Garupa de moto amarela)"
+              },
+              {
+                "name": "Realmente lindo"
+              },
+              {
+                "name": "Falta"
+              },
+              {
+                "name": "Ela não vai mais voltar"
+              },
+              {
+                "name": "Pouco a pouco"
+              },
+              {
+                "name": "Não"
+              },
+              {
+                "name": "Olha"
+              },
+              {
+                "name": "A lenda do Abaeté",
+                "cover": {
+                  "mbid": "bec2162c-6a15-4bfd-a69c-3e35c4fb1f19",
+                  "name": "Dorival Caymmi",
+                  "sortName": "Caymmi, Dorival",
+                  "disambiguation": "the father",
+                  "url": "https://www.setlist.fm/setlists/dorival-caymmi-bd62d32.html"
+                },
+                "info": "Snippet"
+              },
+              {
+                "name": "Esse ar"
+              },
+              {
+                "name": "Última vez"
+              },
+              {
+                "name": "Quis mudar"
+              },
+              {
+                "name": "Meus 26"
+              },
+              {
+                "name": "A balada de Tim Bernardes"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Volta",
+                "cover": {
+                  "mbid": "92bf83e0-d79e-4390-871a-8f108bb50f82",
+                  "name": "O Terno",
+                  "sortName": "O Terno",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/o-terno-4bd81bc2.html"
+                }
+              },
+              {
+                "name": "Recomeçar"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/tim-bernardes/2023/theatro-municipal-de-sao-paulo-sao-paulo-brazil-73af9e05.html"
+    },
+    {
+      "id": "73af96cd",
+      "versionId": "g73567229",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-10-11T01:59:28.333+0000",
+      "artist": {
+        "mbid": "7df5de77-f197-4326-805e-2b2a128feb25",
+        "name": "Fafá de Belém",
+        "sortName": "Fafá de Belém",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/fafa-de-belem-7bd77efc.html"
+      },
+      "venue": {
+        "id": "73d7f6ed",
+        "name": "Teatro Bradesco",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-bradesco-sao-paulo-brazil-73d7f6ed.html"
+      },
+      "tour": {
+        "name": "Fafá: A Filha do Brasil"
+      },
+      "sets": {
+        "set": [
+          {
+            "name": "Set 1:",
+            "song": [
+              {
+                "name": "Indauê-tupã"
+              },
+              {
+                "name": "Pauapixuna"
+              },
+              {
+                "name": "Filho da Bahia"
+              },
+              {
+                "name": "Bicho Homem"
+              },
+              {
+                "name": "Dentro de mim mora um anjo"
+              },
+              {
+                "name": "Sedução"
+              },
+              {
+                "name": "Foi assim"
+              },
+              {
+                "name": "Ontem ao luar"
+              },
+              {
+                "name": "Viola Enluarada",
+                "cover": {
+                  "mbid": "1bfa27e3-0376-4206-a772-4586e25a64f5",
+                  "name": "Milton Nascimento",
+                  "sortName": "Nascimento, Milton",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/milton-nascimento-1bd62dec.html"
+                }
+              },
+              {
+                "name": "Sob medida"
+              }
+            ]
+          },
+          {
+            "name": "Set 2:",
+            "song": [
+              {
+                "name": "Que me venha esse homem"
+              },
+              {
+                "name": "Escândalo"
+              },
+              {
+                "name": "Bilhete"
+              },
+              {
+                "name": "Coração do Agreste"
+              },
+              {
+                "name": "Nossa Senhora"
+              },
+              {
+                "name": "Nuvem de lágrimas",
+                "cover": {
+                  "mbid": "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                  "name": "Chitãozinho & Xororó",
+                  "sortName": "Chitãozinho & Xororó",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chitaozinho-and-xororo-53d49fad.html"
+                }
+              },
+              {
+                "name": "Raça"
+              },
+              {
+                "name": "Êmoriô"
+              },
+              {
+                "name": "Vermelho"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Meu disfarce"
+              },
+              {
+                "name": "Memórias"
+              },
+              {
+                "name": "O amor e o poder",
+                "cover": {
+                  "mbid": "48b9a301-c49e-438a-8190-7bee614c4ea9",
+                  "name": "Rosana",
+                  "sortName": "Rosana",
+                  "disambiguation": "Rosana Fiengo, Brazilian singer; O amor e o poder",
+                  "url": "https://www.setlist.fm/setlists/rosana-23c77cfb.html"
+                }
+              },
+              {
+                "name": "Alma gêmea",
+                "cover": {
+                  "mbid": "f3e83286-b99e-4852-b3fd-fdc49ba701d2",
+                  "name": "Fábio Jr.",
+                  "sortName": "Fábio Jr.",
+                  "disambiguation": "Brazilian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/fabio-jr-5bd71394.html"
+                }
+              },
+              {
+                "name": "Aguenta coração",
+                "cover": {
+                  "mbid": "bafc346c-8c25-4e94-b9dd-5e0183db32c8",
+                  "name": "José Augusto",
+                  "sortName": "Augusto, José",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jose-augusto-5bd487f8.html"
+                }
+              },
+              {
+                "name": "Abandonada"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/fafa-de-belem/2023/teatro-bradesco-sao-paulo-brazil-73af96cd.html"
+    },
+    {
+      "id": "6baba67a",
+      "versionId": "g2bb07006",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-03-27T17:32:46.010+0000",
+      "artist": {
+        "mbid": "fb4fc5a6-cbe1-45ff-954c-ef45faceb54d",
+        "name": "You Me at Six",
+        "sortName": "You Me at Six",
+        "disambiguation": "British rock band",
+        "url": "https://www.setlist.fm/setlists/you-me-at-six-3d7499f.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "Truth Decay Tour 2023"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/you-me-at-six/2023/allianz-parque-sao-paulo-brazil-6baba67a.html"
+    },
+    {
+      "id": "63ae5e0b",
+      "versionId": "g338a983d",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2023-12-16T21:17:42.412+0000",
+      "artist": {
+        "mbid": "d08fb778-e4d5-41ba-85ab-9c458c9bd152",
+        "name": "Supercombo",
+        "sortName": "Supercombo",
+        "disambiguation": "Brazilian alternative rock band",
+        "url": "https://www.setlist.fm/setlists/supercombo-73dda6c5.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "Remédios"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Jovem"
+              },
+              {
+                "name": "Monstros"
+              },
+              {
+                "name": "Sol da manhã"
+              },
+              {
+                "name": "Bonsai"
+              },
+              {
+                "name": "Maremotos"
+              },
+              {
+                "name": "Aos poucos"
+              },
+              {
+                "name": "Amianto"
+              },
+              {
+                "name": "Fim do mundo"
+              },
+              {
+                "name": "Tarde demais"
+              },
+              {
+                "name": "Piloto automático",
+                "with": {
+                  "mbid": "61a5ecbc-94af-4af2-87d0-fcba29268cca",
+                  "name": "Lucas Inutilismo",
+                  "sortName": "Lucas Inutilismo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/lucas-inutilismo-73fc52e9.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Opening act for Nx Zero",
+      "url": "https://www.setlist.fm/setlist/supercombo/2023/allianz-parque-sao-paulo-brazil-63ae5e0b.html"
+    },
+    {
+      "id": "63ae4637",
+      "versionId": "g4baef7be",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-08-03T03:24:56.575+0000",
+      "artist": {
+        "mbid": "cf045570-3ccb-4355-99ec-bc4b32f72d3e",
+        "name": "Ouse Morrer",
+        "sortName": "Ouse Morrer",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/ouse-morrer-3bf524c4.html"
+      },
+      "venue": {
+        "id": "73d32ae5",
+        "name": "Rock Together Studio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/rock-together-studio-sao-paulo-brazil-73d32ae5.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Quicksand"
+              },
+              {
+                "name": "Within Eternity"
+              },
+              {
+                "name": "How Long"
+              },
+              {
+                "name": "Rejoice From the Dead"
+              },
+              {
+                "name": "Fulfilled With Nothing"
+              },
+              {
+                "name": "Death Before Living"
+              },
+              {
+                "name": "Turnpike Gates",
+                "cover": {
+                  "mbid": "c9329809-8510-45b9-9202-5640398ddaee",
+                  "name": "Lifetime",
+                  "sortName": "Lifetime",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/lifetime-63d68ea3.html"
+                }
+              },
+              {
+                "name": "Every Time"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/ouse-morrer/2023/rock-together-studio-sao-paulo-brazil-63ae4637.html"
+    },
+    {
+      "id": "5bae578c",
+      "versionId": "g5b8ae790",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2023-12-18T18:21:13.323+0000",
+      "artist": {
+        "mbid": "2afe142b-93af-49f8-a23f-373c02de1ae0",
+        "name": "Tim Bernardes",
+        "sortName": "Bernardes, Tim",
+        "disambiguation": "Brazilian singer, musician, et al.",
+        "url": "https://www.setlist.fm/setlists/tim-bernardes-3bcd40d0.html"
+      },
+      "venue": {
+        "id": "23d5accb",
+        "name": "Theatro Municipal de São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/theatro-municipal-de-sao-paulo-sao-paulo-brazil-23d5accb.html"
+      },
+      "tour": {
+        "name": "Raro Momento Infinito"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Nascer, viver, morrer"
+              },
+              {
+                "name": "Mistificar"
+              },
+              {
+                "name": "Fases"
+              },
+              {
+                "name": "BB (Garupa de moto amarela)"
+              },
+              {
+                "name": "Realmente lindo"
+              },
+              {
+                "name": "Falta"
+              },
+              {
+                "name": "Ela não vai mais voltar"
+              },
+              {
+                "name": "Pouco a pouco"
+              },
+              {
+                "name": "As histórias do cinema"
+              },
+              {
+                "name": "Não"
+              },
+              {
+                "name": "Olha"
+              },
+              {
+                "name": "Esse ar",
+                "info": "with snippet of Dorival Caymmi's \"A Lenda do Abaeté\""
+              },
+              {
+                "name": "Última vez"
+              },
+              {
+                "name": "Quis mudar"
+              },
+              {
+                "name": "Meus 26"
+              },
+              {
+                "name": "A balada de Tim Bernardes"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Só nós dois"
+              },
+              {
+                "name": "Recomeçar"
+              },
+              {
+                "name": "Abertura (Recomeçar)"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/tim-bernardes/2023/theatro-municipal-de-sao-paulo-sao-paulo-brazil-5bae578c.html"
+    },
+    {
+      "id": "5b52fb78",
+      "versionId": "g2badb4a2",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-08-25T05:33:02.391+0000",
+      "artist": {
+        "mbid": "10b15dc5-5aab-4a69-b82b-6de6e310e2b4",
+        "name": "Siegrid Ingrid",
+        "sortName": "Ingrid, Siegrid",
+        "disambiguation": "Brazilian metal band",
+        "url": "https://www.setlist.fm/setlists/siegrid-ingrid-33e27891.html"
+      },
+      "venue": {
+        "id": "2bd540da",
+        "name": "Praça Heróis Da Força Expedicionária Brasileira",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/praca-herois-da-forca-expedicionaria-brasileira-sao-paulo-brazil-2bd540da.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/siegrid-ingrid/2023/praca-herois-da-forca-expedicionaria-brasileira-sao-paulo-brazil-5b52fb78.html"
+    }
+  ]
+}

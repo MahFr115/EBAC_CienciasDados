@@ -1,0 +1,1334 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 6,
+  "total": 3170,
+  "setlist": [
+    {
+      "id": "4b4f977e",
+      "versionId": "g436427f3",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-03T19:28:19.575+0000",
+      "artist": {
+        "mbid": "baf10c12-147a-4ba6-9f8e-c20c5f5b89c8",
+        "name": "Personas",
+        "sortName": "Personas",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/personas-33fbc415.html"
+      },
+      "venue": {
+        "id": "73d03ead",
+        "name": "Casa Rockambole",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-rockambole-sao-paulo-brazil-73d03ead.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Se Eu Quiser"
+              },
+              {
+                "name": "Cair Para Trás"
+              },
+              {
+                "name": "Azar De Quem Cruza"
+              },
+              {
+                "name": "Água Com Gas, Remédios e Cigarros",
+                "info": "com Popoto, vocalista da Raça"
+              },
+              {
+                "name": "Vigília"
+              },
+              {
+                "name": "Mergulho"
+              },
+              {
+                "name": "Curitiba"
+              },
+              {
+                "name": "Pressa"
+              },
+              {
+                "name": "Mirra"
+              },
+              {
+                "name": "Tão Amargo",
+                "info": "com Ana Paia"
+              },
+              {
+                "name": "Nunca Foi Pra Dar Certo"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/personas/2025/casa-rockambole-sao-paulo-brazil-4b4f977e.html"
+    },
+    {
+      "id": "4b43731e",
+      "versionId": "g2b643036",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-03T10:20:54.486+0000",
+      "artist": {
+        "mbid": "d700b3f5-45af-4d02-95ed-57d301bda93e",
+        "name": "Mogwai",
+        "sortName": "Mogwai",
+        "disambiguation": "Scottish post‐rock band",
+        "url": "https://www.setlist.fm/setlists/mogwai-6bd69a52.html"
+      },
+      "venue": {
+        "id": "3bd638bc",
+        "name": "Parque do Ibirapuera",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-do-ibirapuera-sao-paulo-brazil-3bd638bc.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "God Gets You Back"
+              },
+              {
+                "name": "Hi Chaos"
+              },
+              {
+                "name": "How to Be a Werewolf"
+              },
+              {
+                "name": "Ritchie Sacramento"
+              },
+              {
+                "name": "Mogwai Fear Satan"
+              },
+              {
+                "name": "Fanzine Made of Flesh"
+              },
+              {
+                "name": "Remurdered"
+              },
+              {
+                "name": "Lion Rumpus"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "",
+      "url": "https://www.setlist.fm/setlist/mogwai/2025/parque-do-ibirapuera-sao-paulo-brazil-4b43731e.html"
+    },
+    {
+      "id": "4b437312",
+      "versionId": "g1b646d78",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-05T03:39:54.466+0000",
+      "artist": {
+        "mbid": "b828d419-2928-4286-9509-5d920d524358",
+        "name": "Judeline",
+        "sortName": "Judeline",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/judeline-bff457e.html"
+      },
+      "venue": {
+        "id": "3bd638bc",
+        "name": "Parque do Ibirapuera",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-do-ibirapuera-sao-paulo-brazil-3bd638bc.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "TÚ ET MOI",
+                "with": {
+                  "mbid": "d99ee0a3-c8b9-44d3-8995-3a2c6c3bef59",
+                  "name": "MC Morena",
+                  "sortName": "Morena, MC",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/mc-morena-23fad4d3.html"
+                }
+              },
+              {
+                "name": "com você"
+              },
+              {
+                "name": "La tortura",
+                "cover": {
+                  "mbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
+                  "name": "Shakira",
+                  "sortName": "Shakira",
+                  "disambiguation": "Colombian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/shakira-7bd6da94.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Incompleto e fora de ordem (Incomplete and out of order)",
+      "url": "https://www.setlist.fm/setlist/judeline/2025/parque-do-ibirapuera-sao-paulo-brazil-4b437312.html"
+    },
+    {
+      "id": "434fa3b7",
+      "versionId": "g5364c3f5",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-02T21:39:49.908+0000",
+      "artist": {
+        "mbid": "82bcf951-0b75-4fe5-88a6-be9c31688ecd",
+        "name": "Planta & Raiz",
+        "sortName": "Planta & Raiz",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/planta-and-raiz-23d798a7.html"
+      },
+      "venue": {
+        "id": "3d021cb",
+        "name": "Espaço Unimed",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/espaco-unimed-sao-paulo-brazil-3d021cb.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/planta-and-raiz/2025/espaco-unimed-sao-paulo-brazil-434fa3b7.html"
+    },
+    {
+      "id": "3b4fa4f0",
+      "versionId": "g6b643ad6",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-03T04:07:54.009+0000",
+      "artist": {
+        "mbid": "0366b18c-77c0-4cf1-83d2-b13e786732fa",
+        "name": "Decreto Lei 50",
+        "sortName": "DL-50",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/decreto-lei-50-53de47ad.html"
+      },
+      "venue": {
+        "id": "73d0d2c9",
+        "name": "Porão da Cerveja",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/porao-da-cerveja-sao-paulo-brazil-73d0d2c9.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Vem comigo"
+              },
+              {
+                "name": "Fátima",
+                "cover": {
+                  "mbid": "f168e033-2d59-401a-a9b1-2d704b24c17d",
+                  "name": "Capital Inicial",
+                  "sortName": "Capital Inicial",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/capital-inicial-7bd6d230.html"
+                }
+              },
+              {
+                "name": "Thamara"
+              },
+              {
+                "name": "Caminhos"
+              },
+              {
+                "name": "Matança"
+              },
+              {
+                "name": "Pra sempre"
+              },
+              {
+                "name": "Bar Song"
+              },
+              {
+                "name": "Minas e bombas"
+              },
+              {
+                "name": "(Não) Ser Humano",
+                "info": "Live debut"
+              },
+              {
+                "name": "Essa tristeza"
+              },
+              {
+                "name": "Shadowplay",
+                "cover": {
+                  "mbid": "9a58fda3-f4ed-4080-a3a5-f457aac9fcdd",
+                  "name": "Joy Division",
+                  "sortName": "Joy Division",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/joy-division-63d6b22b.html"
+                }
+              },
+              {
+                "name": "Venha me abraçar"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/decreto-lei-50/2025/porao-da-cerveja-sao-paulo-brazil-3b4fa4f0.html"
+    },
+    {
+      "id": "34fb9ef",
+      "versionId": "g2b6490f6",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-10-31T09:59:29.143+0000",
+      "artist": {
+        "mbid": "1b52c4e0-7cef-4857-a5ec-5874429536f0",
+        "name": "Dischavizer",
+        "sortName": "Dischavizer",
+        "disambiguation": "Crust punk and grincore band from São Paulo, Brazil",
+        "url": "https://www.setlist.fm/setlists/dischavizer-3f8357b.html"
+      },
+      "venue": {
+        "id": "73d046d1",
+        "name": "Instituto Raiz da Serra",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/instituto-raiz-da-serra-sao-paulo-brazil-73d046d1.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/dischavizer/2025/instituto-raiz-da-serra-sao-paulo-brazil-34fb9ef.html"
+    },
+    {
+      "id": "34fb9e3",
+      "versionId": "g2b6490ea",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-10-31T10:01:08.635+0000",
+      "artist": {
+        "mbid": "0918ecd6-6a74-4917-9bdf-51633c1fc064",
+        "name": "F.D.S.",
+        "sortName": "F.D.S.",
+        "disambiguation": "Fora de Si",
+        "url": "https://www.setlist.fm/setlists/fds-3cc6563.html"
+      },
+      "venue": {
+        "id": "73d046d1",
+        "name": "Instituto Raiz da Serra",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/instituto-raiz-da-serra-sao-paulo-brazil-73d046d1.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/fds/2025/instituto-raiz-da-serra-sao-paulo-brazil-34fb9e3.html"
+    },
+    {
+      "id": "334f9c75",
+      "versionId": "g23643867",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-03T02:54:28.787+0000",
+      "artist": {
+        "mbid": "99999777-3d19-4f59-acb5-8f06bc7ca201",
+        "name": "Halleck",
+        "sortName": "Halleck",
+        "disambiguation": "tattoo artist and bass player",
+        "url": "https://www.setlist.fm/setlists/halleck-2bf730f6.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Zero"
+              },
+              {
+                "name": "Silêncios"
+              },
+              {
+                "name": "Lápides"
+              },
+              {
+                "name": "Mundo real"
+              },
+              {
+                "name": "Round and Round 2005",
+                "cover": {
+                  "mbid": "0bbdd366-30a0-4c5b-b7e0-b120ce6950dc",
+                  "name": "P'UNK~EN~CIEL",
+                  "sortName": "P'UNK~EN~CIEL",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/punkenciel-4bd62352.html"
+                }
+              },
+              {
+                "name": "ROUTE 666 -2010-",
+                "cover": {
+                  "mbid": "0bbdd366-30a0-4c5b-b7e0-b120ce6950dc",
+                  "name": "P'UNK~EN~CIEL",
+                  "sortName": "P'UNK~EN~CIEL",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/punkenciel-4bd62352.html"
+                }
+              },
+              {
+                "name": "A ratazana"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/halleck/2025/la-iglesia-borratxeria-sao-paulo-brazil-334f9c75.html"
+    },
+    {
+      "id": "234ed41f",
+      "versionId": "g5367c331",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-10-25T17:43:36.774+0000",
+      "artist": {
+        "mbid": "702eff62-d677-4325-b399-7a5719187b78",
+        "name": "Gloria",
+        "sortName": "Gloria",
+        "disambiguation": "Brazilian band",
+        "url": "https://www.setlist.fm/setlists/gloria-3bd1e0b8.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/gloria/2025/audio-sao-paulo-brazil-234ed41f.html"
+    },
+    {
+      "id": "2341c44b",
+      "versionId": "g537b1751",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-09-26T22:02:36.172+0000",
+      "artist": {
+        "mbid": "3ccb62ab-4615-4560-9a5c-f0c9e2cd643a",
+        "name": "Amina Claudine Myers Trio",
+        "sortName": "Amina Claudine Myers Trio",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/amina-claudine-myers-trio-63d0ca6f.html"
+      },
+      "venue": {
+        "id": "33d00451",
+        "name": "Teatro SESC Pompéia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-sesc-pompeia-sao-paulo-brazil-33d00451.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/amina-claudine-myers-trio/2025/teatro-sesc-pompeia-sao-paulo-brazil-2341c44b.html"
+    },
+    {
+      "id": "2341c413",
+      "versionId": "g53643b35",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-03T03:40:00.661+0000",
+      "artist": {
+        "mbid": "3a558793-98d2-4b42-aff6-a22ab89bd6f3",
+        "name": "Trio Mocotó",
+        "sortName": "Trio Mocotó",
+        "disambiguation": "Brazilian band",
+        "url": "https://www.setlist.fm/setlists/trio-mocoto-4bd77782.html"
+      },
+      "venue": {
+        "id": "3bd61ce8",
+        "name": "SESC Pompéia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-pompeia-sao-paulo-brazil-3bd61ce8.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Oba, lá vem ela",
+                "cover": {
+                  "mbid": "19499124-36d4-4ccc-b28d-04dde3d2076f",
+                  "name": "Jorge Ben Jor",
+                  "sortName": "Ben Jor, Jorge",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jorge-ben-jor-13d6e18d.html"
+                }
+              },
+              {
+                "name": "Apareceu Aparecida",
+                "cover": {
+                  "mbid": "19499124-36d4-4ccc-b28d-04dde3d2076f",
+                  "name": "Jorge Ben Jor",
+                  "sortName": "Ben Jor, Jorge",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jorge-ben-jor-13d6e18d.html"
+                },
+                "with": {
+                  "mbid": "8ca2eb30-779e-4c96-8238-749725fba4b1",
+                  "name": "Ellen Oléria",
+                  "sortName": "Oléria, Ellen",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ellen-oleria-4bde1f82.html"
+                }
+              },
+              {
+                "name": "O telefone tocou novamente",
+                "cover": {
+                  "mbid": "19499124-36d4-4ccc-b28d-04dde3d2076f",
+                  "name": "Jorge Ben Jor",
+                  "sortName": "Ben Jor, Jorge",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jorge-ben-jor-13d6e18d.html"
+                },
+                "with": {
+                  "mbid": "8ca2eb30-779e-4c96-8238-749725fba4b1",
+                  "name": "Ellen Oléria",
+                  "sortName": "Oléria, Ellen",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ellen-oleria-4bde1f82.html"
+                }
+              },
+              {
+                "name": "Não adianta"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/trio-mocoto/2025/sesc-pompeia-sao-paulo-brazil-2341c413.html"
+    },
+    {
+      "id": "1b4f95d0",
+      "versionId": "g1b642574",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-03T18:01:26.937+0000",
+      "artist": {
+        "mbid": "ff1ab033-6502-41da-835f-514d96c041f2",
+        "name": "Wagner Tiso",
+        "sortName": "Tiso, Wagner",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/wagner-tiso-5bd17760.html"
+      },
+      "venue": {
+        "id": "bd299e6",
+        "name": "Teatro SESC 24 de Maio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-sesc-24-de-maio-sao-paulo-brazil-bd299e6.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "name": "Entrada Da Banda",
+            "song": [
+              {
+                "name": "A Lenda do Boto"
+              },
+              {
+                "name": "Matança do Porco"
+              },
+              {
+                "name": "A igreja majestosa"
+              },
+              {
+                "name": "Um girassol da cor do seu cabelo",
+                "cover": {
+                  "mbid": "5bddb0fa-66f7-47c8-bf00-afecab627d59",
+                  "name": "Lô Borges",
+                  "sortName": "Borges, Lô",
+                  "disambiguation": "Brazilian singer, songwriter, and guitarist",
+                  "url": "https://www.setlist.fm/setlists/lo-borges-53d7f339.html"
+                },
+                "with": {
+                  "mbid": "376bf924-9d1e-42ea-989a-e2e2719e2fc4",
+                  "name": "Carla Casarim",
+                  "sortName": "Carla Casarim",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/carla-casarim-3e0f54f.html"
+                }
+              },
+              {
+                "name": "Os cafezais sem fim"
+              }
+            ]
+          },
+          {
+            "name": "Entrada do Maestro Wagner Tiso",
+            "song": [
+              {
+                "name": "Eu sei que vou te amar",
+                "cover": {
+                  "mbid": "a7e04169-5951-4e62-bab3-2879aa5048f6",
+                  "name": "Tom Jobim & Vinicius de Moraes",
+                  "sortName": "Jobim, Antônio Carlos & Moraes, Vinicius de",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/tom-jobim-and-vinicius-de-moraes-2bd5bc5a.html"
+                },
+                "info": "Instrumental"
+              },
+              {
+                "name": "Mente para mim"
+              },
+              {
+                "name": "Mar azul"
+              },
+              {
+                "name": "Olinda Guanabara"
+              },
+              {
+                "name": "Preto e branco"
+              },
+              {
+                "name": "Amor proibido"
+              },
+              {
+                "name": "Coração de estudante",
+                "cover": {
+                  "mbid": "1bfa27e3-0376-4206-a772-4586e25a64f5",
+                  "name": "Milton Nascimento",
+                  "sortName": "Nascimento, Milton",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/milton-nascimento-1bd62dec.html"
+                },
+                "with": {
+                  "mbid": "376bf924-9d1e-42ea-989a-e2e2719e2fc4",
+                  "name": "Carla Casarim",
+                  "sortName": "Carla Casarim",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/carla-casarim-3e0f54f.html"
+                }
+              },
+              {
+                "name": "Nada será como antes",
+                "cover": {
+                  "mbid": "1bfa27e3-0376-4206-a772-4586e25a64f5",
+                  "name": "Milton Nascimento",
+                  "sortName": "Nascimento, Milton",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/milton-nascimento-1bd62dec.html"
+                },
+                "with": {
+                  "mbid": "376bf924-9d1e-42ea-989a-e2e2719e2fc4",
+                  "name": "Carla Casarim",
+                  "sortName": "Carla Casarim",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/carla-casarim-3e0f54f.html"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Encore",
+            "song": [
+              {
+                "name": "Para Lennon e McCartney",
+                "cover": {
+                  "mbid": "5bddb0fa-66f7-47c8-bf00-afecab627d59",
+                  "name": "Lô Borges",
+                  "sortName": "Borges, Lô",
+                  "disambiguation": "Brazilian singer, songwriter, and guitarist",
+                  "url": "https://www.setlist.fm/setlists/lo-borges-53d7f339.html"
+                },
+                "with": {
+                  "mbid": "376bf924-9d1e-42ea-989a-e2e2719e2fc4",
+                  "name": "Carla Casarim",
+                  "sortName": "Carla Casarim",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/carla-casarim-3e0f54f.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "",
+      "url": "https://www.setlist.fm/setlist/wagner-tiso/2025/teatro-sesc-24-de-maio-sao-paulo-brazil-1b4f95d0.html"
+    },
+    {
+      "id": "1b4e0d20",
+      "versionId": "g23641c07",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-03T22:29:00.296+0000",
+      "artist": {
+        "mbid": "eac6cfdb-3d9b-4210-a8ae-9349459ae1de",
+        "name": "Bella e o Olmo da Bruxa",
+        "sortName": "Bella e o Olmo da Bruxa",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/bella-e-o-olmo-da-bruxa-3e6297b.html"
+      },
+      "venue": {
+        "id": "23d7ac8f",
+        "name": "SESC Belenzinho",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-belenzinho-sao-paulo-brazil-23d7ac8f.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Bem no seu aniversário"
+              },
+              {
+                "name": "Nova paixão"
+              },
+              {
+                "name": "briga de irmão e outras cadeias de violência"
+              },
+              {
+                "name": "The End of Evangelion"
+              },
+              {
+                "name": "E as frases?"
+              },
+              {
+                "name": "Eu sei, é foda"
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": "Deus, Gay"
+              },
+              {
+                "name": "Neon Genesis Evangelion II"
+              },
+              {
+                "name": "A melhor música do mundo"
+              },
+              {
+                "name": "Vou me matar"
+              },
+              {
+                "name": "Mesmo assim"
+              },
+              {
+                "name": "Pra ti guria"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Teu pra vida toda / Uma rosa sem espinhos"
+              },
+              {
+                "name": "Tu me trocou por um cara que usa sapatênis"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Setlist fora de ordem",
+      "url": "https://www.setlist.fm/setlist/bella-e-o-olmo-da-bruxa/2025/sesc-belenzinho-sao-paulo-brazil-1b4e0d20.html"
+    },
+    {
+      "id": "1b41c55c",
+      "versionId": "g137b1515",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-09-26T21:10:50.648+0000",
+      "artist": {
+        "mbid": "29f7bb34-556c-45c0-b07e-a3376256a2ad",
+        "name": "Aymée Nuviola",
+        "sortName": "Nuviola, Aymée",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/aymee-nuviola-4bd21322.html"
+      },
+      "venue": {
+        "id": "43d13763",
+        "name": "Sesc 14 Bis",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-14-bis-sao-paulo-brazil-43d13763.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/aymee-nuviola/2025/sesc-14-bis-sao-paulo-brazil-1b41c55c.html"
+    },
+    {
+      "id": "1b41c550",
+      "versionId": "g1364356d",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-03T04:35:25.124+0000",
+      "artist": {
+        "mbid": "8a527bd8-bbee-4667-a36b-7dd68f218139",
+        "name": "Etran de L’Aïr",
+        "sortName": "Etran de L’Aïr",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/etran-de-lair-bc81dca.html"
+      },
+      "venue": {
+        "id": "3bd61ce8",
+        "name": "SESC Pompéia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-pompeia-sao-paulo-brazil-3bd61ce8.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Imouwizla"
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": "Imouha"
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": "Agadez"
+              },
+              {
+                "name": ""
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": ""
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/etran-de-lair/2025/sesc-pompeia-sao-paulo-brazil-1b41c550.html"
+    },
+    {
+      "id": "1345f96d",
+      "versionId": "g3365b0f1",
+      "eventDate": "02-11-2025",
+      "lastUpdated": "2025-11-07T01:45:29.263+0000",
+      "artist": {
+        "mbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+        "name": "Weezer",
+        "sortName": "Weezer",
+        "disambiguation": "American rock band",
+        "url": "https://www.setlist.fm/setlists/weezer-33d6a4f9.html"
+      },
+      "venue": {
+        "id": "3bd638bc",
+        "name": "Parque do Ibirapuera",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-do-ibirapuera-sao-paulo-brazil-3bd638bc.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Sheraton Commander",
+                "info": "Instrumental intro"
+              },
+              {
+                "name": "My Name Is Jonas"
+              },
+              {
+                "name": "Dope Nose",
+                "info": "with a snippet of \"Troublemaker\""
+              },
+              {
+                "name": "No One Else"
+              },
+              {
+                "name": "Perfect Situation"
+              },
+              {
+                "name": "Run, Raven, Run",
+                "info": "“Pacific Sunset” portion only"
+              },
+              {
+                "name": "Hash Pipe"
+              },
+              {
+                "name": "Surf Wax America"
+              },
+              {
+                "name": "Undone - The Sweater Song"
+              },
+              {
+                "name": "Island in the Sun"
+              },
+              {
+                "name": "Holiday"
+              },
+              {
+                "name": "In the Garage"
+              },
+              {
+                "name": "Why Bother?"
+              },
+              {
+                "name": "You Gave Your Love to Me Softly"
+              },
+              {
+                "name": "Pink Triangle"
+              },
+              {
+                "name": "Beverly Hills",
+                "info": "with \"Living in São Paulo, Brazil\" lyric change"
+              },
+              {
+                "name": "I Just Threw Out the Love of My Dreams"
+              },
+              {
+                "name": "Pork and Beans",
+                "info": "with \"Milton Nascimento knows the way to reach the top of the charts\" lyric change"
+              },
+              {
+                "name": "El Scorcho",
+                "info": "with \"Goddamn you half-Brazilian girls\" lyric change"
+              },
+              {
+                "name": "The Good Life"
+              },
+              {
+                "name": "Say It Ain't So"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Buddy Holly"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Josh Freese on drums; Pat on third guitar",
+      "url": "https://www.setlist.fm/setlist/weezer/2025/parque-do-ibirapuera-sao-paulo-brazil-1345f96d.html"
+    },
+    {
+      "id": "b41c552",
+      "versionId": "g4b64db46",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-02T06:39:59.107+0000",
+      "artist": {
+        "mbid": "8a527bd8-bbee-4667-a36b-7dd68f218139",
+        "name": "Etran de L’Aïr",
+        "sortName": "Etran de L’Aïr",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/etran-de-lair-bc81dca.html"
+      },
+      "venue": {
+        "id": "3bd61ce8",
+        "name": "SESC Pompéia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-pompeia-sao-paulo-brazil-3bd61ce8.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/etran-de-lair/2025/sesc-pompeia-sao-paulo-brazil-b41c552.html"
+    },
+    {
+      "id": "7b4e0a30",
+      "versionId": "gb67f12e",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-10-24T03:28:01.841+0000",
+      "artist": {
+        "mbid": "40e48144-9adf-46a6-9ebb-555682e8c5d2",
+        "name": "Garage Fuzz",
+        "sortName": "Garage Fuzz",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/garage-fuzz-2bd6c0c6.html"
+      },
+      "venue": {
+        "id": "2bd2c07e",
+        "name": "SESC Avenida Paulista",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-avenida-paulista-sao-paulo-brazil-2bd2c07e.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/garage-fuzz/2025/sesc-avenida-paulista-sao-paulo-brazil-7b4e0a30.html"
+    },
+    {
+      "id": "734fa2dd",
+      "versionId": "g53640b41",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-04T11:20:29.930+0000",
+      "artist": {
+        "mbid": "ee25b55f-3d66-4a2b-9191-05100b9441ac",
+        "name": "Exclusive Os Cabides",
+        "sortName": "Exclusive Os Cabides",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/exclusive-os-cabides-63e192fb.html"
+      },
+      "venue": {
+        "id": "5bd1a36c",
+        "name": "PORTA",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/porta-sao-paulo-brazil-5bd1a36c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Coisas estranhas"
+              },
+              {
+                "name": "Sambinha"
+              },
+              {
+                "name": "Pilha eletrônica"
+              },
+              {
+                "name": "Save the Bees ou Deus salve as abelhas"
+              },
+              {
+                "name": "Verão e brechó"
+              },
+              {
+                "name": "Siris paradinhos em um cantinho bem de boa"
+              },
+              {
+                "name": "Bicicleta"
+              },
+              {
+                "name": "Gaita em formato de trem"
+              },
+              {
+                "name": "Lucy"
+              },
+              {
+                "name": "Rua da lua cheia"
+              },
+              {
+                "name": "AAAAAAAAA"
+              },
+              {
+                "name": "Luminária de lava"
+              },
+              {
+                "name": "Sonho estranho"
+              },
+              {
+                "name": "Lagartixa tropical"
+              },
+              {
+                "name": "Mr. Lanches",
+                "info": "With punk outro"
+              },
+              {
+                "name": "Gato preto"
+              },
+              {
+                "name": "Sobremesa com você"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/exclusive-os-cabides/2025/porta-sao-paulo-brazil-734fa2dd.html"
+    },
+    {
+      "id": "634fbe6f",
+      "versionId": "g2b64947a",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-10-31T04:01:33.123+0000",
+      "artist": {
+        "mbid": "47510ab8-911b-48a6-bf53-dd46d7bcbb6d",
+        "name": "Dor",
+        "sortName": "Dor",
+        "disambiguation": "São Paulo black metal/punk",
+        "url": "https://www.setlist.fm/setlists/dor-b902db6.html"
+      },
+      "venue": {
+        "id": "4bde971e",
+        "name": "Estúdio Páprica",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/estudio-paprica-sao-paulo-brazil-4bde971e.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/dor/2025/estudio-paprica-sao-paulo-brazil-634fbe6f.html"
+    }
+  ]
+}

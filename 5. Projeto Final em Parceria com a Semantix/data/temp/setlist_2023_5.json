@@ -1,0 +1,1325 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 5,
+  "total": 2415,
+  "setlist": [
+    {
+      "id": "73ae0251",
+      "versionId": "g638d0a87",
+      "eventDate": "11-12-2023",
+      "lastUpdated": "2023-12-13T02:53:51.470+0000",
+      "artist": {
+        "mbid": "61a5ecbc-94af-4af2-87d0-fcba29268cca",
+        "name": "Lucas Inutilismo",
+        "sortName": "Lucas Inutilismo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/lucas-inutilismo-73fc52e9.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "All My Life",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Everlong",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Basket Case",
+                "cover": {
+                  "mbid": "084308bd-1654-436f-ba03-df6697104e19",
+                  "name": "Green Day",
+                  "sortName": "Green Day",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/green-day-13d68939.html"
+                }
+              },
+              {
+                "name": "Sweet Child o' Mine",
+                "cover": {
+                  "mbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+                  "name": "Guns N’ Roses",
+                  "sortName": "Guns N’ Roses",
+                  "disambiguation": "American hard rock band from Los Angeles",
+                  "url": "https://www.setlist.fm/setlists/guns-n-roses-7bd69e24.html"
+                }
+              },
+              {
+                "name": "Bulls on Parade",
+                "cover": {
+                  "mbid": "3798b104-01cb-484c-a3b0-56adc6399b80",
+                  "name": "Rage Against the Machine",
+                  "sortName": "Rage Against the Machine",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/rage-against-the-machine-bd68946.html"
+                }
+              },
+              {
+                "name": "Enter Sandman",
+                "cover": {
+                  "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name": "Metallica",
+                  "sortName": "Metallica",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+                }
+              },
+              {
+                "name": "Master of Puppets",
+                "cover": {
+                  "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                  "name": "Metallica",
+                  "sortName": "Metallica",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/metallica-3bd680c8.html"
+                }
+              },
+              {
+                "name": "Aerials",
+                "cover": {
+                  "mbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                  "name": "System of a Down",
+                  "sortName": "System of a Down",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/system-of-a-down-23d69cd7.html"
+                }
+              },
+              {
+                "name": "Misery Business",
+                "cover": {
+                  "mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+                  "name": "Paramore",
+                  "sortName": "Paramore",
+                  "disambiguation": "American pop rock band",
+                  "url": "https://www.setlist.fm/setlists/paramore-1bd6d1c4.html"
+                }
+              },
+              {
+                "name": "Before I Forget",
+                "cover": {
+                  "mbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+                  "name": "Slipknot",
+                  "sortName": "Slipknot",
+                  "disambiguation": "US metal band",
+                  "url": "https://www.setlist.fm/setlists/slipknot-1bd6a5b4.html"
+                }
+              },
+              {
+                "name": "In the End",
+                "cover": {
+                  "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+                  "name": "Linkin Park",
+                  "sortName": "Linkin Park",
+                  "disambiguation": "American rock band",
+                  "url": "https://www.setlist.fm/setlists/linkin-park-bd6bdae.html"
+                }
+              },
+              {
+                "name": "Killing in the Name",
+                "cover": {
+                  "mbid": "3798b104-01cb-484c-a3b0-56adc6399b80",
+                  "name": "Rage Against the Machine",
+                  "sortName": "Rage Against the Machine",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/rage-against-the-machine-bd68946.html"
+                }
+              },
+              {
+                "name": "Given Up",
+                "cover": {
+                  "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+                  "name": "Linkin Park",
+                  "sortName": "Linkin Park",
+                  "disambiguation": "American rock band",
+                  "url": "https://www.setlist.fm/setlists/linkin-park-bd6bdae.html"
+                }
+              },
+              {
+                "name": "Toxicity",
+                "cover": {
+                  "mbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                  "name": "System of a Down",
+                  "sortName": "System of a Down",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/system-of-a-down-23d69cd7.html"
+                }
+              },
+              {
+                "name": "B.Y.O.B.",
+                "cover": {
+                  "mbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                  "name": "System of a Down",
+                  "sortName": "System of a Down",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/system-of-a-down-23d69cd7.html"
+                }
+              },
+              {
+                "name": "Odisseia"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/lucas-inutilismo/2023/audio-sao-paulo-brazil-73ae0251.html"
+    },
+    {
+      "id": "5baf7b4c",
+      "versionId": "g388f9b3",
+      "eventDate": "11-12-2023",
+      "lastUpdated": "2024-01-09T19:39:58.683+0000",
+      "artist": {
+        "mbid": "d3acca3b-2a75-4b2d-b15c-a5f6ee723b45",
+        "name": "Wanessa Camargo",
+        "sortName": "Wanessa Camargo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/wanessa-camargo-53d3b3cd.html"
+      },
+      "venue": {
+        "id": "3d4b503",
+        "name": "Altas Horas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/altas-horas-sao-paulo-brazil-3d4b503.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Tindolelê",
+                "cover": {
+                  "mbid": "cf07508b-4762-4650-990a-23376e023f55",
+                  "name": "Xuxa",
+                  "sortName": "Xuxa",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/xuxa-63d48623.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Data de exibição: 30 de dezembro de 2023",
+      "url": "https://www.setlist.fm/setlist/wanessa-camargo/2023/altas-horas-sao-paulo-brazil-5baf7b4c.html"
+    },
+    {
+      "id": "53af7b4d",
+      "versionId": "g389512f",
+      "eventDate": "11-12-2023",
+      "lastUpdated": "2024-01-26T17:22:35.776+0000",
+      "artist": {
+        "mbid": "ed667cac-2fdb-4401-973b-81c5b4a1717d",
+        "name": "Luísa Sonza",
+        "sortName": "Luísa Sonza",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/luisa-sonza-7bcad274.html"
+      },
+      "venue": {
+        "id": "3d4b503",
+        "name": "Altas Horas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/altas-horas-sao-paulo-brazil-3d4b503.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Amor e sexo",
+                "cover": {
+                  "mbid": "3f962bf0-42a0-45a0-830f-07b66301d35f",
+                  "name": "Rita Lee",
+                  "sortName": "Lee, Rita",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/rita-lee-53d6c705.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "TV show aired on December 30, 2023",
+      "url": "https://www.setlist.fm/setlist/luisa-sonza/2023/altas-horas-sao-paulo-brazil-53af7b4d.html"
+    },
+    {
+      "id": "53af7b45",
+      "versionId": "g1b88f998",
+      "eventDate": "11-12-2023",
+      "lastUpdated": "2024-01-09T19:50:25.294+0000",
+      "artist": {
+        "mbid": "0b3e758c-9a50-415f-b91b-7fd3e80aa8aa",
+        "name": "Marquinhos Moura",
+        "sortName": "Marquinhos Moura",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/marquinhos-moura-23f380bf.html"
+      },
+      "venue": {
+        "id": "3d4b503",
+        "name": "Altas Horas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/altas-horas-sao-paulo-brazil-3d4b503.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Meu mel"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Data de exibição: 30 de dezembro de 2023",
+      "url": "https://www.setlist.fm/setlist/marquinhos-moura/2023/altas-horas-sao-paulo-brazil-53af7b45.html"
+    },
+    {
+      "id": "53af7b39",
+      "versionId": "g1b88f980",
+      "eventDate": "11-12-2023",
+      "lastUpdated": "2024-01-09T19:54:34.739+0000",
+      "artist": {
+        "mbid": "44af06ca-d177-43aa-9d11-2aa02992198c",
+        "name": "Vanessa Jackson",
+        "sortName": "Jackson, Vanessa",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/vanessa-jackson-1bc4b1cc.html"
+      },
+      "venue": {
+        "id": "3d4b503",
+        "name": "Altas Horas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/altas-horas-sao-paulo-brazil-3d4b503.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Madalena",
+                "cover": {
+                  "mbid": "e9e85a54-074c-4d29-a886-bcaaa9d44f9f",
+                  "name": "Elis Regina",
+                  "sortName": "Regina, Elis",
+                  "disambiguation": "Brazilian pop & jazz singer",
+                  "url": "https://www.setlist.fm/setlists/elis-regina-13d6e189.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Data de exibição: 30 de dezembro de 2023",
+      "url": "https://www.setlist.fm/setlist/vanessa-jackson/2023/altas-horas-sao-paulo-brazil-53af7b39.html"
+    },
+    {
+      "id": "53af7b31",
+      "versionId": "g2b88f85e",
+      "eventDate": "11-12-2023",
+      "lastUpdated": "2024-01-09T20:09:12.866+0000",
+      "artist": {
+        "mbid": "f3580347-b84a-47d8-b86e-cad642322a47",
+        "name": "Vanessa da Mata",
+        "sortName": "Mata, Vanessa da",
+        "disambiguation": "Brazilian singer-songwriter",
+        "url": "https://www.setlist.fm/setlists/vanessa-da-mata-73d62e49.html"
+      },
+      "venue": {
+        "id": "3d4b503",
+        "name": "Altas Horas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/altas-horas-sao-paulo-brazil-3d4b503.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Comentário a respeito de John",
+                "cover": {
+                  "mbid": "d51c2d7f-921e-4f24-9fe7-92efc5189708",
+                  "name": "Belchior",
+                  "sortName": "Belchior",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/belchior-4bd73fda.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Data de exibição: 30 de dezembro de 2023",
+      "url": "https://www.setlist.fm/setlist/vanessa-da-mata/2023/altas-horas-sao-paulo-brazil-53af7b31.html"
+    },
+    {
+      "id": "4baf7b42",
+      "versionId": "g3388f845",
+      "eventDate": "11-12-2023",
+      "lastUpdated": "2024-01-09T20:15:26.518+0000",
+      "artist": {
+        "mbid": "e50df74a-d5be-4109-aa8b-02cc6b092a42",
+        "name": "Samuel Rosa",
+        "sortName": "Rosa, Samuel",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/samuel-rosa-2bdf60b6.html"
+      },
+      "venue": {
+        "id": "3d4b503",
+        "name": "Altas Horas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/altas-horas-sao-paulo-brazil-3d4b503.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "O trem azul",
+                "cover": {
+                  "mbid": "5bddb0fa-66f7-47c8-bf00-afecab627d59",
+                  "name": "Lô Borges",
+                  "sortName": "Borges, Lô",
+                  "disambiguation": "Brazilian singer, songwriter, and guitarist",
+                  "url": "https://www.setlist.fm/setlists/lo-borges-53d7f339.html"
+                }
+              },
+              {
+                "name": "Vou deixar",
+                "cover": {
+                  "mbid": "25db5fde-2384-4baf-8e3d-d8299b4c99ef",
+                  "name": "Skank",
+                  "sortName": "Skank",
+                  "disambiguation": "Brazilian band",
+                  "url": "https://www.setlist.fm/setlists/skank-73d6d23d.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Data de exibição: 30 de dezembro de 2023",
+      "url": "https://www.setlist.fm/setlist/samuel-rosa/2023/altas-horas-sao-paulo-brazil-4baf7b42.html"
+    },
+    {
+      "id": "4baf7b3e",
+      "versionId": "g2b88f87a",
+      "eventDate": "11-12-2023",
+      "lastUpdated": "2024-01-09T19:56:41.592+0000",
+      "artist": {
+        "mbid": "4551f5c4-ec6d-440d-bee6-83d978103a94",
+        "name": "Regis Danese",
+        "sortName": "Danese, Regis",
+        "disambiguation": "Brazilian Contemporany Christian Singer (João Geraldo Danese Silveira)",
+        "url": "https://www.setlist.fm/setlists/regis-danese-5bd24bd0.html"
+      },
+      "venue": {
+        "id": "3d4b503",
+        "name": "Altas Horas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/altas-horas-sao-paulo-brazil-3d4b503.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Faz um milagre em mim"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Data de exibição: 30 de dezembro de 2023",
+      "url": "https://www.setlist.fm/setlist/regis-danese/2023/altas-horas-sao-paulo-brazil-4baf7b3e.html"
+    },
+    {
+      "id": "43af7b33",
+      "versionId": "g2b88f876",
+      "eventDate": "11-12-2023",
+      "lastUpdated": "2024-01-09T19:58:51.570+0000",
+      "artist": {
+        "mbid": "bf015cb9-c040-4350-b301-dc9535f2863f",
+        "name": "Moacyr Franco",
+        "sortName": "Franco, Moacyr",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/moacyr-franco-73d37a91.html"
+      },
+      "venue": {
+        "id": "3d4b503",
+        "name": "Altas Horas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/altas-horas-sao-paulo-brazil-3d4b503.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Ainda ontem chorei de saudade"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Data de exibição: 30 de dezembro de 2023",
+      "url": "https://www.setlist.fm/setlist/moacyr-franco/2023/altas-horas-sao-paulo-brazil-43af7b33.html"
+    },
+    {
+      "id": "b5c557a",
+      "versionId": "g2b5d7472",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2025-01-04T18:01:10.992+0000",
+      "artist": {
+        "mbid": "c2d688e6-c161-40d3-a38a-1cb8c5ed30a2",
+        "name": "Rockfun Legends",
+        "sortName": "Rockfun Legends",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/rockfun-legends-4be29bc2.html"
+      },
+      "venue": {
+        "id": "33deec19",
+        "name": "Manifesto Skate Park",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/manifesto-skate-park-sao-paulo-brazil-33deec19.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/rockfun-legends/2023/manifesto-skate-park-sao-paulo-brazil-b5c557a.html"
+    },
+    {
+      "id": "7bae0a18",
+      "versionId": "g138d1135",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2023-12-12T18:13:15.452+0000",
+      "artist": {
+        "mbid": "c9cd225b-4883-428e-82c2-73e0b6282fb6",
+        "name": "Lil Durk",
+        "sortName": "Lil Durk",
+        "disambiguation": "Chicago rapper",
+        "url": "https://www.setlist.fm/setlists/lil-durk-63dc269b.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Pelle Coat"
+              },
+              {
+                "name": "All My Life"
+              },
+              {
+                "name": "Laugh Now Cry Later",
+                "cover": {
+                  "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                  "name": "Drake",
+                  "sortName": "Drake",
+                  "disambiguation": "Canadian rapper",
+                  "url": "https://www.setlist.fm/setlists/drake-23d774a3.html"
+                }
+              },
+              {
+                "name": "Who Want Smoke??",
+                "cover": {
+                  "mbid": "0eea08e2-1363-4b36-bbe8-9691ae3892b6",
+                  "name": "Nardo Wick",
+                  "sortName": "Nardo Wick",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/nardo-wick-3f4717f.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Setlist incomplete",
+      "url": "https://www.setlist.fm/setlist/lil-durk/2023/neo-quimica-arena-sao-paulo-brazil-7bae0a18.html"
+    },
+    {
+      "id": "73aff2f5",
+      "versionId": "g6b8b9e9a",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2023-12-30T01:53:00.336+0000",
+      "artist": {
+        "mbid": "089614aa-48f9-4b37-8634-bde0ee91cd02",
+        "name": "Thisquietarmy",
+        "sortName": "Thisquietarmy",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/thisquietarmy-23d7c413.html"
+      },
+      "venue": {
+        "id": "6bd46e1e",
+        "name": "Dissenso Lounge",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/dissenso-lounge-sao-paulo-brazil-6bd46e1e.html"
+      },
+      "tour": {
+        "name": "South America 2023"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/thisquietarmy/2023/dissenso-lounge-sao-paulo-brazil-73aff2f5.html"
+    },
+    {
+      "id": "735c5a8d",
+      "versionId": "g335d7479",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2025-01-04T18:00:31.381+0000",
+      "artist": {
+        "mbid": "10b15dc5-5aab-4a69-b82b-6de6e310e2b4",
+        "name": "Siegrid Ingrid",
+        "sortName": "Ingrid, Siegrid",
+        "disambiguation": "Brazilian metal band",
+        "url": "https://www.setlist.fm/setlists/siegrid-ingrid-33e27891.html"
+      },
+      "venue": {
+        "id": "33deec19",
+        "name": "Manifesto Skate Park",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/manifesto-skate-park-sao-paulo-brazil-33deec19.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Forces"
+              },
+              {
+                "name": "Murder"
+              },
+              {
+                "name": "Nojo"
+              },
+              {
+                "name": "Your Trivial World"
+              },
+              {
+                "name": "Never Again"
+              },
+              {
+                "name": "The Path to Nothingness"
+              },
+              {
+                "name": "The Falsity Is True"
+              },
+              {
+                "name": "Demência"
+              },
+              {
+                "name": "Depressed"
+              },
+              {
+                "name": "When You Die"
+              },
+              {
+                "name": "Enéas"
+              },
+              {
+                "name": "Suicide"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/siegrid-ingrid/2023/manifesto-skate-park-sao-paulo-brazil-735c5a8d.html"
+    },
+    {
+      "id": "6bae0a1e",
+      "versionId": "g38d115b",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2023-12-12T17:54:20.023+0000",
+      "artist": {
+        "mbid": "5721c227-4caf-48b1-bbfc-1a4ed3276963",
+        "name": "Roddy Ricch",
+        "sortName": "Roddy Ricch",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/roddy-ricch-2bc938da.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "ROCKSTAR",
+                "cover": {
+                  "mbid": "87ae83df-6173-40cc-a0f2-bad543faa6aa",
+                  "name": "DaBaby",
+                  "sortName": "DaBaby",
+                  "disambiguation": "US rapper Jonathan Lyndale Kirk",
+                  "url": "https://www.setlist.fm/setlists/dababy-3bccac74.html"
+                }
+              },
+              {
+                "name": "4 Da Gang",
+                "cover": {
+                  "mbid": "4214aa04-64b0-442a-982b-0560e6d3a5bd",
+                  "name": "42 Dugg",
+                  "sortName": "42 Dugg",
+                  "disambiguation": "Detroit rapper",
+                  "url": "https://www.setlist.fm/setlists/42-dugg-7bf2e600.html"
+                }
+              },
+              {
+                "name": "Every Season"
+              },
+              {
+                "name": "Down Below"
+              },
+              {
+                "name": "Die Young"
+              },
+              {
+                "name": "Lemonade",
+                "cover": {
+                  "mbid": "72f8d4f4-a167-4b66-8b65-46fe0a07f63b",
+                  "name": "Internet Money",
+                  "sortName": "Internet Money",
+                  "disambiguation": "producer collective",
+                  "url": "https://www.setlist.fm/setlists/internet-money-3bf4d82c.html"
+                },
+                "info": "Remix"
+              },
+              {
+                "name": "High Fashion"
+              },
+              {
+                "name": "The Woo",
+                "cover": {
+                  "mbid": "253c9ae7-850b-46be-8fbb-65e9fa621058",
+                  "name": "Pop Smoke",
+                  "sortName": "Pop Smoke",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pop-smoke-7bf64620.html"
+                }
+              },
+              {
+                "name": "Ballin'",
+                "cover": {
+                  "mbid": "0612bcce-e351-40be-b3d7-2bb5e1c23479",
+                  "name": "Mustard",
+                  "sortName": "Mustard",
+                  "disambiguation": "fka DJ Mustard, US hip‐hop producer",
+                  "url": "https://www.setlist.fm/setlists/mustard-3bdd10b0.html"
+                }
+              },
+              {
+                "name": "The Box"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "The Box"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/roddy-ricch/2023/neo-quimica-arena-sao-paulo-brazil-6bae0a1e.html"
+    },
+    {
+      "id": "5bae0fc0",
+      "versionId": "g2b8b7456",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-01-04T22:59:03.712+0000",
+      "artist": {
+        "mbid": "ba550d0e-adac-4864-b88b-407cab5e76af",
+        "name": "Paul McCartney",
+        "sortName": "McCartney, Paul",
+        "disambiguation": "The Beatles",
+        "url": "https://www.setlist.fm/setlists/paul-mccartney-13d6bd15.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "VIP soundchecks with ticketed audience"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Instrumental Jam"
+              },
+              {
+                "name": "Ram On",
+                "cover": {
+                  "mbid": "cd7a47b2-bdcb-413f-a939-7d8d55bd6fc3",
+                  "name": "Paul & Linda McCartney",
+                  "sortName": "McCartney, Paul & McCartney, Linda",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/paul-and-linda-mccartney-3bd68830.html"
+                }
+              },
+              {
+                "name": "From Me to You",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Lady Madonna",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Let 'Em In",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "Drive My Car",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Women and Wives"
+              },
+              {
+                "name": "New"
+              },
+              {
+                "name": "Coming Up"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/paul-mccartney/2023/allianz-parque-sao-paulo-brazil-5bae0fc0.html"
+    },
+    {
+      "id": "5bae079c",
+      "versionId": "g63aba223",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-09-11T23:55:43.415+0000",
+      "artist": {
+        "mbid": "86074988-4a29-46f5-936e-1437ad71c04c",
+        "name": "Valesca Popozuda",
+        "sortName": "Popozuda, Valesca",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/valesca-popozuda-53dbe7d1.html"
+      },
+      "venue": {
+        "id": "6bdea6ce",
+        "name": "Parque Villa-Lobos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-villa-lobos-sao-paulo-brazil-6bdea6ce.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/valesca-popozuda/2023/parque-villa-lobos-sao-paulo-brazil-5bae079c.html"
+    },
+    {
+      "id": "5bae0798",
+      "versionId": "g6baba222",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-09-11T23:55:43.418+0000",
+      "artist": {
+        "mbid": "f3580347-b84a-47d8-b86e-cad642322a47",
+        "name": "Vanessa da Mata",
+        "sortName": "Mata, Vanessa da",
+        "disambiguation": "Brazilian singer-songwriter",
+        "url": "https://www.setlist.fm/setlists/vanessa-da-mata-73d62e49.html"
+      },
+      "venue": {
+        "id": "6bdea6ce",
+        "name": "Parque Villa-Lobos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-villa-lobos-sao-paulo-brazil-6bdea6ce.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/vanessa-da-mata/2023/parque-villa-lobos-sao-paulo-brazil-5bae0798.html"
+    },
+    {
+      "id": "5babb3e0",
+      "versionId": "g43adcbbb",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-08-28T21:07:02.336+0000",
+      "artist": {
+        "mbid": "7f742556-520e-4ff2-9741-e55250fd32d1",
+        "name": "Bazuros",
+        "sortName": "Bazuros",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/bazuros-7be4c67c.html"
+      },
+      "venue": {
+        "id": "6bd38e0e",
+        "name": "Casa de Cultura do Butantã",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-de-cultura-do-butanta-sao-paulo-brazil-6bd38e0e.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/bazuros/2023/casa-de-cultura-do-butanta-sao-paulo-brazil-5babb3e0.html"
+    },
+    {
+      "id": "4bae4766",
+      "versionId": "g53748391",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2025-06-30T03:23:40.702+0000",
+      "artist": {
+        "mbid": "be42aaaa-9703-41dc-b2eb-de03e30f83b9",
+        "name": "Matuê",
+        "sortName": "Matuê",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/matue-3f76da3.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Máquina do tempo"
+              },
+              {
+                "name": "Boomzim"
+              },
+              {
+                "name": "De peça em peça"
+              },
+              {
+                "name": "Banco"
+              },
+              {
+                "name": "Antes"
+              },
+              {
+                "name": "Cogulândia"
+              },
+              {
+                "name": "Quer voar"
+              },
+              {
+                "name": "É sal"
+              },
+              {
+                "name": "Conexões de máfia"
+              },
+              {
+                "name": "Vampiro"
+              },
+              {
+                "name": "777-666"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/matue/2023/neo-quimica-arena-sao-paulo-brazil-4bae4766.html"
+    },
+    {
+      "id": "4bae475a",
+      "versionId": "g7b748258",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2025-06-30T03:36:17.617+0000",
+      "artist": {
+        "mbid": "fec31aa4-14fd-4bdf-b6eb-0c833ea916eb",
+        "name": "Teto",
+        "sortName": "Teto",
+        "disambiguation": "Brazilian rapper",
+        "url": "https://www.setlist.fm/setlists/teto-63f39e7b.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "M4"
+              },
+              {
+                "name": "Manha"
+              },
+              {
+                "name": "Paypal"
+              },
+              {
+                "name": "Dia Azul"
+              },
+              {
+                "name": "Groupies",
+                "cover": {
+                  "mbid": "be42aaaa-9703-41dc-b2eb-de03e30f83b9",
+                  "name": "Matuê",
+                  "sortName": "Matuê",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/matue-3f76da3.html"
+                }
+              },
+              {
+                "name": "Mustang preto"
+              },
+              {
+                "name": "Flow espacial"
+              },
+              {
+                "name": "Balazul"
+              },
+              {
+                "name": "QUEM NÃO PARA VENCE / VIDA LONGA AO REI",
+                "cover": {
+                  "mbid": "42fd489a-d479-4373-b15a-84570082e0e7",
+                  "name": "Mateca",
+                  "sortName": "Mateca",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/mateca-43fef337.html"
+                },
+                "with": {
+                  "mbid": "42fd489a-d479-4373-b15a-84570082e0e7",
+                  "name": "Mateca",
+                  "sortName": "Mateca",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/mateca-43fef337.html"
+                }
+              },
+              {
+                "name": "Fim de Semana No Rio"
+              },
+              {
+                "name": "Vampiro"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/teto/2023/neo-quimica-arena-sao-paulo-brazil-4bae475a.html"
+    }
+  ]
+}

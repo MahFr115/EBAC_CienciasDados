@@ -1,0 +1,1884 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 6,
+  "total": 2415,
+  "setlist": [
+    {
+      "id": "4bae07b6",
+      "versionId": "g35eb56f",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-12-03T13:40:42.396+0000",
+      "artist": {
+        "mbid": "6c8806e3-9f74-4dd1-9fcb-63352d1ba2a0",
+        "name": "Liniker",
+        "sortName": "Liniker",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/liniker-33cf6c85.html"
+      },
+      "venue": {
+        "id": "6bdea6ce",
+        "name": "Parque Villa-Lobos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-villa-lobos-sao-paulo-brazil-6bdea6ce.html"
+      },
+      "tour": {
+        "name": "Indigo Borboleta Anil"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Lili"
+              },
+              {
+                "name": "Antes de tudo"
+              },
+              {
+                "name": "Presente"
+              },
+              {
+                "name": "Bem bom",
+                "cover": {
+                  "mbid": "32a2989f-d5cb-48bc-9907-15eee26d00c8",
+                  "name": "Liniker e os Caramelows",
+                  "sortName": "Liniker e os Caramelows",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/liniker-e-os-caramelows-13c591b9.html"
+                }
+              },
+              {
+                "name": "Intimidade",
+                "cover": {
+                  "mbid": "32a2989f-d5cb-48bc-9907-15eee26d00c8",
+                  "name": "Liniker e os Caramelows",
+                  "sortName": "Liniker e os Caramelows",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/liniker-e-os-caramelows-13c591b9.html"
+                }
+              },
+              {
+                "name": "Calmô",
+                "cover": {
+                  "mbid": "32a2989f-d5cb-48bc-9907-15eee26d00c8",
+                  "name": "Liniker e os Caramelows",
+                  "sortName": "Liniker e os Caramelows",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/liniker-e-os-caramelows-13c591b9.html"
+                }
+              },
+              {
+                "name": "Zero",
+                "cover": {
+                  "mbid": "32a2989f-d5cb-48bc-9907-15eee26d00c8",
+                  "name": "Liniker e os Caramelows",
+                  "sortName": "Liniker e os Caramelows",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/liniker-e-os-caramelows-13c591b9.html"
+                }
+              },
+              {
+                "name": "Clau"
+              },
+              {
+                "name": "Nao adianta",
+                "cover": {
+                  "mbid": "3a558793-98d2-4b42-aff6-a22ab89bd6f3",
+                  "name": "Trio Mocotó",
+                  "sortName": "Trio Mocotó",
+                  "disambiguation": "Brazilian band",
+                  "url": "https://www.setlist.fm/setlists/trio-mocoto-4bd77782.html"
+                }
+              },
+              {
+                "name": "Nao adianta",
+                "cover": {
+                  "mbid": "3a558793-98d2-4b42-aff6-a22ab89bd6f3",
+                  "name": "Trio Mocotó",
+                  "sortName": "Trio Mocotó",
+                  "disambiguation": "Brazilian band",
+                  "url": "https://www.setlist.fm/setlists/trio-mocoto-4bd77782.html"
+                }
+              },
+              {
+                "name": "Psiu"
+              },
+              {
+                "name": "Baby 95"
+              },
+              {
+                "name": "Mel"
+              },
+              {
+                "name": "Diz quanto custa"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Setlist incomplete",
+      "url": "https://www.setlist.fm/setlist/liniker/2023/parque-villa-lobos-sao-paulo-brazil-4bae07b6.html"
+    },
+    {
+      "id": "4bae079a",
+      "versionId": "g73aba221",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-09-11T23:55:43.421+0000",
+      "artist": {
+        "mbid": "25b17fd4-eadd-412a-b383-206e99f549b4",
+        "name": "Joyce Alane",
+        "sortName": "Joyce Alane",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/joyce-alane-53f8c361.html"
+      },
+      "venue": {
+        "id": "6bdea6ce",
+        "name": "Parque Villa-Lobos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-villa-lobos-sao-paulo-brazil-6bdea6ce.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/joyce-alane/2023/parque-villa-lobos-sao-paulo-brazil-4bae079a.html"
+    },
+    {
+      "id": "43ae2753",
+      "versionId": "g7b57eac4",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-10-14T10:55:03.571+0000",
+      "artist": {
+        "mbid": "ba550d0e-adac-4864-b88b-407cab5e76af",
+        "name": "Paul McCartney",
+        "sortName": "McCartney, Paul",
+        "disambiguation": "The Beatles",
+        "url": "https://www.setlist.fm/setlists/paul-mccartney-13d6bd15.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "Got Back"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Can't Buy Me Love",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Junior's Farm",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "Letting Go",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "Drive My Car",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                },
+                "info": "tour debut"
+              },
+              {
+                "name": "Got to Get You Into My Life",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Come On to Me"
+              },
+              {
+                "name": "Let Me Roll It",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                },
+                "info": "with \"Foxy Lady\" by Jimi Hendrix coda"
+              },
+              {
+                "name": "Getting Better",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Let 'Em In",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "My Valentine",
+                "info": "dedicated to Nancy Shevell"
+              },
+              {
+                "name": "Nineteen Hundred and Eighty-Five",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "Maybe I'm Amazed"
+              },
+              {
+                "name": "I've Just Seen a Face",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "In Spite of All the Danger",
+                "cover": {
+                  "mbid": "9fcc463b-7cfc-4ea4-a65e-bab77fc78e9a",
+                  "name": "The Quarrymen",
+                  "sortName": "Quarrymen, The",
+                  "disambiguation": "British group that evolved into The Beatles",
+                  "url": "https://www.setlist.fm/setlists/the-quarrymen-3bd6883c.html"
+                }
+              },
+              {
+                "name": "Love Me Do",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Dance Tonight"
+              },
+              {
+                "name": "Blackbird",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Here Today",
+                "info": "dedicated to John Lennon"
+              },
+              {
+                "name": "New"
+              },
+              {
+                "name": "Lady Madonna",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Jet",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                },
+                "info": "dedicated to Denny Laine"
+              },
+              {
+                "name": "Being for the Benefit of Mr. Kite!",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Something",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                },
+                "info": "dedicated to George Harrison"
+              },
+              {
+                "name": "Ob-La-Di, Ob-La-Da",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Band on the Run",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "Get Back",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                },
+                "info": "Paul thanks Peter Jackson at the end"
+              },
+              {
+                "name": "Let It Be",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Live and Let Die",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "Hey Jude",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "I've Got a Feeling",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                },
+                "info": "with virtual duet with John Lennon from The Beatles rooftop concert and new coda"
+              },
+              {
+                "name": "Day Tripper",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                },
+                "info": "tour debut"
+              },
+              {
+                "name": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Helter Skelter",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Golden Slumbers",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Carry That Weight",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "The End",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "No More Lonely Nights",
+                "tape": true
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/paul-mccartney/2023/allianz-parque-sao-paulo-brazil-43ae2753.html"
+    },
+    {
+      "id": "3bae2828",
+      "versionId": "g38db1d7",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2023-12-08T00:11:56.485+0000",
+      "artist": {
+        "mbid": "5e8fdd97-c7ea-4579-a77c-7ab17e4ac6d4",
+        "name": "Children of the Beast",
+        "sortName": "Children of the Beast",
+        "disambiguation": "Brazilian Iron Maiden tribute band",
+        "url": "https://www.setlist.fm/setlists/children-of-the-beast-63f74a5b.html"
+      },
+      "venue": {
+        "id": "33d1f4b5",
+        "name": "Budegaalokka",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/budegaalokka-sao-paulo-brazil-33d1f4b5.html"
+      },
+      "tour": {
+        "name": "Tour 30 Anos"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/children-of-the-beast/2023/budegaalokka-sao-paulo-brazil-3bae2828.html"
+    },
+    {
+      "id": "3b50e028",
+      "versionId": "g1b57f538",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-10-13T23:41:41.140+0000",
+      "artist": {
+        "mbid": "7f0f13e2-45b7-4fb8-9fba-243eadd80595",
+        "name": "Chris Holmes",
+        "sortName": "Holmes, Chris",
+        "disambiguation": "DJ and electronic/pop musician",
+        "url": "https://www.setlist.fm/setlists/chris-holmes-1bd4d1c4.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Tudo por amor (Can't Buy Me Love)",
+                "tape": true,
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                },
+                "info": "Rita Lee's version"
+              },
+              {
+                "name": "Two of Us",
+                "tape": true,
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Setlist incomplete",
+      "url": "https://www.setlist.fm/setlist/chris-holmes/2023/allianz-parque-sao-paulo-brazil-3b50e028.html"
+    },
+    {
+      "id": "3b4640b4",
+      "versionId": "g3b4dc430",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2025-05-09T20:56:54.253+0000",
+      "artist": {
+        "mbid": "a41614e6-51ed-464e-88a2-a838a3f06ce7",
+        "name": "Yunk Vino",
+        "sortName": "Yunk Vino",
+        "disambiguation": "Brazilian rapper",
+        "url": "https://www.setlist.fm/setlists/yunk-vino-43fca71f.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Red Dot"
+              },
+              {
+                "name": "Vlife"
+              },
+              {
+                "name": "YSL"
+              },
+              {
+                "name": "The Box 2"
+              },
+              {
+                "name": "Bandana 2"
+              },
+              {
+                "name": "30 Dias (ft. Sidoka)"
+              },
+              {
+                "name": "Resumo",
+                "cover": {
+                  "mbid": "ff5cc1fe-cb1b-444a-acff-c43a5b96814b",
+                  "name": "Veigh",
+                  "sortName": "Veigh",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/veigh-53ff4b89.html"
+                },
+                "with": {
+                  "mbid": "3606855f-e24f-445b-85cb-7b4b18eb8206",
+                  "name": "Danzo",
+                  "sortName": "Danzo",
+                  "disambiguation": "DanzoBeats; hip hop producer",
+                  "url": "https://www.setlist.fm/setlists/danzo-63f57e37.html"
+                }
+              },
+              {
+                "name": "Mimo Caro"
+              },
+              {
+                "name": "Só Quando Ela Me Quer"
+              },
+              {
+                "name": "Favorita"
+              },
+              {
+                "name": "Beyoncé 2",
+                "cover": {
+                  "mbid": "277584b6-813f-4639-870f-1213a2e151bd",
+                  "name": "Ryu, the Runner",
+                  "sortName": "Ryu, the Runner",
+                  "disambiguation": "brazilian rapper",
+                  "url": "https://www.setlist.fm/setlists/ryu-the-runner-6be792ee.html"
+                }
+              },
+              {
+                "name": "Dialogo"
+              },
+              {
+                "name": "P.J.L"
+              },
+              {
+                "name": "Real"
+              },
+              {
+                "name": "3 Doses"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/yunk-vino/2023/neo-quimica-arena-sao-paulo-brazil-3b4640b4.html"
+    },
+    {
+      "id": "3b4640b0",
+      "versionId": "g234dc45b",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2025-05-09T20:50:50.880+0000",
+      "artist": {
+        "mbid": "4ba3f09c-4985-4daa-a45c-ce296f7e5836",
+        "name": "Rudies Flacko",
+        "sortName": "Rudies Flacko",
+        "disambiguation": "brazilian rapper",
+        "url": "https://www.setlist.fm/setlists/rudies-flacko-3be5c4b4.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/rudies-flacko/2023/neo-quimica-arena-sao-paulo-brazil-3b4640b0.html"
+    },
+    {
+      "id": "3b464054",
+      "versionId": "g6b49cab6",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2025-06-10T00:08:08.872+0000",
+      "artist": {
+        "mbid": "6cce93be-e948-4c0a-bc4e-cce42d3cee0a",
+        "name": "Jé Santiago",
+        "sortName": "Santiago, Jé",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/je-santiago-2bf0c016.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Intro",
+                "info": "Live debut"
+              },
+              {
+                "name": "Jack Bauer"
+              },
+              {
+                "name": "Lua Cheia",
+                "info": "Live debut"
+              },
+              {
+                "name": "Honda"
+              },
+              {
+                "name": "Mercedes"
+              },
+              {
+                "name": "Rock N' Roll"
+              },
+              {
+                "name": "Guap",
+                "info": "Live debut"
+              },
+              {
+                "name": "Nos Tempos de Motorola",
+                "info": "Live debut"
+              },
+              {
+                "name": "Lifestyle Fake",
+                "cover": {
+                  "mbid": "d18f3533-2346-4127-ba7b-8a375d8bf631",
+                  "name": "Recayd Mob",
+                  "sortName": "Recayd Mob",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/recayd-mob-23f1a0df.html"
+                }
+              },
+              {
+                "name": "Plaqtudum",
+                "cover": {
+                  "mbid": "d18f3533-2346-4127-ba7b-8a375d8bf631",
+                  "name": "Recayd Mob",
+                  "sortName": "Recayd Mob",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/recayd-mob-23f1a0df.html"
+                }
+              },
+              {
+                "name": "MLKS DE SP",
+                "cover": {
+                  "mbid": "d18f3533-2346-4127-ba7b-8a375d8bf631",
+                  "name": "Recayd Mob",
+                  "sortName": "Recayd Mob",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/recayd-mob-23f1a0df.html"
+                }
+              },
+              {
+                "name": "FLACK JACK",
+                "cover": {
+                  "mbid": "d18f3533-2346-4127-ba7b-8a375d8bf631",
+                  "name": "Recayd Mob",
+                  "sortName": "Recayd Mob",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/recayd-mob-23f1a0df.html"
+                }
+              },
+              {
+                "name": "Megatron (ft. BC Raff)"
+              },
+              {
+                "name": "Rick Ross",
+                "info": "Live debut"
+              },
+              {
+                "name": "Racks on Racks",
+                "info": "Live debut"
+              },
+              {
+                "name": "Camuflado de Bape (ft. Rare Kidd)"
+              },
+              {
+                "name": "Nintendo Switch"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/je-santiago/2023/neo-quimica-arena-sao-paulo-brazil-3b464054.html"
+    },
+    {
+      "id": "3aa0d6f",
+      "versionId": "g35d7583",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2025-01-04T17:58:33.490+0000",
+      "artist": {
+        "mbid": "76d38f72-5fd0-4d70-942e-60a203e3f615",
+        "name": "Oitão",
+        "sortName": "Oitão",
+        "disambiguation": "Brazilian Hardcore band",
+        "url": "https://www.setlist.fm/setlists/oitao-1bda4df4.html"
+      },
+      "venue": {
+        "id": "33deec19",
+        "name": "Manifesto Skate Park",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/manifesto-skate-park-sao-paulo-brazil-33deec19.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/oitao/2023/manifesto-skate-park-sao-paulo-brazil-3aa0d6f.html"
+    },
+    {
+      "id": "3aa0d67",
+      "versionId": "g2bb37412",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-03-20T02:37:38.054+0000",
+      "artist": {
+        "mbid": "cedee9ca-fae9-40a0-a2f6-3a3825b05c79",
+        "name": "Cemitério",
+        "sortName": "Cemitério",
+        "disambiguation": "Brazilian Death/Thrash Metal",
+        "url": "https://www.setlist.fm/setlists/cemiterio-3bc69c40.html"
+      },
+      "venue": {
+        "id": "2bd3c0f6",
+        "name": "Fffront",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fffront-sao-paulo-brazil-2bd3c0f6.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/cemiterio/2023/fffront-sao-paulo-brazil-3aa0d67.html"
+    },
+    {
+      "id": "33ae080d",
+      "versionId": "g13889141",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-01-08T11:46:19.290+0000",
+      "artist": {
+        "mbid": "0a376d4c-7a0e-4015-b9a3-d29cbe7530c5",
+        "name": "Mahmundi",
+        "sortName": "Mahmundi",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/mahmundi-3bdc8820.html"
+      },
+      "venue": {
+        "id": "7bd65e48",
+        "name": "Bienal do Ibirapuera",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bienal-do-ibirapuera-sao-paulo-brazil-7bd65e48.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Amanhã"
+              },
+              {
+                "name": "Desaguar"
+              },
+              {
+                "name": "Hit"
+              },
+              {
+                "name": "Tempo pra Amar"
+              },
+              {
+                "name": "Sem Necessidade"
+              },
+              {
+                "name": "Chove chuva",
+                "cover": {
+                  "mbid": "19499124-36d4-4ccc-b28d-04dde3d2076f",
+                  "name": "Jorge Ben Jor",
+                  "sortName": "Ben Jor, Jorge",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jorge-ben-jor-13d6e18d.html"
+                }
+              },
+              {
+                "name": "Qual é a sua?"
+              },
+              {
+                "name": "Noites tropicais"
+              },
+              {
+                "name": "Sangue latino",
+                "cover": {
+                  "mbid": "6840dcbe-3aca-4057-8d16-4799c3730e3a",
+                  "name": "Secos & Molhados",
+                  "sortName": "Secos & Molhados",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/secos-and-molhados-73d62eed.html"
+                }
+              },
+              {
+                "name": "Aposta"
+              },
+              {
+                "name": "Leve"
+              },
+              {
+                "name": "Calor do amor"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/mahmundi/2023/bienal-do-ibirapuera-sao-paulo-brazil-33ae080d.html"
+    },
+    {
+      "id": "2bae28fa",
+      "versionId": "g63893e37",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-01-22T02:17:17.535+0000",
+      "artist": {
+        "mbid": "f1548c5b-329e-4036-921c-02213a04b525",
+        "name": "Uriah Heep",
+        "sortName": "Uriah Heep",
+        "disambiguation": "British prog/hard rock",
+        "url": "https://www.setlist.fm/setlists/uriah-heep-33d6ac59.html"
+      },
+      "venue": {
+        "id": "23d038af",
+        "name": "Tokio Marine Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/tokio-marine-hall-sao-paulo-brazil-23d038af.html"
+      },
+      "tour": {
+        "name": "South America Tour 2023"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Grazed by Heaven"
+              },
+              {
+                "name": "Take Away My Soul"
+              },
+              {
+                "name": "Traveller in Time"
+              },
+              {
+                "name": "Between Two Worlds"
+              },
+              {
+                "name": "Stealin'"
+              },
+              {
+                "name": "Too Scared to Run"
+              },
+              {
+                "name": "Rainbow Demon"
+              },
+              {
+                "name": "Sweet Lorraine"
+              },
+              {
+                "name": "Free 'n' Easy"
+              },
+              {
+                "name": "Gypsy"
+              },
+              {
+                "name": "Look at Yourself",
+                "info": "w/ band introduction and 5 min instrumental jam"
+              },
+              {
+                "name": "July Morning"
+              },
+              {
+                "name": "Lady in Black"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Sunrise"
+              },
+              {
+                "name": "Easy Livin'",
+                "info": "with guests Kátia Pardini on vocals and Marcelo Frisoni on guitar"
+              },
+              {
+                "name": "Her majesty",
+                "tape": true
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/uriah-heep/2023/tokio-marine-hall-sao-paulo-brazil-2bae28fa.html"
+    },
+    {
+      "id": "2b52d086",
+      "versionId": "g4badcbb2",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-08-28T21:07:50.046+0000",
+      "artist": {
+        "mbid": "97d3f970-bd0b-4d64-b71e-38f3943df3c4",
+        "name": "Brisa Flow",
+        "sortName": "Flow, Brisa",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/brisa-flow-73ff26d9.html"
+      },
+      "venue": {
+        "id": "6bd38e0e",
+        "name": "Casa de Cultura do Butantã",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-de-cultura-do-butanta-sao-paulo-brazil-6bd38e0e.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/brisa-flow/2023/casa-de-cultura-do-butanta-sao-paulo-brazil-2b52d086.html"
+    },
+    {
+      "id": "13ae0d19",
+      "versionId": "g5b8ddf2c",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2023-12-10T15:16:35.830+0000",
+      "artist": {
+        "mbid": "e6abe447-5f3c-4133-81b6-1cd4f0ba09dc",
+        "name": "Pato Fu",
+        "sortName": "Pato Fu",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pato-fu-4bd6138e.html"
+      },
+      "venue": {
+        "id": "3bd00ca8",
+        "name": "Teatro Flávio Império",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-flavio-imperio-sao-paulo-brazil-3bd00ca8.html"
+      },
+      "tour": {
+        "name": "Pato Fu 30 Anos"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/pato-fu/2023/teatro-flavio-imperio-sao-paulo-brazil-13ae0d19.html"
+    },
+    {
+      "id": "13aa0d65",
+      "versionId": "g2bb37416",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2024-03-20T02:38:12.521+0000",
+      "artist": {
+        "mbid": "01208116-80e7-4129-8edf-98adb4354f77",
+        "name": "Finis Hominis",
+        "sortName": "Finis Hominis",
+        "disambiguation": "Brazilian sludge metal",
+        "url": "https://www.setlist.fm/setlists/finis-hominis-5bfebb30.html"
+      },
+      "venue": {
+        "id": "2bd3c0f6",
+        "name": "Fffront",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fffront-sao-paulo-brazil-2bd3c0f6.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/finis-hominis/2023/fffront-sao-paulo-brazil-13aa0d65.html"
+    },
+    {
+      "id": "1345d591",
+      "versionId": "g3b66cc90",
+      "eventDate": "10-12-2023",
+      "lastUpdated": "2025-10-17T12:33:31.008+0000",
+      "artist": {
+        "mbid": "ff5cc1fe-cb1b-444a-acff-c43a5b96814b",
+        "name": "Veigh",
+        "sortName": "Veigh",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/veigh-53ff4b89.html"
+      },
+      "venue": {
+        "id": "63de1a87",
+        "name": "CENA 2K23",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cena-2k23-sao-paulo-brazil-63de1a87.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Clickbait"
+              },
+              {
+                "name": "Vida chique"
+              },
+              {
+                "name": "Desfile na favela"
+              },
+              {
+                "name": "Novo balanço"
+              },
+              {
+                "name": "Invisível"
+              },
+              {
+                "name": "Mil maneiras"
+              },
+              {
+                "name": "Meio pá"
+              },
+              {
+                "name": "Foto do corte"
+              },
+              {
+                "name": "Bandana",
+                "info": "Refrão - Acapella"
+              },
+              {
+                "name": "Bandana 2"
+              },
+              {
+                "name": "Perdoa por tudo vida"
+              },
+              {
+                "name": "Engana dizendo que ama"
+              },
+              {
+                "name": "Tendenciosa"
+              },
+              {
+                "name": "Jeito bandido"
+              },
+              {
+                "name": "Ballena",
+                "cover": {
+                  "mbid": "b045a219-c1d1-405b-88f7-f81f6af89486",
+                  "name": "Vulgo FK",
+                  "sortName": "Vulgo FK",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/vulgo-fk-3fef507.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/veigh/2023/cena-2k23-sao-paulo-brazil-1345d591.html"
+    },
+    {
+      "id": "7bae1684",
+      "versionId": "gb4b1dce",
+      "eventDate": "09-12-2023",
+      "lastUpdated": "2025-05-26T23:41:53.078+0000",
+      "artist": {
+        "mbid": "fb0f4520-2095-491b-b2f2-ade4c3f2e5fa",
+        "name": "Black Pantera",
+        "sortName": "Black Pantera",
+        "disambiguation": "Brazilian Metal Group",
+        "url": "https://www.setlist.fm/setlists/black-pantera-23ccf053.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Padrão é o caralho"
+              },
+              {
+                "name": "Dreadpool"
+              },
+              {
+                "name": "Mosha"
+              },
+              {
+                "name": "Legado"
+              },
+              {
+                "name": "Ukumkani"
+              },
+              {
+                "name": "Fogo nos racistas"
+              },
+              {
+                "name": "A carne / Negro drama"
+              },
+              {
+                "name": "Abre a roda e senta o pé",
+                "info": "Com Mosh das mina"
+              },
+              {
+                "name": "Revolução é o caos"
+              },
+              {
+                "name": "Boto pra fuder"
+              },
+              {
+                "name": "Shut Up n' Fuck Off"
+              },
+              {
+                "name": "Corre"
+              },
+              {
+                "name": "Ratatatá"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "",
+      "url": "https://www.setlist.fm/setlist/black-pantera/2023/audio-sao-paulo-brazil-7bae1684.html"
+    },
+    {
+      "id": "73aa6a19",
+      "versionId": "g5bbf8be4",
+      "eventDate": "09-12-2023",
+      "lastUpdated": "2024-04-15T02:38:44.840+0000",
+      "artist": {
+        "mbid": "751e517d-9663-4692-8c20-942e16d484c5",
+        "name": "Djavan",
+        "sortName": "Djavan",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/djavan-7bd62e48.html"
+      },
+      "venue": {
+        "id": "43d01ba3",
+        "name": "Vibra São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/vibra-sao-paulo-sao-paulo-brazil-43d01ba3.html"
+      },
+      "tour": {
+        "name": "Turnê D"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Curumim"
+              },
+              {
+                "name": "Boa noite"
+              },
+              {
+                "name": "Sevilhando"
+              },
+              {
+                "name": "Eu te devoro"
+              },
+              {
+                "name": "Outono"
+              },
+              {
+                "name": "Cigano"
+              },
+              {
+                "name": "Avião"
+              },
+              {
+                "name": "Flor de lis"
+              },
+              {
+                "name": "Num mundo de paz"
+              },
+              {
+                "name": "Meu bem querer"
+              },
+              {
+                "name": "Oceano"
+              },
+              {
+                "name": "Um amor puro"
+              },
+              {
+                "name": "Iluminado"
+              },
+              {
+                "name": "Azul"
+              },
+              {
+                "name": "Tenha calma / Sem você"
+              },
+              {
+                "name": "Tanta saudade"
+              },
+              {
+                "name": "Se"
+              },
+              {
+                "name": "Samurai"
+              },
+              {
+                "name": "Sina"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Pétala"
+              },
+              {
+                "name": "Lilás"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/djavan/2023/vibra-sao-paulo-sao-paulo-brazil-73aa6a19.html"
+    },
+    {
+      "id": "7357ce79",
+      "versionId": "g1b48c120",
+      "eventDate": "09-12-2023",
+      "lastUpdated": "2025-06-02T13:27:51.631+0000",
+      "artist": {
+        "mbid": "b8386b39-d74a-43cf-b8e3-b288c31b4b40",
+        "name": "Revenge of Kiss",
+        "sortName": "Revenge of Kiss",
+        "disambiguation": "Brazilian Kiss tribute",
+        "url": "https://www.setlist.fm/setlists/revenge-of-kiss-5be57318.html"
+      },
+      "venue": {
+        "id": "5bd16f68",
+        "name": "Woodstock Rock Store",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/woodstock-rock-store-sao-paulo-brazil-5bd16f68.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "I Stole Your Love",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Christine Sixteen",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Detroit Rock City",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Love Gun",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Good Girl Gone Bad",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Crazy Crazy Nights",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Hell or High Water",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Turn On the Night",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Plaster Caster",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "(You Make Me) Rock Hard",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Goin' Blind",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "I Want You",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Calling Dr. Love",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Nowhere to Run",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "War Machine",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Creatures of the Night",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "I Love It Loud",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "I Still Love You",
+                "cover": {
+                  "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+                  "name": "KISS",
+                  "sortName": "KISS",
+                  "disambiguation": "US rock band",
+                  "url": "https://www.setlist.fm/setlists/kiss-6bd69ec6.html"
+                }
+              },
+              {
+                "name": "Live to Win",
+                "cover": {
+                  "mbid": "a2567452-7d11-45a7-98ff-1cbbc8ba0910",
+                  "name": "Paul Stanley",
+                  "sortName": "Stanley, Paul",
+                  "disambiguation": "KISS frontman",
+                  "url": "https://www.setlist.fm/setlists/paul-stanley-43d67fb7.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Setlist possibly incomplete",
+      "url": "https://www.setlist.fm/setlist/revenge-of-kiss/2023/woodstock-rock-store-sao-paulo-brazil-7357ce79.html"
+    },
+    {
+      "id": "6bae1686",
+      "versionId": "g538de349",
+      "eventDate": "09-12-2023",
+      "lastUpdated": "2023-12-10T12:25:41.787+0000",
+      "artist": {
+        "mbid": "a442f505-f1a2-4be4-82b9-fb71f1c9f451",
+        "name": "Malvada",
+        "sortName": "Malvada, Banda",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/malvada-23fc70a7.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Prioridades"
+              },
+              {
+                "name": "Pecado capital"
+              },
+              {
+                "name": "Mais um gole"
+              },
+              {
+                "name": "A noite vai ferver"
+              },
+              {
+                "name": "Perfeito Imperfeito"
+              },
+              {
+                "name": "Veneno",
+                "info": "Live debut"
+              },
+              {
+                "name": "Bulletproof",
+                "info": "Live debut"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/malvada/2023/audio-sao-paulo-brazil-6bae1686.html"
+    }
+  ]
+}

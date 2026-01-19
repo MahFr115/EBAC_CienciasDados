@@ -1,0 +1,1426 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 4,
+  "total": 255,
+  "setlist": [
+    {
+      "id": "6388fe5b",
+      "versionId": "g3b4410a0",
+      "eventDate": "04-12-2021",
+      "lastUpdated": "2025-03-01T15:01:15.173+0000",
+      "artist": {
+        "mbid": "1ba347eb-58e8-45d6-b7e3-09873dc2506a",
+        "name": "Marcos Valle",
+        "sortName": "Valle, Marcos",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/marcos-valle-2bd6c4de.html"
+      },
+      "venue": {
+        "id": "3bd61ce8",
+        "name": "SESC Pompéia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-pompeia-sao-paulo-brazil-3bd61ce8.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Cinzento"
+              },
+              {
+                "name": "Olha quem tá chegando"
+              },
+              {
+                "name": "Mentira"
+              },
+              {
+                "name": "Bar Inglês"
+              },
+              {
+                "name": "Reciclo"
+              },
+              {
+                "name": "Alma"
+              },
+              {
+                "name": "Os grilos"
+              },
+              {
+                "name": "Se proteja"
+              },
+              {
+                "name": "Sereno",
+                "cover": {
+                  "mbid": "cf6b70f6-2616-481c-912c-0263cabfc974",
+                  "name": "Gilberto Gil",
+                  "sortName": "Gil, Gilberto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gilberto-gil-3d6e18f.html"
+                },
+                "info": ""
+              },
+              {
+                "name": "Samba de verão",
+                "info": "Feat. Bem Gil e Moreno Veloso"
+              },
+              {
+                "name": "Redescobrir",
+                "with": {
+                  "mbid": "b4082b3e-1e45-4544-8d5b-a5fc367648fa",
+                  "name": "Moreno Veloso",
+                  "sortName": "Veloso, Moreno",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/moreno-veloso-3bdfb8d0.html"
+                }
+              },
+              {
+                "name": "Não Acorde o Neném",
+                "cover": {
+                  "mbid": "b4082b3e-1e45-4544-8d5b-a5fc367648fa",
+                  "name": "Moreno Veloso",
+                  "sortName": "Veloso, Moreno",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/moreno-veloso-3bdfb8d0.html"
+                },
+                "with": {
+                  "mbid": "b4082b3e-1e45-4544-8d5b-a5fc367648fa",
+                  "name": "Moreno Veloso",
+                  "sortName": "Veloso, Moreno",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/moreno-veloso-3bdfb8d0.html"
+                }
+              },
+              {
+                "name": "Estrelar"
+              },
+              {
+                "name": "Pelo sim pelo não"
+              },
+              {
+                "name": "Mustang Cor de Sangue"
+              },
+              {
+                "name": "Parabens"
+              },
+              {
+                "name": "Freio aerodinâmico"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Cinzento"
+              },
+              {
+                "name": "Bicicleta",
+                "info": "Feat. Bem Gil e Moreno Veloso"
+              },
+              {
+                "name": "Estrelar",
+                "info": "Feat. Bem Gil e Moreno Veloso"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "",
+      "url": "https://www.setlist.fm/setlist/marcos-valle/2021/sesc-pompeia-sao-paulo-brazil-6388fe5b.html"
+    },
+    {
+      "id": "5bb0bbdc",
+      "versionId": "g1bb40968",
+      "eventDate": "04-12-2021",
+      "lastUpdated": "2024-02-21T01:59:17.527+0000",
+      "artist": {
+        "mbid": "c322536a-cce4-4b32-aa03-0be3edb410a2",
+        "name": "Wesley Safadão",
+        "sortName": "Safadão, Wesley",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/wesley-safadao-6bd9b642.html"
+      },
+      "venue": {
+        "id": "6bd7daa2",
+        "name": "Arena Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/arena-anhembi-sao-paulo-brazil-6bd7daa2.html"
+      },
+      "tour": {
+        "name": "Garota VIP"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Passatempo"
+              },
+              {
+                "name": "Ele é ele, eu sou eu"
+              },
+              {
+                "name": "Ressaca de saudade"
+              },
+              {
+                "name": "Solteiro de novo"
+              },
+              {
+                "name": "Tu vai rodar"
+              },
+              {
+                "name": "Maria Santinha"
+              },
+              {
+                "name": "Eu já tava bem",
+                "info": "live debut"
+              },
+              {
+                "name": "Voz do paredão"
+              },
+              {
+                "name": "Faz amor comigo só hoje",
+                "cover": {
+                  "mbid": "1f7e2e78-2faa-467a-8986-bba216b7c234",
+                  "name": "Israel & Rodolffo",
+                  "sortName": "Israel & Rodolffo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/israel-and-rodolffo-1bd04900.html"
+                }
+              },
+              {
+                "name": "Rolê",
+                "cover": {
+                  "mbid": "95522a01-cf94-4ace-8d59-f46c6c1d201c",
+                  "name": "Marcynho Sensação",
+                  "sortName": "Marcynho Sensação",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/marcynho-sensacao-2bf1e8d6.html"
+                }
+              },
+              {
+                "name": "Ele não te merece"
+              },
+              {
+                "name": "Ameaça",
+                "cover": {
+                  "mbid": "13dff77f-38b7-4090-859c-544e99229491",
+                  "name": "MC Danny",
+                  "sortName": "MC Danny",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/mc-danny-73f17655.html"
+                }
+              },
+              {
+                "name": "GALOPA",
+                "cover": {
+                  "mbid": "796bc8a9-efd1-43e8-bacf-5eba68835928",
+                  "name": "PEDRO SAMPAIO",
+                  "sortName": "SAMPAIO, PEDRO",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pedro-sampaio-3bf66cd4.html"
+                }
+              },
+              {
+                "name": "Fala mal de mim"
+              },
+              {
+                "name": "Revoada no colchão",
+                "cover": {
+                  "mbid": "8f8a2b80-9a2b-4254-8c8a-e40e4fa12bc6",
+                  "name": "Zé Felipe",
+                  "sortName": "Zé Felipe",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ze-felipe-7bd84ee8.html"
+                }
+              },
+              {
+                "name": "Dois lados"
+              },
+              {
+                "name": "Coração cachorro",
+                "cover": {
+                  "mbid": "7d04674e-d927-400c-a801-50229b69697b",
+                  "name": "Matheus Fernandes",
+                  "sortName": "Fernandes, Matheus",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/matheus-fernandes-53f677cd.html"
+                }
+              },
+              {
+                "name": "Toma toma vapo vapo",
+                "cover": {
+                  "mbid": "13dff77f-38b7-4090-859c-544e99229491",
+                  "name": "MC Danny",
+                  "sortName": "MC Danny",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/mc-danny-73f17655.html"
+                }
+              },
+              {
+                "name": "Menina debochada"
+              },
+              {
+                "name": "Alvejante"
+              },
+              {
+                "name": "Despedida"
+              },
+              {
+                "name": "Ela e ela"
+              },
+              {
+                "name": "Na cama que eu paguei"
+              },
+              {
+                "name": "Não valeu"
+              },
+              {
+                "name": "Bora"
+              },
+              {
+                "name": "Saudade e solidão"
+              },
+              {
+                "name": "Coração machucado"
+              },
+              {
+                "name": "Carinha se neném"
+              },
+              {
+                "name": "Chega e senta"
+              },
+              {
+                "name": "Sem sentimento"
+              },
+              {
+                "name": "Arranhão"
+              },
+              {
+                "name": "Revoada"
+              },
+              {
+                "name": "Poderosa"
+              },
+              {
+                "name": "Segunda opção"
+              },
+              {
+                "name": "100% muito louco"
+              },
+              {
+                "name": "Cerveja pra lavar"
+              },
+              {
+                "name": "Final de semana chegou"
+              },
+              {
+                "name": "Na farra eu sou o rei"
+              },
+              {
+                "name": "Estilo namorador"
+              },
+              {
+                "name": "Nam nam não (Veja só no que deu)"
+              },
+              {
+                "name": "Vai lá"
+              },
+              {
+                "name": "Baby me atende",
+                "cover": {
+                  "mbid": "7d04674e-d927-400c-a801-50229b69697b",
+                  "name": "Matheus Fernandes",
+                  "sortName": "Fernandes, Matheus",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/matheus-fernandes-53f677cd.html"
+                }
+              },
+              {
+                "name": "Eu já tava bem",
+                "info": "Reprise"
+              },
+              {
+                "name": "Tapão na raba"
+              },
+              {
+                "name": "Saudade de um piseiro"
+              },
+              {
+                "name": "Meu coração deu pt"
+              },
+              {
+                "name": "Ar condicionado no 15"
+              },
+              {
+                "name": "Batatinha frita 123 / Alive / Passarinho que som é esse mexe com a bunda / Ó mãe como a Isabela tá no baile / Desenrola bate joga de ladin / Tu empinou ele pei / Anunciação (Jopin Remix) / Ai ai ai (Felguk & Cat Dealers Remix)"
+              },
+              {
+                "name": "Novinha vai no chão"
+              },
+              {
+                "name": "Vou dar virote"
+              },
+              {
+                "name": "Sou ciumento mesmo"
+              },
+              {
+                "name": "Amiga parceira"
+              },
+              {
+                "name": "Meu abrigo",
+                "cover": {
+                  "mbid": "32c3479f-da76-4771-9bc7-841d9645454d",
+                  "name": "Melim",
+                  "sortName": "Melim",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/melim-43c837af.html"
+                }
+              },
+              {
+                "name": "Chora, me liga"
+              },
+              {
+                "name": "Obsessão"
+              },
+              {
+                "name": "Carro pancadão"
+              },
+              {
+                "name": "Elas ficam loucas"
+              },
+              {
+                "name": "Abre o som",
+                "cover": {
+                  "mbid": "c1f56d47-b82d-42ea-af67-367e11c00ee0",
+                  "name": "Bonde do Maluco",
+                  "sortName": "Bonde do Maluco",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bonde-do-maluco-6bdc66de.html"
+                }
+              },
+              {
+                "name": "Desce piriguete"
+              },
+              {
+                "name": "Escravo do amor"
+              },
+              {
+                "name": "Tentativas em vão"
+              },
+              {
+                "name": "Menino bobo"
+              },
+              {
+                "name": "Bebo pa carai",
+                "cover": {
+                  "mbid": "3d115c77-6f9e-4ce6-8048-0390fa2a0dbc",
+                  "name": "Gino & Geno",
+                  "sortName": "Gino & Geno",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gino-and-geno-2bd4f84a.html"
+                }
+              },
+              {
+                "name": "Zuar e beber",
+                "cover": {
+                  "mbid": "5900600e-9614-44fa-b481-ce01177d4b2d",
+                  "name": "Henrique & Diego",
+                  "sortName": "Henrique & Diego",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/henrique-and-diego-7bd0d2c4.html"
+                }
+              },
+              {
+                "name": "Praieiro",
+                "cover": {
+                  "mbid": "7eeb13f6-71d4-44ad-aef9-2d7f62d96fc1",
+                  "name": "Jammil",
+                  "sortName": "Jammil",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jammil-53dddb71.html"
+                }
+              },
+              {
+                "name": "País tropical",
+                "cover": {
+                  "mbid": "19499124-36d4-4ccc-b28d-04dde3d2076f",
+                  "name": "Jorge Ben Jor",
+                  "sortName": "Ben Jor, Jorge",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jorge-ben-jor-13d6e18d.html"
+                }
+              },
+              {
+                "name": "Mulher de fases",
+                "cover": {
+                  "mbid": "1c80f885-e832-4b84-864b-5deeda6a1248",
+                  "name": "Raimundos",
+                  "sortName": "Raimundos",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/raimundos-4bd6c702.html"
+                }
+              },
+              {
+                "name": "Não quero dinheiro (Só quero amar)",
+                "cover": {
+                  "mbid": "446ac261-09ae-43f4-a7e1-2c753c0813ce",
+                  "name": "Tim Maia",
+                  "sortName": "Maia, Tim",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/tim-maia-13d64df1.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/wesley-safadao/2021/arena-anhembi-sao-paulo-brazil-5bb0bbdc.html"
+    },
+    {
+      "id": "5bb0bbd0",
+      "versionId": "g23ff5c3b",
+      "eventDate": "04-12-2021",
+      "lastUpdated": "2022-08-29T22:12:00.648+0000",
+      "artist": {
+        "mbid": "aa3e587e-36e0-4e25-8dce-e04631cc7f00",
+        "name": "Léo Santana",
+        "sortName": "Santana, Léo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/leo-santana-6bca9266.html"
+      },
+      "venue": {
+        "id": "6bd7daa2",
+        "name": "Arena Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/arena-anhembi-sao-paulo-brazil-6bd7daa2.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/leo-santana/2021/arena-anhembi-sao-paulo-brazil-5bb0bbd0.html"
+    },
+    {
+      "id": "53b0bbd5",
+      "versionId": "g33ff5c3d",
+      "eventDate": "04-12-2021",
+      "lastUpdated": "2022-08-29T22:12:43.189+0000",
+      "artist": {
+        "mbid": "1a663c61-8b39-4fcd-bb12-bf8bc07d818b",
+        "name": "Zé Neto & Cristiano",
+        "sortName": "Zé Neto & Cristiano",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/ze-neto-and-cristiano-7bc5c258.html"
+      },
+      "venue": {
+        "id": "6bd7daa2",
+        "name": "Arena Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/arena-anhembi-sao-paulo-brazil-6bd7daa2.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/ze-neto-and-cristiano/2021/arena-anhembi-sao-paulo-brazil-53b0bbd5.html"
+    },
+    {
+      "id": "53b0bbd1",
+      "versionId": "g3bff5c44",
+      "eventDate": "04-12-2021",
+      "lastUpdated": "2022-08-29T22:11:26.304+0000",
+      "artist": {
+        "mbid": "8903824a-5e7e-4634-b772-ac6d9c6962bd",
+        "name": "João Gomes",
+        "sortName": "Gomes, João",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/joao-gomes-3fc251b.html"
+      },
+      "venue": {
+        "id": "6bd7daa2",
+        "name": "Arena Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/arena-anhembi-sao-paulo-brazil-6bd7daa2.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/joao-gomes/2021/arena-anhembi-sao-paulo-brazil-53b0bbd1.html"
+    },
+    {
+      "id": "438bff27",
+      "versionId": "g5bc52f84",
+      "eventDate": "04-12-2021",
+      "lastUpdated": "2021-12-05T17:56:42.639+0000",
+      "artist": {
+        "mbid": "c570a81c-b692-4ec4-829a-c3b24218e874",
+        "name": "Menores Atos",
+        "sortName": "Menores Atos",
+        "disambiguation": "Brazilian hardcore band from Rio de Janeiro",
+        "url": "https://www.setlist.fm/setlists/menores-atos-2bcb841e.html"
+      },
+      "venue": {
+        "id": "73d29ac9",
+        "name": "Fabrique Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fabrique-club-sao-paulo-brazil-73d29ac9.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/menores-atos/2021/fabrique-club-sao-paulo-brazil-438bff27.html"
+    },
+    {
+      "id": "2b8bec9a",
+      "versionId": "g4356cb5f",
+      "eventDate": "04-12-2021",
+      "lastUpdated": "2024-10-08T20:02:29.454+0000",
+      "artist": {
+        "mbid": "7bb3b720-0317-4a7a-bf29-ee74046f99d4",
+        "name": "Johnny Hooker",
+        "sortName": "Hooker, Johnny",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/johnny-hooker-73db76d9.html"
+      },
+      "venue": {
+        "id": "23de9453",
+        "name": "Cine Joia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cine-joia-sao-paulo-brazil-23de9453.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Amante de aluguel"
+              },
+              {
+                "name": "Flutua"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/johnny-hooker/2021/cine-joia-sao-paulo-brazil-2b8bec9a.html"
+    },
+    {
+      "id": "2b8bd8ea",
+      "versionId": "gb5399d2",
+      "eventDate": "04-12-2021",
+      "lastUpdated": "2024-11-11T23:41:40.591+0000",
+      "artist": {
+        "mbid": "0a61f71a-92e8-4d3e-adc0-e44469aba069",
+        "name": "Ratos de Porão",
+        "sortName": "Ratos de Porão",
+        "disambiguation": "Brazilian punk",
+        "url": "https://www.setlist.fm/setlists/ratos-de-porao-1bd76900.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/ratos-de-porao/2021/la-iglesia-borratxeria-sao-paulo-brazil-2b8bd8ea.html"
+    },
+    {
+      "id": "5b8b8f94",
+      "versionId": "g43c5cf2b",
+      "eventDate": "03-12-2021",
+      "lastUpdated": "2021-12-04T00:19:32.393+0000",
+      "artist": {
+        "mbid": "1ba347eb-58e8-45d6-b7e3-09873dc2506a",
+        "name": "Marcos Valle",
+        "sortName": "Valle, Marcos",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/marcos-valle-2bd6c4de.html"
+      },
+      "venue": {
+        "id": "3bd61ce8",
+        "name": "SESC Pompéia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-pompeia-sao-paulo-brazil-3bd61ce8.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/marcos-valle/2021/sesc-pompeia-sao-paulo-brazil-5b8b8f94.html"
+    },
+    {
+      "id": "389cd5b",
+      "versionId": "g1bcf9950",
+      "eventDate": "03-12-2021",
+      "lastUpdated": "2022-03-13T00:30:52.565+0000",
+      "artist": {
+        "mbid": "3a9d0c68-0b39-4c9c-a018-f505266f1d24",
+        "name": "Vitor Fernandes",
+        "sortName": "Fernandes, Vitor",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/vitor-fernandes-33f080d1.html"
+      },
+      "venue": {
+        "id": "23d3bc7f",
+        "name": "Centro de Tradições Nordestinas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-de-tradicoes-nordestinas-sao-paulo-brazil-23d3bc7f.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/vitor-fernandes/2021/centro-de-tradicoes-nordestinas-sao-paulo-brazil-389cd5b.html"
+    },
+    {
+      "id": "338b8811",
+      "versionId": "g135399d1",
+      "eventDate": "03-12-2021",
+      "lastUpdated": "2024-11-11T23:41:40.597+0000",
+      "artist": {
+        "mbid": "0a61f71a-92e8-4d3e-adc0-e44469aba069",
+        "name": "Ratos de Porão",
+        "sortName": "Ratos de Porão",
+        "disambiguation": "Brazilian punk",
+        "url": "https://www.setlist.fm/setlists/ratos-de-porao-1bd76900.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Tattoo maniax"
+              },
+              {
+                "name": "Plano furado"
+              },
+              {
+                "name": "Ignorância"
+              },
+              {
+                "name": "Crise geral"
+              },
+              {
+                "name": "Morte e desespero"
+              },
+              {
+                "name": "Pensamentos de trincheira"
+              },
+              {
+                "name": "Peste sexual"
+              },
+              {
+                "name": "Sentir ódio e nada mais"
+              },
+              {
+                "name": "Assalto na esquina"
+              },
+              {
+                "name": "Não há outras vidas"
+              },
+              {
+                "name": "V.C.D.M.S.A. (Vivendo cada dia mais sujo e agressivo)"
+              },
+              {
+                "name": "Conflito violento"
+              },
+              {
+                "name": "Expresso da escravidão"
+              },
+              {
+                "name": "Engrenagem"
+              },
+              {
+                "name": "Crocodila"
+              },
+              {
+                "name": "Buracos suburbanos",
+                "cover": {
+                  "mbid": "88dec02a-49fb-489f-81ba-7f248cc525b6",
+                  "name": "Psykóze",
+                  "sortName": "Psykóze",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/psykoze-53c3671d.html"
+                }
+              },
+              {
+                "name": "Quando ci vuole ci vuole"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/ratos-de-porao/2021/la-iglesia-borratxeria-sao-paulo-brazil-338b8811.html"
+    },
+    {
+      "id": "1b89cd58",
+      "versionId": "g13cf9955",
+      "eventDate": "03-12-2021",
+      "lastUpdated": "2022-03-13T00:31:23.102+0000",
+      "artist": {
+        "mbid": "a3c7896f-9f00-4d53-8d0e-3085dda0e7d6",
+        "name": "Tarcísio do Acordeon",
+        "sortName": "Acordeon, Tarcísio do",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/tarcisio-do-acordeon-53f1db85.html"
+      },
+      "venue": {
+        "id": "23d3bc7f",
+        "name": "Centro de Tradições Nordestinas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-de-tradicoes-nordestinas-sao-paulo-brazil-23d3bc7f.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/tarcisio-do-acordeon/2021/centro-de-tradicoes-nordestinas-sao-paulo-brazil-1b89cd58.html"
+    },
+    {
+      "id": "1389cd61",
+      "versionId": "g13cf9965",
+      "eventDate": "03-12-2021",
+      "lastUpdated": "2022-03-13T00:29:23.483+0000",
+      "artist": {
+        "mbid": "bb17aa41-b488-46c1-b15f-b038c6679f92",
+        "name": "João Gomes",
+        "sortName": "Gomes, João",
+        "disambiguation": "Portuguese singer",
+        "url": "https://www.setlist.fm/setlists/joao-gomes-3cb65a7.html"
+      },
+      "venue": {
+        "id": "23d3bc7f",
+        "name": "Centro de Tradições Nordestinas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-de-tradicoes-nordestinas-sao-paulo-brazil-23d3bc7f.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/joao-gomes/2021/centro-de-tradicoes-nordestinas-sao-paulo-brazil-1389cd61.html"
+    },
+    {
+      "id": "b89cd76",
+      "versionId": "g1bcf9978",
+      "eventDate": "02-12-2021",
+      "lastUpdated": "2022-03-13T00:27:16.017+0000",
+      "artist": {
+        "mbid": "bb17aa41-b488-46c1-b15f-b038c6679f92",
+        "name": "João Gomes",
+        "sortName": "Gomes, João",
+        "disambiguation": "Portuguese singer",
+        "url": "https://www.setlist.fm/setlists/joao-gomes-3cb65a7.html"
+      },
+      "venue": {
+        "id": "23d3bc7f",
+        "name": "Centro de Tradições Nordestinas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-de-tradicoes-nordestinas-sao-paulo-brazil-23d3bc7f.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/joao-gomes/2021/centro-de-tradicoes-nordestinas-sao-paulo-brazil-b89cd76.html"
+    },
+    {
+      "id": "b89cd6a",
+      "versionId": "g1bcf997c",
+      "eventDate": "02-12-2021",
+      "lastUpdated": "2022-03-13T00:27:28.183+0000",
+      "artist": {
+        "mbid": "a3c7896f-9f00-4d53-8d0e-3085dda0e7d6",
+        "name": "Tarcísio do Acordeon",
+        "sortName": "Acordeon, Tarcísio do",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/tarcisio-do-acordeon-53f1db85.html"
+      },
+      "venue": {
+        "id": "23d3bc7f",
+        "name": "Centro de Tradições Nordestinas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-de-tradicoes-nordestinas-sao-paulo-brazil-23d3bc7f.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/tarcisio-do-acordeon/2021/centro-de-tradicoes-nordestinas-sao-paulo-brazil-b89cd6a.html"
+    },
+    {
+      "id": "3b8b90ac",
+      "versionId": "g4b56cb5e",
+      "eventDate": "02-12-2021",
+      "lastUpdated": "2024-10-08T20:02:29.462+0000",
+      "artist": {
+        "mbid": "ffc6218b-6ec8-46eb-b6d2-040f92c95d2c",
+        "name": "Carol Biazin",
+        "sortName": "Biazin, Carol",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/carol-biazin-23f6606b.html"
+      },
+      "venue": {
+        "id": "23de9453",
+        "name": "Cine Joia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cine-joia-sao-paulo-brazil-23de9453.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Beijo de Judas"
+              },
+              {
+                "name": "Louca"
+              },
+              {
+                "name": "Cancelada (Fala)"
+              },
+              {
+                "name": "Metade"
+              },
+              {
+                "name": "Sempre que der",
+                "with": {
+                  "mbid": "d240dfff-8634-49f3-b3d7-3c89b4b5648f",
+                  "name": "Vitão",
+                  "sortName": "Vitão",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/vitao-23c98cf3.html"
+                }
+              },
+              {
+                "name": "Café",
+                "cover": {
+                  "mbid": "d240dfff-8634-49f3-b3d7-3c89b4b5648f",
+                  "name": "Vitão",
+                  "sortName": "Vitão",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/vitao-23c98cf3.html"
+                },
+                "with": {
+                  "mbid": "d240dfff-8634-49f3-b3d7-3c89b4b5648f",
+                  "name": "Vitão",
+                  "sortName": "Vitão",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/vitao-23c98cf3.html"
+                }
+              },
+              {
+                "name": "Frank Ocean"
+              },
+              {
+                "name": "Tatuagem"
+              },
+              {
+                "name": "Ser",
+                "with": {
+                  "mbid": "64f4d4f8-63bc-4010-a9b9-969852355c2e",
+                  "name": "Luccas Carlos",
+                  "sortName": "Carlos, Luccas",
+                  "disambiguation": "Brazilian Rapper",
+                  "url": "https://www.setlist.fm/setlists/luccas-carlos-7bcf828c.html"
+                }
+              },
+              {
+                "name": "Incomum"
+              },
+              {
+                "name": "Segue com a tua vida"
+              },
+              {
+                "name": "Estranho",
+                "cover": {
+                  "mbid": "caeef712-a58f-469b-bfb6-edbd47612cdd",
+                  "name": "Marília Mendonça",
+                  "sortName": "Mendonça, Marília",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/marilia-mendonca-33c5841d.html"
+                }
+              },
+              {
+                "name": "Inveja"
+              },
+              {
+                "name": "Talvez"
+              },
+              {
+                "name": "Raio X",
+                "with": {
+                  "mbid": "ed667cac-2fdb-4401-973b-81c5b4a1717d",
+                  "name": "Luísa Sonza",
+                  "sortName": "Luísa Sonza",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/luisa-sonza-7bcad274.html"
+                }
+              },
+              {
+                "name": "Tentação",
+                "with": {
+                  "mbid": "ed667cac-2fdb-4401-973b-81c5b4a1717d",
+                  "name": "Luísa Sonza",
+                  "sortName": "Luísa Sonza",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/luisa-sonza-7bcad274.html"
+                }
+              },
+              {
+                "name": "Suas linhas"
+              },
+              {
+                "name": "Desgrama"
+              },
+              {
+                "name": "Bills, Bills, Bills",
+                "cover": {
+                  "mbid": "a796b92e-c137-4895-9c89-10f900617a4f",
+                  "name": "Destiny’s Child",
+                  "sortName": "Destiny’s Child",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/destinys-child-23d6bc0f.html"
+                }
+              },
+              {
+                "name": "Rolê"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Setlist with multiple song reprises due to the DVD recording.",
+      "url": "https://www.setlist.fm/setlist/carol-biazin/2021/cine-joia-sao-paulo-brazil-3b8b90ac.html"
+    },
+    {
+      "id": "1389cd69",
+      "versionId": "g3cf9973",
+      "eventDate": "02-12-2021",
+      "lastUpdated": "2022-03-13T00:27:38.519+0000",
+      "artist": {
+        "mbid": "3a9d0c68-0b39-4c9c-a018-f505266f1d24",
+        "name": "Vitor Fernandes",
+        "sortName": "Fernandes, Vitor",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/vitor-fernandes-33f080d1.html"
+      },
+      "venue": {
+        "id": "23d3bc7f",
+        "name": "Centro de Tradições Nordestinas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-de-tradicoes-nordestinas-sao-paulo-brazil-23d3bc7f.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/vitor-fernandes/2021/centro-de-tradicoes-nordestinas-sao-paulo-brazil-1389cd69.html"
+    },
+    {
+      "id": "5b88bb84",
+      "versionId": "g33c8dca1",
+      "eventDate": "28-11-2021",
+      "lastUpdated": "2022-05-09T21:09:35.715+0000",
+      "artist": {
+        "mbid": "4ba59781-5c5d-4dbd-a009-8f99c06f41f9",
+        "name": "Scalene",
+        "sortName": "Scalene",
+        "disambiguation": "Brazilian stoner rock band",
+        "url": "https://www.setlist.fm/setlists/scalene-bc74d12.html"
+      },
+      "venue": {
+        "id": "3d0e9bb",
+        "name": "Black Princess House",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/black-princess-house-sao-paulo-brazil-3d0e9bb.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Danse macabre"
+              },
+              {
+                "name": "O peso da pena"
+              },
+              {
+                "name": "Sublimação"
+              },
+              {
+                "name": "Surreal"
+              },
+              {
+                "name": "Distopia"
+              },
+              {
+                "name": "Histeria"
+              },
+              {
+                "name": "Esc (Caverna digital)"
+              },
+              {
+                "name": "Extremos pueris"
+              },
+              {
+                "name": "Vultos"
+              },
+              {
+                "name": "NÉVOA"
+              },
+              {
+                "name": "TANTRA"
+              },
+              {
+                "name": "Entrelaços",
+                "info": "substituindo \"Trilha\""
+              },
+              {
+                "name": "Furta-Cor"
+              },
+              {
+                "name": "Percevejo",
+                "info": "substituindo \"Phi\""
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/scalene/2021/black-princess-house-sao-paulo-brazil-5b88bb84.html"
+    },
+    {
+      "id": "b88b19e",
+      "versionId": "g3bc3c88c",
+      "eventDate": "27-11-2021",
+      "lastUpdated": "2022-01-09T22:08:14.170+0000",
+      "artist": {
+        "mbid": "e2fe8dd2-c3f4-4ffe-973c-a3ac3a33aaa7",
+        "name": "Psirico",
+        "sortName": "Psirico",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/psirico-33d758f5.html"
+      },
+      "venue": {
+        "id": "bd0d172",
+        "name": "Domingão com Huck",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/domingao-com-huck-sao-paulo-brazil-bd0d172.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Lepo lepo",
+                "info": "Shortened acapella"
+              },
+              {
+                "name": "Sigilinho"
+              },
+              {
+                "name": "Festa",
+                "cover": {
+                  "mbid": "d553e89c-3c2a-4f10-9ce1-9eaa74de0129",
+                  "name": "Ivete Sangalo",
+                  "sortName": "Sangalo, Ivete",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ivete-sangalo-6bd62e42.html"
+                },
+                "info": "with Pabllo Vittar and Luísa Sonza"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Aired on January 9, 2022",
+      "url": "https://www.setlist.fm/setlist/psirico/2021/domingao-com-huck-sao-paulo-brazil-b88b19e.html"
+    },
+    {
+      "id": "73bf3651",
+      "versionId": "gbe5d50a",
+      "eventDate": "27-11-2021",
+      "lastUpdated": "2022-11-26T22:54:25.118+0000",
+      "artist": {
+        "mbid": "98ad20c3-f758-46b4-8244-3a1483db40e9",
+        "name": "Biquini",
+        "sortName": "Biquini",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/biquini-6bd6d232.html"
+      },
+      "venue": {
+        "id": "53d02b3d",
+        "name": "Espaço Leste",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/espaco-leste-sao-paulo-brazil-53d02b3d.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/biquini/2021/espaco-leste-sao-paulo-brazil-73bf3651.html"
+    }
+  ]
+}

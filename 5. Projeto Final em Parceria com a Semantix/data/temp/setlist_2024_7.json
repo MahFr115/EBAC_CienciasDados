@@ -1,0 +1,1496 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 7,
+  "total": 2954,
+  "setlist": [
+    {
+      "id": "335f0441",
+      "versionId": "g535fa775",
+      "eventDate": "13-12-2024",
+      "lastUpdated": "2024-12-12T00:44:30.707+0000",
+      "artist": {
+        "mbid": "ff15d707-86aa-4aae-9af9-4cc88b95eb3b",
+        "name": "Zumbis do Espaço",
+        "sortName": "Zumbis do Espaço",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/zumbis-do-espaco-73d712e5.html"
+      },
+      "venue": {
+        "id": "1bd535f4",
+        "name": "Jai Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/jai-club-sao-paulo-brazil-1bd535f4.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/zumbis-do-espaco/2024/jai-club-sao-paulo-brazil-335f0441.html"
+    },
+    {
+      "id": "2b5f5cbe",
+      "versionId": "g5b5f33ac",
+      "eventDate": "13-12-2024",
+      "lastUpdated": "2024-12-15T14:14:00.401+0000",
+      "artist": {
+        "mbid": "3cd36f43-7140-43fe-b016-ca8a7727d823",
+        "name": "Foojammers",
+        "sortName": "Foojammers",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/foojammers-33f8d0c9.html"
+      },
+      "venue": {
+        "id": "63d5da93",
+        "name": "Willi Willie Bar e Arqueria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/willi-willie-bar-e-arqueria-sao-paulo-brazil-63d5da93.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Release",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "My Hero",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Better Man",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "Learn to Fly",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Rearviewmirror",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "Breakout",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Alive",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "Like a Stone",
+                "cover": {
+                  "mbid": "020bfbb4-05c3-4c86-b372-17825c262094",
+                  "name": "Audioslave",
+                  "sortName": "Audioslave",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/audioslave-3d68947.html"
+                }
+              },
+              {
+                "name": "Black",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "Times Like These",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "The Pretender",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Last Kiss",
+                "cover": {
+                  "mbid": "6863276d-61a2-4bee-a86b-70136be2d668",
+                  "name": "Wayne Cochran",
+                  "sortName": "Cochran, Wayne",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/wayne-cochran-2bd4904a.html"
+                }
+              },
+              {
+                "name": "Walk",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "All My Life",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Jeremy",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "These Days",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Best of You",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Everlong",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Even Flow",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "Elderly Woman Behind the Counter in a Small Town",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "Smells Like Teen Spirit",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Daughter",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/foojammers/2024/willi-willie-bar-e-arqueria-sao-paulo-brazil-2b5f5cbe.html"
+    },
+    {
+      "id": "1b5f959c",
+      "versionId": "g73512e95",
+      "eventDate": "13-12-2024",
+      "lastUpdated": "2024-11-30T00:23:55.151+0000",
+      "artist": {
+        "mbid": "80b4dd1a-d7f0-443c-ac2c-ef8c8fdc95c3",
+        "name": "eliminadorzinho",
+        "sortName": "eliminadorzinho",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/eliminadorzinho-bf6359e.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/eliminadorzinho/2024/la-iglesia-borratxeria-sao-paulo-brazil-1b5f959c.html"
+    },
+    {
+      "id": "135fcd11",
+      "versionId": "g6b5feaaa",
+      "eventDate": "13-12-2024",
+      "lastUpdated": "2024-12-14T00:36:14.486+0000",
+      "artist": {
+        "mbid": "b951932a-5bcd-496f-a796-ef599f68ca16",
+        "name": "Ale Sater",
+        "sortName": "Ale Sater",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/ale-sater-43fa175f.html"
+      },
+      "venue": {
+        "id": "13d66dbd",
+        "name": "SESC Ipiranga",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-ipiranga-sao-paulo-brazil-13d66dbd.html"
+      },
+      "tour": {
+        "name": "Tudo Tão Certo"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Nós"
+              },
+              {
+                "name": "Nunca Mais"
+              },
+              {
+                "name": "Anjo"
+              },
+              {
+                "name": "Ontem"
+              },
+              {
+                "name": "Sinais",
+                "cover": {
+                  "mbid": "6733a849-0e99-4a82-85ec-dc99b21f5474",
+                  "name": "Terno Rei",
+                  "sortName": "Terno Rei",
+                  "disambiguation": "Brazilian alt rock band from São Paulo",
+                  "url": "https://www.setlist.fm/setlists/terno-rei-43cf6f2b.html"
+                }
+              },
+              {
+                "name": "Brutal",
+                "cover": {
+                  "mbid": "6733a849-0e99-4a82-85ec-dc99b21f5474",
+                  "name": "Terno Rei",
+                  "sortName": "Terno Rei",
+                  "disambiguation": "Brazilian alt rock band from São Paulo",
+                  "url": "https://www.setlist.fm/setlists/terno-rei-43cf6f2b.html"
+                }
+              },
+              {
+                "name": "Quase Um Segundo",
+                "cover": {
+                  "mbid": "f197a8df-ac2b-4e78-9913-4abf13741f12",
+                  "name": "Os Paralamas do Sucesso",
+                  "sortName": "Paralamas do Sucesso, Os",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/os-paralamas-do-sucesso-43d6c7ef.html"
+                }
+              },
+              {
+                "name": "Desvencilhar"
+              },
+              {
+                "name": "Caminhão"
+              },
+              {
+                "name": "Ouvi Dizer"
+              },
+              {
+                "name": "Quero Estar"
+              },
+              {
+                "name": "Alguma Coisa"
+              },
+              {
+                "name": "Cidade"
+              },
+              {
+                "name": "Vejo"
+              },
+              {
+                "name": "Final de Mim"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Peu"
+              },
+              {
+                "name": "Luzes de Natal",
+                "cover": {
+                  "mbid": "6733a849-0e99-4a82-85ec-dc99b21f5474",
+                  "name": "Terno Rei",
+                  "sortName": "Terno Rei",
+                  "disambiguation": "Brazilian alt rock band from São Paulo",
+                  "url": "https://www.setlist.fm/setlists/terno-rei-43cf6f2b.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/ale-sater/2024/sesc-ipiranga-sao-paulo-brazil-135fcd11.html"
+    },
+    {
+      "id": "635f226b",
+      "versionId": "g735e6e65",
+      "eventDate": "12-12-2024",
+      "lastUpdated": "2024-12-09T16:33:18.330+0000",
+      "artist": {
+        "mbid": "61dec3a8-94f1-4d2d-a654-432577c7dba7",
+        "name": "Metá Metá",
+        "sortName": "Metá Metá",
+        "disambiguation": "Brazilian experimental music trio",
+        "url": "https://www.setlist.fm/setlists/meta-meta-23d1c88f.html"
+      },
+      "venue": {
+        "id": "1bd7ddf0",
+        "name": "Casa de Francisca",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-de-francisca-sao-paulo-brazil-1bd7ddf0.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/meta-meta/2024/casa-de-francisca-sao-paulo-brazil-635f226b.html"
+    },
+    {
+      "id": "4b5f1f82",
+      "versionId": "g35e6173",
+      "eventDate": "12-12-2024",
+      "lastUpdated": "2024-12-09T21:49:51.281+0000",
+      "artist": {
+        "mbid": "7e446703-bab7-4902-8353-954efde40388",
+        "name": "Schlop",
+        "sortName": "Schlop",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/schlop-13e0a5b9.html"
+      },
+      "venue": {
+        "id": "63d142c3",
+        "name": "Garagem Beleza",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/garagem-beleza-sao-paulo-brazil-63d142c3.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/schlop/2024/garagem-beleza-sao-paulo-brazil-4b5f1f82.html"
+    },
+    {
+      "id": "35f791b",
+      "versionId": "g337fd0f9",
+      "eventDate": "12-12-2024",
+      "lastUpdated": "2025-08-23T06:04:54.451+0000",
+      "artist": {
+        "mbid": "05cc6cf2-539a-4c8b-9a47-e8a7dc3dc6f5",
+        "name": "Pelados",
+        "sortName": "Pelados",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pelados-43ffe717.html"
+      },
+      "venue": {
+        "id": "7bd0ee98",
+        "name": "Picles Cardeal",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/picles-cardeal-sao-paulo-brazil-7bd0ee98.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "o sgt. peppers foi decapitado"
+              },
+              {
+                "name": "mesmasmesmasmesmas"
+              },
+              {
+                "name": "vampirinhos do amor"
+              },
+              {
+                "name": "julho de 2015"
+              },
+              {
+                "name": "ENEL"
+              },
+              {
+                "name": "a linha tênue entre gostar e não gostar"
+              },
+              {
+                "name": "nunca sozinha, sempre mal acompanhada"
+              },
+              {
+                "name": "boy meets girl"
+              },
+              {
+                "name": "coquinha gelada after sex"
+              },
+              {
+                "name": "modrić"
+              },
+              {
+                "name": "foda que ela era linda"
+              },
+              {
+                "name": "yo la tengo na casa do mancha"
+              },
+              {
+                "name": "foi mal"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/pelados/2024/picles-cardeal-sao-paulo-brazil-35f791b.html"
+    },
+    {
+      "id": "3462de3",
+      "versionId": "g534cff61",
+      "eventDate": "12-12-2024",
+      "lastUpdated": "2025-05-01T04:42:08.024+0000",
+      "artist": {
+        "mbid": "86079d63-6a03-4d23-b00f-48333ae27f05",
+        "name": "Coralinne",
+        "sortName": "Coralinne",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/coralinne-53e79fbd.html"
+      },
+      "venue": {
+        "id": "53de3745",
+        "name": "Rust 'N Oil",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/rust-n-oil-sao-paulo-brazil-53de3745.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Intro"
+              },
+              {
+                "name": "Te odeio, não te esqueço"
+              },
+              {
+                "name": "Locked Out of Heaven",
+                "cover": {
+                  "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+                  "name": "Bruno Mars",
+                  "sortName": "Mars, Bruno",
+                  "disambiguation": "US singer",
+                  "url": "https://www.setlist.fm/setlists/bruno-mars-bd5153a.html"
+                }
+              },
+              {
+                "name": "Arquiteto do futuro"
+              },
+              {
+                "name": "Good Luck, Babe!",
+                "cover": {
+                  "mbid": "56a55378-f155-48de-80a5-d80104221267",
+                  "name": "Chappell Roan",
+                  "sortName": "Roan, Chappell",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chappell-roan-6bcad6ce.html"
+                }
+              },
+              {
+                "name": "Ela odeia Taylor Swift"
+              },
+              {
+                "name": "Love Song"
+              },
+              {
+                "name": "Mesa pra um"
+              },
+              {
+                "name": "Bad Romance",
+                "cover": {
+                  "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+                  "name": "Lady Gaga",
+                  "sortName": "Lady Gaga",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/lady-gaga-1bd665bc.html"
+                }
+              },
+              {
+                "name": "Stressed Out",
+                "cover": {
+                  "mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                  "name": "twenty one pilots",
+                  "sortName": "twenty one pilots",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/twenty-one-pilots-7bd3caf0.html"
+                }
+              },
+              {
+                "name": "Final feliz de filme"
+              },
+              {
+                "name": "New Rules",
+                "cover": {
+                  "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+                  "name": "Dua Lipa",
+                  "sortName": "Lipa, Dua",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dua-lipa-13c41d41.html"
+                }
+              },
+              {
+                "name": "Desastre conhecido"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/coralinne/2024/rust-n-oil-sao-paulo-brazil-3462de3.html"
+    },
+    {
+      "id": "335fe0b5",
+      "versionId": "gb5f81ae",
+      "eventDate": "12-12-2024",
+      "lastUpdated": "2024-12-13T01:42:53.738+0000",
+      "artist": {
+        "mbid": "6983949c-bea5-4231-b7e7-09c4b1ead6fc",
+        "name": "KOKOKO!",
+        "sortName": "KOKOKO!",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/kokoko-63ccde6f.html"
+      },
+      "venue": {
+        "id": "2bd2c07e",
+        "name": "SESC Avenida Paulista",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-avenida-paulista-sao-paulo-brazil-2bd2c07e.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Butu Ezo Ya"
+              },
+              {
+                "name": "Likolo"
+              },
+              {
+                "name": "Donne Moi"
+              },
+              {
+                "name": "Elingi Biso Te"
+              },
+              {
+                "name": "Salaka Bien"
+              },
+              {
+                "name": "Motoki"
+              },
+              {
+                "name": "Azo Toke",
+                "with": {
+                  "mbid": "b6f57942-dd7b-4271-a06c-ecc5db00055b",
+                  "name": "Teto Preto",
+                  "sortName": "Teto Preto",
+                  "disambiguation": "Brazilian electronic band",
+                  "url": "https://www.setlist.fm/setlists/teto-preto-2bf6e8f2.html"
+                }
+              },
+              {
+                "name": "Polo Munene"
+              },
+              {
+                "name": "Kidoka"
+              },
+              {
+                "name": "Bazo banga"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": ""
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/kokoko/2024/sesc-avenida-paulista-sao-paulo-brazil-335fe0b5.html"
+    },
+    {
+      "id": "33517089",
+      "versionId": "g3b7760c8",
+      "eventDate": "12-12-2024",
+      "lastUpdated": "2025-06-27T16:48:58.288+0000",
+      "artist": {
+        "mbid": "462a85b4-83ac-4164-86b3-e5ac6a7ec040",
+        "name": "Tokio Hotel",
+        "sortName": "Tokio Hotel",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/tokio-hotel-23d6d453.html"
+      },
+      "venue": {
+        "id": "43d01ba3",
+        "name": "Vibra São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/vibra-sao-paulo-sao-paulo-brazil-43d01ba3.html"
+      },
+      "tour": {
+        "name": "Beyond the World Tour 2024"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "White Lies"
+              },
+              {
+                "name": "Automatic"
+              },
+              {
+                "name": "The Heart Get No Sleep"
+              },
+              {
+                "name": "Girl Got a Gun"
+              },
+              {
+                "name": "World Behind My Wall"
+              },
+              {
+                "name": "Feel It All"
+              },
+              {
+                "name": "Home"
+              }
+            ]
+          },
+          {
+            "name": "Acoustic",
+            "song": [
+              {
+                "name": "Black"
+              },
+              {
+                "name": "Just a Moment"
+              }
+            ]
+          },
+          {
+            "name": "Set 2:",
+            "song": [
+              {
+                "name": "Run, Run, Run"
+              },
+              {
+                "name": "HIM"
+              },
+              {
+                "name": "Spring nicht"
+              },
+              {
+                "name": "Easy"
+              },
+              {
+                "name": "Love Who Loves You Back"
+              },
+              {
+                "name": "What If"
+              },
+              {
+                "name": "Darkside of the Sun"
+              },
+              {
+                "name": "Colors of the Wind",
+                "cover": {
+                  "mbid": "82b1205f-543d-49e7-9ea1-40ce6f62e23b",
+                  "name": "Alan Menken & Stephen Schwartz",
+                  "sortName": "Menken, Alan & Schwartz, Stephen",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/alan-menken-and-stephen-schwartz-1bd72174.html"
+                }
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Monsoon"
+              },
+              {
+                "name": "Runaway"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/tokio-hotel/2024/vibra-sao-paulo-sao-paulo-brazil-33517089.html"
+    },
+    {
+      "id": "2351fcff",
+      "versionId": "g33483085",
+      "eventDate": "12-12-2024",
+      "lastUpdated": "2025-06-03T03:43:28.316+0000",
+      "artist": {
+        "mbid": "9ee949bc-0b0b-4e72-a13a-5c5a02b4cfd9",
+        "name": "Rodrigo Teaser",
+        "sortName": "Rodrigo Teaser",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/rodrigo-teaser-4bf15fba.html"
+      },
+      "venue": {
+        "id": "73d7f6ed",
+        "name": "Teatro Bradesco",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-bradesco-sao-paulo-brazil-73d7f6ed.html"
+      },
+      "tour": {
+        "name": "Tributo ao Rei do Pop"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Scream / They Don't Care About Us / In the Closet",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "Wanna Be Startin' Somethin'",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "Stranger in Moscow",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "Human Nature",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "Smooth Criminal",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "The Way You Make Me Feel",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "You Are Not Alone",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "I Want You Back / The Love You Save / I'll Be There",
+                "cover": {
+                  "mbid": "dc1215b4-acf8-40cb-bbf9-85a0c6b7fd6c",
+                  "name": "The Jackson 5",
+                  "sortName": "Jackson 5, The",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/the-jackson-5-33e708b1.html"
+                }
+              },
+              {
+                "name": "Rock With You / Off the Wall / Don't Stop 'Til You Get Enough",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "Shake Your Body (Down to the Ground)",
+                "cover": {
+                  "mbid": "e5257dc5-1edd-4fca-b7e6-1158e00522c8",
+                  "name": "The Jacksons",
+                  "sortName": "Jacksons, The",
+                  "disambiguation": "formerly “The Jackson 5”",
+                  "url": "https://www.setlist.fm/setlists/the-jacksons-13d6b99d.html"
+                }
+              },
+              {
+                "name": "Beat It",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "Heal the World",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "Dangerous",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "Billie Jean",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "Thriller",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              },
+              {
+                "name": "Black or White",
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                },
+                "info": "with \"Remember the Time\" snippet"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Sempre / Bem Mais"
+              },
+              {
+                "name": "This Is It",
+                "tape": true,
+                "cover": {
+                  "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+                  "name": "Michael Jackson",
+                  "sortName": "Jackson, Michael",
+                  "disambiguation": "“King of Pop”",
+                  "url": "https://www.setlist.fm/setlists/michael-jackson-6bd6e252.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/rodrigo-teaser/2024/teatro-bradesco-sao-paulo-brazil-2351fcff.html"
+    },
+    {
+      "id": "1b5f7924",
+      "versionId": "g535f8bfd",
+      "eventDate": "12-12-2024",
+      "lastUpdated": "2024-12-12T21:40:15.952+0000",
+      "artist": {
+        "mbid": "cbec15b2-bcbb-429e-a4a5-e093be70087c",
+        "name": "Bufo Borealis",
+        "sortName": "Bufo Borealis",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/bufo-borealis-53f123ad.html"
+      },
+      "venue": {
+        "id": "7bd0ee98",
+        "name": "Picles Cardeal",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/picles-cardeal-sao-paulo-brazil-7bd0ee98.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/bufo-borealis/2024/picles-cardeal-sao-paulo-brazil-1b5f7924.html"
+    },
+    {
+      "id": "7b5f2274",
+      "versionId": "g6b5e6e66",
+      "eventDate": "11-12-2024",
+      "lastUpdated": "2024-12-09T16:33:05.661+0000",
+      "artist": {
+        "mbid": "61dec3a8-94f1-4d2d-a654-432577c7dba7",
+        "name": "Metá Metá",
+        "sortName": "Metá Metá",
+        "disambiguation": "Brazilian experimental music trio",
+        "url": "https://www.setlist.fm/setlists/meta-meta-23d1c88f.html"
+      },
+      "venue": {
+        "id": "1bd7ddf0",
+        "name": "Casa de Francisca",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-de-francisca-sao-paulo-brazil-1bd7ddf0.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/meta-meta/2024/casa-de-francisca-sao-paulo-brazil-7b5f2274.html"
+    },
+    {
+      "id": "3b51fcf8",
+      "versionId": "g635462c3",
+      "eventDate": "11-12-2024",
+      "lastUpdated": "2024-10-26T06:24:18.518+0000",
+      "artist": {
+        "mbid": "9ee949bc-0b0b-4e72-a13a-5c5a02b4cfd9",
+        "name": "Rodrigo Teaser",
+        "sortName": "Rodrigo Teaser",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/rodrigo-teaser-4bf15fba.html"
+      },
+      "venue": {
+        "id": "73d7f6ed",
+        "name": "Teatro Bradesco",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-bradesco-sao-paulo-brazil-73d7f6ed.html"
+      },
+      "tour": {
+        "name": "Tributo ao Rei do Pop"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/rodrigo-teaser/2024/teatro-bradesco-sao-paulo-brazil-3b51fcf8.html"
+    },
+    {
+      "id": "b5e0956",
+      "versionId": "g4b5e738a",
+      "eventDate": "10-12-2024",
+      "lastUpdated": "2024-12-09T13:36:26.568+0000",
+      "artist": {
+        "mbid": "c729f4f3-3bfb-4bcd-92b8-673ba30d389b",
+        "name": "KL Jay",
+        "sortName": "KL Jay",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/kl-jay-3da8923.html"
+      },
+      "venue": {
+        "id": "23de8063",
+        "name": "Galpão Cultural Elza Soares",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/galpao-cultural-elza-soares-sao-paulo-brazil-23de8063.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/kl-jay/2024/galpao-cultural-elza-soares-sao-paulo-brazil-b5e0956.html"
+    },
+    {
+      "id": "7b5f1e8c",
+      "versionId": "g6b5e620e",
+      "eventDate": "10-12-2024",
+      "lastUpdated": "2024-12-09T23:36:36.812+0000",
+      "artist": {
+        "mbid": "fe3fe5b7-54e5-4a28-80ed-a19e65f25b89",
+        "name": "Crizin da Z.O.",
+        "sortName": "Crizin da Z.O.",
+        "disambiguation": "Cris Onofre (FORADECOMPASSO), Danilo Machado (AKADINDO) and Marcelo Fiedler from Paraná",
+        "url": "https://www.setlist.fm/setlists/crizin-da-zo-5be71b64.html"
+      },
+      "venue": {
+        "id": "53d2bb39",
+        "name": "Centro da Terra",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-da-terra-sao-paulo-brazil-53d2bb39.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/crizin-da-zo/2024/centro-da-terra-sao-paulo-brazil-7b5f1e8c.html"
+    },
+    {
+      "id": "6b5f1e8e",
+      "versionId": "g7b5e6208",
+      "eventDate": "10-12-2024",
+      "lastUpdated": "2024-12-09T23:36:21.267+0000",
+      "artist": {
+        "mbid": "44966c96-9e36-483d-bfea-2625f8543615",
+        "name": "DEAFKIDS",
+        "sortName": "DEAFKIDS",
+        "disambiguation": "Brazilian punk band",
+        "url": "https://www.setlist.fm/setlists/deafkids-7bcd6648.html"
+      },
+      "venue": {
+        "id": "53d2bb39",
+        "name": "Centro da Terra",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-da-terra-sao-paulo-brazil-53d2bb39.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/deafkids/2024/centro-da-terra-sao-paulo-brazil-6b5f1e8e.html"
+    },
+    {
+      "id": "3b5f2018",
+      "versionId": "g535e7389",
+      "eventDate": "10-12-2024",
+      "lastUpdated": "2024-12-09T13:36:48.986+0000",
+      "artist": {
+        "mbid": "373cc355-ebd7-45a8-91a3-6ffeb5cbe222",
+        "name": "Don L",
+        "sortName": "Don L",
+        "disambiguation": "Brazilian rapper",
+        "url": "https://www.setlist.fm/setlists/don-l-13d06d75.html"
+      },
+      "venue": {
+        "id": "23de8063",
+        "name": "Galpão Cultural Elza Soares",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/galpao-cultural-elza-soares-sao-paulo-brazil-23de8063.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/don-l/2024/galpao-cultural-elza-soares-sao-paulo-brazil-3b5f2018.html"
+    },
+    {
+      "id": "335f201d",
+      "versionId": "g435e7383",
+      "eventDate": "10-12-2024",
+      "lastUpdated": "2024-12-09T13:38:47.930+0000",
+      "artist": {
+        "mbid": "7681bdca-84ee-466c-bb9e-1868b27deeed",
+        "name": "Rashid",
+        "sortName": "Rashid",
+        "disambiguation": "Brazilian rapper",
+        "url": "https://www.setlist.fm/setlists/rashid-2bdad802.html"
+      },
+      "venue": {
+        "id": "23de8063",
+        "name": "Galpão Cultural Elza Soares",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/galpao-cultural-elza-soares-sao-paulo-brazil-23de8063.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/rashid/2024/galpao-cultural-elza-soares-sao-paulo-brazil-335f201d.html"
+    },
+    {
+      "id": "2b5f201e",
+      "versionId": "g5b5e738c",
+      "eventDate": "10-12-2024",
+      "lastUpdated": "2024-12-09T13:38:19.791+0000",
+      "artist": {
+        "mbid": "32e1e34b-4e77-408b-acd1-17c0bcc576d8",
+        "name": "Fabiana Cozza",
+        "sortName": "Cozza, Fabiana",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/fabiana-cozza-bd2c1fa.html"
+      },
+      "venue": {
+        "id": "23de8063",
+        "name": "Galpão Cultural Elza Soares",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/galpao-cultural-elza-soares-sao-paulo-brazil-23de8063.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/fabiana-cozza/2024/galpao-cultural-elza-soares-sao-paulo-brazil-2b5f201e.html"
+    }
+  ]
+}

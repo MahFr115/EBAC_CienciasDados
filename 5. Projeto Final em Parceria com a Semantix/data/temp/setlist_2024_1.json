@@ -1,0 +1,1846 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 1,
+  "total": 2954,
+  "setlist": [
+    {
+      "id": "335c048d",
+      "versionId": "g235d444f",
+      "eventDate": "31-12-2024",
+      "lastUpdated": "2025-01-06T19:12:02.880+0000",
+      "artist": {
+        "mbid": "30af9387-037c-4f4f-9a81-17c6d9f5a26e",
+        "name": "Gloria Groove",
+        "sortName": "Groove, Gloria",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/gloria-groove-23c11053.html"
+      },
+      "venue": {
+        "id": "23d7fc83",
+        "name": "Avenida Paulista",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/avenida-paulista-sao-paulo-brazil-23d7fc83.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "name": "Act 1",
+            "song": [
+              {
+                "name": "LEILÃO",
+                "info": "extended intro; shortened"
+              },
+              {
+                "name": "GRETA",
+                "info": "shortened"
+              },
+              {
+                "name": "O proceder / Império / Dona"
+              },
+              {
+                "name": "PISANDO FOFO",
+                "info": "contains elements of Snoop Dogg's \"Drop It Like It's Hot\""
+              },
+              {
+                "name": "Muleke brasileiro",
+                "info": "extended intro with elements of Beyoncé's \"Baby Boy\"; shortened"
+              },
+              {
+                "name": "JOGO PERIGOSO",
+                "info": "shortened"
+              },
+              {
+                "name": "Catuaba / YoYo",
+                "info": "\"YoYo\" contains remixed elements"
+              },
+              {
+                "name": "PLANETA OUSADIA",
+                "info": "shortened; Contains elements of Furacão 2000's \"Tira a Camisa\""
+              },
+              {
+                "name": "BONEKINHA",
+                "info": "MTG version"
+              },
+              {
+                "name": "AMEIANOITE",
+                "cover": {
+                  "mbid": "d9550ac2-7bcf-4655-a3fe-24922e254a74",
+                  "name": "Pabllo Vittar",
+                  "sortName": "Vittar, Pabllo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pabllo-vittar-7bc0fe4c.html"
+                },
+                "info": "contains elements of Furacão 2000's \"Elas estão descontroladas\""
+              },
+              {
+                "name": "BARULHADA",
+                "info": "shortened"
+              },
+              {
+                "name": "AO SOM DO TUIM / SFM"
+              }
+            ]
+          },
+          {
+            "name": "Act 2 - Serenata da GG",
+            "song": [
+              {
+                "name": "Loucuras de amor",
+                "info": "backing vocals performance"
+              },
+              {
+                "name": "Madrugada",
+                "info": "Pagode version; shortened"
+              },
+              {
+                "name": "A tua voz / Radar",
+                "info": "Pagode version"
+              },
+              {
+                "name": "A loba",
+                "cover": {
+                  "mbid": "51bde19b-feed-4e6c-99e7-84327defabe2",
+                  "name": "Alcione",
+                  "sortName": "Alcione",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/alcione-53d78fd9.html"
+                },
+                "info": "shortened"
+              },
+              {
+                "name": "Você sempre será / Não dá pra resistir"
+              },
+              {
+                "name": "Encostar na tua",
+                "cover": {
+                  "mbid": "f34f0700-1ae5-4b80-b506-252aeff31c71",
+                  "name": "Ana Carolina",
+                  "sortName": "Ana Carolina",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ana-carolina-63d62e4f.html"
+                }
+              },
+              {
+                "name": "Amor pilantra"
+              },
+              {
+                "name": "5 minutinhos"
+              },
+              {
+                "name": "Nosso primeiro beijo",
+                "info": "extended acoustic outro"
+              },
+              {
+                "name": "Radar",
+                "tape": true,
+                "info": "band performance"
+              }
+            ]
+          },
+          {
+            "name": "Act 3 - Alô Alô Brasil",
+            "song": [
+              {
+                "name": "VERMELHO",
+                "tape": true,
+                "info": "as intro; percussion version"
+              },
+              {
+                "name": "Magalenha / Aquarela do Brasil",
+                "info": "Covers"
+              },
+              {
+                "name": "Bumbum de ouro",
+                "info": "Carnaval version; contains elements of MC Buiu's “Balança mas não para”"
+              },
+              {
+                "name": "Arrasta",
+                "info": "shortened"
+              },
+              {
+                "name": "BRUXARIA 3000",
+                "info": "Carnaval version; contain elements of “Um morto muito louco” by Jack e Chocolate & DJ Marlboro"
+              },
+              {
+                "name": "DA BRABA",
+                "info": "shortened"
+              },
+              {
+                "name": "Coisa boa"
+              },
+              {
+                "name": "A QUEDA",
+                "info": "extended intro with elements of Michael Jackson's \"Thriller\""
+              },
+              {
+                "name": "VERMELHO",
+                "info": "extended intro; extended ending with acknowledgments"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/gloria-groove/2024/avenida-paulista-sao-paulo-brazil-335c048d.html"
+    },
+    {
+      "id": "235c3cef",
+      "versionId": "g4340c777",
+      "eventDate": "27-12-2024",
+      "lastUpdated": "2025-04-03T07:47:05.377+0000",
+      "artist": {
+        "mbid": "99999777-3d19-4f59-acb5-8f06bc7ca201",
+        "name": "Halleck",
+        "sortName": "Halleck",
+        "disambiguation": "tattoo artist and bass player",
+        "url": "https://www.setlist.fm/setlists/halleck-2bf730f6.html"
+      },
+      "venue": {
+        "id": "43def35f",
+        "name": "Setessete Music Bar",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/setessete-music-bar-sao-paulo-brazil-43def35f.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Zero"
+              },
+              {
+                "name": "Babel"
+              },
+              {
+                "name": "V.G."
+              },
+              {
+                "name": "Lápides"
+              },
+              {
+                "name": "Mundo real"
+              },
+              {
+                "name": "Silêncios"
+              },
+              {
+                "name": "Silent Night"
+              },
+              {
+                "name": "Sol de novembro"
+              },
+              {
+                "name": "A ratazana"
+              },
+              {
+                "name": "730 passos"
+              },
+              {
+                "name": "28 de agosto"
+              },
+              {
+                "name": "Tarde demais"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/halleck/2024/setessete-music-bar-sao-paulo-brazil-235c3cef.html"
+    },
+    {
+      "id": "1b5f510c",
+      "versionId": "g35dbd8b",
+      "eventDate": "27-12-2024",
+      "lastUpdated": "2024-12-28T05:49:25.507+0000",
+      "artist": {
+        "mbid": "e8441a8e-2117-4c45-89de-d6bcbb8b0dd8",
+        "name": "Guilherme Eddino",
+        "sortName": "Eddino, Guilherme",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/guilherme-eddino-be0914e.html"
+      },
+      "venue": {
+        "id": "6bde8a4e",
+        "name": "Casa Lab",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-lab-sao-paulo-brazil-6bde8a4e.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Deus Ex Machina"
+              },
+              {
+                "name": "O Nome do Nêmesis",
+                "info": "primeira vez ao vivo"
+              },
+              {
+                "name": "Febre"
+              },
+              {
+                "name": "Mea Culpa"
+              },
+              {
+                "name": "Na Sua Frente"
+              },
+              {
+                "name": "Leave",
+                "info": "primeira vez ao vivo"
+              },
+              {
+                "name": "Agora"
+              },
+              {
+                "name": "Carrossel",
+                "info": "primeira vez ao vivo"
+              },
+              {
+                "name": "Vão"
+              },
+              {
+                "name": "Pulsar"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Show solo acústico e com intervenções eletrônicas. Primeiro show em oito anos.",
+      "url": "https://www.setlist.fm/setlist/guilherme-eddino/2024/casa-lab-sao-paulo-brazil-1b5f510c.html"
+    },
+    {
+      "id": "1343ddb1",
+      "versionId": "g737112f1",
+      "eventDate": "26-12-2024",
+      "lastUpdated": "2025-08-09T19:23:20.098+0000",
+      "artist": {
+        "mbid": "b63a90d4-fae5-415b-86c6-5b1075757e4d",
+        "name": "Dino Fonseca",
+        "sortName": "Fonseca, Dino",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/dino-fonseca-33efe80d.html"
+      },
+      "venue": {
+        "id": "73d7f6ed",
+        "name": "Teatro Bradesco",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-bradesco-sao-paulo-brazil-73d7f6ed.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/dino-fonseca/2024/teatro-bradesco-sao-paulo-brazil-1343ddb1.html"
+    },
+    {
+      "id": "73516ae5",
+      "versionId": "g635c3eff",
+      "eventDate": "22-12-2024",
+      "lastUpdated": "2024-12-23T02:05:27.029+0000",
+      "artist": {
+        "mbid": "7d8e263d-1630-444a-9980-0220670cd506",
+        "name": "Aeternus",
+        "sortName": "Aeternus",
+        "disambiguation": "Norwegian black metal (early) / death metal (later) band",
+        "url": "https://www.setlist.fm/setlists/aeternus-63d78e67.html"
+      },
+      "venue": {
+        "id": "73d29ac9",
+        "name": "Fabrique Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fabrique-club-sao-paulo-brazil-73d29ac9.html"
+      },
+      "tour": {
+        "name": "The Brazil Bombardment Tour"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Raven and Blood"
+              },
+              {
+                "name": "There's No Wine Like the Bloods Crimson"
+              },
+              {
+                "name": "Existentialist Hunter"
+              },
+              {
+                "name": "There Will Be None"
+              },
+              {
+                "name": "‘Illa Mayyit"
+              },
+              {
+                "name": "Wresting Worm"
+              },
+              {
+                "name": "World Bleak Nepotism"
+              },
+              {
+                "name": "Wrath of the Warlord"
+              },
+              {
+                "name": "Death's Golden Truth Revealed"
+              },
+              {
+                "name": "Sworn Revenge"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/aeternus/2024/fabrique-club-sao-paulo-brazil-73516ae5.html"
+    },
+    {
+      "id": "73516ad9",
+      "versionId": "g1352f505",
+      "eventDate": "22-12-2024",
+      "lastUpdated": "2024-11-05T12:47:59.989+0000",
+      "artist": {
+        "mbid": "0a4fbe88-34bd-472a-97fe-d2efae10c1d4",
+        "name": "Wisdom",
+        "sortName": "Wisdom",
+        "disambiguation": "use with care, may contain more than one artist.",
+        "url": "https://www.setlist.fm/setlists/wisdom-2bd2e446.html"
+      },
+      "venue": {
+        "id": "73d29ac9",
+        "name": "Fabrique Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fabrique-club-sao-paulo-brazil-73d29ac9.html"
+      },
+      "tour": {
+        "name": "The Brazil Bombardment Tour"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/wisdom/2024/fabrique-club-sao-paulo-brazil-73516ad9.html"
+    },
+    {
+      "id": "63516adb",
+      "versionId": "g352f507",
+      "eventDate": "22-12-2024",
+      "lastUpdated": "2024-11-05T12:47:43.566+0000",
+      "artist": {
+        "mbid": "a8134296-adb5-4d73-b4bf-9b3eb7eace8e",
+        "name": "NervoChaos",
+        "sortName": "NervoChaos",
+        "disambiguation": "Brazilian metal band",
+        "url": "https://www.setlist.fm/setlists/nervochaos-6bdc9a82.html"
+      },
+      "venue": {
+        "id": "73d29ac9",
+        "name": "Fabrique Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fabrique-club-sao-paulo-brazil-73d29ac9.html"
+      },
+      "tour": {
+        "name": "The Brazil Bombardment Tour"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/nervochaos/2024/fabrique-club-sao-paulo-brazil-63516adb.html"
+    },
+    {
+      "id": "6350be33",
+      "versionId": "g13589109",
+      "eventDate": "22-12-2024",
+      "lastUpdated": "2025-01-27T01:19:56.874+0000",
+      "artist": {
+        "mbid": "c234fa42-e6a6-443e-937e-2f4b073538a3",
+        "name": "Chris Brown",
+        "sortName": "Brown, Chris",
+        "disambiguation": "US R&B/pop singer and dancer",
+        "url": "https://www.setlist.fm/setlists/chris-brown-3bd6bc40.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Angel Numbers / Ten Toes"
+              },
+              {
+                "name": "Beautiful People"
+              },
+              {
+                "name": "Yeah 3x"
+              },
+              {
+                "name": "Five More Hours",
+                "cover": {
+                  "mbid": "724ffc08-6987-40b0-b107-03bb95a82b80",
+                  "name": "Deorro",
+                  "sortName": "Deorro",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/deorro-3dff9bb.html"
+                }
+              },
+              {
+                "name": "Heat"
+              },
+              {
+                "name": "Party"
+              },
+              {
+                "name": "Go Girlfriend"
+              },
+              {
+                "name": "Ayo",
+                "cover": {
+                  "mbid": "5e8f38c7-2780-4810-978a-0ba5bd1e64f1",
+                  "name": "Chris Brown & Tyga",
+                  "sortName": "Brown, Chris & Tyga",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chris-brown-and-tyga-43dda75f.html"
+                }
+              },
+              {
+                "name": "Beat It",
+                "cover": {
+                  "mbid": "f7eb3be3-1065-4a53-94d4-e2d0c15c0b33",
+                  "name": "Sean Kingston",
+                  "sortName": "Kingston, Sean",
+                  "disambiguation": "Jamaican-American rapper, singer, composer & record producer",
+                  "url": "https://www.setlist.fm/setlists/sean-kingston-33d6bc5d.html"
+                }
+              },
+              {
+                "name": "Summer Too Hot"
+              },
+              {
+                "name": "Liquor"
+              },
+              {
+                "name": "Drunk Texting"
+              },
+              {
+                "name": "Indigo"
+              },
+              {
+                "name": "No BS"
+              },
+              {
+                "name": "Back to Sleep"
+              },
+              {
+                "name": "Come Together"
+              },
+              {
+                "name": "Don't Judge Me"
+              },
+              {
+                "name": "Residuals"
+              },
+              {
+                "name": "Run It!"
+              },
+              {
+                "name": "Gimme That"
+              },
+              {
+                "name": "Poppin'"
+              },
+              {
+                "name": "Yo (Excuse Me Miss)"
+              },
+              {
+                "name": "Say Goodbye"
+              },
+              {
+                "name": "Wall to Wall",
+                "info": "Fly to Stage B"
+              },
+              {
+                "name": "Take You Down"
+              },
+              {
+                "name": "Kiss Kiss"
+              },
+              {
+                "name": "With You"
+              },
+              {
+                "name": "She Ain't You"
+              },
+              {
+                "name": "Deuces"
+              },
+              {
+                "name": "Look at Me Now"
+              },
+              {
+                "name": "Strip"
+              },
+              {
+                "name": "Turn Up the Music"
+              },
+              {
+                "name": "Hmmm"
+              },
+              {
+                "name": "Call Me Every Day"
+              },
+              {
+                "name": "Sensational"
+              },
+              {
+                "name": "Monalisa"
+              },
+              {
+                "name": "New Flame"
+              },
+              {
+                "name": "Go Crazy",
+                "cover": {
+                  "mbid": "4e8a05c9-c6a5-4bb2-81e8-6a08cd3814c3",
+                  "name": "Chris Brown & Young Thug",
+                  "sortName": "Brown, Chris & Young Thug",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chris-brown-and-young-thug-6bf49e22.html"
+                }
+              },
+              {
+                "name": "Privacy"
+              },
+              {
+                "name": "Under the Influence"
+              },
+              {
+                "name": "Grass Ain't Greener"
+              },
+              {
+                "name": "No Guidance"
+              },
+              {
+                "name": "No Air",
+                "cover": {
+                  "mbid": "5508631d-697f-4839-a669-06637e5bcb90",
+                  "name": "Jordin Sparks",
+                  "sortName": "Sparks, Jordin",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jordin-sparks-43d6bfd7.html"
+                }
+              },
+              {
+                "name": "Loyal"
+              },
+              {
+                "name": "Forever"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "",
+      "url": "https://www.setlist.fm/setlist/chris-brown/2024/allianz-parque-sao-paulo-brazil-6350be33.html"
+    },
+    {
+      "id": "1b5f7108",
+      "versionId": "g635c3e43",
+      "eventDate": "22-12-2024",
+      "lastUpdated": "2024-12-23T01:46:20.099+0000",
+      "artist": {
+        "mbid": "e7b8fbc8-b1f2-4d66-8d42-4d0b58e440bb",
+        "name": "Blood Red Throne",
+        "sortName": "Blood Red Throne",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/blood-red-throne-bd6790a.html"
+      },
+      "venue": {
+        "id": "73d29ac9",
+        "name": "Fabrique Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fabrique-club-sao-paulo-brazil-73d29ac9.html"
+      },
+      "tour": {
+        "name": "Nonagon Latin America Tour 2024"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Epitaph Inscribed"
+              },
+              {
+                "name": "Unleashing Hell"
+              },
+              {
+                "name": "Blade Eulogy"
+              },
+              {
+                "name": "Smite"
+              },
+              {
+                "name": "Homicidal Ecstasy"
+              },
+              {
+                "name": "Tempest Sculptor"
+              },
+              {
+                "name": "The Light, The Hate"
+              },
+              {
+                "name": "Arterial Lust"
+              },
+              {
+                "name": "Itika"
+              },
+              {
+                "name": "Every Silent Plea"
+              },
+              {
+                "name": "Mephitication"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/blood-red-throne/2024/fabrique-club-sao-paulo-brazil-1b5f7108.html"
+    },
+    {
+      "id": "1b5c0528",
+      "versionId": "g4b5dd79e",
+      "eventDate": "22-12-2024",
+      "lastUpdated": "2024-12-31T22:23:41.918+0000",
+      "artist": {
+        "mbid": "5cc03b39-9b7d-43d6-a1d9-321c2e3aec50",
+        "name": "Dead Fish",
+        "sortName": "Dead Fish",
+        "disambiguation": "Brazilian hardcore band",
+        "url": "https://www.setlist.fm/setlists/dead-fish-3bd6c0c4.html"
+      },
+      "venue": {
+        "id": "3bd63414",
+        "name": "Hangar 110",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/hangar-110-sao-paulo-brazil-3bd63414.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/dead-fish/2024/hangar-110-sao-paulo-brazil-1b5c0528.html"
+    },
+    {
+      "id": "b5c9142",
+      "versionId": "g1b5cf1c8",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-21T05:32:28.803+0000",
+      "artist": {
+        "mbid": "f4af9d96-5542-4c5d-85b2-257ec4654b80",
+        "name": "Inês É Morta",
+        "sortName": "Inês É Morta",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/ines-e-morta-bf1dd26.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/ines-e-morta/2024/la-iglesia-borratxeria-sao-paulo-brazil-b5c9142.html"
+    },
+    {
+      "id": "b536172",
+      "versionId": "gb76095a",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2025-06-19T20:48:46.173+0000",
+      "artist": {
+        "mbid": "c234fa42-e6a6-443e-937e-2f4b073538a3",
+        "name": "Chris Brown",
+        "sortName": "Brown, Chris",
+        "disambiguation": "US R&B/pop singer and dancer",
+        "url": "https://www.setlist.fm/setlists/chris-brown-3bd6bc40.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "11:11 Tour"
+      },
+      "sets": {
+        "set": [
+          {
+            "name": "Act 1",
+            "song": [
+              {
+                "name": "Angel Numbers / Ten Toes"
+              },
+              {
+                "name": "Lurkin'"
+              },
+              {
+                "name": "Heat"
+              },
+              {
+                "name": "Party"
+              },
+              {
+                "name": "Go Girlfriend"
+              },
+              {
+                "name": "Summer Too Hot"
+              },
+              {
+                "name": "Ayo",
+                "cover": {
+                  "mbid": "5e8f38c7-2780-4810-978a-0ba5bd1e64f1",
+                  "name": "Chris Brown & Tyga",
+                  "sortName": "Brown, Chris & Tyga",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chris-brown-and-tyga-43dda75f.html"
+                }
+              },
+              {
+                "name": "Beat It",
+                "cover": {
+                  "mbid": "f7eb3be3-1065-4a53-94d4-e2d0c15c0b33",
+                  "name": "Sean Kingston",
+                  "sortName": "Kingston, Sean",
+                  "disambiguation": "Jamaican-American rapper, singer, composer & record producer",
+                  "url": "https://www.setlist.fm/setlists/sean-kingston-33d6bc5d.html"
+                }
+              },
+              {
+                "name": "Beautiful People"
+              },
+              {
+                "name": "Yeah 3x"
+              },
+              {
+                "name": "Five More Hours",
+                "cover": {
+                  "mbid": "724ffc08-6987-40b0-b107-03bb95a82b80",
+                  "name": "Deorro",
+                  "sortName": "Deorro",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/deorro-3dff9bb.html"
+                }
+              },
+              {
+                "name": "X"
+              },
+              {
+                "name": "Liquor"
+              },
+              {
+                "name": "Indigo"
+              },
+              {
+                "name": "No BS"
+              },
+              {
+                "name": "Back to Sleep"
+              },
+              {
+                "name": "Come Together"
+              },
+              {
+                "name": "Don't Judge Me"
+              },
+              {
+                "name": "Drunk Texting"
+              },
+              {
+                "name": "Residuals"
+              }
+            ]
+          },
+          {
+            "name": "Act 2",
+            "song": [
+              {
+                "name": "Run It!"
+              },
+              {
+                "name": "Gimme That"
+              },
+              {
+                "name": "Poppin'"
+              },
+              {
+                "name": "Yo (Excuse Me Miss)"
+              },
+              {
+                "name": "Say Goodbye"
+              },
+              {
+                "name": "Wall to Wall"
+              },
+              {
+                "name": "Kiss Kiss"
+              },
+              {
+                "name": "With You"
+              },
+              {
+                "name": "She Ain't You"
+              },
+              {
+                "name": "Deuces"
+              },
+              {
+                "name": "Look at Me Now"
+              },
+              {
+                "name": "Strip"
+              },
+              {
+                "name": "Turn Up the Music"
+              }
+            ]
+          },
+          {
+            "name": "Act 3",
+            "song": [
+              {
+                "name": "Juicy Booty",
+                "tape": true
+              },
+              {
+                "name": "Undecided",
+                "tape": true
+              },
+              {
+                "name": "Post to Be",
+                "tape": true,
+                "cover": {
+                  "mbid": "3ca09fae-fdee-4771-bab9-244708515a98",
+                  "name": "Omarion",
+                  "sortName": "Omarion",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/omarion-1bd699a8.html"
+                }
+              },
+              {
+                "name": "Fine China",
+                "tape": true
+              },
+              {
+                "name": "Love More",
+                "tape": true
+              },
+              {
+                "name": "Don't Think They Know",
+                "tape": true
+              },
+              {
+                "name": "Don't Wake Me Up",
+                "tape": true
+              },
+              {
+                "name": "Hmmm"
+              },
+              {
+                "name": "Call Me Every Day"
+              },
+              {
+                "name": "Sensational"
+              },
+              {
+                "name": "Mona Lisa (Remix)"
+              },
+              {
+                "name": "New Flame"
+              }
+            ]
+          },
+          {
+            "name": "Act 4",
+            "song": [
+              {
+                "name": "Go Crazy",
+                "cover": {
+                  "mbid": "4e8a05c9-c6a5-4bb2-81e8-6a08cd3814c3",
+                  "name": "Chris Brown & Young Thug",
+                  "sortName": "Brown, Chris & Young Thug",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/chris-brown-and-young-thug-6bf49e22.html"
+                }
+              },
+              {
+                "name": "Press Me"
+              },
+              {
+                "name": "Privacy"
+              },
+              {
+                "name": "Feel Something"
+              },
+              {
+                "name": "Under the Influence"
+              },
+              {
+                "name": "Grass Ain't Greener"
+              },
+              {
+                "name": "No Guidance"
+              }
+            ]
+          },
+          {
+            "name": "Encore",
+            "song": [
+              {
+                "name": "No Air",
+                "cover": {
+                  "mbid": "5508631d-697f-4839-a669-06637e5bcb90",
+                  "name": "Jordin Sparks",
+                  "sortName": "Sparks, Jordin",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jordin-sparks-43d6bfd7.html"
+                }
+              },
+              {
+                "name": "Loyal"
+              },
+              {
+                "name": "Forever"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/chris-brown/2024/allianz-parque-sao-paulo-brazil-b536172.html"
+    },
+    {
+      "id": "7b5e52c8",
+      "versionId": "g235044b3",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-11-25T13:44:05.423+0000",
+      "artist": {
+        "mbid": "ed5e3d94-67e6-40dc-9b19-9b295cf39ca6",
+        "name": "Rodolfo Abrantes",
+        "sortName": "Abrantes, Rodolfo",
+        "disambiguation": "Rodox",
+        "url": "https://www.setlist.fm/setlists/rodolfo-abrantes-3bda3ce8.html"
+      },
+      "venue": {
+        "id": "2bd1ac5a",
+        "name": "Terra SP",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/terra-sp-sao-paulo-brazil-2bd1ac5a.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/rodolfo-abrantes/2024/terra-sp-sao-paulo-brazil-7b5e52c8.html"
+    },
+    {
+      "id": "7b5cf6a0",
+      "versionId": "g335c282d",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-23T14:54:54.657+0000",
+      "artist": {
+        "mbid": "1892ee74-29b1-4420-95d0-13d0fd26bffb",
+        "name": "ROT",
+        "sortName": "ROT",
+        "disambiguation": "Brazilian grindcore/hardcore band",
+        "url": "https://www.setlist.fm/setlists/rot-3bd714a4.html"
+      },
+      "venue": {
+        "id": "73d32ae5",
+        "name": "Rock Together Studio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/rock-together-studio-sao-paulo-brazil-73d32ae5.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/rot/2024/rock-together-studio-sao-paulo-brazil-7b5cf6a0.html"
+    },
+    {
+      "id": "7b50befc",
+      "versionId": "gb4aa54a",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2025-05-14T22:37:06.527+0000",
+      "artist": {
+        "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+        "name": "Post Malone",
+        "sortName": "Post Malone",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/post-malone-63c7def7.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Wrong Ones"
+              },
+              {
+                "name": "Circles"
+              },
+              {
+                "name": "What Don't Belong to Me"
+              },
+              {
+                "name": "Guy for That"
+              },
+              {
+                "name": "Chemical"
+              },
+              {
+                "name": "M-E-X-I-C-O",
+                "info": "Sang as B-R-A-S-I-L"
+              },
+              {
+                "name": "Candy Paint"
+              },
+              {
+                "name": "I Like You (A Happier Song)",
+                "info": "Tour debut"
+              },
+              {
+                "name": "Stay",
+                "info": "Fan played the guitar"
+              },
+              {
+                "name": "I Fall Apart"
+              },
+              {
+                "name": "Better Now"
+              },
+              {
+                "name": "Psycho"
+              },
+              {
+                "name": "Wow."
+              },
+              {
+                "name": "Losers"
+              },
+              {
+                "name": "White Iverson"
+              },
+              {
+                "name": "Pour Me a Drink"
+              },
+              {
+                "name": "Goodbyes"
+              },
+              {
+                "name": "I Had Some Help"
+              },
+              {
+                "name": "rockstar"
+              },
+              {
+                "name": "Congratulations"
+              },
+              {
+                "name": "Sunflower",
+                "cover": {
+                  "mbid": "44c672ca-7e31-4378-b1c3-21be11b7246e",
+                  "name": "Post Malone & Swae Lee",
+                  "sortName": "Post Malone & Lee, Swae",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/post-malone-and-swae-lee-23c9f0db.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "",
+      "url": "https://www.setlist.fm/setlist/post-malone/2024/neo-quimica-arena-sao-paulo-brazil-7b50befc.html"
+    },
+    {
+      "id": "735e52d1",
+      "versionId": "g235044bb",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-11-25T13:42:29.931+0000",
+      "artist": {
+        "mbid": "b397349e-1b0f-4e61-89ac-caeca5dea676",
+        "name": "Oficina G3",
+        "sortName": "Oficina G3",
+        "disambiguation": "Brazilian Christian band",
+        "url": "https://www.setlist.fm/setlists/oficina-g3-4bd71fa2.html"
+      },
+      "venue": {
+        "id": "2bd1ac5a",
+        "name": "Terra SP",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/terra-sp-sao-paulo-brazil-2bd1ac5a.html"
+      },
+      "tour": {
+        "name": "DDG Reloaded Tour"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/oficina-g3/2024/terra-sp-sao-paulo-brazil-735e52d1.html"
+    },
+    {
+      "id": "735cca39",
+      "versionId": "g335c4c91",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-27T15:20:32.649+0000",
+      "artist": {
+        "mbid": "3f30295b-c355-4792-85a8-f89f5b90a243",
+        "name": "Angra Tributo",
+        "sortName": "Angra Tributo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/angra-tributo-13e18969.html"
+      },
+      "venue": {
+        "id": "23d0e47b",
+        "name": "Galeria do Rock",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/galeria-do-rock-sao-paulo-brazil-23d0e47b.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Angels Cry",
+                "cover": {
+                  "mbid": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+                  "name": "Angra",
+                  "sortName": "Angra",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/angra-43d6ff27.html"
+                }
+              },
+              {
+                "name": "Acid Rain",
+                "cover": {
+                  "mbid": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+                  "name": "Angra",
+                  "sortName": "Angra",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/angra-43d6ff27.html"
+                }
+              },
+              {
+                "name": "Wuthering Heights",
+                "cover": {
+                  "mbid": "4b585938-f271-45e2-b19a-91c634b5e396",
+                  "name": "Kate Bush",
+                  "sortName": "Bush, Kate",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/kate-bush-23d6a4bf.html"
+                }
+              },
+              {
+                "name": "Millennium Sun",
+                "cover": {
+                  "mbid": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+                  "name": "Angra",
+                  "sortName": "Angra",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/angra-43d6ff27.html"
+                }
+              },
+              {
+                "name": "Living for the Night",
+                "cover": {
+                  "mbid": "738ff9d9-c3f2-4329-9604-36ae354905de",
+                  "name": "Viper",
+                  "sortName": "Viper",
+                  "disambiguation": "Brazilian metal band",
+                  "url": "https://www.setlist.fm/setlists/viper-bd6f98a.html"
+                }
+              },
+              {
+                "name": "Carry On",
+                "cover": {
+                  "mbid": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+                  "name": "Angra",
+                  "sortName": "Angra",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/angra-43d6ff27.html"
+                }
+              },
+              {
+                "name": "Nova Era",
+                "cover": {
+                  "mbid": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+                  "name": "Angra",
+                  "sortName": "Angra",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/angra-43d6ff27.html"
+                }
+              },
+              {
+                "name": "Waiting Silence",
+                "cover": {
+                  "mbid": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+                  "name": "Angra",
+                  "sortName": "Angra",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/angra-43d6ff27.html"
+                }
+              },
+              {
+                "name": "Heroes of Sand",
+                "cover": {
+                  "mbid": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+                  "name": "Angra",
+                  "sortName": "Angra",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/angra-43d6ff27.html"
+                }
+              },
+              {
+                "name": "Spread Your Fire",
+                "cover": {
+                  "mbid": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+                  "name": "Angra",
+                  "sortName": "Angra",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/angra-43d6ff27.html"
+                }
+              },
+              {
+                "name": "The Temple of Hate",
+                "cover": {
+                  "mbid": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+                  "name": "Angra",
+                  "sortName": "Angra",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/angra-43d6ff27.html"
+                }
+              },
+              {
+                "name": "Nothing to Say",
+                "cover": {
+                  "mbid": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+                  "name": "Angra",
+                  "sortName": "Angra",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/angra-43d6ff27.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/angra-tributo/2024/galeria-do-rock-sao-paulo-brazil-735cca39.html"
+    },
+    {
+      "id": "6b5c8666",
+      "versionId": "g4b5cd38a",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-22T13:19:12.541+0000",
+      "artist": {
+        "mbid": "f081b120-1468-4a6f-acb6-80a854f9f13c",
+        "name": "Kon Kan",
+        "sortName": "Kon Kan",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/kon-kan-43d78b0b.html"
+      },
+      "venue": {
+        "id": "43d01ba3",
+        "name": "Vibra São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/vibra-sao-paulo-sao-paulo-brazil-43d01ba3.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/kon-kan/2024/vibra-sao-paulo-sao-paulo-brazil-6b5c8666.html"
+    },
+    {
+      "id": "635e52cb",
+      "versionId": "g3b5044b8",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-11-25T13:43:00.117+0000",
+      "artist": {
+        "mbid": "6588a931-2b0d-4134-9fdc-29d08991aef2",
+        "name": "Resgate",
+        "sortName": "Resgate",
+        "disambiguation": "Brazilian christian rock band",
+        "url": "https://www.setlist.fm/setlists/resgate-bd55d9e.html"
+      },
+      "venue": {
+        "id": "2bd1ac5a",
+        "name": "Terra SP",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/terra-sp-sao-paulo-brazil-2bd1ac5a.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/resgate/2024/terra-sp-sao-paulo-brazil-635e52cb.html"
+    },
+    {
+      "id": "635c860f",
+      "versionId": "g13710511",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2025-08-09T21:09:16.705+0000",
+      "artist": {
+        "mbid": "dc7493fa-dc6b-4f7b-b74a-30484b8712ab",
+        "name": "Roots – Sepultura Tributo",
+        "sortName": "Roots – Sepultura Tributo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/roots--sepultura-tributo-3e41d7b.html"
+      },
+      "venue": {
+        "id": "23d0e47b",
+        "name": "Galeria do Rock",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/galeria-do-rock-sao-paulo-brazil-23d0e47b.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Arise - Intro Sessions",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Troops of Doom",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Choke",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Arise / Dead Embryonic Cells",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Orgasmatron",
+                "cover": {
+                  "mbid": "57961a97-3796-4bf7-9f02-a985a8979ae9",
+                  "name": "Motörhead",
+                  "sortName": "Motörhead",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/motorhead-33d68059.html"
+                }
+              },
+              {
+                "name": "Inner Self",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Kairos",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Territory",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Slave New World",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Attitude",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Refuse/Resist",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Propaganda",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Cut-Throat",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Ratamahatta",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              },
+              {
+                "name": "Roots Bloody Roots",
+                "cover": {
+                  "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+                  "name": "Sepultura",
+                  "sortName": "Sepultura",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+                }
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Polícia",
+                "cover": {
+                  "mbid": "c1a669b9-30f4-4171-a2a9-a15d9461ca04",
+                  "name": "Titãs",
+                  "sortName": "Titãs",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/titas-63d6d233.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/roots--sepultura-tributo/2024/galeria-do-rock-sao-paulo-brazil-635c860f.html"
+    }
+  ]
+}

@@ -1,0 +1,1339 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 9,
+  "total": 2954,
+  "setlist": [
+    {
+      "id": "13419159",
+      "versionId": "g3b7a5c58",
+      "eventDate": "08-12-2024",
+      "lastUpdated": "2025-09-20T15:53:47.907+0000",
+      "artist": {
+        "mbid": "8f100e7b-731b-4379-99a3-49451a64a090",
+        "name": "Sidney Magal",
+        "sortName": "Magal, Sidney",
+        "disambiguation": "Brazilian vocalist",
+        "url": "https://www.setlist.fm/setlists/sidney-magal-73d5ea99.html"
+      },
+      "venue": {
+        "id": "73d7f6ed",
+        "name": "Teatro Bradesco",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-bradesco-sao-paulo-brazil-73d7f6ed.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/sidney-magal/2024/teatro-bradesco-sao-paulo-brazil-13419159.html"
+    },
+    {
+      "id": "b5f19c2",
+      "versionId": "g435e5f2b",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-10T02:20:08.937+0000",
+      "artist": {
+        "mbid": "f5357120-cd8e-40b0-bdf3-b3cea040a2e7",
+        "name": "Otto",
+        "sortName": "Otto",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/otto-6bd796a6.html"
+      },
+      "venue": {
+        "id": "2bd24026",
+        "name": "Blue Note São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/blue-note-sao-paulo-sao-paulo-brazil-2bd24026.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/otto/2024/blue-note-sao-paulo-sao-paulo-brazil-b5f19c2.html"
+    },
+    {
+      "id": "b5029aa",
+      "versionId": "g2b57f086",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-10-14T02:52:56.875+0000",
+      "artist": {
+        "mbid": "34d5435a-bf27-4ef4-9e90-104035c43b80",
+        "name": "Cefa",
+        "sortName": "Cefa",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/cefa-3bcc7814.html"
+      },
+      "venue": {
+        "id": "73d6daed",
+        "name": "Carioca Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/carioca-club-sao-paulo-brazil-73d6daed.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/cefa/2024/carioca-club-sao-paulo-brazil-b5029aa.html"
+    },
+    {
+      "id": "5baba72c",
+      "versionId": "g2b650cf2",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2025-11-11T09:34:58.197+0000",
+      "artist": {
+        "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+        "name": "Iron Maiden",
+        "sortName": "Iron Maiden",
+        "disambiguation": "English heavy metal band",
+        "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "The Future Past"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Doctor Doctor",
+                "tape": true,
+                "cover": {
+                  "mbid": "c0bf9e20-2872-4897-ad1f-0882b83272a0",
+                  "name": "UFO",
+                  "sortName": "UFO",
+                  "disambiguation": "British space rock/hard rock band",
+                  "url": "https://www.setlist.fm/setlists/ufo-23d6acff.html"
+                }
+              },
+              {
+                "name": "Blade Runner (End Titles)",
+                "tape": true,
+                "cover": {
+                  "mbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f",
+                  "name": "Vangelis",
+                  "sortName": "Vangelis",
+                  "disambiguation": "Greek composer of electronic, new age and classical",
+                  "url": "https://www.setlist.fm/setlists/vangelis-2bd6a8ae.html"
+                }
+              },
+              {
+                "name": "Caught Somewhere in Time"
+              },
+              {
+                "name": "Stranger in a Strange Land"
+              },
+              {
+                "name": "The Writing on the Wall"
+              },
+              {
+                "name": "Days of Future Past"
+              },
+              {
+                "name": "The Time Machine"
+              },
+              {
+                "name": "The Prisoner"
+              },
+              {
+                "name": "Death of the Celts"
+              },
+              {
+                "name": "Can I Play With Madness"
+              },
+              {
+                "name": "Heaven Can Wait"
+              },
+              {
+                "name": "Alexander the Great"
+              },
+              {
+                "name": "Fear of the Dark"
+              },
+              {
+                "name": "Iron Maiden"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Hell on Earth"
+              },
+              {
+                "name": "The Trooper"
+              },
+              {
+                "name": "Wasted Years"
+              },
+              {
+                "name": "Always Look on the Bright Side of Life",
+                "tape": true,
+                "cover": {
+                  "mbid": "4a5c8526-f8ec-43f1-97af-49722ad88394",
+                  "name": "Monty Python",
+                  "sortName": "Monty Python",
+                  "disambiguation": "British surreal comedy group",
+                  "url": "https://www.setlist.fm/setlists/monty-python-13d6c1c9.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Last show with Nicko McBrain on drums, as he announced his retirement from touring that very day through the band's social media. Final show of The Future Past World Tour 2023-2024.",
+      "url": "https://www.setlist.fm/setlist/iron-maiden/2024/allianz-parque-sao-paulo-brazil-5baba72c.html"
+    },
+    {
+      "id": "5b5f373c",
+      "versionId": "g235e440f",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-10T22:45:29.715+0000",
+      "artist": {
+        "mbid": "1aa60ec1-d384-41a3-9de6-225f738259e2",
+        "name": "Caixão",
+        "sortName": "Caixão",
+        "disambiguation": "Brazil, Ceará",
+        "url": "https://www.setlist.fm/setlists/caixao-33f0d8e1.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Fungos"
+              },
+              {
+                "name": "Corrente"
+              },
+              {
+                "name": "Hora de ir"
+              },
+              {
+                "name": "Bloodstains"
+              },
+              {
+                "name": "Candelabro"
+              },
+              {
+                "name": "Vulto"
+              },
+              {
+                "name": "Gaillarde"
+              },
+              {
+                "name": "Luz estranha em Quixadá"
+              },
+              {
+                "name": "In the Shadow of the Red Sun"
+              },
+              {
+                "name": "Rua Dário"
+              },
+              {
+                "name": "Depois do café"
+              },
+              {
+                "name": "Goodbye Sanity"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/caixao/2024/la-iglesia-borratxeria-sao-paulo-brazil-5b5f373c.html"
+    },
+    {
+      "id": "5b5f3730",
+      "versionId": "g2b5fb4ae",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-11T15:47:22.013+0000",
+      "artist": {
+        "mbid": "34615663-c13a-476c-8da2-ab6fcad899a5",
+        "name": "Urutu",
+        "sortName": "Urutu",
+        "disambiguation": "Hardcore, Punk, Heavy Metal, Rock'n Roll, DIY band from São Paulo - Brazil",
+        "url": "https://www.setlist.fm/setlists/urutu-bf4adbe.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Braços da Morte"
+              },
+              {
+                "name": "Casa Adormecida"
+              },
+              {
+                "name": "Cabeça Motor"
+              },
+              {
+                "name": "Fora de Compasso"
+              },
+              {
+                "name": "Armas Leves"
+              },
+              {
+                "name": "O Medo de Você Chegar"
+              },
+              {
+                "name": "Palidez"
+              },
+              {
+                "name": "Escombro"
+              },
+              {
+                "name": "Aço nos Punhos"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/urutu/2024/la-iglesia-borratxeria-sao-paulo-brazil-5b5f3730.html"
+    },
+    {
+      "id": "53aba725",
+      "versionId": "g43457baf",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2025-03-10T05:07:43.997+0000",
+      "artist": {
+        "mbid": "4753fcb7-9270-493a-974d-8daca4e49125",
+        "name": "Volbeat",
+        "sortName": "Volbeat",
+        "disambiguation": "Danish rock band",
+        "url": "https://www.setlist.fm/setlists/volbeat-4bd6cff2.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Born to Raise Hell",
+                "tape": true,
+                "cover": {
+                  "mbid": "57961a97-3796-4bf7-9f02-a985a8979ae9",
+                  "name": "Motörhead",
+                  "sortName": "Motörhead",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/motorhead-33d68059.html"
+                }
+              },
+              {
+                "name": "The Devil's Bleeding Crown"
+              },
+              {
+                "name": "Lola Montez"
+              },
+              {
+                "name": "Sad Man's Tongue",
+                "info": "with \"Creeping Death\" by Metallica snippet"
+              },
+              {
+                "name": "A Warrior's Call"
+              },
+              {
+                "name": "Black Rose"
+              },
+              {
+                "name": "Wait a Minute My Girl"
+              },
+              {
+                "name": "Dead but Rising"
+              },
+              {
+                "name": "Fallen"
+              },
+              {
+                "name": "Seal the Deal"
+              },
+              {
+                "name": "The Devil Rages On"
+              },
+              {
+                "name": "For Evigt"
+              },
+              {
+                "name": "Still Counting"
+              },
+              {
+                "name": "“Trust Me”",
+                "tape": true,
+                "cover": {
+                  "mbid": "4836c400-a9fe-4bf5-9a56-bc658d1d03d1",
+                  "name": "Brad Fiedel",
+                  "sortName": "Fiedel, Brad",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/brad-fiedel-3bd64cb8.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/volbeat/2024/allianz-parque-sao-paulo-brazil-53aba725.html"
+    },
+    {
+      "id": "535f3731",
+      "versionId": "g7b5e2a3c",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-08T04:12:05.111+0000",
+      "artist": {
+        "mbid": "da2f38bb-bdc9-4fc8-9925-1ca4d5a9116a",
+        "name": "Espectro",
+        "sortName": "Espectro",
+        "disambiguation": "Brazilian Heavy/Doom Metal",
+        "url": "https://www.setlist.fm/setlists/espectro-4be72f06.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Jam"
+              },
+              {
+                "name": "Twist the Knife"
+              },
+              {
+                "name": "Death Dealing"
+              },
+              {
+                "name": "Wicked Life"
+              },
+              {
+                "name": "Mind Lord"
+              },
+              {
+                "name": "1000 Nights"
+              },
+              {
+                "name": "Crimson Star"
+              },
+              {
+                "name": "Long Way Back From Hell",
+                "cover": {
+                  "mbid": "8925a01a-8608-411d-a90b-f3a52d061208",
+                  "name": "Danzig",
+                  "sortName": "Danzig",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/danzig-1bd6cdf0.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/espectro/2024/la-iglesia-borratxeria-sao-paulo-brazil-535f3731.html"
+    },
+    {
+      "id": "435f3733",
+      "versionId": "g7b5e4624",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-10T23:21:18.609+0000",
+      "artist": {
+        "mbid": "01208116-80e7-4129-8edf-98adb4354f77",
+        "name": "Finis Hominis",
+        "sortName": "Finis Hominis",
+        "disambiguation": "Brazilian sludge metal",
+        "url": "https://www.setlist.fm/setlists/finis-hominis-5bfebb30.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Jukai"
+              },
+              {
+                "name": "Nem os mortos são neutros"
+              },
+              {
+                "name": "Não há nada aqui"
+              },
+              {
+                "name": "Alucinações hipnopômpicas"
+              },
+              {
+                "name": "Seco"
+              },
+              {
+                "name": "Lorem Ipsum"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/finis-hominis/2024/la-iglesia-borratxeria-sao-paulo-brazil-435f3733.html"
+    },
+    {
+      "id": "435cb38f",
+      "versionId": "g1b5cb938",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-18T13:38:17.403+0000",
+      "artist": {
+        "mbid": "1c8d248f-82c8-4d6d-a918-07078d8b3a8f",
+        "name": "Autoramas",
+        "sortName": "Autoramas",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/autoramas-33d7882d.html"
+      },
+      "venue": {
+        "id": "1bd535f4",
+        "name": "Jai Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/jai-club-sao-paulo-brazil-1bd535f4.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/autoramas/2024/jai-club-sao-paulo-brazil-435cb38f.html"
+    },
+    {
+      "id": "435a8f5f",
+      "versionId": "g3b582c14",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2025-01-30T20:48:30.649+0000",
+      "artist": {
+        "mbid": "7c803367-d09f-4f31-bccb-e1fc9fb96b66",
+        "name": "Helio Flanders",
+        "sortName": "Helio Flanders",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/helio-flanders-33ddc4ad.html"
+      },
+      "venue": {
+        "id": "23dee087",
+        "name": "Pátio Metrô São Bento",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/patio-metro-sao-bento-sao-paulo-brazil-23dee087.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Romeo"
+              },
+              {
+                "name": "Engole"
+              },
+              {
+                "name": "Dentro do tempo que eu sou"
+              },
+              {
+                "name": "Quando Eu Cheguei na Cidade"
+              },
+              {
+                "name": "Fracassos",
+                "cover": {
+                  "mbid": "d3d08827-5446-48c3-b795-a897ae6fe77f",
+                  "name": "Fagner",
+                  "sortName": "Fagner",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/fagner-2bd7e8e6.html"
+                }
+              },
+              {
+                "name": "Forasteiro"
+              },
+              {
+                "name": "Uma temporada fora de mim"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/helio-flanders/2024/patio-metro-sao-bento-sao-paulo-brazil-435a8f5f.html"
+    },
+    {
+      "id": "3b5f20a4",
+      "versionId": "g1b5e6dec",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-09T14:36:17.950+0000",
+      "artist": {
+        "mbid": "eee7140d-1bd4-4099-9b8b-0175647c9160",
+        "name": "Irmãs de Pau",
+        "sortName": "Irmãs de Pau",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/irmas-de-pau-7bfc3634.html"
+      },
+      "venue": {
+        "id": "33d5101d",
+        "name": "Estádio do Canindé",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/estadio-do-caninde-sao-paulo-brazil-33d5101d.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/irmas-de-pau/2024/estadio-do-caninde-sao-paulo-brazil-3b5f20a4.html"
+    },
+    {
+      "id": "35f2967",
+      "versionId": "gb5e11ae",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-08T19:44:57.336+0000",
+      "artist": {
+        "mbid": "baeccd0c-d3d1-4bf1-a08d-af8bf007aa12",
+        "name": "Smoky Mary",
+        "sortName": "Smoky Mary",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/smoky-mary-bfd7922.html"
+      },
+      "venue": {
+        "id": "4bd17f6a",
+        "name": "Casa Áurea",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-aurea-sao-paulo-brazil-4bd17f6a.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Covered Scars"
+              },
+              {
+                "name": "The One Inside"
+              },
+              {
+                "name": "Little Mary"
+              },
+              {
+                "name": "Break Stuff",
+                "cover": {
+                  "mbid": "8f9d6bb2-dba4-4cca-9967-cc02b9f4820c",
+                  "name": "Limp Bizkit",
+                  "sortName": "Limp Bizkit",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/limp-bizkit-33d69c2d.html"
+                }
+              },
+              {
+                "name": "Spayer"
+              },
+              {
+                "name": "Severed Ties"
+              },
+              {
+                "name": "King Rat"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/smoky-mary/2024/casa-aurea-sao-paulo-brazil-35f2967.html"
+    },
+    {
+      "id": "35f19c7",
+      "versionId": "g435e5f2f",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-10T02:21:00.972+0000",
+      "artist": {
+        "mbid": "f5357120-cd8e-40b0-bdf3-b3cea040a2e7",
+        "name": "Otto",
+        "sortName": "Otto",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/otto-6bd796a6.html"
+      },
+      "venue": {
+        "id": "2bd24026",
+        "name": "Blue Note São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/blue-note-sao-paulo-sao-paulo-brazil-2bd24026.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/otto/2024/blue-note-sao-paulo-sao-paulo-brazil-35f19c7.html"
+    },
+    {
+      "id": "335f20a5",
+      "versionId": "g1b5e6de8",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-09T14:35:36.589+0000",
+      "artist": {
+        "mbid": "882cffeb-8e89-495e-a107-dd84b4d2ef3d",
+        "name": "COUCOU CHLOE",
+        "sortName": "COUCOU CHLOE",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/coucou-chloe-6bcdaa7e.html"
+      },
+      "venue": {
+        "id": "33d5101d",
+        "name": "Estádio do Canindé",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/estadio-do-caninde-sao-paulo-brazil-33d5101d.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/coucou-chloe/2024/estadio-do-caninde-sao-paulo-brazil-335f20a5.html"
+    },
+    {
+      "id": "335f2099",
+      "versionId": "g35e459f",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-10T22:34:56.761+0000",
+      "artist": {
+        "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+        "name": "Urias",
+        "sortName": "Urias",
+        "disambiguation": "Brazilian singer-songwriter",
+        "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+      },
+      "venue": {
+        "id": "33d5101d",
+        "name": "Estádio do Canindé",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/estadio-do-caninde-sao-paulo-brazil-33d5101d.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Diaba"
+              },
+              {
+                "name": "Maserati"
+              },
+              {
+                "name": "Racha"
+              },
+              {
+                "name": "Rasga"
+              },
+              {
+                "name": "R.I.P."
+              },
+              {
+                "name": "Cadela"
+              },
+              {
+                "name": "Je ne sais quoi"
+              },
+              {
+                "name": "Major"
+              },
+              {
+                "name": "Aposta"
+              },
+              {
+                "name": "É tudo meu"
+              },
+              {
+                "name": "So Dumb"
+              },
+              {
+                "name": "Peligrosa"
+              },
+              {
+                "name": "Abracadabra"
+              },
+              {
+                "name": "Neo Thang"
+              },
+              {
+                "name": "Crack the Code"
+              },
+              {
+                "name": "KAWASAKI"
+              },
+              {
+                "name": "Magnata"
+              },
+              {
+                "name": "Cuntelectual"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/urias/2024/estadio-do-caninde-sao-paulo-brazil-335f2099.html"
+    },
+    {
+      "id": "2b5f20a2",
+      "versionId": "gb5e6dfa",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-09T14:32:30.784+0000",
+      "artist": {
+        "mbid": "359e1f66-b4ca-4a33-b9cf-ee89d4320d7e",
+        "name": "Jup do Bairro",
+        "sortName": "Jup do Bairro",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/jup-do-bairro-3fead13.html"
+      },
+      "venue": {
+        "id": "33d5101d",
+        "name": "Estádio do Canindé",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/estadio-do-caninde-sao-paulo-brazil-33d5101d.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/jup-do-bairro/2024/estadio-do-caninde-sao-paulo-brazil-2b5f20a2.html"
+    },
+    {
+      "id": "235f209b",
+      "versionId": "gb5e6de2",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2024-12-09T14:36:53.672+0000",
+      "artist": {
+        "mbid": "4298f9c0-4311-4411-9153-da73775b0b0c",
+        "name": "Brooke Candy",
+        "sortName": "Candy, Brooke",
+        "disambiguation": "pop singer/rapper",
+        "url": "https://www.setlist.fm/setlists/brooke-candy-43dc9793.html"
+      },
+      "venue": {
+        "id": "33d5101d",
+        "name": "Estádio do Canindé",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/estadio-do-caninde-sao-paulo-brazil-33d5101d.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/brooke-candy/2024/estadio-do-caninde-sao-paulo-brazil-235f209b.html"
+    },
+    {
+      "id": "235160bf",
+      "versionId": "g2348783f",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2025-06-04T20:35:44.620+0000",
+      "artist": {
+        "mbid": "6797c795-08b4-4da2-a4d8-95a554c2a91c",
+        "name": "Jão",
+        "sortName": "Jão",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/jao-73cdd649.html"
+      },
+      "venue": {
+        "id": "43d01ba3",
+        "name": "Vibra São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/vibra-sao-paulo-sao-paulo-brazil-43d01ba3.html"
+      },
+      "tour": {
+        "name": "Especial de Natal"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Lobos",
+                "info": "Acoustic"
+              },
+              {
+                "name": "Rádio"
+              },
+              {
+                "name": "Alinhamento milenar"
+              },
+              {
+                "name": "Modo de Dizer"
+              },
+              {
+                "name": "Doce",
+                "info": "Acoustic"
+              },
+              {
+                "name": "Religião"
+              },
+              {
+                "name": "Acontece"
+              },
+              {
+                "name": "O triste é que eu te amo"
+              },
+              {
+                "name": "Santo"
+              },
+              {
+                "name": "Eu quero ser como você"
+              },
+              {
+                "name": "Locadora",
+                "info": "Extended"
+              },
+              {
+                "name": "Julho"
+              },
+              {
+                "name": "(They Long to Be) Close to You",
+                "cover": {
+                  "mbid": "2882ffa3-dec9-4055-a842-a950728bcb02",
+                  "name": "Burt Bacharach",
+                  "sortName": "Bacharach, Burt",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/burt-bacharach-53d6b3c1.html"
+                }
+              },
+              {
+                "name": "Jingle Bell Rock",
+                "tape": true,
+                "cover": {
+                  "mbid": "502b3244-0f7d-470c-99e9-b17fe6bcaabf",
+                  "name": "Bobby Helms",
+                  "sortName": "Helms, Bobby",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bobby-helms-7bd69af4.html"
+                },
+                "info": "Backing vocalists performance"
+              },
+              {
+                "name": "Idiota"
+              },
+              {
+                "name": "Lábia",
+                "info": "Country version"
+              },
+              {
+                "name": "Me lambe"
+              },
+              {
+                "name": "A última noite"
+              },
+              {
+                "name": "Olhos vermelhos"
+              },
+              {
+                "name": "Enquanto me beija"
+              },
+              {
+                "name": "Tempos de glória"
+              },
+              {
+                "name": "Clarão",
+                "info": "Acoustic"
+              },
+              {
+                "name": "Meninos e meninas"
+              },
+              {
+                "name": "Can't Help Falling in Love",
+                "cover": {
+                  "mbid": "01809552-4f87-45b0-afff-2c6f0730a3be",
+                  "name": "Elvis Presley",
+                  "sortName": "Presley, Elvis",
+                  "disambiguation": "“The King of Rock and Roll”",
+                  "url": "https://www.setlist.fm/setlists/elvis-presley-73d6a2b1.html"
+                }
+              },
+              {
+                "name": "Essa eu fiz pro nosso amor"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/jao/2024/vibra-sao-paulo-sao-paulo-brazil-235160bf.html"
+    },
+    {
+      "id": "1b53850c",
+      "versionId": "g3735def",
+      "eventDate": "07-12-2024",
+      "lastUpdated": "2025-07-26T17:44:17.906+0000",
+      "artist": {
+        "mbid": "84d23ac2-1b9b-4e92-910f-a14c203dad3b",
+        "name": "Rogério Skylab",
+        "sortName": "Skylab, Rogério",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/rogerio-skylab-53d60fc1.html"
+      },
+      "venue": {
+        "id": "33d54c95",
+        "name": "Casa Natura Musical",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-natura-musical-sao-paulo-brazil-33d54c95.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Aquela coisa toda"
+              },
+              {
+                "name": "Cadê meu pau?"
+              },
+              {
+                "name": "Corpo e membro sem cabeça"
+              },
+              {
+                "name": "Rainha do Mar",
+                "info": "Live debut"
+              },
+              {
+                "name": "Eu durmo pouco pra ficar com sono"
+              },
+              {
+                "name": "Corpo sem pé, corpo sem cabeça"
+              },
+              {
+                "name": "Qualquer um",
+                "info": "Live debut"
+              },
+              {
+                "name": "O corvo"
+              },
+              {
+                "name": "Sentimental",
+                "cover": {
+                  "mbid": "557ac15e-7800-44c3-bb62-d4ab34ac1e28",
+                  "name": "Los Hermanos",
+                  "sortName": "Hermanos, Los",
+                  "disambiguation": "Brazilian rock band",
+                  "url": "https://www.setlist.fm/setlists/los-hermanos-13d6c1d9.html"
+                }
+              },
+              {
+                "name": "Tem cigarro aí?"
+              },
+              {
+                "name": "Sem Fim",
+                "info": "Live debut"
+              },
+              {
+                "name": "Cabecinha"
+              },
+              {
+                "name": "Empadinha de camarão"
+              },
+              {
+                "name": "Motosserra"
+              },
+              {
+                "name": "Eu e minha ex",
+                "cover": {
+                  "mbid": "2485371a-28d9-46a3-b5e9-794e7090ab12",
+                  "name": "Júpiter Maçã",
+                  "sortName": "Maçã, Júpiter",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jupiter-maca-33d79875.html"
+                }
+              },
+              {
+                "name": "Carrocinha de cachorro quente"
+              },
+              {
+                "name": "Música para paralítico"
+              },
+              {
+                "name": "Fátima Bernardes experiência"
+              },
+              {
+                "name": "Matador de passarinho"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Você vai continuar fazendo música?"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/rogerio-skylab/2024/casa-natura-musical-sao-paulo-brazil-1b53850c.html"
+    }
+  ]
+}

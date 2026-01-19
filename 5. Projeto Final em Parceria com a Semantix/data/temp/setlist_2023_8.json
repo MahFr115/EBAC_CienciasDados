@@ -1,0 +1,1565 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 8,
+  "total": 2415,
+  "setlist": [
+    {
+      "id": "1bae1178",
+      "versionId": "gb8d2132",
+      "eventDate": "09-12-2023",
+      "lastUpdated": "2023-12-12T02:39:27.868+0000",
+      "artist": {
+        "mbid": "f46b865d-d108-468b-9e9a-ec8ef74e9dd1",
+        "name": "Matanza Ritual",
+        "sortName": "Matanza Ritual",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/matanza-ritual-2bfc709a.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Morte Súbita",
+                "info": "Live debut"
+              },
+              {
+                "name": "Remédios demais",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "A arte do insulto",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Bom é quando faz mal",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Eu não gosto de ninguém",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Tudo errado",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Carvão, enxofre e salitre",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Maldito hippie sujo",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "O último bar",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Clube dos canalhas",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Quem perde sai",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Eu não bebo mais",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Pé na porta, soco na cara",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Taberneira, traga o gim",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Drum Solo"
+              },
+              {
+                "name": "Tempo ruim",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Mulher diabo",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Leave That Junk Alone",
+                "cover": {
+                  "mbid": "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
+                  "name": "Johnny Cash",
+                  "sortName": "Cash, Johnny",
+                  "disambiguation": "country music legend",
+                  "url": "https://www.setlist.fm/setlists/johnny-cash-bd6b1b6.html"
+                }
+              },
+              {
+                "name": "Country Core Funeral",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Rei Morto"
+              },
+              {
+                "name": "Mesa de saloon",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "O caminho da escada e da corda",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Todo ódio da vingança de Jack Buffalo Head",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Ela roubou meu caminhão",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Estamos todos bêbados",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Ressaca sem fim",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                },
+                "info": "With Dead Embryonic Cells (Sepultura) ending"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Set with Renan Campos (Hatefulmurder) on bass",
+      "url": "https://www.setlist.fm/setlist/matanza-ritual/2023/audio-sao-paulo-brazil-1bae1178.html"
+    },
+    {
+      "id": "1babdd3c",
+      "versionId": "g237fd0f7",
+      "eventDate": "09-12-2023",
+      "lastUpdated": "2025-08-23T06:07:12.019+0000",
+      "artist": {
+        "mbid": "05cc6cf2-539a-4c8b-9a47-e8a7dc3dc6f5",
+        "name": "Pelados",
+        "sortName": "Pelados",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pelados-43ffe717.html"
+      },
+      "venue": {
+        "id": "3d6d9e7",
+        "name": "SESC Vila Mariana",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-vila-mariana-sao-paulo-brazil-3d6d9e7.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "o sgt. peppers foi decapitado"
+              },
+              {
+                "name": "mesmasmesmasmesmas"
+              },
+              {
+                "name": "vampirinhos do amor"
+              },
+              {
+                "name": "julho de 2015"
+              },
+              {
+                "name": "a linha tênue entre gostar e não gostar"
+              },
+              {
+                "name": "nunca sozinha, sempre mal acompanhada"
+              },
+              {
+                "name": "modrić"
+              },
+              {
+                "name": "coquinha gelada after sex"
+              },
+              {
+                "name": "música de término"
+              },
+              {
+                "name": "foda que ela era linda"
+              },
+              {
+                "name": "yo la tengo na casa do mancha"
+              },
+              {
+                "name": "foi mal"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/pelados/2023/sesc-vila-mariana-sao-paulo-brazil-1babdd3c.html"
+    },
+    {
+      "id": "1b5e0574",
+      "versionId": "g4b50cb7e",
+      "eventDate": "09-12-2023",
+      "lastUpdated": "2024-11-21T03:22:44.388+0000",
+      "artist": {
+        "mbid": "7a08d4fb-e5c1-4c39-a99b-1908ca2e83b4",
+        "name": "Alceu Valença",
+        "sortName": "Valença, Alceu",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/alceu-valenca-33d7e8e5.html"
+      },
+      "venue": {
+        "id": "6bdea6ce",
+        "name": "Parque Villa-Lobos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/parque-villa-lobos-sao-paulo-brazil-6bdea6ce.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/alceu-valenca/2023/parque-villa-lobos-sao-paulo-brazil-1b5e0574.html"
+    },
+    {
+      "id": "13ae1179",
+      "versionId": "g34b1ddf",
+      "eventDate": "09-12-2023",
+      "lastUpdated": "2025-05-26T23:37:56.329+0000",
+      "artist": {
+        "mbid": "3b5bc4eb-d60e-406c-a5e4-f08197d4c9de",
+        "name": "Crypta",
+        "sortName": "Crypta",
+        "disambiguation": "Brazilian death metal fourpiece",
+        "url": "https://www.setlist.fm/setlists/crypta-43f217eb.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "tour": {
+        "name": "Shades of Sorrow - Tour 2023"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "The Aftermath",
+                "tape": true
+              },
+              {
+                "name": "The Other Side of Anger"
+              },
+              {
+                "name": "Kali"
+              },
+              {
+                "name": "Poisonous Apathy"
+              },
+              {
+                "name": "Lift the Blindfold"
+              },
+              {
+                "name": "Stronghold"
+              },
+              {
+                "name": "The Limbo",
+                "tape": true
+              },
+              {
+                "name": "Trial of Traitors"
+              },
+              {
+                "name": "Under the Black Wings"
+              },
+              {
+                "name": "Lullaby for the Forsaken"
+              },
+              {
+                "name": "The Outsider"
+              },
+              {
+                "name": "Lord of Ruins"
+              },
+              {
+                "name": "From the Ashes"
+              },
+              {
+                "name": "The Closure",
+                "tape": true
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/crypta/2023/audio-sao-paulo-brazil-13ae1179.html"
+    },
+    {
+      "id": "7bae2670",
+      "versionId": "g6b8d8ed6",
+      "eventDate": "08-12-2023",
+      "lastUpdated": "2023-12-09T04:24:20.013+0000",
+      "artist": {
+        "mbid": "9c889c79-f903-4f0d-8e1c-1d3a78f864d8",
+        "name": "Kiko Loureiro",
+        "sortName": "Loureiro, Kiko",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/kiko-loureiro-4bd6ff56.html"
+      },
+      "venue": {
+        "id": "2bd2c07e",
+        "name": "SESC Avenida Paulista",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-avenida-paulista-sao-paulo-brazil-2bd2c07e.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Overflow",
+                "info": "Live debut"
+              },
+              {
+                "name": "Reflective"
+              },
+              {
+                "name": "Escaping"
+              },
+              {
+                "name": "Vital Signs",
+                "info": "Live debut"
+              },
+              {
+                "name": "Dreamlike",
+                "info": "Live debut"
+              },
+              {
+                "name": "Pau-de-Arara",
+                "info": "With Angra's \"Caça e Caçador\" Snippet"
+              },
+              {
+                "name": "Conquer or Die!",
+                "cover": {
+                  "mbid": "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e",
+                  "name": "Megadeth",
+                  "sortName": "Megadeth",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/megadeth-73d6aa19.html"
+                }
+              },
+              {
+                "name": "No Gravity"
+              },
+              {
+                "name": "Feijão de corda",
+                "info": "Dedicated to Alceu Valença and his brother as a joke"
+              },
+              {
+                "name": "Du Monde",
+                "info": "Live debut ; With Angra's \"Rebirth\" Snippet"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Enfermo",
+                "info": "Preceded by Angra's \"Nothing to Say\" intro"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/kiko-loureiro/2023/sesc-avenida-paulista-sao-paulo-brazil-7bae2670.html"
+    },
+    {
+      "id": "63ae1a3f",
+      "versionId": "g6b8dfe72",
+      "eventDate": "08-12-2023",
+      "lastUpdated": "2023-12-09T16:14:04.259+0000",
+      "artist": {
+        "mbid": "3cd36f43-7140-43fe-b016-ca8a7727d823",
+        "name": "Foojammers",
+        "sortName": "Foojammers",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/foojammers-33f8d0c9.html"
+      },
+      "venue": {
+        "id": "63d5da93",
+        "name": "Willi Willie Bar e Arqueria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/willi-willie-bar-e-arqueria-sao-paulo-brazil-63d5da93.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Learn to Fly",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Walk",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "I Am Mine",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "Big Me",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Jeremy",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "Machinehead",
+                "cover": {
+                  "mbid": "93ccd76c-3790-4435-a8bf-02bc26294b93",
+                  "name": "Bush",
+                  "sortName": "Bush",
+                  "disambiguation": "English rock band",
+                  "url": "https://www.setlist.fm/setlists/bush-1bd6b9ec.html"
+                }
+              },
+              {
+                "name": "Better Man",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "My Hero",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Last Kiss",
+                "cover": {
+                  "mbid": "6863276d-61a2-4bee-a86b-70136be2d668",
+                  "name": "Wayne Cochran",
+                  "sortName": "Cochran, Wayne",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/wayne-cochran-2bd4904a.html"
+                }
+              },
+              {
+                "name": "All My Life",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Alive",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "Best of You",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Black",
+                "cover": {
+                  "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                  "name": "Pearl Jam",
+                  "sortName": "Pearl Jam",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                }
+              },
+              {
+                "name": "Like a Stone",
+                "cover": {
+                  "mbid": "020bfbb4-05c3-4c86-b372-17825c262094",
+                  "name": "Audioslave",
+                  "sortName": "Audioslave",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/audioslave-3d68947.html"
+                }
+              },
+              {
+                "name": "Everlong",
+                "cover": {
+                  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+                  "name": "Foo Fighters",
+                  "sortName": "Foo Fighters",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/foo-fighters-bd6893a.html"
+                }
+              },
+              {
+                "name": "Smells Like Teen Spirit",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/foojammers/2023/willi-willie-bar-e-arqueria-sao-paulo-brazil-63ae1a3f.html"
+    },
+    {
+      "id": "5bae7f00",
+      "versionId": "g738d1a75",
+      "eventDate": "08-12-2023",
+      "lastUpdated": "2023-12-12T13:40:18.507+0000",
+      "artist": {
+        "mbid": "8108463f-76e2-4af3-ad12-85c0d279553a",
+        "name": "Sara Não Tem Nome",
+        "sortName": "Sara Não Tem Nome",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/sara-nao-tem-nome-43ddef7f.html"
+      },
+      "venue": {
+        "id": "23d7ac8f",
+        "name": "SESC Belenzinho",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-belenzinho-sao-paulo-brazil-23d7ac8f.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/sara-nao-tem-nome/2023/sesc-belenzinho-sao-paulo-brazil-5bae7f00.html"
+    },
+    {
+      "id": "5bae0758",
+      "versionId": "g3b5e4440",
+      "eventDate": "08-12-2023",
+      "lastUpdated": "2024-12-10T22:39:57.788+0000",
+      "artist": {
+        "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+        "name": "Urias",
+        "sortName": "Urias",
+        "disambiguation": "Brazilian singer-songwriter",
+        "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+      },
+      "venue": {
+        "id": "43d1a383",
+        "name": "Zig Studio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/zig-studio-sao-paulo-brazil-43d1a383.html"
+      },
+      "tour": {
+        "name": "HER MIND TOUR"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "",
+                "tape": true
+              },
+              {
+                "name": "Her Mind"
+              },
+              {
+                "name": "Ultimate One"
+              },
+              {
+                "name": "R.I.P."
+              },
+              {
+                "name": "Cadela"
+              },
+              {
+                "name": "Diaba"
+              },
+              {
+                "name": "Racha"
+              },
+              {
+                "name": "Maserati"
+              },
+              {
+                "name": "Rasga"
+              },
+              {
+                "name": "Major"
+              },
+              {
+                "name": "Crack The Code",
+                "tape": true
+              },
+              {
+                "name": "Classic"
+              },
+              {
+                "name": "Je ne sais quoi"
+              },
+              {
+                "name": "Abracadabra"
+              },
+              {
+                "name": "So Dumb"
+              },
+              {
+                "name": "BLOSSOM"
+              },
+              {
+                "name": "Foi mal",
+                "info": "With \"Vaya Con Diós\" snippet"
+              },
+              {
+                "name": "Tanto faz"
+              },
+              {
+                "name": "Peligrosa"
+              },
+              {
+                "name": "Neo Thang"
+              },
+              {
+                "name": "Suave"
+              },
+              {
+                "name": "Magnata"
+              },
+              {
+                "name": "Cuntelectual"
+              },
+              {
+                "name": "Rolling"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/urias/2023/zig-studio-sao-paulo-brazil-5bae0758.html"
+    },
+    {
+      "id": "4b53fb0e",
+      "versionId": "g5bab0bc8",
+      "eventDate": "08-12-2023",
+      "lastUpdated": "2024-09-16T19:02:19.666+0000",
+      "artist": {
+        "mbid": "52d8f521-49da-49e2-ac8b-1ab537204eec",
+        "name": "Test",
+        "sortName": "Test",
+        "disambiguation": "Brazilian Grind band",
+        "url": "https://www.setlist.fm/setlists/test-13da4ddd.html"
+      },
+      "venue": {
+        "id": "53d06fe1",
+        "name": "Cineclube Cortina",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cineclube-cortina-sao-paulo-brazil-53d06fe1.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/test/2023/cineclube-cortina-sao-paulo-brazil-4b53fb0e.html"
+    },
+    {
+      "id": "43ae3f3b",
+      "versionId": "g538c6361",
+      "eventDate": "08-12-2023",
+      "lastUpdated": "2023-12-06T07:05:08.550+0000",
+      "artist": {
+        "mbid": "2206529d-ccc2-4915-8485-d406723dc22d",
+        "name": "Tuatha de Danann",
+        "sortName": "Tuatha de Danann",
+        "disambiguation": "Brazilian Celtic metal band",
+        "url": "https://www.setlist.fm/setlists/tuatha-de-danann-13d6117d.html"
+      },
+      "venue": {
+        "id": "5bd6d340",
+        "name": "Manifesto Bar",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/manifesto-bar-sao-paulo-brazil-5bd6d340.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/tuatha-de-danann/2023/manifesto-bar-sao-paulo-brazil-43ae3f3b.html"
+    },
+    {
+      "id": "4353fb0f",
+      "versionId": "g43ab0bcb",
+      "eventDate": "08-12-2023",
+      "lastUpdated": "2024-09-16T19:02:07.275+0000",
+      "artist": {
+        "mbid": "cbec15b2-bcbb-429e-a4a5-e093be70087c",
+        "name": "Bufo Borealis",
+        "sortName": "Bufo Borealis",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/bufo-borealis-53f123ad.html"
+      },
+      "venue": {
+        "id": "53d06fe1",
+        "name": "Cineclube Cortina",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cineclube-cortina-sao-paulo-brazil-53d06fe1.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/bufo-borealis/2023/cineclube-cortina-sao-paulo-brazil-4353fb0f.html"
+    },
+    {
+      "id": "3352d0b5",
+      "versionId": "g4badcb06",
+      "eventDate": "08-12-2023",
+      "lastUpdated": "2024-08-28T20:58:08.980+0000",
+      "artist": {
+        "mbid": "ea3b97e8-8a76-4ea7-8e6f-3ebf40acaeb8",
+        "name": "Mad Professor",
+        "sortName": "Mad Professor",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/mad-professor-73d6caf5.html"
+      },
+      "venue": {
+        "id": "4bd1b3f2",
+        "name": "Centro Cultural Tendal da Lapa",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-cultural-tendal-da-lapa-sao-paulo-brazil-4bd1b3f2.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/mad-professor/2023/centro-cultural-tendal-da-lapa-sao-paulo-brazil-3352d0b5.html"
+    },
+    {
+      "id": "3352d0b1",
+      "versionId": "g43adcb0f",
+      "eventDate": "08-12-2023",
+      "lastUpdated": "2024-08-28T20:57:32.649+0000",
+      "artist": {
+        "mbid": "1f28b0fe-960c-45f2-9917-4455d2119773",
+        "name": "Nidia Góngora",
+        "sortName": "Góngora, Nidia",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nidia-gongora-7bd11ec8.html"
+      },
+      "venue": {
+        "id": "4bd1b3f2",
+        "name": "Centro Cultural Tendal da Lapa",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-cultural-tendal-da-lapa-sao-paulo-brazil-4bd1b3f2.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/nidia-gongora/2023/centro-cultural-tendal-da-lapa-sao-paulo-brazil-3352d0b1.html"
+    },
+    {
+      "id": "23ae0c27",
+      "versionId": "g6b8ddaf2",
+      "eventDate": "08-12-2023",
+      "lastUpdated": "2023-12-10T17:33:11.362+0000",
+      "artist": {
+        "mbid": "8f100e7b-731b-4379-99a3-49451a64a090",
+        "name": "Sidney Magal",
+        "sortName": "Magal, Sidney",
+        "disambiguation": "Brazilian vocalist",
+        "url": "https://www.setlist.fm/setlists/sidney-magal-73d5ea99.html"
+      },
+      "venue": {
+        "id": "1bd4895c",
+        "name": "SESI",
+        "city": {
+          "id": "3455775",
+          "name": "Osasco",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5325,
+            "long": -46.79166667
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesi-osasco-brazil-1bd4895c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/sidney-magal/2023/sesi-osasco-brazil-23ae0c27.html"
+    },
+    {
+      "id": "ba93172",
+      "versionId": "g43ba378f",
+      "eventDate": "07-12-2023",
+      "lastUpdated": "2024-05-11T03:40:51.497+0000",
+      "artist": {
+        "mbid": "f633e88a-e23f-487c-aeb1-e3876fb4c210",
+        "name": "Lenna Bahule",
+        "sortName": "Bahule, Lenna",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/lenna-bahule-4be59752.html"
+      },
+      "venue": {
+        "id": "bd1f98e",
+        "name": "Bona Casa de Música",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bona-casa-de-musica-sao-paulo-brazil-bd1f98e.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/lenna-bahule/2023/bona-casa-de-musica-sao-paulo-brazil-ba93172.html"
+    },
+    {
+      "id": "5baecf40",
+      "versionId": "g3b8b7450",
+      "eventDate": "07-12-2023",
+      "lastUpdated": "2024-01-04T22:59:03.694+0000",
+      "artist": {
+        "mbid": "ba550d0e-adac-4864-b88b-407cab5e76af",
+        "name": "Paul McCartney",
+        "sortName": "McCartney, Paul",
+        "disambiguation": "The Beatles",
+        "url": "https://www.setlist.fm/setlists/paul-mccartney-13d6bd15.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "VIP soundchecks with ticketed audience"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/paul-mccartney/2023/allianz-parque-sao-paulo-brazil-5baecf40.html"
+    },
+    {
+      "id": "53ae3f4d",
+      "versionId": "g13539945",
+      "eventDate": "07-12-2023",
+      "lastUpdated": "2024-11-11T23:39:02.567+0000",
+      "artist": {
+        "mbid": "efc8a006-d0c6-4a9b-8cb1-91ca770fa2b9",
+        "name": "Colbie Caillat",
+        "sortName": "Caillat, Colbie",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/colbie-caillat-23d6bc4f.html"
+      },
+      "venue": {
+        "id": "43d01ba3",
+        "name": "Vibra São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/vibra-sao-paulo-sao-paulo-brazil-43d01ba3.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Oxygen"
+              },
+              {
+                "name": "Realize"
+              },
+              {
+                "name": "I Never Told You"
+              },
+              {
+                "name": "Lucky",
+                "cover": {
+                  "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
+                  "name": "Jason Mraz",
+                  "sortName": "Mraz, Jason",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jason-mraz-3bd6bc50.html"
+                }
+              },
+              {
+                "name": "I'll Be Here • Never Gonna Let You Down"
+              },
+              {
+                "name": "Try"
+              },
+              {
+                "name": "Circles",
+                "cover": {
+                  "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+                  "name": "Post Malone",
+                  "sortName": "Post Malone",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/post-malone-63c7def7.html"
+                }
+              },
+              {
+                "name": "Worth It"
+              },
+              {
+                "name": "Fallin' for You"
+              },
+              {
+                "name": "Feelings Show"
+              },
+              {
+                "name": "Still Gonna Miss You"
+              },
+              {
+                "name": "I Do"
+              },
+              {
+                "name": "Midnight Bottle"
+              },
+              {
+                "name": "The Little Things"
+              },
+              {
+                "name": "Cecilia",
+                "cover": {
+                  "mbid": "5d02f264-e225-41ff-83f7-d9b1f0b1874a",
+                  "name": "Simon & Garfunkel",
+                  "sortName": "Simon & Garfunkel",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/simon-and-garfunkel-53d6e3b9.html"
+                }
+              },
+              {
+                "name": "Magic",
+                "info": "stripped down version"
+              },
+              {
+                "name": "Bubbly"
+              },
+              {
+                "name": "Brighter Than the Sun"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/colbie-caillat/2023/vibra-sao-paulo-sao-paulo-brazil-53ae3f4d.html"
+    },
+    {
+      "id": "4baecf2a",
+      "versionId": "g357f57f",
+      "eventDate": "07-12-2023",
+      "lastUpdated": "2024-10-13T23:34:45.076+0000",
+      "artist": {
+        "mbid": "7f0f13e2-45b7-4fb8-9fba-243eadd80595",
+        "name": "Chris Holmes",
+        "sortName": "Holmes, Chris",
+        "disambiguation": "DJ and electronic/pop musician",
+        "url": "https://www.setlist.fm/setlists/chris-holmes-1bd4d1c4.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Minha vida (In My Life)",
+                "tape": true,
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                },
+                "info": "Rita Lee's version"
+              },
+              {
+                "name": "Magical Mystery Tour",
+                "tape": true,
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Setlist incomplete",
+      "url": "https://www.setlist.fm/setlist/chris-holmes/2023/allianz-parque-sao-paulo-brazil-4baecf2a.html"
+    },
+    {
+      "id": "43ae2b87",
+      "versionId": "g63798e03",
+      "eventDate": "07-12-2023",
+      "lastUpdated": "2025-10-07T10:54:21.507+0000",
+      "artist": {
+        "mbid": "9aaa99df-9383-47df-92af-8bb5e5595815",
+        "name": "iamamiwhoami",
+        "sortName": "iamamiwhoami",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/iamamiwhoami-73d59a19.html"
+      },
+      "venue": {
+        "id": "73d6daed",
+        "name": "Carioca Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/carioca-club-sao-paulo-brazil-73d6daed.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "thunder lightning"
+              },
+              {
+                "name": "canyon"
+              },
+              {
+                "name": "o"
+              },
+              {
+                "name": "sommaren är min och jag kommer tillbaka"
+              },
+              {
+                "name": "; john"
+              },
+              {
+                "name": "play"
+              },
+              {
+                "name": "DUNES OF SAND",
+                "cover": {
+                  "mbid": "c6c132bb-6bdd-4151-b5b5-bc542d96463b",
+                  "name": "ionnalee",
+                  "sortName": "ionnalee",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ionnalee-6bce4e1e.html"
+                }
+              },
+              {
+                "name": "idle talk"
+              },
+              {
+                "name": "THIN",
+                "cover": {
+                  "mbid": "510b3eb1-31e9-4f3d-86c1-aa796fd9f328",
+                  "name": "iamamiwhoami & ionnalee",
+                  "sortName": "iamamiwhoami & ionnalee",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/iamamiwhoami-and-ionnalee-3390dc21.html"
+                }
+              },
+              {
+                "name": "FOUNTAIN",
+                "cover": {
+                  "mbid": "510b3eb1-31e9-4f3d-86c1-aa796fd9f328",
+                  "name": "iamamiwhoami & ionnalee",
+                  "sortName": "iamamiwhoami & ionnalee",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/iamamiwhoami-and-ionnalee-3390dc21.html"
+                }
+              },
+              {
+                "name": "CHASING KITES",
+                "cover": {
+                  "mbid": "510b3eb1-31e9-4f3d-86c1-aa796fd9f328",
+                  "name": "iamamiwhoami & ionnalee",
+                  "sortName": "iamamiwhoami & ionnalee",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/iamamiwhoami-and-ionnalee-3390dc21.html"
+                }
+              },
+              {
+                "name": "y"
+              },
+              {
+                "name": "goods"
+              },
+              {
+                "name": "shadowshow"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/iamamiwhoami/2023/carioca-club-sao-paulo-brazil-43ae2b87.html"
+    },
+    {
+      "id": "3bae283c",
+      "versionId": "gb8db10a",
+      "eventDate": "07-12-2023",
+      "lastUpdated": "2023-12-08T00:06:41.037+0000",
+      "artist": {
+        "mbid": "5e8fdd97-c7ea-4579-a77c-7ab17e4ac6d4",
+        "name": "Children of the Beast",
+        "sortName": "Children of the Beast",
+        "disambiguation": "Brazilian Iron Maiden tribute band",
+        "url": "https://www.setlist.fm/setlists/children-of-the-beast-63f74a5b.html"
+      },
+      "venue": {
+        "id": "23d1f4b7",
+        "name": "The Metal Bar",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/the-metal-bar-sao-paulo-brazil-23d1f4b7.html"
+      },
+      "tour": {
+        "name": "Tour 30 Anos"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/children-of-the-beast/2023/the-metal-bar-sao-paulo-brazil-3bae283c.html"
+    }
+  ]
+}

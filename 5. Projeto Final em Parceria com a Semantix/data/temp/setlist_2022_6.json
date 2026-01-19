@@ -1,0 +1,1247 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 6,
+  "total": 1994,
+  "setlist": [
+    {
+      "id": "53afffb1",
+      "versionId": "g438bbb57",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2023-12-28T19:42:49.848+0000",
+      "artist": {
+        "mbid": "ca1dada3-fd5c-416d-b5e9-8a7bf1958f54",
+        "name": "EVEHIVE",
+        "sortName": "EVEHIVE",
+        "disambiguation": "Brazilian DJ/producer",
+        "url": "https://www.setlist.fm/setlists/evehive-63fa1e27.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/evehive/2022/neo-quimica-arena-sao-paulo-brazil-53afffb1.html"
+    },
+    {
+      "id": "43bc9b3b",
+      "versionId": "g638bbaff",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2023-12-28T20:17:57.670+0000",
+      "artist": {
+        "mbid": "30c8d913-9ab4-4707-bba9-f83c30440804",
+        "name": "ÀTTØØXXÁ",
+        "sortName": "ÀTTØØXXÁ",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/attooxxa-1bc47530.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Traseira cometa"
+              },
+              {
+                "name": "Aquele swing"
+              },
+              {
+                "name": "Kaça",
+                "cover": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                },
+                "with": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                }
+              },
+              {
+                "name": "É o poder",
+                "cover": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                },
+                "with": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                }
+              },
+              {
+                "name": "Chora viola"
+              },
+              {
+                "name": "Elas gostam (popa da bunda)"
+              },
+              {
+                "name": "Raposa love (seu talento)"
+              },
+              {
+                "name": "Subida",
+                "cover": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                },
+                "with": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                }
+              },
+              {
+                "name": "Boa noite",
+                "cover": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                },
+                "with": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                }
+              },
+              {
+                "name": "Gueto ao luxo",
+                "cover": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                },
+                "with": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                }
+              },
+              {
+                "name": "Tô te querendo"
+              },
+              {
+                "name": "Molhadinha"
+              },
+              {
+                "name": "Pulsa"
+              },
+              {
+                "name": "Cê não pode",
+                "cover": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                },
+                "with": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                }
+              },
+              {
+                "name": "Louca e sagaz",
+                "cover": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                },
+                "with": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                }
+              },
+              {
+                "name": "Pra te machucar"
+              },
+              {
+                "name": "Lokinho"
+              },
+              {
+                "name": "Tombei",
+                "cover": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                },
+                "info": "Lucas Penteado on stage",
+                "with": {
+                  "mbid": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+                  "name": "Karol Conká",
+                  "sortName": "Karol Conká",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/karol-conka-43dadb47.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/attooxxa/2022/neo-quimica-arena-sao-paulo-brazil-43bc9b3b.html"
+    },
+    {
+      "id": "3bcb597",
+      "versionId": "g23e220f7",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2022-12-09T21:18:49.120+0000",
+      "artist": {
+        "mbid": "0c9bfbdc-4e64-497d-bf80-5c891e6766a3",
+        "name": "Discharge",
+        "sortName": "Discharge",
+        "disambiguation": "UK hardcore punk/d‐beat band",
+        "url": "https://www.setlist.fm/setlists/discharge-73d68e1d.html"
+      },
+      "venue": {
+        "id": "73d29ac9",
+        "name": "Fabrique Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fabrique-club-sao-paulo-brazil-73d29ac9.html"
+      },
+      "tour": {
+        "name": "Latin America Tour 2022"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/discharge/2022/fabrique-club-sao-paulo-brazil-3bcb597.html"
+    },
+    {
+      "id": "3bc9ddb",
+      "versionId": "g53b5a365",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2024-02-24T23:08:10.809+0000",
+      "artist": {
+        "mbid": "cf71e106-1003-4390-8477-cf268229df66",
+        "name": "LUDMILLA",
+        "sortName": "LUDMILLA",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/ludmilla-4bd9b3c2.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Pantera Negra",
+                "tape": true,
+                "info": "Video Intro"
+              },
+              {
+                "name": "Favela chegou"
+              },
+              {
+                "name": "Verdinha"
+              },
+              {
+                "name": "Invocada"
+              },
+              {
+                "name": "Deixa de onda",
+                "cover": {
+                  "mbid": "7f1b8301-cb30-4522-b15a-f351084448ac",
+                  "name": "DENNIS",
+                  "sortName": "DENNIS",
+                  "disambiguation": "Dennis DJ Brazilian baile funk artist",
+                  "url": "https://www.setlist.fm/setlists/dennis-2bd1c8f2.html"
+                }
+              },
+              {
+                "name": "Malokera / Down, Down, Down",
+                "tape": true,
+                "info": "Dance break"
+              },
+              {
+                "name": "Modo avião / A tua voz / 700 por hora / Radar / A música mais triste do ano",
+                "info": "Lud Session Medley",
+                "with": {
+                  "mbid": "30af9387-037c-4f4f-9a81-17c6d9f5a26e",
+                  "name": "Gloria Groove",
+                  "sortName": "Groove, Gloria",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gloria-groove-23c11053.html"
+                }
+              },
+              {
+                "name": "Te amar demais / Best Part"
+              },
+              {
+                "name": "Poesia acústica #10: recomeçar",
+                "cover": {
+                  "mbid": "7ed73b88-f5e8-439b-977e-5294220a53dc",
+                  "name": "Pineapple Storm",
+                  "sortName": "Pineapple Storm",
+                  "disambiguation": "Brazilian label",
+                  "url": "https://www.setlist.fm/setlists/pineapple-storm-7be742c4.html"
+                },
+                "info": "Shortened"
+              }
+            ]
+          },
+          {
+            "name": "Numanice",
+            "song": [
+              {
+                "name": "Amor difícil"
+              },
+              {
+                "name": "Ela não"
+              },
+              {
+                "name": "Sinais de fogo"
+              },
+              {
+                "name": "Maldivas"
+              }
+            ]
+          },
+          {
+            "name": "Fervo da Lud",
+            "song": [
+              {
+                "name": "TROPA DA LUD",
+                "tape": true
+              },
+              {
+                "name": "Hoje",
+                "info": "Shortened"
+              },
+              {
+                "name": "Cheguei"
+              },
+              {
+                "name": "Vem amor",
+                "info": "Contains elements of Mc Nick’s “Mete Com Força e Com Talento”"
+              },
+              {
+                "name": "Fala mal de mim / 24 horas por dia / Din din din / Não encosta"
+              },
+              {
+                "name": "Zuera dos amigos"
+              },
+              {
+                "name": "Onda diferente",
+                "cover": {
+                  "mbid": "d606b860-cc03-4959-a3fd-3a24bccf2560",
+                  "name": "Anitta",
+                  "sortName": "Anitta",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/anitta-2bdd840a.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/ludmilla/2022/neo-quimica-arena-sao-paulo-brazil-3bc9ddb.html"
+    },
+    {
+      "id": "34e1927",
+      "versionId": "g367a16f",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2025-10-22T13:41:51.540+0000",
+      "artist": {
+        "mbid": "f7c823d0-c49f-40d3-84c0-edc32d045ea2",
+        "name": "Bruno & Marrone",
+        "sortName": "Bruno & Marrone",
+        "disambiguation": "sertanejo duo",
+        "url": "https://www.setlist.fm/setlists/bruno-and-marrone-43d49fa3.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/bruno-and-marrone/2022/allianz-parque-sao-paulo-brazil-34e1927.html"
+    },
+    {
+      "id": "34e191b",
+      "versionId": "g367a163",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2025-10-22T13:42:49.344+0000",
+      "artist": {
+        "mbid": "7428ce11-b37e-4642-a230-72a501460ce9",
+        "name": "Boate Azul Ao Vivo",
+        "sortName": "Boate Azul Ao Vivo",
+        "disambiguation": "Edson e Hudson, Gian e Giovani, Boate Azul",
+        "url": "https://www.setlist.fm/setlists/boate-azul-ao-vivo-be79166.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/boate-azul-ao-vivo/2022/allianz-parque-sao-paulo-brazil-34e191b.html"
+    },
+    {
+      "id": "2bbc9c7a",
+      "versionId": "g6b8bbafa",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2023-12-28T20:17:19.863+0000",
+      "artist": {
+        "mbid": "d71b56b6-fea1-4300-8a69-94c78feeb4aa",
+        "name": "Deize Tigrona",
+        "sortName": "Tigrona, Deize",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/deize-tigrona-6bd23a2e.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/deize-tigrona/2022/neo-quimica-arena-sao-paulo-brazil-2bbc9c7a.html"
+    },
+    {
+      "id": "2bbc9852",
+      "versionId": "g73643a25",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2025-11-03T04:00:27.794+0000",
+      "artist": {
+        "mbid": "cf9ba8ac-f4be-4fe8-b5ad-18ffa237f1fe",
+        "name": "Sugar Kane",
+        "sortName": "Sugar Kane",
+        "disambiguation": "Brazilian punk rock/hardcore band",
+        "url": "https://www.setlist.fm/setlists/sugar-kane-33d6c0c5.html"
+      },
+      "venue": {
+        "id": "3bd63414",
+        "name": "Hangar 110",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/hangar-110-sao-paulo-brazil-3bd63414.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Medo"
+              },
+              {
+                "name": "A casa"
+              },
+              {
+                "name": "Novidade Média"
+              },
+              {
+                "name": "Dependência"
+              },
+              {
+                "name": "Um pouco de tudo"
+              },
+              {
+                "name": "Todo Mundo Burro"
+              },
+              {
+                "name": "Fui eu"
+              },
+              {
+                "name": "Despedida"
+              },
+              {
+                "name": "Contra Mim"
+              },
+              {
+                "name": "Vamos seguir"
+              },
+              {
+                "name": "Velocidade"
+              },
+              {
+                "name": "Janeiro"
+              },
+              {
+                "name": "Estou cansado"
+              },
+              {
+                "name": "A máquina que sonha colorido"
+              },
+              {
+                "name": "Todos nós vamos morrer"
+              },
+              {
+                "name": "Divinorum"
+              },
+              {
+                "name": "Será viver"
+              },
+              {
+                "name": "A máquina"
+              },
+              {
+                "name": "Vital"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/sugar-kane/2022/hangar-110-sao-paulo-brazil-2bbc9852.html"
+    },
+    {
+      "id": "2b54a456",
+      "versionId": "g3ba54430",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2024-07-07T03:03:28.675+0000",
+      "artist": {
+        "mbid": "bd4d397a-849a-48bf-be24-52eec87feeee",
+        "name": "Adriana Calcanhotto",
+        "sortName": "Calcanhotto, Adriana",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/adriana-calcanhotto-6bd62e4e.html"
+      },
+      "venue": {
+        "id": "33d54c95",
+        "name": "Casa Natura Musical",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-natura-musical-sao-paulo-brazil-33d54c95.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/adriana-calcanhotto/2022/casa-natura-musical-sao-paulo-brazil-2b54a456.html"
+    },
+    {
+      "id": "23bca04b",
+      "versionId": "g3be24c5c",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2022-12-13T10:04:24.017+0000",
+      "artist": {
+        "mbid": "33baeff8-c805-4a72-b50a-881cb7dceeab",
+        "name": "Molho Negro",
+        "sortName": "Molho Negro",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/molho-negro-33dc588d.html"
+      },
+      "venue": {
+        "id": "3bd63414",
+        "name": "Hangar 110",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/hangar-110-sao-paulo-brazil-3bd63414.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Silêncio"
+              },
+              {
+                "name": "Berrini"
+              },
+              {
+                "name": "Gente Chata"
+              },
+              {
+                "name": "Souza Cruz"
+              },
+              {
+                "name": "Desastre"
+              },
+              {
+                "name": "Campo em branco"
+              },
+              {
+                "name": "Contracheque"
+              },
+              {
+                "name": "Contra"
+              },
+              {
+                "name": "SUV"
+              },
+              {
+                "name": "O Jeito de Errar"
+              },
+              {
+                "name": "Não Nasceu pra brilhar"
+              },
+              {
+                "name": "Não me faça duvidar"
+              },
+              {
+                "name": "Rui Barbosa"
+              },
+              {
+                "name": "23"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/molho-negro/2022/hangar-110-sao-paulo-brazil-23bca04b.html"
+    },
+    {
+      "id": "23a988f3",
+      "versionId": "g73bd0af1",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2024-05-04T19:53:43.454+0000",
+      "artist": {
+        "mbid": "e81160b4-3ee8-4c0a-965c-32eab2aaa517",
+        "name": "Eduardo Costa",
+        "sortName": "Costa, Eduardo",
+        "disambiguation": "sertanejo singer",
+        "url": "https://www.setlist.fm/setlists/eduardo-costa-5bd49fac.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/eduardo-costa/2022/allianz-parque-sao-paulo-brazil-23a988f3.html"
+    },
+    {
+      "id": "1bbc9d84",
+      "versionId": "g7b8bba14",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2023-12-28T20:13:07.256+0000",
+      "artist": {
+        "mbid": "75ddd2e6-8e48-4385-b5e2-625626c8e505",
+        "name": "Afro B",
+        "sortName": "Afro B",
+        "disambiguation": "London based rapper",
+        "url": "https://www.setlist.fm/setlists/afro-b-3c091b7.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/afro-b/2022/neo-quimica-arena-sao-paulo-brazil-1bbc9d84.html"
+    },
+    {
+      "id": "13bc9dd1",
+      "versionId": "g3b5e4448",
+      "eventDate": "10-12-2022",
+      "lastUpdated": "2024-12-10T22:39:43.322+0000",
+      "artist": {
+        "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+        "name": "Urias",
+        "sortName": "Urias",
+        "disambiguation": "Brazilian singer-songwriter",
+        "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Diaba"
+              },
+              {
+                "name": "Racha"
+              },
+              {
+                "name": "Aposta"
+              },
+              {
+                "name": "Rasga"
+              },
+              {
+                "name": "Neo Thang"
+              },
+              {
+                "name": "Foi mal"
+              },
+              {
+                "name": "R.I.P."
+              },
+              {
+                "name": "Danger"
+              },
+              {
+                "name": "Maserati"
+              },
+              {
+                "name": "É tudo meu"
+              },
+              {
+                "name": "Je ne sais quoi"
+              },
+              {
+                "name": "Pode mandar"
+              },
+              {
+                "name": "Ultimate One"
+              },
+              {
+                "name": "Major"
+              },
+              {
+                "name": "Peligrosa"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/urias/2022/neo-quimica-arena-sao-paulo-brazil-13bc9dd1.html"
+    },
+    {
+      "id": "bac1d12",
+      "versionId": "g1b5399e8",
+      "eventDate": "09-12-2022",
+      "lastUpdated": "2024-11-11T23:41:40.499+0000",
+      "artist": {
+        "mbid": "ce874efd-e05f-481e-a323-17ca9f66303e",
+        "name": "Vazio",
+        "sortName": "Vazio",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/vazio-bcec902.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/vazio/2022/la-iglesia-borratxeria-sao-paulo-brazil-bac1d12.html"
+    },
+    {
+      "id": "7bbcb6c0",
+      "versionId": "gb5399ee",
+      "eventDate": "09-12-2022",
+      "lastUpdated": "2024-11-11T23:41:40.503+0000",
+      "artist": {
+        "mbid": "b5134026-003f-4162-bd1a-b33440fa5d09",
+        "name": "Manger Cadavre?",
+        "sortName": "Manger Cadavre?",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/manger-cadavre-bf60536.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/manger-cadavre/2022/la-iglesia-borratxeria-sao-paulo-brazil-7bbcb6c0.html"
+    },
+    {
+      "id": "73bcb6c5",
+      "versionId": "g35399ef",
+      "eventDate": "09-12-2022",
+      "lastUpdated": "2024-11-11T23:41:40.502+0000",
+      "artist": {
+        "mbid": "642138c8-5bc6-4750-9571-9eb11e47ee16",
+        "name": "Blackning",
+        "sortName": "Blackning",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/blackning-3bc93cc4.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/blackning/2022/la-iglesia-borratxeria-sao-paulo-brazil-73bcb6c5.html"
+    },
+    {
+      "id": "6ba6ce02",
+      "versionId": "g4b93fb82",
+      "eventDate": "09-12-2022",
+      "lastUpdated": "2023-06-11T15:48:40.089+0000",
+      "artist": {
+        "mbid": "e471a911-4914-4a7d-8b9c-21939e55211d",
+        "name": "Walfredo em Busca da Simbiose",
+        "sortName": "Walfredo em Busca da Simbiose",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/walfredo-em-busca-da-simbiose-6bff8e46.html"
+      },
+      "venue": {
+        "id": "5bd04f38",
+        "name": "Bar Alto",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bar-alto-sao-paulo-brazil-5bd04f38.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/walfredo-em-busca-da-simbiose/2022/bar-alto-sao-paulo-brazil-6ba6ce02.html"
+    },
+    {
+      "id": "63bcb6c3",
+      "versionId": "g135399ed",
+      "eventDate": "09-12-2022",
+      "lastUpdated": "2024-11-11T23:41:40.504+0000",
+      "artist": {
+        "mbid": "c34a9df5-9c32-4bb6-acd9-8fdeedc971df",
+        "name": "Desalmado",
+        "sortName": "Desalmado",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/desalmado-73db2675.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/desalmado/2022/la-iglesia-borratxeria-sao-paulo-brazil-63bcb6c3.html"
+    },
+    {
+      "id": "4bbf4ffa",
+      "versionId": "g7375d2f9",
+      "eventDate": "09-12-2022",
+      "lastUpdated": "2025-07-08T15:37:36.299+0000",
+      "artist": {
+        "mbid": "3ab7295a-54ac-40e8-b1b2-3d110a143550",
+        "name": "Eros Ramazzotti",
+        "sortName": "Ramazzotti, Eros",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/eros-ramazzotti-4bd6d3fa.html"
+      },
+      "venue": {
+        "id": "43d01ba3",
+        "name": "Vibra São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/vibra-sao-paulo-sao-paulo-brazil-43d01ba3.html"
+      },
+      "tour": {
+        "name": "Battito infinito World Tour"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/eros-ramazzotti/2022/vibra-sao-paulo-sao-paulo-brazil-4bbf4ffa.html"
+    },
+    {
+      "id": "4bbc9b1e",
+      "versionId": "g6be25e6a",
+      "eventDate": "09-12-2022",
+      "lastUpdated": "2022-12-12T18:36:06.858+0000",
+      "artist": {
+        "mbid": "7f1b64e3-7396-42fb-98d2-08badf1e755c",
+        "name": "Vitor Ramil",
+        "sortName": "Ramil, Vitor",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/vitor-ramil-3d58dbb.html"
+      },
+      "venue": {
+        "id": "6bd6d6d2",
+        "name": "SESC Santana",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-santana-sao-paulo-brazil-6bd6d6d2.html"
+      },
+      "tour": {
+        "name": "Avenida Angélica"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Ringues Polifônicos"
+              },
+              {
+                "name": "Stradivarius"
+              },
+              {
+                "name": "Cosmic Coswig Mississipi"
+              },
+              {
+                "name": "A Mina de Ouro de Minha Mãe e Minha Tia"
+              },
+              {
+                "name": "Treze de Outubro"
+              },
+              {
+                "name": "Siobhan"
+              },
+              {
+                "name": "Bigodinho"
+              },
+              {
+                "name": "Uma Mulher Insanamente Bonita"
+              },
+              {
+                "name": "Mulher de Rollers"
+              },
+              {
+                "name": "Mulher-aranha"
+              },
+              {
+                "name": "Família Vende Tudo"
+              },
+              {
+                "name": "Mulher de Malandro"
+              },
+              {
+                "name": "R.C."
+              },
+              {
+                "name": "Rilke Shake"
+              },
+              {
+                "name": "Ítaca (Angélica Freitas)"
+              },
+              {
+                "name": "Versus Eu"
+              },
+              {
+                "name": "Poema da Mulher Suja"
+              },
+              {
+                "name": "Vida Aérea"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "R.C."
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/vitor-ramil/2022/sesc-santana-sao-paulo-brazil-4bbc9b1e.html"
+    }
+  ]
+}

@@ -1,0 +1,1684 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 3,
+  "total": 2415,
+  "setlist": [
+    {
+      "id": "53ae6fc5",
+      "versionId": "g3bbf24f0",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-04-18T07:08:07.869+0000",
+      "artist": {
+        "mbid": "cacb7214-2881-44f3-9dfc-053e22449acb",
+        "name": "NX Zero",
+        "sortName": "NX Zero",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nx-zero-23d6541f.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "Tour Cedo ou Tarde"
+      },
+      "sets": {
+        "set": [
+          {
+            "name": "Set 1",
+            "song": [
+              {
+                "name": "Vertigem",
+                "tape": true
+              },
+              {
+                "name": "Só rezo"
+              },
+              {
+                "name": "Daqui pra frente"
+              },
+              {
+                "name": "Bem ou mal"
+              },
+              {
+                "name": "Pela última vez"
+              },
+              {
+                "name": "Apenas um olhar"
+              },
+              {
+                "name": "Insubstituível"
+              },
+              {
+                "name": "Onde estiver"
+              },
+              {
+                "name": "Espero a minha vez"
+              },
+              {
+                "name": "Mais além"
+              },
+              {
+                "name": "Inimigo invisível",
+                "info": "With \"Mentiras e Fracassos\" intro"
+              },
+              {
+                "name": "Cedo ou Tarde 0.2",
+                "tape": true,
+                "info": "With Chorão's speak"
+              },
+              {
+                "name": "Cedo ou tarde",
+                "info": "With snippet of \"Cedo ou tarde 0.2\""
+              },
+              {
+                "name": "Você vai lembrar de mim"
+              },
+              {
+                "name": "Meu bem"
+              },
+              {
+                "name": "Círculos",
+                "info": "Preceded by Caco's bass guitar solo"
+              },
+              {
+                "name": "Maré"
+              },
+              {
+                "name": "Mais e mais"
+              }
+            ]
+          },
+          {
+            "name": "Acoustic Set - Stage B",
+            "song": [
+              {
+                "name": "Incompleta"
+              },
+              {
+                "name": "Fração de segundo"
+              },
+              {
+                "name": "Marcas de expressão"
+              },
+              {
+                "name": "Silêncio",
+                "info": "Preceded by a proposal at the stage"
+              },
+              {
+                "name": "Cartas pra você"
+              }
+            ]
+          },
+          {
+            "name": "Set 2",
+            "song": [
+              {
+                "name": "Hoje o céu abriu"
+              },
+              {
+                "name": "Vamos seguir"
+              },
+              {
+                "name": "Pedra murano",
+                "info": "Preceded by Dani's Drum Solo"
+              },
+              {
+                "name": "Ligação"
+              },
+              {
+                "name": "Não é normal"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "A melhor parte de mim"
+              },
+              {
+                "name": "Além de mim"
+              },
+              {
+                "name": "Razões e emoções"
+              },
+              {
+                "name": "Nessa cidade",
+                "tape": true
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Last show of \"Cedo ou Tarde\" Reunion Tour ; Concert was recorded.",
+      "url": "https://www.setlist.fm/setlist/nx-zero/2023/allianz-parque-sao-paulo-brazil-53ae6fc5.html"
+    },
+    {
+      "id": "53ae4bad",
+      "versionId": "gb8aedd6",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2023-12-18T10:37:20.733+0000",
+      "artist": {
+        "mbid": "2e664c51-ac19-4a5f-bf24-cfb84661d12b",
+        "name": "No Fun at All",
+        "sortName": "No Fun at All",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/no-fun-at-all-43d6cb87.html"
+      },
+      "venue": {
+        "id": "13d0450d",
+        "name": "VIP Station",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/vip-station-sao-paulo-brazil-13d0450d.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Tear Me Down"
+              },
+              {
+                "name": "Believers"
+              },
+              {
+                "name": "Perfection"
+              },
+              {
+                "name": "Growing Old, Growing Cold"
+              },
+              {
+                "name": "Your Feeble Mind"
+              },
+              {
+                "name": "Mine My Mind"
+              },
+              {
+                "name": "In a Rhyme"
+              },
+              {
+                "name": "Should Have Known"
+              },
+              {
+                "name": "Lose Another Friend"
+              },
+              {
+                "name": "The Humdrum Way"
+              },
+              {
+                "name": "I Have Seen"
+              },
+              {
+                "name": "It's Not a Problem"
+              },
+              {
+                "name": "Strong and Smart"
+              },
+              {
+                "name": "Suicide Machine"
+              },
+              {
+                "name": "Future Days, Future Nights"
+              },
+              {
+                "name": "In a Moment"
+              },
+              {
+                "name": "Beat 'em Down"
+              },
+              {
+                "name": "Spirit"
+              },
+              {
+                "name": "Wow and I Say Wow"
+              },
+              {
+                "name": "Out of Bounds"
+              },
+              {
+                "name": "Beachparty"
+              },
+              {
+                "name": "Master Celebrator"
+              },
+              {
+                "name": "Catch Me Running Round"
+              },
+              {
+                "name": "Where's the Truth"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/no-fun-at-all/2023/vip-station-sao-paulo-brazil-53ae4bad.html"
+    },
+    {
+      "id": "4bae6fc6",
+      "versionId": "g3bb890cc",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-05-25T18:29:32.332+0000",
+      "artist": {
+        "mbid": "fb4fc5a6-cbe1-45ff-954c-ef45faceb54d",
+        "name": "You Me at Six",
+        "sortName": "You Me at Six",
+        "disambiguation": "British rock band",
+        "url": "https://www.setlist.fm/setlists/you-me-at-six-3d7499f.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "Truth Decay Tour 2023"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Deep Cuts"
+              },
+              {
+                "name": "heartLESS"
+              },
+              {
+                "name": "Loverboy"
+              },
+              {
+                "name": "Bite My Tongue"
+              },
+              {
+                "name": "What's It Like"
+              },
+              {
+                "name": "No Future? Yeah Right"
+              },
+              {
+                "name": "Give"
+              },
+              {
+                "name": "Mixed Emotions (I Didn't Know How to Tell You What I Was Going Through)"
+              },
+              {
+                "name": "Take on the World"
+              },
+              {
+                "name": "SUCKAPUNCH"
+              },
+              {
+                "name": "Reckless"
+              },
+              {
+                "name": "Underdog"
+              },
+              {
+                "name": "Beautiful Way"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Setlist incomplete and out of order",
+      "url": "https://www.setlist.fm/setlist/you-me-at-six/2023/allianz-parque-sao-paulo-brazil-4bae6fc6.html"
+    },
+    {
+      "id": "4bae4ba6",
+      "versionId": "g438afbc3",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2023-12-17T23:36:41.332+0000",
+      "artist": {
+        "mbid": "084c479f-896b-4074-bf3b-6e299f8d542e",
+        "name": "Statues On Fire",
+        "sortName": "Statues On Fire",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/statues-on-fire-73d8e24d.html"
+      },
+      "venue": {
+        "id": "13d0450d",
+        "name": "VIP Station",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/vip-station-sao-paulo-brazil-13d0450d.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/statues-on-fire/2023/vip-station-sao-paulo-brazil-4bae4ba6.html"
+    },
+    {
+      "id": "4bae4ba2",
+      "versionId": "g13af1139",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-08-14T01:23:23.902+0000",
+      "artist": {
+        "mbid": "4d9fb84a-8104-48c1-aa16-21f53c9053cc",
+        "name": "Ignite",
+        "sortName": "Ignite",
+        "disambiguation": "melodic hardcore band from California",
+        "url": "https://www.setlist.fm/setlists/ignite-23d6d08f.html"
+      },
+      "venue": {
+        "id": "13d0450d",
+        "name": "VIP Station",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/vip-station-sao-paulo-brazil-13d0450d.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Ash Return"
+              },
+              {
+                "name": "Who Sold Out Now?"
+              },
+              {
+                "name": "Anti‐Complicity Anthem"
+              },
+              {
+                "name": "Veteran"
+              },
+              {
+                "name": "Poverty for All"
+              },
+              {
+                "name": "The Butcher in Me"
+              },
+              {
+                "name": "Let It Burn"
+              },
+              {
+                "name": "Bleeding"
+              },
+              {
+                "name": "Call Off the Dogs"
+              },
+              {
+                "name": "Sunday Bloody Sunday",
+                "cover": {
+                  "mbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+                  "name": "U2",
+                  "sortName": "U2",
+                  "disambiguation": "Irish rock band",
+                  "url": "https://www.setlist.fm/setlists/u2-23d6b80f.html"
+                }
+              },
+              {
+                "name": "On the Ropes"
+              },
+              {
+                "name": "Know Your History"
+              },
+              {
+                "name": "Embrace"
+              },
+              {
+                "name": "Run"
+              },
+              {
+                "name": "Live for Better Days"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/ignite/2023/vip-station-sao-paulo-brazil-4bae4ba2.html"
+    },
+    {
+      "id": "3aa0d6b",
+      "versionId": "g2bb37432",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-03-20T02:32:20.398+0000",
+      "artist": {
+        "mbid": "4b1660f6-37d9-480f-92b1-4d44beab6b67",
+        "name": "Made in Brazil",
+        "sortName": "Made in Brazil",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/made-in-brazil-3bd408bc.html"
+      },
+      "venue": {
+        "id": "2bd540da",
+        "name": "Praça Heróis Da Força Expedicionária Brasileira",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/praca-herois-da-forca-expedicionaria-brasileira-sao-paulo-brazil-2bd540da.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/made-in-brazil/2023/praca-herois-da-forca-expedicionaria-brasileira-sao-paulo-brazil-3aa0d6b.html"
+    },
+    {
+      "id": "33ae4405",
+      "versionId": "g5bacef20",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-08-19T07:27:29.864+0000",
+      "artist": {
+        "mbid": "fc38752e-8310-464b-80b8-bbb2b9be2df1",
+        "name": "Day Limns",
+        "sortName": "Day Limns",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/day-limns-2bfb5c42.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Intro"
+              },
+              {
+                "name": "Kálice"
+              },
+              {
+                "name": "Vermelho farol"
+              },
+              {
+                "name": "Castelo de areia",
+                "info": "feat Arthur Mutanen"
+              },
+              {
+                "name": "Fugitivos"
+              },
+              {
+                "name": "Más caras"
+              },
+              {
+                "name": "Finais mentem"
+              },
+              {
+                "name": "Dilúvio"
+              },
+              {
+                "name": "Intro / Santa"
+              },
+              {
+                "name": "Minha religião"
+              },
+              {
+                "name": "Muito além"
+              },
+              {
+                "name": "Cacos"
+              },
+              {
+                "name": "Purgatório"
+              },
+              {
+                "name": "Cinzeiro"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/day-limns/2023/allianz-parque-sao-paulo-brazil-33ae4405.html"
+    },
+    {
+      "id": "2baff8b2",
+      "versionId": "g3b8bb064",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2023-12-29T02:05:02.534+0000",
+      "artist": {
+        "mbid": "56ecb02b-0cbf-40a6-abb9-77152f197712",
+        "name": "Letrux",
+        "sortName": "Letrux",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/letrux-13ca89c9.html"
+      },
+      "venue": {
+        "id": "33d54c95",
+        "name": "Casa Natura Musical",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-natura-musical-sao-paulo-brazil-33d54c95.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Paradise City / Teste psicológico animalesco"
+              },
+              {
+                "name": "Hypnotized"
+              },
+              {
+                "name": "Déjà-vu frenesi"
+              },
+              {
+                "name": "Abelha"
+              },
+              {
+                "name": "Além de cavalos"
+              },
+              {
+                "name": "Formiga"
+              },
+              {
+                "name": "Leões"
+              },
+              {
+                "name": "Jardins da Babilônia",
+                "cover": {
+                  "mbid": "3f962bf0-42a0-45a0-830f-07b66301d35f",
+                  "name": "Rita Lee",
+                  "sortName": "Lee, Rita",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/rita-lee-53d6c705.html"
+                }
+              },
+              {
+                "name": "Trying to Quit"
+              },
+              {
+                "name": "Louva deusa"
+              },
+              {
+                "name": "Intervalo da Pantera Megera"
+              },
+              {
+                "name": "Arca de Noé",
+                "cover": {
+                  "mbid": "30a1ea60-5bda-4ad6-8d93-8fc98f70ac53",
+                  "name": "Letuce",
+                  "sortName": "Letuce",
+                  "disambiguation": "Brazilian MPB duo",
+                  "url": "https://www.setlist.fm/setlists/letuce-6bdff6ba.html"
+                }
+              },
+              {
+                "name": "Hienas"
+              },
+              {
+                "name": "Vai render"
+              },
+              {
+                "name": "Que estrago"
+              },
+              {
+                "name": "Zebra"
+              },
+              {
+                "name": "Flerte revival"
+              },
+              {
+                "name": "Vai brotar"
+              },
+              {
+                "name": "As feras, essas queridas"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/letrux/2023/casa-natura-musical-sao-paulo-brazil-2baff8b2.html"
+    },
+    {
+      "id": "2bae54d6",
+      "versionId": "g138a994d",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2023-12-16T20:27:04.104+0000",
+      "artist": {
+        "mbid": "d82b1066-3941-45a6-a32f-962ee4037172",
+        "name": "Lupe de Lupe",
+        "sortName": "Lupe, Lupe de",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/lupe-de-lupe-3bc214f8.html"
+      },
+      "venue": {
+        "id": "5bd04f38",
+        "name": "Bar Alto",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bar-alto-sao-paulo-brazil-5bd04f38.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/lupe-de-lupe/2023/bar-alto-sao-paulo-brazil-2bae54d6.html"
+    },
+    {
+      "id": "23ae54b3",
+      "versionId": "g7b7f2ea0",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2025-08-24T10:59:51.027+0000",
+      "artist": {
+        "mbid": "702eff62-d677-4325-b399-7a5719187b78",
+        "name": "Gloria",
+        "sortName": "Gloria",
+        "disambiguation": "Brazilian band",
+        "url": "https://www.setlist.fm/setlists/gloria-3bd1e0b8.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Coração codificado"
+              },
+              {
+                "name": "Vai pagar caro por me conhecer"
+              },
+              {
+                "name": "A arte de fazer inimigos"
+              },
+              {
+                "name": "A cada dia"
+              },
+              {
+                "name": "Horizontes"
+              },
+              {
+                "name": "Bicho do mato"
+              },
+              {
+                "name": "Tudo outra vez"
+              },
+              {
+                "name": "Convencer"
+              },
+              {
+                "name": "Asas fracas"
+              },
+              {
+                "name": "Minha paz"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Opening Act for Nx Zero",
+      "url": "https://www.setlist.fm/setlist/gloria/2023/allianz-parque-sao-paulo-brazil-23ae54b3.html"
+    },
+    {
+      "id": "23ae50b3",
+      "versionId": "g535e0f59",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-12-08T22:51:29.832+0000",
+      "artist": {
+        "mbid": "46713d05-4143-4704-a9c3-71b482a13944",
+        "name": "Boogarins",
+        "sortName": "Boogarins",
+        "disambiguation": "Brazilian psychedelic rock group",
+        "url": "https://www.setlist.fm/setlists/boogarins-3bddb43c.html"
+      },
+      "venue": {
+        "id": "73d03ead",
+        "name": "Casa Rockambole",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-rockambole-sao-paulo-brazil-73d03ead.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "\"Bolero\", by Maurice Ravel",
+                "tape": true
+              },
+              {
+                "name": "As chances"
+              },
+              {
+                "name": "Dislexia ou transe"
+              },
+              {
+                "name": "Passeio"
+              },
+              {
+                "name": "A tradição"
+              },
+              {
+                "name": "Inocência"
+              },
+              {
+                "name": "Cães do ódio"
+              },
+              {
+                "name": "Correndo em fúria"
+              },
+              {
+                "name": "Tanta coragem",
+                "info": "Live Debut"
+              },
+              {
+                "name": "Te quero longe",
+                "info": "With Arthur Vieira"
+              },
+              {
+                "name": "Sombra ou dúvida",
+                "info": "With Arthur Vieira"
+              },
+              {
+                "name": "LVCO 2"
+              },
+              {
+                "name": "Derramado"
+              },
+              {
+                "name": "Noite Bright"
+              },
+              {
+                "name": "Começa em você",
+                "info": "Live Debut"
+              },
+              {
+                "name": "Nós"
+              },
+              {
+                "name": "Meto o loco",
+                "info": "Live Debut"
+              },
+              {
+                "name": "Desandar"
+              },
+              {
+                "name": "Invenção"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Sai de cima"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Special gig with tracks from Sombrou Dúvida and Manchaca Vol. 1 & 2. Fefel described this concert as their boldest yet.",
+      "url": "https://www.setlist.fm/setlist/boogarins/2023/casa-rockambole-sao-paulo-brazil-23ae50b3.html"
+    },
+    {
+      "id": "13ae59bd",
+      "versionId": "g2bb78c22",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-02-08T06:04:22.137+0000",
+      "artist": {
+        "mbid": "3b5bc4eb-d60e-406c-a5e4-f08197d4c9de",
+        "name": "Crypta",
+        "sortName": "Crypta",
+        "disambiguation": "Brazilian death metal fourpiece",
+        "url": "https://www.setlist.fm/setlists/crypta-43f217eb.html"
+      },
+      "venue": {
+        "id": "5bd10f88",
+        "name": "City Lights Music Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/city-lights-music-hall-sao-paulo-brazil-5bd10f88.html"
+      },
+      "tour": {
+        "name": "Shades of Sorrow - Tour 2023"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "The Aftermath",
+                "tape": true
+              },
+              {
+                "name": "The Other Side of Anger"
+              },
+              {
+                "name": "Kali"
+              },
+              {
+                "name": "Poisonous Apathy"
+              },
+              {
+                "name": "Lift the Blindfold"
+              },
+              {
+                "name": "The Outsider"
+              },
+              {
+                "name": "Lullaby for the Forsaken"
+              },
+              {
+                "name": "Stronghold"
+              },
+              {
+                "name": "The Limbo",
+                "tape": true
+              },
+              {
+                "name": "Trial of Traitors"
+              },
+              {
+                "name": "Under the Black Wings"
+              },
+              {
+                "name": "Dark Clouds"
+              },
+              {
+                "name": "Dark Night of the Soul"
+              },
+              {
+                "name": "Agents of Chaos"
+              },
+              {
+                "name": "Lord of Ruins"
+              },
+              {
+                "name": "From the Ashes"
+              },
+              {
+                "name": "The Closure",
+                "tape": true
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/crypta/2023/city-lights-music-hall-sao-paulo-brazil-13ae59bd.html"
+    },
+    {
+      "id": "13ae5969",
+      "versionId": "g1bb7d9c0",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-02-10T01:48:17.015+0000",
+      "artist": {
+        "mbid": "84d23ac2-1b9b-4e92-910f-a14c203dad3b",
+        "name": "Rogério Skylab",
+        "sortName": "Skylab, Rogério",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/rogerio-skylab-53d60fc1.html"
+      },
+      "venue": {
+        "id": "73d6daed",
+        "name": "Carioca Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/carioca-club-sao-paulo-brazil-73d6daed.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Hino nacional do Skylab"
+              },
+              {
+                "name": "Aquela coisa toda"
+              },
+              {
+                "name": "Cadê meu pau?"
+              },
+              {
+                "name": "Corpo e membro sem cabeça"
+              },
+              {
+                "name": "No cemitério"
+              },
+              {
+                "name": "Eu fico nervoso"
+              },
+              {
+                "name": "Eu durmo pouco pra ficar com sono"
+              },
+              {
+                "name": "A voz do cu"
+              },
+              {
+                "name": "Funérea"
+              },
+              {
+                "name": "Skylab's Wake",
+                "info": "Live debut"
+              },
+              {
+                "name": "O corvo"
+              },
+              {
+                "name": "Venham Saturno, Júpiter"
+              },
+              {
+                "name": "Dá um beijo na boca dele"
+              },
+              {
+                "name": "Cabecinha"
+              },
+              {
+                "name": "Eu chupo o meu pau"
+              },
+              {
+                "name": "Carne humana"
+              },
+              {
+                "name": "Dedo no cu e gritaria"
+              },
+              {
+                "name": "Tem cigarro aí?"
+              },
+              {
+                "name": "Um lugar do caralho",
+                "cover": {
+                  "mbid": "2485371a-28d9-46a3-b5e9-794e7090ab12",
+                  "name": "Júpiter Maçã",
+                  "sortName": "Maçã, Júpiter",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jupiter-maca-33d79875.html"
+                }
+              },
+              {
+                "name": "Carrocinha de cachorro quente"
+              },
+              {
+                "name": "Música para paralítico"
+              },
+              {
+                "name": "Fátima Bernardes experiência"
+              },
+              {
+                "name": "Matador de passarinho"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Você vai continuar fazendo música?",
+                "info": "A invasão do palco impediu que Skylab voltasse. Quem cantou foi o público."
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/rogerio-skylab/2023/carioca-club-sao-paulo-brazil-13ae5969.html"
+    },
+    {
+      "id": "13aa0d75",
+      "versionId": "g23b3743f",
+      "eventDate": "16-12-2023",
+      "lastUpdated": "2024-03-20T02:31:38.072+0000",
+      "artist": {
+        "mbid": "76d38f72-5fd0-4d70-942e-60a203e3f615",
+        "name": "Oitão",
+        "sortName": "Oitão",
+        "disambiguation": "Brazilian Hardcore band",
+        "url": "https://www.setlist.fm/setlists/oitao-1bda4df4.html"
+      },
+      "venue": {
+        "id": "2bd540da",
+        "name": "Praça Heróis Da Força Expedicionária Brasileira",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/praca-herois-da-forca-expedicionaria-brasileira-sao-paulo-brazil-2bd540da.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/oitao/2023/praca-herois-da-forca-expedicionaria-brasileira-sao-paulo-brazil-13aa0d75.html"
+    },
+    {
+      "id": "7ba85244",
+      "versionId": "g5bbda3ec",
+      "eventDate": "15-12-2023",
+      "lastUpdated": "2024-04-29T15:46:57.599+0000",
+      "artist": {
+        "mbid": "7c908b36-6ae2-45d2-b0bd-7b58fa5708a1",
+        "name": "MARO",
+        "sortName": "MARO",
+        "disambiguation": "Portuguese multi-instrumentalist and composer Mariana Secca",
+        "url": "https://www.setlist.fm/setlists/maro-73f2b2e1.html"
+      },
+      "venue": {
+        "id": "bd1f98e",
+        "name": "Bona Casa de Música",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bona-casa-de-musica-sao-paulo-brazil-bd1f98e.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/maro/2023/bona-casa-de-musica-sao-paulo-brazil-7ba85244.html"
+    },
+    {
+      "id": "73ae5a05",
+      "versionId": "g338a289d",
+      "eventDate": "15-12-2023",
+      "lastUpdated": "2023-12-21T21:39:31.637+0000",
+      "artist": {
+        "mbid": "9e6458d6-7053-48eb-ac8f-bf6fdf9169c6",
+        "name": "Krisiun",
+        "sortName": "Krisiun",
+        "disambiguation": "Brazilian death metal band",
+        "url": "https://www.setlist.fm/setlists/krisiun-5bd6e750.html"
+      },
+      "venue": {
+        "id": "1bd52194",
+        "name": "Casa de Cultura Chico Science",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-de-cultura-chico-science-sao-paulo-brazil-1bd52194.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Kings of Killing"
+              },
+              {
+                "name": "Combustion Inferno"
+              },
+              {
+                "name": "Swords Into Flesh"
+              },
+              {
+                "name": "Scourge of the Enthroned"
+              },
+              {
+                "name": "Necronomical"
+              },
+              {
+                "name": "Vengeance's Revelation"
+              },
+              {
+                "name": "Descending Abomination"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Setlist incomplete and possibly out of order",
+      "url": "https://www.setlist.fm/setlist/krisiun/2023/casa-de-cultura-chico-science-sao-paulo-brazil-73ae5a05.html"
+    },
+    {
+      "id": "73ad4e89",
+      "versionId": "g43acef27",
+      "eventDate": "15-12-2023",
+      "lastUpdated": "2024-08-19T07:27:29.871+0000",
+      "artist": {
+        "mbid": "fc38752e-8310-464b-80b8-bbb2b9be2df1",
+        "name": "Day Limns",
+        "sortName": "Day Limns",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/day-limns-2bfb5c42.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Intro"
+              },
+              {
+                "name": "Kálice"
+              },
+              {
+                "name": "Vermelho farol"
+              },
+              {
+                "name": "Castelo de areia",
+                "with": {
+                  "mbid": "0d2dd06d-10fd-4df8-b312-1b6542ee7028",
+                  "name": "Arthur Mutanen",
+                  "sortName": "Mutanen, Arthur",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/arthur-mutanen-3bf0b434.html"
+                }
+              },
+              {
+                "name": "Fugitivos"
+              },
+              {
+                "name": "Más caras"
+              },
+              {
+                "name": "Finais mentem"
+              },
+              {
+                "name": "Dilúvio"
+              },
+              {
+                "name": "Intro / Santa"
+              },
+              {
+                "name": "Minha religião"
+              },
+              {
+                "name": "Muito além"
+              },
+              {
+                "name": "Cacos"
+              },
+              {
+                "name": "Purgatório"
+              },
+              {
+                "name": "Cinzeiro"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/day-limns/2023/allianz-parque-sao-paulo-brazil-73ad4e89.html"
+    },
+    {
+      "id": "63ae5e17",
+      "versionId": "gb8addca",
+      "eventDate": "15-12-2023",
+      "lastUpdated": "2023-12-19T01:21:28.079+0000",
+      "artist": {
+        "mbid": "d08fb778-e4d5-41ba-85ab-9c458c9bd152",
+        "name": "Supercombo",
+        "sortName": "Supercombo",
+        "disambiguation": "Brazilian alternative rock band",
+        "url": "https://www.setlist.fm/setlists/supercombo-73dda6c5.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "Remédios"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Jovem"
+              },
+              {
+                "name": "Monstros"
+              },
+              {
+                "name": "Sol da manhã"
+              },
+              {
+                "name": "Bonsai"
+              },
+              {
+                "name": "Maremotos"
+              },
+              {
+                "name": "Aos poucos"
+              },
+              {
+                "name": "Amianto"
+              },
+              {
+                "name": "Fim do mundo"
+              },
+              {
+                "name": "Tarde demais"
+              },
+              {
+                "name": "Piloto automático"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/supercombo/2023/allianz-parque-sao-paulo-brazil-63ae5e17.html"
+    },
+    {
+      "id": "635f0eeb",
+      "versionId": "g35fb503",
+      "eventDate": "15-12-2023",
+      "lastUpdated": "2024-12-11T14:33:00.815+0000",
+      "artist": {
+        "mbid": "8a517f42-65f8-4fa9-b75e-3b7d2d1ce1e6",
+        "name": "Retrato",
+        "sortName": "Retrato",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/retrato-43e28fc3.html"
+      },
+      "venue": {
+        "id": "bd29526",
+        "name": "Associação Cultural Cecília",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/associacao-cultural-cecilia-sao-paulo-brazil-bd29526.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Temperança"
+              },
+              {
+                "name": "Espelho"
+              },
+              {
+                "name": "Cor do Éter"
+              },
+              {
+                "name": "Duas Vidas"
+              },
+              {
+                "name": "Voo"
+              },
+              {
+                "name": "Entre a Verdade"
+              },
+              {
+                "name": "O Sol"
+              },
+              {
+                "name": "Vi Nascer"
+              },
+              {
+                "name": "Véu"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/retrato/2023/associacao-cultural-cecilia-sao-paulo-brazil-635f0eeb.html"
+    },
+    {
+      "id": "5bae7bc0",
+      "versionId": "g6b8a8626",
+      "eventDate": "15-12-2023",
+      "lastUpdated": "2023-12-17T15:34:22.308+0000",
+      "artist": {
+        "mbid": "2afe142b-93af-49f8-a23f-373c02de1ae0",
+        "name": "Tim Bernardes",
+        "sortName": "Bernardes, Tim",
+        "disambiguation": "Brazilian singer, musician, et al.",
+        "url": "https://www.setlist.fm/setlists/tim-bernardes-3bcd40d0.html"
+      },
+      "venue": {
+        "id": "23d5accb",
+        "name": "Theatro Municipal de São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/theatro-municipal-de-sao-paulo-sao-paulo-brazil-23d5accb.html"
+      },
+      "tour": {
+        "name": "Raro Momento Infinito"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Nascer, viver, morrer",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "Mistificar",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "Fases",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "BB (Garupa de moto amarela)",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "Realmente lindo",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "Falta",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "Ela não vai mais voltar",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "Pouco a pouco",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "Abertura (Recomeçar)",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "Não",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "Olha",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "A lenda do Abaeté",
+                "cover": {
+                  "mbid": "bec2162c-6a15-4bfd-a69c-3e35c4fb1f19",
+                  "name": "Dorival Caymmi",
+                  "sortName": "Caymmi, Dorival",
+                  "disambiguation": "the father",
+                  "url": "https://www.setlist.fm/setlists/dorival-caymmi-bd62d32.html"
+                },
+                "info": "Snippet"
+              },
+              {
+                "name": "Esse ar",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "Última vez",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "Quis mudar",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "Meus 26",
+                "info": "Com orquestra"
+              },
+              {
+                "name": "A balada de Tim Bernardes",
+                "info": "Com orquestra"
+              }
+            ]
+          },
+          {
+            "name": "Encore",
+            "song": [
+              {
+                "name": "O bilhete",
+                "cover": {
+                  "mbid": "92bf83e0-d79e-4390-871a-8f108bb50f82",
+                  "name": "O Terno",
+                  "sortName": "O Terno",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/o-terno-4bd81bc2.html"
+                }
+              },
+              {
+                "name": "Recomeçar",
+                "info": "Com orquestra"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Sessão das 21:30",
+      "url": "https://www.setlist.fm/setlist/tim-bernardes/2023/theatro-municipal-de-sao-paulo-sao-paulo-brazil-5bae7bc0.html"
+    }
+  ]
+}

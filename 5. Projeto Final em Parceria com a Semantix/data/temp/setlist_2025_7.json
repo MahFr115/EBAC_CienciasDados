@@ -1,0 +1,2125 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 7,
+  "total": 3170,
+  "setlist": [
+    {
+      "id": "634e5ef7",
+      "versionId": "g367656f",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-10-28T04:19:20.683+0000",
+      "artist": {
+        "mbid": "fd22dd64-ddb0-4583-b86c-01be24b288ce",
+        "name": "Fecaloma",
+        "sortName": "Fecaloma",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/fecaloma-4bf1d3a2.html"
+      },
+      "venue": {
+        "id": "63d012db",
+        "name": "Depois do Fim do Mundo Estúdio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/depois-do-fim-do-mundo-estudio-sao-paulo-brazil-63d012db.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/fecaloma/2025/depois-do-fim-do-mundo-estudio-sao-paulo-brazil-634e5ef7.html"
+    },
+    {
+      "id": "634e2e0b",
+      "versionId": "g5364e799",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-01T23:10:55.982+0000",
+      "artist": {
+        "mbid": "f18b8a7d-93b6-40ea-a9ef-122c6f3b787a",
+        "name": "Lagum",
+        "sortName": "Lagum",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/lagum-7bc88684.html"
+      },
+      "venue": {
+        "id": "13d17139",
+        "name": "MorumBIS",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/morumbis-sao-paulo-brazil-13d17139.html"
+      },
+      "tour": {
+        "name": "As Cores, as Curvas e as Dores do Mundo Tour"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Eterno agora"
+              },
+              {
+                "name": "Oi"
+              },
+              {
+                "name": "Bem melhor"
+              },
+              {
+                "name": "Universo de coisas que eu desconheço"
+              },
+              {
+                "name": "Detesto despedidas"
+              },
+              {
+                "name": "Eu não valho nada"
+              },
+              {
+                "name": "Habite-se"
+              },
+              {
+                "name": "A cidade"
+              },
+              {
+                "name": "Telefone"
+              },
+              {
+                "name": "Hoje eu quero me perder"
+              },
+              {
+                "name": "Deixa"
+              },
+              {
+                "name": "NINGUÉM ME ENSINOU"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Opening act for Imagine Dragons",
+      "url": "https://www.setlist.fm/setlist/lagum/2025/morumbis-sao-paulo-brazil-634e2e0b.html"
+    },
+    {
+      "id": "534faf6d",
+      "versionId": "g1b64ddf0",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-02T02:38:11.532+0000",
+      "artist": {
+        "mbid": "3213d371-83f3-4469-8f24-72564f1640e1",
+        "name": "Garotos Podres",
+        "sortName": "Garotos Podres",
+        "disambiguation": "Brazilian punk",
+        "url": "https://www.setlist.fm/setlists/garotos-podres-13d74579.html"
+      },
+      "venue": {
+        "id": "1bd535f4",
+        "name": "Jai Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/jai-club-sao-paulo-brazil-1bd535f4.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Garoto podre"
+              },
+              {
+                "name": "Oi, tudo bem?"
+              },
+              {
+                "name": "Vomitaram no trem"
+              },
+              {
+                "name": "Johnny"
+              },
+              {
+                "name": "Rock de subúrbio"
+              },
+              {
+                "name": "Subúrbio operário"
+              },
+              {
+                "name": "Avante camarada"
+              },
+              {
+                "name": "Antifa Hooligans",
+                "cover": {
+                  "mbid": "0580c1de-0218-42d1-bd2c-bcb45f72e66b",
+                  "name": "Los Fastidios",
+                  "sortName": "Fastidios, Los",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/los-fastidios-2bd6b01e.html"
+                }
+              },
+              {
+                "name": "A internacional"
+              },
+              {
+                "name": "Grandola, Vila Morena"
+              },
+              {
+                "name": "Aos fuzilados da C.S.N."
+              },
+              {
+                "name": "Repressão Policial (Instrumento do Capital)"
+              },
+              {
+                "name": "Anistia"
+              },
+              {
+                "name": "Eu Não Sei o que Quero"
+              },
+              {
+                "name": "Mancha"
+              },
+              {
+                "name": "Anarquia Oi!"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Kim Jonguinho"
+              },
+              {
+                "name": "Verme"
+              },
+              {
+                "name": "Papai Noel velho batuta"
+              },
+              {
+                "name": "Vou fazer cocô"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/garotos-podres/2025/jai-club-sao-paulo-brazil-534faf6d.html"
+    },
+    {
+      "id": "534fa375",
+      "versionId": "g1364c1e9",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-02T20:07:03.275+0000",
+      "artist": {
+        "mbid": "6160c9b7-20a7-46ed-9a1e-3a609d71e78d",
+        "name": "Guantas",
+        "sortName": "Guantas",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/guantas-639e4247.html"
+      },
+      "venue": {
+        "id": "53d60b41",
+        "name": "Memorial da América Latina",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/memorial-da-america-latina-sao-paulo-brazil-53d60b41.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Via La Guantas"
+              },
+              {
+                "name": "Minha Vizinha"
+              },
+              {
+                "name": "All Night"
+              },
+              {
+                "name": "Pretty Fly (for a White Guy)",
+                "cover": {
+                  "mbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
+                  "name": "The Offspring",
+                  "sortName": "Offspring, The",
+                  "disambiguation": "American punk",
+                  "url": "https://www.setlist.fm/setlists/the-offspring-13d68945.html"
+                }
+              },
+              {
+                "name": "Don't Cut The Mullets"
+              },
+              {
+                "name": "Esta Noche"
+              },
+              {
+                "name": "Manga Rosa"
+              },
+              {
+                "name": "Rudy, A Message to You",
+                "cover": {
+                  "mbid": "0ad06a90-b8cd-4a1e-a9b9-1f5d9a624ec1",
+                  "name": "Andy Livingstone",
+                  "sortName": "Andy Livingstone",
+                  "disambiguation": "Reggae",
+                  "url": "https://www.setlist.fm/setlists/andy-livingstone-bdd91be.html"
+                }
+              },
+              {
+                "name": "Las Cosas"
+              },
+              {
+                "name": "Estoy Perdido"
+              },
+              {
+                "name": "Livin' la Vida Loca",
+                "cover": {
+                  "mbid": "70ea63ea-70dc-4b63-951a-2c249d2b3b0a",
+                  "name": "Ricky Martin",
+                  "sortName": "Martin, Ricky",
+                  "disambiguation": "Puerto Rican singer, actor, author & king of latin pop",
+                  "url": "https://www.setlist.fm/setlists/ricky-martin-4bd6ffbe.html"
+                }
+              },
+              {
+                "name": "Dia Seguinte"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/guantas/2025/memorial-da-america-latina-sao-paulo-brazil-534fa375.html"
+    },
+    {
+      "id": "53470371",
+      "versionId": "g364456b",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-06T08:17:08.436+0000",
+      "artist": {
+        "mbid": "b879af63-9ff6-49b3-a556-1af86e753119",
+        "name": "Nanowar of Steel",
+        "sortName": "Nanowar of Steel",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nanowar-of-steel-3d645af.html"
+      },
+      "venue": {
+        "id": "73d6daed",
+        "name": "Carioca Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/carioca-club-sao-paulo-brazil-73d6daed.html"
+      },
+      "tour": {
+        "name": "América Do Sul 2025"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Sober"
+              },
+              {
+                "name": "The Call of Cthulhu"
+              },
+              {
+                "name": "Pasadena 1994"
+              },
+              {
+                "name": "Wall of Love",
+                "cover": {
+                  "mbid": "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c",
+                  "name": "George Michael",
+                  "sortName": "Michael, George",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/george-michael-6bd6bef6.html"
+                }
+              },
+              {
+                "name": "Disco Metal"
+              },
+              {
+                "name": "Uranus"
+              },
+              {
+                "name": "HelloWorld.java"
+              },
+              {
+                "name": "Il cacciatore della notte"
+              },
+              {
+                "name": "Norwegian Reggaeton"
+              },
+              {
+                "name": "Armpits of Immortals"
+              },
+              {
+                "name": "La Polenta Taragnarock"
+              },
+              {
+                "name": "Valhalleluja"
+              },
+              {
+                "name": "El baile del perrito",
+                "tape": true
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nanowar-of-steel/2025/carioca-club-sao-paulo-brazil-53470371.html"
+    },
+    {
+      "id": "4b4faf62",
+      "versionId": "g4b64e702",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-01T22:51:36.952+0000",
+      "artist": {
+        "mbid": "13a6e755-8b35-4914-a71c-9f6ec2d43e01",
+        "name": "Deserdados",
+        "sortName": "Deserdados",
+        "disambiguation": "Brazilian Punk Band",
+        "url": "https://www.setlist.fm/setlists/deserdados-3bc63438.html"
+      },
+      "venue": {
+        "id": "1bd535f4",
+        "name": "Jai Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/jai-club-sao-paulo-brazil-1bd535f4.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "1977"
+              },
+              {
+                "name": "Cidadão Venerável"
+              },
+              {
+                "name": "Rock de Combate"
+              },
+              {
+                "name": "Inferno Cinza"
+              },
+              {
+                "name": "Perseguição"
+              },
+              {
+                "name": "3º Mundo"
+              },
+              {
+                "name": "Distante..."
+              },
+              {
+                "name": "Não Há Chances Para Mim"
+              },
+              {
+                "name": "Mau Exemplo"
+              },
+              {
+                "name": "Não Há Porquê"
+              },
+              {
+                "name": "Punk Até a Morte"
+              },
+              {
+                "name": "Eu Não Quero Mais"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/deserdados/2025/jai-club-sao-paulo-brazil-4b4faf62.html"
+    },
+    {
+      "id": "434faf63",
+      "versionId": "g4b64e7ea",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-01T22:55:45.370+0000",
+      "artist": {
+        "mbid": "02e2ed3c-4860-45d4-b1b1-730b02ce9d5e",
+        "name": "Lixomania",
+        "sortName": "Lixomania",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/lixomania-5bd743c8.html"
+      },
+      "venue": {
+        "id": "1bd535f4",
+        "name": "Jai Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/jai-club-sao-paulo-brazil-1bd535f4.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Realidade"
+              },
+              {
+                "name": "Quero Ser Livre"
+              },
+              {
+                "name": "OMR"
+              },
+              {
+                "name": "Presidente"
+              },
+              {
+                "name": "Gerente"
+              },
+              {
+                "name": "Pesadelo"
+              },
+              {
+                "name": "Guerra Nuclear"
+              },
+              {
+                "name": "Punk!"
+              },
+              {
+                "name": "Escravo Moderno"
+              },
+              {
+                "name": "Estado de Sítio"
+              },
+              {
+                "name": "Delinquentes"
+              },
+              {
+                "name": "Buracos Suburbanos"
+              },
+              {
+                "name": "Vida Ruim"
+              },
+              {
+                "name": "Grito de Ódio"
+              },
+              {
+                "name": "Zé ninguém"
+              },
+              {
+                "name": "Massacre inocente"
+              },
+              {
+                "name": "Violência & Sobrevivência"
+              },
+              {
+                "name": "Fugitivo"
+              },
+              {
+                "name": "Os punks também amam"
+              },
+              {
+                "name": "O punk rock não morreu"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/lixomania/2025/jai-club-sao-paulo-brazil-434faf63.html"
+    },
+    {
+      "id": "4347036b",
+      "versionId": "g1b651198",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-11T04:48:49.800+0000",
+      "artist": {
+        "mbid": "9328a5f4-d710-488b-806b-68fb80d8c228",
+        "name": "Heidevolk",
+        "sortName": "Heidevolk",
+        "disambiguation": "Dutch folk metal band",
+        "url": "https://www.setlist.fm/setlists/heidevolk-4bd60f4e.html"
+      },
+      "venue": {
+        "id": "73d6daed",
+        "name": "Carioca Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/carioca-club-sao-paulo-brazil-73d6daed.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Hagalaz"
+              },
+              {
+                "name": "Klauwen Vooruit"
+              },
+              {
+                "name": "Winter woede"
+              },
+              {
+                "name": "Urth"
+              },
+              {
+                "name": "A Wolf in My Heart"
+              },
+              {
+                "name": "Schildenmuur"
+              },
+              {
+                "name": "De strijd duurt voort"
+              },
+              {
+                "name": "Het Wilde Heer"
+              },
+              {
+                "name": "Wederkeer"
+              },
+              {
+                "name": "Het bier zal weer vloeien"
+              },
+              {
+                "name": "Het Gelders volkslied"
+              },
+              {
+                "name": "Hulde aan de kastelein"
+              },
+              {
+                "name": "Ostara"
+              },
+              {
+                "name": "Krijgsvolk"
+              },
+              {
+                "name": "Tiwaz"
+              },
+              {
+                "name": "Saksenland"
+              },
+              {
+                "name": "Drinking with the Gods (Valhalla)"
+              },
+              {
+                "name": "Drankgelag"
+              },
+              {
+                "name": "Vulgaris magistralis",
+                "cover": {
+                  "mbid": "0096e98d-7dc7-437a-957a-6719ff1a0f20",
+                  "name": "Normaal",
+                  "sortName": "Normaal",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/normaal-23d6f0e3.html"
+                }
+              },
+              {
+                "name": "Nehalennia"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/heidevolk/2025/carioca-club-sao-paulo-brazil-4347036b.html"
+    },
+    {
+      "id": "3b4f94a0",
+      "versionId": "g3b640814",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-04T10:53:22.792+0000",
+      "artist": {
+        "mbid": "5ad8246c-4094-4ea7-9a5e-a809f4802960",
+        "name": "Gustavo Mioto",
+        "sortName": "Mioto, Gustavo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/gustavo-mioto-2bcd6cda.html"
+      },
+      "venue": {
+        "id": "3d021cb",
+        "name": "Espaço Unimed",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/espaco-unimed-sao-paulo-brazil-3d021cb.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Geladeira"
+              },
+              {
+                "name": "Fim do Mundo"
+              },
+              {
+                "name": "Excitante"
+              },
+              {
+                "name": "Flashback"
+              },
+              {
+                "name": "Solteiro não trai"
+              },
+              {
+                "name": "Cafona"
+              },
+              {
+                "name": "Restrição sentimental"
+              },
+              {
+                "name": "Não tô chorando não"
+              },
+              {
+                "name": "Não usa ele não"
+              },
+              {
+                "name": "Vinculos"
+              },
+              {
+                "name": "Feeling good"
+              },
+              {
+                "name": "Tennessee Whiskey"
+              },
+              {
+                "name": "Hallelujah"
+              },
+              {
+                "name": "Apaixonado e meio"
+              },
+              {
+                "name": "Câmera lenta"
+              },
+              {
+                "name": "Mel de Marte"
+              },
+              {
+                "name": "Apocalipse"
+              },
+              {
+                "name": "Eu Fujo"
+              },
+              {
+                "name": "Melhor versão"
+              },
+              {
+                "name": "Voltando pra mim"
+              },
+              {
+                "name": "Melhor versão"
+              },
+              {
+                "name": "Nada lá fora"
+              },
+              {
+                "name": "Osso e Carne"
+              },
+              {
+                "name": "Brechó"
+              },
+              {
+                "name": "Afogado"
+              },
+              {
+                "name": "Contramão"
+              },
+              {
+                "name": "Princesa"
+              },
+              {
+                "name": "Shape of you"
+              },
+              {
+                "name": "Coladinha em mim"
+              },
+              {
+                "name": "Eu Gosto Assim"
+              },
+              {
+                "name": "Anti-amor"
+              },
+              {
+                "name": "Fake News"
+              },
+              {
+                "name": "Causador de Choro"
+              },
+              {
+                "name": "Pro nosso bem"
+              },
+              {
+                "name": "Relógio"
+              },
+              {
+                "name": "Nada com nada"
+              },
+              {
+                "name": "A Change é Grande"
+              },
+              {
+                "name": "Quando Apaga a Luz"
+              },
+              {
+                "name": "Impressionando os anjos"
+              },
+              {
+                "name": "Com ou sem mim"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/gustavo-mioto/2025/espaco-unimed-sao-paulo-brazil-3b4f94a0.html"
+    },
+    {
+      "id": "3b41c454",
+      "versionId": "g7b64e2bc",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-02T02:14:21.260+0000",
+      "artist": {
+        "mbid": "3ccb62ab-4615-4560-9a5c-f0c9e2cd643a",
+        "name": "Amina Claudine Myers Trio",
+        "sortName": "Amina Claudine Myers Trio",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/amina-claudine-myers-trio-63d0ca6f.html"
+      },
+      "venue": {
+        "id": "33d00451",
+        "name": "Teatro SESC Pompéia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-sesc-pompeia-sao-paulo-brazil-33d00451.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Steal Away"
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": ""
+              },
+              {
+                "name": "God"
+              },
+              {
+                "name": "Have Mercy Upon Us"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Thank You"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/amina-claudine-myers-trio/2025/teatro-sesc-pompeia-sao-paulo-brazil-3b41c454.html"
+    },
+    {
+      "id": "34fa56f",
+      "versionId": "g6364de3b",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-02T04:05:14.635+0000",
+      "artist": {
+        "mbid": "d3d08827-5446-48c3-b795-a897ae6fe77f",
+        "name": "Fagner",
+        "sortName": "Fagner",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/fagner-2bd7e8e6.html"
+      },
+      "venue": {
+        "id": "23d038af",
+        "name": "Tokio Marine Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/tokio-marine-hall-sao-paulo-brazil-23d038af.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Muito amor"
+              },
+              {
+                "name": "Mucuripe"
+              },
+              {
+                "name": "Jura secreta"
+              },
+              {
+                "name": "Revelação"
+              },
+              {
+                "name": "Noturno"
+              },
+              {
+                "name": "Canteiros"
+              },
+              {
+                "name": "Espumas ao vento"
+              },
+              {
+                "name": "Deslizes"
+              },
+              {
+                "name": "Lembrança de um Beijo / Último Pau-de-Arara"
+              },
+              {
+                "name": "Jardim dos animais"
+              },
+              {
+                "name": "Fanatismo"
+              },
+              {
+                "name": "Guerreiro Menino (Um Homem Também Chora)"
+              },
+              {
+                "name": "Borbulhas de amor"
+              },
+              {
+                "name": "Paralelas"
+              },
+              {
+                "name": "Retrovisor"
+              },
+              {
+                "name": "Oração de São Francisco"
+              },
+              {
+                "name": "Pedras que cantam"
+              },
+              {
+                "name": "Eu só quero um xodó",
+                "cover": {
+                  "mbid": "d5956a2f-bab9-4aa3-a9be-ad393518e5b0",
+                  "name": "Dominguinhos",
+                  "sortName": "Dominguinhos",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dominguinhos-33d6cc61.html"
+                }
+              },
+              {
+                "name": "Eternas ondas"
+              },
+              {
+                "name": "Romance no deserto"
+              },
+              {
+                "name": "Cartaz"
+              },
+              {
+                "name": "Quem me levará sou eu"
+              },
+              {
+                "name": "Me leve/dezembros"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/fagner/2025/tokio-marine-hall-sao-paulo-brazil-34fa56f.html"
+    },
+    {
+      "id": "34fa51f",
+      "versionId": "g3364d821",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-02T05:23:50.962+0000",
+      "artist": {
+        "mbid": "99999777-3d19-4f59-acb5-8f06bc7ca201",
+        "name": "Halleck",
+        "sortName": "Halleck",
+        "disambiguation": "tattoo artist and bass player",
+        "url": "https://www.setlist.fm/setlists/halleck-2bf730f6.html"
+      },
+      "venue": {
+        "id": "73d0d2c9",
+        "name": "Porão da Cerveja",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/porao-da-cerveja-sao-paulo-brazil-73d0d2c9.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Zero"
+              },
+              {
+                "name": "Silêncios"
+              },
+              {
+                "name": "Lápides"
+              },
+              {
+                "name": "Mundo real"
+              },
+              {
+                "name": "Silent Night"
+              },
+              {
+                "name": "A ratazana"
+              },
+              {
+                "name": "Babel"
+              },
+              {
+                "name": "M"
+              },
+              {
+                "name": "Tarde demais"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/halleck/2025/porao-da-cerveja-sao-paulo-brazil-34fa51f.html"
+    },
+    {
+      "id": "34f91ff",
+      "versionId": "g7b642224",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-03T21:43:44.723+0000",
+      "artist": {
+        "mbid": "61cd2049-36f8-4382-a4d7-46e86682ebfa",
+        "name": "Duquesa",
+        "sortName": "Duquesa",
+        "disambiguation": "brasileira",
+        "url": "https://www.setlist.fm/setlists/duquesa-73fb5e39.html"
+      },
+      "venue": {
+        "id": "23d7ac8f",
+        "name": "SESC Belenzinho",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-belenzinho-sao-paulo-brazil-23d7ac8f.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/duquesa/2025/sesc-belenzinho-sao-paulo-brazil-34f91ff.html"
+    },
+    {
+      "id": "34f8183",
+      "versionId": "gb6475fe",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-04T23:50:12.820+0000",
+      "artist": {
+        "mbid": "adcabbe7-0918-492f-9c08-e56f85bb21ba",
+        "name": "Rodrigo Ogi",
+        "sortName": "Rodrigo Ogi",
+        "disambiguation": "Brazilian rapper",
+        "url": "https://www.setlist.fm/setlists/rodrigo-ogi-3bdc5858.html"
+      },
+      "venue": {
+        "id": "33d54c95",
+        "name": "Casa Natura Musical",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-natura-musical-sao-paulo-brazil-33d54c95.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Manual Para Não Desaparecer"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/rodrigo-ogi/2025/casa-natura-musical-sao-paulo-brazil-34f8183.html"
+    },
+    {
+      "id": "3342a4e1",
+      "versionId": "g2364c0ff",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-02T20:56:19.085+0000",
+      "artist": {
+        "mbid": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+        "name": "Imagine Dragons",
+        "sortName": "Imagine Dragons",
+        "disambiguation": "American pop rock band",
+        "url": "https://www.setlist.fm/setlists/imagine-dragons-5bd1b7fc.html"
+      },
+      "venue": {
+        "id": "13d17139",
+        "name": "MorumBIS",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/morumbis-sao-paulo-brazil-13d17139.html"
+      },
+      "tour": {
+        "name": "Loom World Tour"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Me and Giuliani Down by the School Yard (A True Story)",
+                "tape": true,
+                "cover": {
+                  "mbid": "f26c72d3-e52c-467b-b651-679c73d8e1a7",
+                  "name": "!!!",
+                  "sortName": "!!!",
+                  "disambiguation": "California dance-punk group",
+                  "url": "https://www.setlist.fm/setlists/--4bd6fbee.html"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Set 1:",
+            "song": [
+              {
+                "name": "LOOM video intro",
+                "tape": true
+              },
+              {
+                "name": "Fire in These Hills"
+              },
+              {
+                "name": "Thunder"
+              },
+              {
+                "name": "Bones"
+              },
+              {
+                "name": "Take Me to the Beach",
+                "info": "Extended"
+              },
+              {
+                "name": "Shots",
+                "info": "Broiler remix"
+              },
+              {
+                "name": "Whatever It Takes"
+              }
+            ]
+          },
+          {
+            "name": "Acoustic",
+            "song": [
+              {
+                "name": "Next to Me",
+                "info": "With band introductions and Dan in the audience"
+              },
+              {
+                "name": "It's Time",
+                "info": "Shortened"
+              },
+              {
+                "name": "Amsterdam",
+                "info": "Shortened, Dan in the audience"
+              },
+              {
+                "name": "I Bet My Life",
+                "info": "Dan in the audience"
+              }
+            ]
+          },
+          {
+            "name": "Set 2:",
+            "song": [
+              {
+                "name": "Interlude",
+                "tape": true,
+                "info": "Bad Liar poetry intro"
+              },
+              {
+                "name": "Bad Liar"
+              },
+              {
+                "name": "Hear Me",
+                "info": "Shortened"
+              },
+              {
+                "name": "Wake Up",
+                "info": "With beatboxed bridge"
+              },
+              {
+                "name": "Radioactive",
+                "info": "Drums antiphony"
+              },
+              {
+                "name": "Demons",
+                "info": "Piano intro"
+              },
+              {
+                "name": "Natural"
+              },
+              {
+                "name": "Walking the Wire"
+              },
+              {
+                "name": "Sharks",
+                "info": "Dan in the audience"
+              },
+              {
+                "name": "Interlude",
+                "tape": true,
+                "info": "Enemy intro"
+              },
+              {
+                "name": "Enemy"
+              },
+              {
+                "name": "Eyes Closed"
+              },
+              {
+                "name": "Birds"
+              },
+              {
+                "name": "Interlude",
+                "tape": true,
+                "info": "Believer intro"
+              },
+              {
+                "name": "Believer"
+              },
+              {
+                "name": "Fire in These Hills",
+                "tape": true,
+                "info": "Instrumental"
+              },
+              {
+                "name": "Send Me on My Way",
+                "tape": true,
+                "cover": {
+                  "mbid": "eec37ec3-79f5-4158-bed8-370ccb4aa295",
+                  "name": "Rusted Root",
+                  "sortName": "Rusted Root",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/rusted-root-1bd62d08.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Last show of the LOOM World Tour",
+      "url": "https://www.setlist.fm/setlist/imagine-dragons/2025/morumbis-sao-paulo-brazil-3342a4e1.html"
+    },
+    {
+      "id": "3340f829",
+      "versionId": "g4364c787",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-02T18:57:46.698+0000",
+      "artist": {
+        "mbid": "23b2da42-f7d4-41af-bd51-c6f9bebcc2d2",
+        "name": "Capitão Fausto",
+        "sortName": "Capitão Fausto",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/capitao-fausto-6bd0d6ea.html"
+      },
+      "venue": {
+        "id": "23de9453",
+        "name": "Cine Joia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cine-joia-sao-paulo-brazil-23de9453.html"
+      },
+      "tour": {
+        "name": "Subida Infinita"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Andar à solta"
+              },
+              {
+                "name": "Boa memória"
+              },
+              {
+                "name": "Certeza"
+              },
+              {
+                "name": "Há sempre um fardo"
+              },
+              {
+                "name": "Morro na praia"
+              },
+              {
+                "name": "Faço as vontades"
+              },
+              {
+                "name": "Lua comanche",
+                "cover": {
+                  "mbid": "8e6d22bd-e84e-4a87-97fd-6844c1d15d8d",
+                  "name": "Bala Desejo",
+                  "sortName": "Bala Desejo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/bala-desejo-4bffe77a.html"
+                },
+                "with": {
+                  "mbid": "0b2665a9-14c0-499a-b9fd-46ed09bbf161",
+                  "name": "Zé Ibarra",
+                  "sortName": "Ibarra, Zé",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ze-ibarra-43f54b63.html"
+                }
+              },
+              {
+                "name": "Lentamente",
+                "with": {
+                  "mbid": "0b2665a9-14c0-499a-b9fd-46ed09bbf161",
+                  "name": "Zé Ibarra",
+                  "sortName": "Ibarra, Zé",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ze-ibarra-43f54b63.html"
+                }
+              },
+              {
+                "name": "Infinito em nós",
+                "cover": {
+                  "mbid": "0b2665a9-14c0-499a-b9fd-46ed09bbf161",
+                  "name": "Zé Ibarra",
+                  "sortName": "Ibarra, Zé",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ze-ibarra-43f54b63.html"
+                },
+                "with": {
+                  "mbid": "0b2665a9-14c0-499a-b9fd-46ed09bbf161",
+                  "name": "Zé Ibarra",
+                  "sortName": "Ibarra, Zé",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ze-ibarra-43f54b63.html"
+                }
+              },
+              {
+                "name": "Muitas mais virão"
+              },
+              {
+                "name": "Nuvem negra"
+              },
+              {
+                "name": "Nada de mal"
+              },
+              {
+                "name": "Amor, a nossa vida"
+              },
+              {
+                "name": "Nascer, viver, morrer",
+                "cover": {
+                  "mbid": "2afe142b-93af-49f8-a23f-373c02de1ae0",
+                  "name": "Tim Bernardes",
+                  "sortName": "Bernardes, Tim",
+                  "disambiguation": "Brazilian singer, musician, et al.",
+                  "url": "https://www.setlist.fm/setlists/tim-bernardes-3bcd40d0.html"
+                },
+                "with": {
+                  "mbid": "2afe142b-93af-49f8-a23f-373c02de1ae0",
+                  "name": "Tim Bernardes",
+                  "sortName": "Bernardes, Tim",
+                  "disambiguation": "Brazilian singer, musician, et al.",
+                  "url": "https://www.setlist.fm/setlists/tim-bernardes-3bcd40d0.html"
+                }
+              },
+              {
+                "name": "Cantiga infinita",
+                "with": {
+                  "mbid": "2afe142b-93af-49f8-a23f-373c02de1ae0",
+                  "name": "Tim Bernardes",
+                  "sortName": "Bernardes, Tim",
+                  "disambiguation": "Brazilian singer, musician, et al.",
+                  "url": "https://www.setlist.fm/setlists/tim-bernardes-3bcd40d0.html"
+                }
+              },
+              {
+                "name": "Culpa",
+                "cover": {
+                  "mbid": "92bf83e0-d79e-4390-871a-8f108bb50f82",
+                  "name": "O Terno",
+                  "sortName": "O Terno",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/o-terno-4bd81bc2.html"
+                },
+                "with": {
+                  "mbid": "2afe142b-93af-49f8-a23f-373c02de1ae0",
+                  "name": "Tim Bernardes",
+                  "sortName": "Bernardes, Tim",
+                  "disambiguation": "Brazilian singer, musician, et al.",
+                  "url": "https://www.setlist.fm/setlists/tim-bernardes-3bcd40d0.html"
+                }
+              },
+              {
+                "name": "Sempre bem"
+              },
+              {
+                "name": "Na na nada",
+                "with": {
+                  "mbid": "0b2665a9-14c0-499a-b9fd-46ed09bbf161",
+                  "name": "Zé Ibarra",
+                  "sortName": "Ibarra, Zé",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ze-ibarra-43f54b63.html"
+                }
+              },
+              {
+                "name": "Amanhã tou melhor"
+              },
+              {
+                "name": "Teresa"
+              },
+              {
+                "name": "Santa Ana"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Recomeçar",
+                "cover": {
+                  "mbid": "2afe142b-93af-49f8-a23f-373c02de1ae0",
+                  "name": "Tim Bernardes",
+                  "sortName": "Bernardes, Tim",
+                  "disambiguation": "Brazilian singer, musician, et al.",
+                  "url": "https://www.setlist.fm/setlists/tim-bernardes-3bcd40d0.html"
+                },
+                "info": "with Zé Ibarra",
+                "with": {
+                  "mbid": "2afe142b-93af-49f8-a23f-373c02de1ae0",
+                  "name": "Tim Bernardes",
+                  "sortName": "Bernardes, Tim",
+                  "disambiguation": "Brazilian singer, musician, et al.",
+                  "url": "https://www.setlist.fm/setlists/tim-bernardes-3bcd40d0.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/capitao-fausto/2025/cine-joia-sao-paulo-brazil-3340f829.html"
+    },
+    {
+      "id": "1b4791a8",
+      "versionId": "g3b64dcc8",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-11-02T03:08:28.382+0000",
+      "artist": {
+        "mbid": "33c08b26-2ec1-4a52-8782-a3cd5268ac02",
+        "name": "Michale Graves",
+        "sortName": "Graves, Michale",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/michale-graves-63d63afb.html"
+      },
+      "venue": {
+        "id": "3bd63414",
+        "name": "Hangar 110",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/hangar-110-sao-paulo-brazil-3bd63414.html"
+      },
+      "tour": {
+        "name": "Something Wicked Tour 2025"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Abominable Dr. Phibes",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "American Psycho",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Speak of the Devil",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Walk Among Us",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "From Hell They Came",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Dig Up Her Bones",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Last Caress",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Lost in Space",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Shining",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Crimson Ghost",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Dust to Dust",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Punk Rock Is Dead"
+              },
+              {
+                "name": "Where Eagles Dare",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Forbidden Zone",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Scream!",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Saturday Night",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Descending Angel",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Hunting Humans",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Resurrection",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Pumpkin Head",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Skulls",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Fiend Club",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "When We Were Angels"
+              },
+              {
+                "name": "Weeds",
+                "cover": {
+                  "mbid": "d6ff259a-bbb6-4454-8503-80151da5f2db",
+                  "name": "Life of Agony",
+                  "sortName": "Life of Agony",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/life-of-agony-7bd60a84.html"
+                }
+              },
+              {
+                "name": "Don't Open 'Til Doomsday",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Halloween",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Horror Business",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Best of Me"
+              },
+              {
+                "name": "When Worlds Collide"
+              },
+              {
+                "name": "Hybrid Moments",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "Helena",
+                "cover": {
+                  "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+                  "name": "Misfits",
+                  "sortName": "Misfits",
+                  "disambiguation": "New Jersey punk band",
+                  "url": "https://www.setlist.fm/setlists/misfits-73d68ed5.html"
+                }
+              },
+              {
+                "name": "War Pigs",
+                "cover": {
+                  "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+                  "name": "Black Sabbath",
+                  "sortName": "Black Sabbath",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/black-sabbath-33d6806d.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/michale-graves/2025/hangar-110-sao-paulo-brazil-1b4791a8.html"
+    },
+    {
+      "id": "1b425954",
+      "versionId": "g4370cf5f",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-07-30T20:11:51.940+0000",
+      "artist": {
+        "mbid": "e22d891f-dda7-479b-affc-c836d520aaca",
+        "name": "Adriana Partimpim",
+        "sortName": "Adriana Partimpim",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/adriana-partimpim-63d5165b.html"
+      },
+      "venue": {
+        "id": "43d01ba3",
+        "name": "Vibra São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/vibra-sao-paulo-sao-paulo-brazil-43d01ba3.html"
+      },
+      "tour": {
+        "name": "O Quarto no Palco"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/adriana-partimpim/2025/vibra-sao-paulo-sao-paulo-brazil-1b425954.html"
+    },
+    {
+      "id": "1341c55d",
+      "versionId": "gb7b1516",
+      "eventDate": "01-11-2025",
+      "lastUpdated": "2025-09-26T21:10:41.035+0000",
+      "artist": {
+        "mbid": "29f7bb34-556c-45c0-b07e-a3376256a2ad",
+        "name": "Aymée Nuviola",
+        "sortName": "Nuviola, Aymée",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/aymee-nuviola-4bd21322.html"
+      },
+      "venue": {
+        "id": "43d13763",
+        "name": "Sesc 14 Bis",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-14-bis-sao-paulo-brazil-43d13763.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/aymee-nuviola/2025/sesc-14-bis-sao-paulo-brazil-1341c55d.html"
+    },
+    {
+      "id": "b5bb1d6",
+      "versionId": "g1364ed25",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-11-01T15:24:37.048+0000",
+      "artist": {
+        "mbid": "bd496eba-155e-49ba-9a92-56e3fdfd1ea2",
+        "name": "Masterplan",
+        "sortName": "Masterplan",
+        "disambiguation": "German power metal band",
+        "url": "https://www.setlist.fm/setlists/masterplan-73d68219.html"
+      },
+      "venue": {
+        "id": "73d29ac9",
+        "name": "Fabrique Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fabrique-club-sao-paulo-brazil-73d29ac9.html"
+      },
+      "tour": {
+        "name": "Latin America Tour 2025"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Rise Again"
+              },
+              {
+                "name": "Enlighten Me"
+              },
+              {
+                "name": "Spirit Never Die"
+              },
+              {
+                "name": "Lost and Gone"
+              },
+              {
+                "name": "Crimson Rider"
+              },
+              {
+                "name": "Back for My Life"
+              },
+              {
+                "name": "Kind Hearted Light"
+              },
+              {
+                "name": "The Time of the Oath",
+                "cover": {
+                  "mbid": "765774a0-2060-469b-8b7d-612eea48579b",
+                  "name": "Helloween",
+                  "sortName": "Helloween",
+                  "disambiguation": "German power metal band",
+                  "url": "https://www.setlist.fm/setlists/helloween-5bd683a8.html"
+                }
+              },
+              {
+                "name": "Keep Your Dream Alive"
+              },
+              {
+                "name": "Crystal Night"
+              },
+              {
+                "name": "Soulburn"
+              },
+              {
+                "name": "Heroes"
+              },
+              {
+                "name": "The Chance",
+                "cover": {
+                  "mbid": "765774a0-2060-469b-8b7d-612eea48579b",
+                  "name": "Helloween",
+                  "sortName": "Helloween",
+                  "disambiguation": "German power metal band",
+                  "url": "https://www.setlist.fm/setlists/helloween-5bd683a8.html"
+                }
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Crawling From Hell"
+              },
+              {
+                "name": "The Dark Ride",
+                "cover": {
+                  "mbid": "765774a0-2060-469b-8b7d-612eea48579b",
+                  "name": "Helloween",
+                  "sortName": "Helloween",
+                  "disambiguation": "German power metal band",
+                  "url": "https://www.setlist.fm/setlists/helloween-5bd683a8.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/masterplan/2025/fabrique-club-sao-paulo-brazil-b5bb1d6.html"
+    }
+  ]
+}

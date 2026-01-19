@@ -1,0 +1,1646 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 9,
+  "total": 3170,
+  "setlist": [
+    {
+      "id": "63456aab",
+      "versionId": "g3b648840",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-10-31T16:46:22.816+0000",
+      "artist": {
+        "mbid": "f83781c8-64f9-4657-85bd-51f74d195cfd",
+        "name": "The Whitest Boy Alive",
+        "sortName": "Whitest Boy Alive, The",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/the-whitest-boy-alive-4bd6fbd2.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Keep a Secret"
+              },
+              {
+                "name": "High on the Heels"
+              },
+              {
+                "name": "Inflation"
+              },
+              {
+                "name": "Timebomb"
+              },
+              {
+                "name": "Golden Cage",
+                "info": "Extended outro (snippet of Fireworks)"
+              },
+              {
+                "name": "Intentions"
+              },
+              {
+                "name": "Serious"
+              },
+              {
+                "name": "Above You"
+              },
+              {
+                "name": "Burning"
+              },
+              {
+                "name": "1517"
+              },
+              {
+                "name": "Courage"
+              },
+              {
+                "name": "Island"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Show Me Love",
+                "cover": {
+                  "mbid": "37a0943e-9638-48fe-9a56-7192d7efbbed",
+                  "name": "Robin S",
+                  "sortName": "Robin S",
+                  "disambiguation": "US singer Robin Stone",
+                  "url": "https://www.setlist.fm/setlists/robin-s-4bd6935e.html"
+                }
+              },
+              {
+                "name": "Golden Cage",
+                "tape": true,
+                "info": "Remix version. Erlend went into the crowd to dance."
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/the-whitest-boy-alive/2025/audio-sao-paulo-brazil-63456aab.html"
+    },
+    {
+      "id": "534e43bd",
+      "versionId": "g4364a373",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-10-30T19:49:54.464+0000",
+      "artist": {
+        "mbid": "44966c96-9e36-483d-bfea-2625f8543615",
+        "name": "DEAFKIDS",
+        "sortName": "DEAFKIDS",
+        "disambiguation": "Brazilian punk band",
+        "url": "https://www.setlist.fm/setlists/deafkids-7bcd6648.html"
+      },
+      "venue": {
+        "id": "2bd3c0f6",
+        "name": "Fffront",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fffront-sao-paulo-brazil-2bd3c0f6.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/deafkids/2025/fffront-sao-paulo-brazil-534e43bd.html"
+    },
+    {
+      "id": "534107a5",
+      "versionId": "g2b6498a6",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-10-31T01:37:29.834+0000",
+      "artist": {
+        "mbid": "0c872164-45c6-4c82-a882-c217636bd3fe",
+        "name": "Stefano Moliner",
+        "sortName": "Moliner, Stefano",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/stefano-moliner-63e3aeaf.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "",
+                "cover": {
+                  "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+                  "name": "Black Sabbath",
+                  "sortName": "Black Sabbath",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/black-sabbath-33d6806d.html"
+                }
+              },
+              {
+                "name": "War Pigs",
+                "cover": {
+                  "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+                  "name": "Black Sabbath",
+                  "sortName": "Black Sabbath",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/black-sabbath-33d6806d.html"
+                }
+              },
+              {
+                "name": "Electric Funeral",
+                "cover": {
+                  "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+                  "name": "Black Sabbath",
+                  "sortName": "Black Sabbath",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/black-sabbath-33d6806d.html"
+                }
+              },
+              {
+                "name": "",
+                "cover": {
+                  "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+                  "name": "Black Sabbath",
+                  "sortName": "Black Sabbath",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/black-sabbath-33d6806d.html"
+                }
+              },
+              {
+                "name": "",
+                "cover": {
+                  "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+                  "name": "Black Sabbath",
+                  "sortName": "Black Sabbath",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/black-sabbath-33d6806d.html"
+                },
+                "info": "with George Reina"
+              },
+              {
+                "name": "The Wizard",
+                "cover": {
+                  "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+                  "name": "Black Sabbath",
+                  "sortName": "Black Sabbath",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/black-sabbath-33d6806d.html"
+                },
+                "info": "with Carol Poison"
+              },
+              {
+                "name": "Black Sabbath",
+                "cover": {
+                  "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+                  "name": "Black Sabbath",
+                  "sortName": "Black Sabbath",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/black-sabbath-33d6806d.html"
+                },
+                "info": "with Jão and Carol Poison"
+              },
+              {
+                "name": "Paranoid",
+                "cover": {
+                  "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+                  "name": "Black Sabbath",
+                  "sortName": "Black Sabbath",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/black-sabbath-33d6806d.html"
+                },
+                "info": "with Jão and Carol Poison"
+              },
+              {
+                "name": "Beber até morrer",
+                "cover": {
+                  "mbid": "0a61f71a-92e8-4d3e-adc0-e44469aba069",
+                  "name": "Ratos de Porão",
+                  "sortName": "Ratos de Porão",
+                  "disambiguation": "Brazilian punk",
+                  "url": "https://www.setlist.fm/setlists/ratos-de-porao-1bd76900.html"
+                },
+                "info": "with Jão and Carol Poison"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/stefano-moliner/2025/la-iglesia-borratxeria-sao-paulo-brazil-534107a5.html"
+    },
+    {
+      "id": "4b4fa73e",
+      "versionId": "g1364d161",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-11-02T12:10:51.637+0000",
+      "artist": {
+        "mbid": "7ebf3107-78ee-45b2-a83e-9a57a3e5a4d6",
+        "name": "Seattle Supersonics",
+        "sortName": "Supersonics, Seattle",
+        "disambiguation": "Argentinian Nirvana tribute band",
+        "url": "https://www.setlist.fm/setlists/seattle-supersonics-3bee58a4.html"
+      },
+      "venue": {
+        "id": "73d6daed",
+        "name": "Carioca Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/carioca-club-sao-paulo-brazil-73d6daed.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/seattle-supersonics/2025/carioca-club-sao-paulo-brazil-4b4fa73e.html"
+    },
+    {
+      "id": "34ff143",
+      "versionId": "g1b64498c",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-11-06T04:50:34.028+0000",
+      "artist": {
+        "mbid": "3bdec001-5e01-4219-ba9e-69d37b490f25",
+        "name": "Xis",
+        "sortName": "Xis",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/xis-63d4daaf.html"
+      },
+      "venue": {
+        "id": "bd299e6",
+        "name": "Teatro SESC 24 de Maio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-sesc-24-de-maio-sao-paulo-brazil-bd299e6.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/xis/2025/teatro-sesc-24-de-maio-sao-paulo-brazil-34ff143.html"
+    },
+    {
+      "id": "34391bb",
+      "versionId": "g1364f9d5",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-11-01T03:33:06.375+0000",
+      "artist": {
+        "mbid": "80f9dd8d-2257-42b0-8808-97c3056019b4",
+        "name": "ONEW",
+        "sortName": "ONEW",
+        "disambiguation": "Lee Jin-ki, member of SHINee",
+        "url": "https://www.setlist.fm/setlists/onew-2bd8242a.html"
+      },
+      "venue": {
+        "id": "2bd1ac5a",
+        "name": "Terra SP",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/terra-sp-sao-paulo-brazil-2bd1ac5a.html"
+      },
+      "tour": {
+        "name": "ONEW THE LIVE: PERCENT (%)"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "PERCENT (%)"
+              },
+              {
+                "name": "No Parachute"
+              },
+              {
+                "name": "Yeowoobi"
+              },
+              {
+                "name": "Far Away"
+              },
+              {
+                "name": "Conversation"
+              },
+              {
+                "name": "All Day"
+              },
+              {
+                "name": "MAESTRO"
+              },
+              {
+                "name": "Starry Night"
+              },
+              {
+                "name": "Winner"
+              },
+              {
+                "name": "Epilogue"
+              },
+              {
+                "name": "Silky"
+              },
+              {
+                "name": "Beat Drum"
+              },
+              {
+                "name": "MAD"
+              },
+              {
+                "name": "Caffeine"
+              },
+              {
+                "name": "ANIMALS"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Oreo Cake"
+              },
+              {
+                "name": "Yay"
+              },
+              {
+                "name": "Happy Birthday"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/onew/2025/terra-sp-sao-paulo-brazil-34391bb.html"
+    },
+    {
+      "id": "2b411c6e",
+      "versionId": "g33649819",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-10-31T01:16:12.510+0000",
+      "artist": {
+        "mbid": "9f284484-c949-4199-8741-aba416a497a8",
+        "name": "Tom Zé",
+        "sortName": "Zé, Tom",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/tom-ze-7bd62e54.html"
+      },
+      "venue": {
+        "id": "4bd7d796",
+        "name": "SESC Bom Retiro",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-bom-retiro-sao-paulo-brazil-4bd7d796.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "A boca da cabeça"
+              },
+              {
+                "name": "Curiosidade"
+              },
+              {
+                "name": "Nave Maria"
+              },
+              {
+                "name": "Jimmy, renda-se / Moeda falsa"
+              },
+              {
+                "name": "Happy End"
+              },
+              {
+                "name": "A Terra, meus filhos"
+              },
+              {
+                "name": "Um Oh! E um Ah!"
+              },
+              {
+                "name": "Jingle do disco"
+              },
+              {
+                "name": "2001",
+                "cover": {
+                  "mbid": "a3212186-5da5-4e84-a935-6952b3e14921",
+                  "name": "Os Mutantes",
+                  "sortName": "Mutantes, Os",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/os-mutantes-63d62eeb.html"
+                }
+              },
+              {
+                "name": "Tô"
+              },
+              {
+                "name": "Hein?"
+              },
+              {
+                "name": "Politicar"
+              },
+              {
+                "name": "Augusta, Angélica e Consolação"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Xiquexique"
+              },
+              {
+                "name": "Parque industrial"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/tom-ze/2025/sesc-bom-retiro-sao-paulo-brazil-2b411c6e.html"
+    },
+    {
+      "id": "1b41c574",
+      "versionId": "g37b1533",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-09-26T21:07:04.940+0000",
+      "artist": {
+        "mbid": "81cafa8d-09bd-4bfb-9d67-6f5224448791",
+        "name": "Virgínia Rodrigues",
+        "sortName": "Rodrigues, Virgínia",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/virginia-rodrigues-2bd73002.html"
+      },
+      "venue": {
+        "id": "43d13763",
+        "name": "Sesc 14 Bis",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-14-bis-sao-paulo-brazil-43d13763.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/virginia-rodrigues/2025/sesc-14-bis-sao-paulo-brazil-1b41c574.html"
+    },
+    {
+      "id": "1b4175e4",
+      "versionId": "g53649b25",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-10-31T02:08:18.630+0000",
+      "artist": {
+        "mbid": "d0a56eb8-e545-4e8e-84f0-5a419f287d9e",
+        "name": "Gabi Motuba",
+        "sortName": "Motuba, Gabi",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/gabi-motuba-53fcbb01.html"
+      },
+      "venue": {
+        "id": "33d00451",
+        "name": "Teatro SESC Pompéia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-sesc-pompeia-sao-paulo-brazil-33d00451.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "The Black Adhan"
+              },
+              {
+                "name": "Order My Steps"
+              },
+              {
+                "name": "Ntate Motuba's Requiem"
+              },
+              {
+                "name": "The Sabbath Movement 1 (Deliverance from Evildoers)"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/gabi-motuba/2025/teatro-sesc-pompeia-sao-paulo-brazil-1b4175e4.html"
+    },
+    {
+      "id": "13434969",
+      "versionId": "g4b648ff2",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-10-31T14:34:47.533+0000",
+      "artist": {
+        "mbid": "46713d05-4143-4704-a9c3-71b482a13944",
+        "name": "Boogarins",
+        "sortName": "Boogarins",
+        "disambiguation": "Brazilian psychedelic rock group",
+        "url": "https://www.setlist.fm/setlists/boogarins-3bddb43c.html"
+      },
+      "venue": {
+        "id": "23de9453",
+        "name": "Cine Joia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cine-joia-sao-paulo-brazil-23de9453.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Truques"
+              },
+              {
+                "name": "Avalanche"
+              },
+              {
+                "name": "Tempo"
+              },
+              {
+                "name": "6000 dias (Ou mantra dos 20 anos)"
+              },
+              {
+                "name": "Mario de Andrade / Selvagem"
+              },
+              {
+                "name": "Falsa folha de rosto"
+              },
+              {
+                "name": "Benzin"
+              },
+              {
+                "name": "San Lorenzo"
+              },
+              {
+                "name": "Cuerdo"
+              },
+              {
+                "name": "Sei lá"
+              },
+              {
+                "name": "Auchma"
+              },
+              {
+                "name": "Amor de indie"
+              },
+              {
+                "name": "Chrystian & Ralf (Só Deus sabe)"
+              },
+              {
+                "name": "Chuva dos olhos"
+              },
+              {
+                "name": "Bacuri"
+              },
+              {
+                "name": "Foimal"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Show comemorativo 10 anos do Manual",
+      "url": "https://www.setlist.fm/setlist/boogarins/2025/cine-joia-sao-paulo-brazil-13434969.html"
+    },
+    {
+      "id": "6b4e4a4a",
+      "versionId": "g73648e69",
+      "eventDate": "29-10-2025",
+      "lastUpdated": "2025-10-31T15:07:20.070+0000",
+      "artist": {
+        "mbid": "284c9a32-7136-4895-ad15-fd2bc97a4a0f",
+        "name": "Ava Rocha",
+        "sortName": "Rocha, Ava",
+        "disambiguation": "Brazilian singer-songwriter",
+        "url": "https://www.setlist.fm/setlists/ava-rocha-63c782c3.html"
+      },
+      "venue": {
+        "id": "73de5ed5",
+        "name": "Estação Motiva Cultural",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/estacao-motiva-cultural-sao-paulo-brazil-73de5ed5.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "BABY, É TUDO UM SONHO"
+              },
+              {
+                "name": "DISFARCE"
+              },
+              {
+                "name": "LONGE LONGE DE MIM"
+              },
+              {
+                "name": "LUA ABSURDA"
+              },
+              {
+                "name": "Transeunte coração"
+              },
+              {
+                "name": "ON/OFF"
+              },
+              {
+                "name": "SERINGUEIRA DA VEIA"
+              },
+              {
+                "name": "",
+                "info": "Lyrics: um sonho chinês, um sonho bem doce, um sonho abissal..."
+              },
+              {
+                "name": "Joana Dark"
+              },
+              {
+                "name": "NEKTAR"
+              },
+              {
+                "name": "Cachaça não é água",
+                "info": "Marchinha de Carnaval"
+              },
+              {
+                "name": "Mar ao fundo"
+              },
+              {
+                "name": "Todo mundo vai sofrer",
+                "cover": {
+                  "mbid": "caeef712-a58f-469b-bfb6-edbd47612cdd",
+                  "name": "Marília Mendonça",
+                  "sortName": "Mendonça, Marília",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/marilia-mendonca-33c5841d.html"
+                }
+              },
+              {
+                "name": "BARCO NOS PÉS"
+              },
+              {
+                "name": "CORAÇÃO ENVENENADO"
+              },
+              {
+                "name": "Lilith"
+              },
+              {
+                "name": "BEIJANDO TODOS VOCÊS",
+                "info": "Estendida, apresentando a banda e agradecimentos"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/ava-rocha/2025/estacao-motiva-cultural-sao-paulo-brazil-6b4e4a4a.html"
+    },
+    {
+      "id": "634e562b",
+      "versionId": "g2b675422",
+      "eventDate": "29-10-2025",
+      "lastUpdated": "2025-10-28T20:31:55.290+0000",
+      "artist": {
+        "mbid": "fe3fe5b7-54e5-4a28-80ed-a19e65f25b89",
+        "name": "Crizin da Z.O.",
+        "sortName": "Crizin da Z.O.",
+        "disambiguation": "Cris Onofre (FORADECOMPASSO), Danilo Machado (AKADINDO) and Marcelo Fiedler from Paraná",
+        "url": "https://www.setlist.fm/setlists/crizin-da-zo-5be71b64.html"
+      },
+      "venue": {
+        "id": "1bd30d20",
+        "name": "Fenda 315",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fenda-315-sao-paulo-brazil-1bd30d20.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/crizin-da-zo/2025/fenda-315-sao-paulo-brazil-634e562b.html"
+    },
+    {
+      "id": "534ed371",
+      "versionId": "g366c99b",
+      "eventDate": "29-10-2025",
+      "lastUpdated": "2025-10-17T15:15:13.430+0000",
+      "artist": {
+        "mbid": "de5cbaa1-a7d9-4c9f-b3f9-26f6477ad35f",
+        "name": "Caxtrinho",
+        "sortName": "Caxtrinho",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/caxtrinho-73e25af9.html"
+      },
+      "venue": {
+        "id": "1bd7ddf0",
+        "name": "Casa de Francisca",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-de-francisca-sao-paulo-brazil-1bd7ddf0.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/caxtrinho/2025/casa-de-francisca-sao-paulo-brazil-534ed371.html"
+    },
+    {
+      "id": "734f8add",
+      "versionId": "g436473c3",
+      "eventDate": "28-10-2025",
+      "lastUpdated": "2025-11-05T02:29:03.120+0000",
+      "artist": {
+        "mbid": "7739f53a-f809-48a3-942a-fbea493f0a17",
+        "name": "Céu",
+        "sortName": "Céu",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/ceu-1bd6f1f0.html"
+      },
+      "venue": {
+        "id": "5bd26bb0",
+        "name": "Google",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/google-sao-paulo-brazil-5bd26bb0.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Malemolência"
+              },
+              {
+                "name": "Lenda"
+              },
+              {
+                "name": "Ave cruz"
+              },
+              {
+                "name": "Grains de beauté"
+              },
+              {
+                "name": "Varanda suspensa"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Céu presentantion at the Tiny Desk Brasil session, premiered on October 28th, 2025.",
+      "url": "https://www.setlist.fm/setlist/ceu/2025/google-sao-paulo-brazil-734f8add.html"
+    },
+    {
+      "id": "4b4e533a",
+      "versionId": "g23674c0b",
+      "eventDate": "28-10-2025",
+      "lastUpdated": "2025-10-29T02:29:24.089+0000",
+      "artist": {
+        "mbid": "84a60c5e-16e2-45b0-85a7-3bd1fde8df37",
+        "name": "Smoota",
+        "sortName": "Smoota",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/smoota-3bd28c88.html"
+      },
+      "venue": {
+        "id": "5bd1a36c",
+        "name": "PORTA",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/porta-sao-paulo-brazil-5bd1a36c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/smoota/2025/porta-sao-paulo-brazil-4b4e533a.html"
+    },
+    {
+      "id": "4b4e532a",
+      "versionId": "g2b674cc6",
+      "eventDate": "28-10-2025",
+      "lastUpdated": "2025-10-29T02:49:44.311+0000",
+      "artist": {
+        "mbid": "359e1f66-b4ca-4a33-b9cf-ee89d4320d7e",
+        "name": "Jup do Bairro",
+        "sortName": "Jup do Bairro",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/jup-do-bairro-3fead13.html"
+      },
+      "venue": {
+        "id": "7bd28e34",
+        "name": "Teatro Oficina",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-oficina-sao-paulo-brazil-7bd28e34.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/jup-do-bairro/2025/teatro-oficina-sao-paulo-brazil-4b4e532a.html"
+    },
+    {
+      "id": "1b43251c",
+      "versionId": "g63649e43",
+      "eventDate": "28-10-2025",
+      "lastUpdated": "2025-10-30T23:15:47.818+0000",
+      "artist": {
+        "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+        "name": "Dialeto",
+        "sortName": "Dialeto",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+      },
+      "venue": {
+        "id": "1bde91bc",
+        "name": "Teatro Sabesp Frei Caneca",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-sabesp-frei-caneca-sao-paulo-brazil-1bde91bc.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Tonk",
+                "cover": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                },
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              },
+              {
+                "name": "The Great Deceiver",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              },
+              {
+                "name": "The Pool",
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              },
+              {
+                "name": "Improv",
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              },
+              {
+                "name": "Red",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              },
+              {
+                "name": "Calamity",
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Larks' Tongue in Aspic",
+            "song": [
+              {
+                "name": "Larks' Tongues in Aspic, Part One",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              },
+              {
+                "name": "Book of Saturday",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              },
+              {
+                "name": "Exiles",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              },
+              {
+                "name": "Easy Money",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              },
+              {
+                "name": "The Talking Drum",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              },
+              {
+                "name": "Larks' Tongues in Aspic, Part Two",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Starless",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+                  "name": "David Cross",
+                  "sortName": "Cross, David",
+                  "disambiguation": "King Crimson violinist",
+                  "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/dialeto/2025/teatro-sabesp-frei-caneca-sao-paulo-brazil-1b43251c.html"
+    },
+    {
+      "id": "1343251d",
+      "versionId": "g6b649a86",
+      "eventDate": "28-10-2025",
+      "lastUpdated": "2025-10-31T03:18:29.223+0000",
+      "artist": {
+        "mbid": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+        "name": "David Cross",
+        "sortName": "Cross, David",
+        "disambiguation": "King Crimson violinist",
+        "url": "https://www.setlist.fm/setlists/david-cross-1bd6b540.html"
+      },
+      "venue": {
+        "id": "1bde91bc",
+        "name": "Teatro Sabesp Frei Caneca",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-sabesp-frei-caneca-sao-paulo-brazil-1bde91bc.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "name": "Dialeto Musics",
+            "song": [
+              {
+                "name": "Roumanian Folk Dances 3",
+                "cover": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              },
+              {
+                "name": "Romanian Folk Dances 4",
+                "cover": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              },
+              {
+                "name": "Mikrokosmos 78",
+                "cover": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              },
+              {
+                "name": "Mikrokosmos 113",
+                "cover": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              },
+              {
+                "name": "An Evening in the Village",
+                "cover": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              },
+              {
+                "name": "The Young Bride",
+                "cover": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              }
+            ]
+          },
+          {
+            "name": "King Crimson Musics",
+            "song": [
+              {
+                "name": "Exiles",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              },
+              {
+                "name": "Tonk",
+                "cover": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              },
+              {
+                "name": "The Talking Drum",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              },
+              {
+                "name": "Larks' Tongues in Aspic, Part Two",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              },
+              {
+                "name": "Easy Money",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              },
+              {
+                "name": "Starless",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "The Great Deceiver",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              },
+              {
+                "name": "Red",
+                "cover": {
+                  "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+                  "name": "King Crimson",
+                  "sortName": "King Crimson",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+                },
+                "with": {
+                  "mbid": "fe1a048e-fd1c-4726-81e9-c9a4d3cfd059",
+                  "name": "Dialeto",
+                  "sortName": "Dialeto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/dialeto-63db2a03.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/david-cross/2025/teatro-sabesp-frei-caneca-sao-paulo-brazil-1343251d.html"
+    },
+    {
+      "id": "6b41467a",
+      "versionId": "g137995c9",
+      "eventDate": "27-10-2025",
+      "lastUpdated": "2025-10-06T23:33:51.567+0000",
+      "artist": {
+        "mbid": "fe3fe5b7-54e5-4a28-80ed-a19e65f25b89",
+        "name": "Crizin da Z.O.",
+        "sortName": "Crizin da Z.O.",
+        "disambiguation": "Cris Onofre (FORADECOMPASSO), Danilo Machado (AKADINDO) and Marcelo Fiedler from Paraná",
+        "url": "https://www.setlist.fm/setlists/crizin-da-zo-5be71b64.html"
+      },
+      "venue": {
+        "id": "53d2bb39",
+        "name": "Centro da Terra",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-da-terra-sao-paulo-brazil-53d2bb39.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/crizin-da-zo/2025/centro-da-terra-sao-paulo-brazil-6b41467a.html"
+    },
+    {
+      "id": "34ef5b7",
+      "versionId": "g366b173",
+      "eventDate": "27-10-2025",
+      "lastUpdated": "2025-10-14T08:16:43.406+0000",
+      "artist": {
+        "mbid": "d256d241-7466-4aed-981e-1ecffe062b58",
+        "name": "Cleiton Rasta",
+        "sortName": "Rasta, Cleiton",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/cleiton-rasta-239f7057.html"
+      },
+      "venue": {
+        "id": "33d2d059",
+        "name": "Fatiado Discos e Cervejas Especiais",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fatiado-discos-e-cervejas-especiais-sao-paulo-brazil-33d2d059.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/cleiton-rasta/2025/fatiado-discos-e-cervejas-especiais-sao-paulo-brazil-34ef5b7.html"
+    }
+  ]
+}

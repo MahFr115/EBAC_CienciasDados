@@ -1,0 +1,1423 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 3,
+  "total": 2954,
+  "setlist": [
+    {
+      "id": "1352112d",
+      "versionId": "g137189fd",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2025-08-05T17:54:54.014+0000",
+      "artist": {
+        "mbid": "b0fe8ef0-d59b-4d41-afee-2d21b59112ab",
+        "name": "Angra",
+        "sortName": "Angra",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/angra-43d6ff27.html"
+      },
+      "venue": {
+        "id": "23d038af",
+        "name": "Tokio Marine Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/tokio-marine-hall-sao-paulo-brazil-23d038af.html"
+      },
+      "tour": {
+        "name": "Temple of Shadows 20th Anniversary Tour - Interlude"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Intro Tour 2024-2025",
+                "tape": true,
+                "info": "contains elements of \"Faithless Sanctuary\""
+              },
+              {
+                "name": "Faithless Sanctuary"
+              },
+              {
+                "name": "Acid Rain"
+              },
+              {
+                "name": "Tide of Changes - Part I"
+              },
+              {
+                "name": "Tide of Changes - Part II"
+              }
+            ]
+          },
+          {
+            "name": "Temple of Shadows",
+            "song": [
+              {
+                "name": "Deus le Volt!",
+                "tape": true
+              },
+              {
+                "name": "Spread Your Fire"
+              },
+              {
+                "name": "Angels and Demons"
+              },
+              {
+                "name": "Waiting Silence"
+              },
+              {
+                "name": "Wishing Well"
+              },
+              {
+                "name": "The Temple of Hate"
+              },
+              {
+                "name": "The Shadow Hunter"
+              },
+              {
+                "name": "No Pain for the Dead",
+                "with": {
+                  "mbid": "bcc3e5fb-6019-4391-a3f2-f52a01e1bd96",
+                  "name": "Vanessa Moreno",
+                  "sortName": "Moreno, Vanessa",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/vanessa-moreno-23f8d09b.html"
+                }
+              },
+              {
+                "name": "Winds of Destination"
+              },
+              {
+                "name": "Sprouts of Time"
+              },
+              {
+                "name": "Morning Star"
+              },
+              {
+                "name": "Late Redemption"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "song": [
+              {
+                "name": "Make Believe"
+              },
+              {
+                "name": "Vida seca"
+              },
+              {
+                "name": "Rebirth",
+                "with": {
+                  "mbid": "bcc3e5fb-6019-4391-a3f2-f52a01e1bd96",
+                  "name": "Vanessa Moreno",
+                  "sortName": "Moreno, Vanessa",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/vanessa-moreno-23f8d09b.html"
+                }
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Unfinished Allegro",
+                "tape": true
+              },
+              {
+                "name": "Carry On",
+                "info": "without last bridge and chorus"
+              },
+              {
+                "name": "Nova Era"
+              },
+              {
+                "name": "Gate XIII",
+                "tape": true
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Queen's cover \"Innuendo\" was on printed setlist, but was not played.",
+      "url": "https://www.setlist.fm/setlist/angra/2024/tokio-marine-hall-sao-paulo-brazil-1352112d.html"
+    },
+    {
+      "id": "b5c914a",
+      "versionId": "gb47753e",
+      "eventDate": "20-12-2024",
+      "lastUpdated": "2025-02-22T23:17:09.006+0000",
+      "artist": {
+        "mbid": "383ba524-b344-4e48-b9a5-eddde01c498e",
+        "name": "Montanee",
+        "sortName": "Montanee",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/montanee-3bd83870.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Burn Down The Heart"
+              },
+              {
+                "name": "Picture on the Wall"
+              },
+              {
+                "name": "Burning Man"
+              },
+              {
+                "name": "Brooklyn Sleeps"
+              },
+              {
+                "name": "Linger",
+                "cover": {
+                  "mbid": "c98d40fd-f6cf-4b26-883e-eaa515ee2851",
+                  "name": "The Cranberries",
+                  "sortName": "Cranberries, The",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/the-cranberries-3d6b9ef.html"
+                }
+              },
+              {
+                "name": "Gray"
+              },
+              {
+                "name": "Never Good Enough"
+              },
+              {
+                "name": "No Chemistry",
+                "info": "With \"Bullet In The Head\" snippet by Rage Against The Machine"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/montanee/2024/la-iglesia-borratxeria-sao-paulo-brazil-b5c914a.html"
+    },
+    {
+      "id": "5b5e9b48",
+      "versionId": "g4b53ab12",
+      "eventDate": "20-12-2024",
+      "lastUpdated": "2024-11-11T16:50:30.780+0000",
+      "artist": {
+        "mbid": "5cc03b39-9b7d-43d6-a1d9-321c2e3aec50",
+        "name": "Dead Fish",
+        "sortName": "Dead Fish",
+        "disambiguation": "Brazilian hardcore band",
+        "url": "https://www.setlist.fm/setlists/dead-fish-3bd6c0c4.html"
+      },
+      "venue": {
+        "id": "3bd63414",
+        "name": "Hangar 110",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/hangar-110-sao-paulo-brazil-3bd63414.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/dead-fish/2024/hangar-110-sao-paulo-brazil-5b5e9b48.html"
+    },
+    {
+      "id": "4b516772",
+      "versionId": "g2352f037",
+      "eventDate": "20-12-2024",
+      "lastUpdated": "2024-11-05T17:22:03.295+0000",
+      "artist": {
+        "mbid": "c1a669b9-30f4-4171-a2a9-a15d9461ca04",
+        "name": "Titãs",
+        "sortName": "Titãs",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/titas-63d6d233.html"
+      },
+      "venue": {
+        "id": "2bd1ac5a",
+        "name": "Terra SP",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/terra-sp-sao-paulo-brazil-2bd1ac5a.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/titas/2024/terra-sp-sao-paulo-brazil-4b516772.html"
+    },
+    {
+      "id": "3b5f4c30",
+      "versionId": "g6b5cfafe",
+      "eventDate": "20-12-2024",
+      "lastUpdated": "2024-12-21T01:08:56.447+0000",
+      "artist": {
+        "mbid": "b5cdc196-c068-490d-afae-8a15ae6cae0d",
+        "name": "Forgotten Boys",
+        "sortName": "Forgotten Boys",
+        "disambiguation": "Brazilian rock band",
+        "url": "https://www.setlist.fm/setlists/forgotten-boys-5bd66fc0.html"
+      },
+      "venue": {
+        "id": "2bd3c0f6",
+        "name": "Fffront",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fffront-sao-paulo-brazil-2bd3c0f6.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Voodoo"
+              },
+              {
+                "name": "Sway"
+              },
+              {
+                "name": "Another Place"
+              },
+              {
+                "name": "Absurd"
+              },
+              {
+                "name": "Baby If You Haunt"
+              },
+              {
+                "name": "Just Done"
+              },
+              {
+                "name": "Cumm On"
+              },
+              {
+                "name": "You Draw the Line"
+              },
+              {
+                "name": "Hold On"
+              },
+              {
+                "name": "Zig Zag Sleep"
+              },
+              {
+                "name": "Like Never Before"
+              },
+              {
+                "name": "Get Load"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/forgotten-boys/2024/fffront-sao-paulo-brazil-3b5f4c30.html"
+    },
+    {
+      "id": "35c914b",
+      "versionId": "g135cf1e9",
+      "eventDate": "20-12-2024",
+      "lastUpdated": "2024-12-21T05:24:07.915+0000",
+      "artist": {
+        "mbid": "909c4eb3-476f-4bbb-aafb-32a8ea0b7179",
+        "name": "Deb and The Mentals",
+        "sortName": "Deb and The Mentals",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/deb-and-the-mentals-43c2b387.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/deb-and-the-mentals/2024/la-iglesia-borratxeria-sao-paulo-brazil-35c914b.html"
+    },
+    {
+      "id": "35c911b",
+      "versionId": "g4b40c776",
+      "eventDate": "20-12-2024",
+      "lastUpdated": "2025-04-03T07:47:05.390+0000",
+      "artist": {
+        "mbid": "99999777-3d19-4f59-acb5-8f06bc7ca201",
+        "name": "Halleck",
+        "sortName": "Halleck",
+        "disambiguation": "tattoo artist and bass player",
+        "url": "https://www.setlist.fm/setlists/halleck-2bf730f6.html"
+      },
+      "venue": {
+        "id": "63d7129b",
+        "name": "Hotel Cambridge",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/hotel-cambridge-sao-paulo-brazil-63d7129b.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Zero"
+              },
+              {
+                "name": "Babel"
+              },
+              {
+                "name": "Lápides"
+              },
+              {
+                "name": "Mundo real"
+              },
+              {
+                "name": "Silêncios"
+              },
+              {
+                "name": "Silent Night"
+              },
+              {
+                "name": "Sol de novembro"
+              },
+              {
+                "name": "A ratazana"
+              },
+              {
+                "name": "730 passos"
+              },
+              {
+                "name": "Tarde demais"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/halleck/2024/hotel-cambridge-sao-paulo-brazil-35c911b.html"
+    },
+    {
+      "id": "235f4c33",
+      "versionId": "g135ce985",
+      "eventDate": "20-12-2024",
+      "lastUpdated": "2024-12-21T14:19:01.532+0000",
+      "artist": {
+        "mbid": "1f9a69d9-c44a-4f1a-9cdb-583ac5534a64",
+        "name": "Hurtmold",
+        "sortName": "Hurtmold",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/hurtmold-1bd42d48.html"
+      },
+      "venue": {
+        "id": "2bd3c0f6",
+        "name": "Fffront",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fffront-sao-paulo-brazil-2bd3c0f6.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Quase 6 de misticismo"
+              },
+              {
+                "name": "Naca"
+              },
+              {
+                "name": "Desisto"
+              },
+              {
+                "name": "Sabo"
+              },
+              {
+                "name": "Kampala"
+              },
+              {
+                "name": "Fontanka"
+              },
+              {
+                "name": "Halijascar"
+              },
+              {
+                "name": "Credenciais/Telê"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/hurtmold/2024/fffront-sao-paulo-brazil-235f4c33.html"
+    },
+    {
+      "id": "2350700b",
+      "versionId": "g5340cba9",
+      "eventDate": "20-12-2024",
+      "lastUpdated": "2025-04-03T04:24:58.910+0000",
+      "artist": {
+        "mbid": "bf3faea4-6306-45d6-8364-336b33808922",
+        "name": "Rico Dalasam",
+        "sortName": "Dalasam, Rico",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/rico-dalasam-7bc28e5c.html"
+      },
+      "venue": {
+        "id": "23de9453",
+        "name": "Cine Joia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cine-joia-sao-paulo-brazil-23de9453.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Sol particular"
+              },
+              {
+                "name": "Paixão nova"
+              },
+              {
+                "name": "Vicioso"
+              },
+              {
+                "name": "Riquíssima"
+              },
+              {
+                "name": "Medley"
+              },
+              {
+                "name": "Lembre seu brilho"
+              },
+              {
+                "name": "Supstah"
+              },
+              {
+                "name": "Jovinho"
+              },
+              {
+                "name": "Espero ainda"
+              },
+              {
+                "name": "Quebrados"
+              },
+              {
+                "name": "Fogo em mim"
+              },
+              {
+                "name": "Todo dia"
+              },
+              {
+                "name": "30 semanas"
+              },
+              {
+                "name": "Tarde D+"
+              },
+              {
+                "name": "Outros finais"
+              },
+              {
+                "name": "Vividir"
+              },
+              {
+                "name": "Última vez"
+              },
+              {
+                "name": "Mudou como?"
+              },
+              {
+                "name": "Braille"
+              },
+              {
+                "name": "Guia de um amor cego"
+              },
+              {
+                "name": "Fim das tentativas"
+              },
+              {
+                "name": "Cartazes"
+              },
+              {
+                "name": "Expresso Sudamericah"
+              },
+              {
+                "name": "Ando me perguntando"
+              },
+              {
+                "name": "Brilhos originais"
+              },
+              {
+                "name": "Imã"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/rico-dalasam/2024/cine-joia-sao-paulo-brazil-2350700b.html"
+    },
+    {
+      "id": "135c9155",
+      "versionId": "g35cf1eb",
+      "eventDate": "20-12-2024",
+      "lastUpdated": "2024-12-21T05:23:25.302+0000",
+      "artist": {
+        "mbid": "c570a81c-b692-4ec4-829a-c3b24218e874",
+        "name": "Menores Atos",
+        "sortName": "Menores Atos",
+        "disambiguation": "Brazilian hardcore band from Rio de Janeiro",
+        "url": "https://www.setlist.fm/setlists/menores-atos-2bcb841e.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/menores-atos/2024/la-iglesia-borratxeria-sao-paulo-brazil-135c9155.html"
+    },
+    {
+      "id": "735f2271",
+      "versionId": "g735e6e6d",
+      "eventDate": "19-12-2024",
+      "lastUpdated": "2024-12-09T16:31:20.447+0000",
+      "artist": {
+        "mbid": "8b060f17-69f6-48ae-add3-29df62e5eb0d",
+        "name": "Kiko Dinucci",
+        "sortName": "Dinucci, Kiko",
+        "disambiguation": "Brazilian musician",
+        "url": "https://www.setlist.fm/setlists/kiko-dinucci-2bddc4aa.html"
+      },
+      "venue": {
+        "id": "5bd1a36c",
+        "name": "PORTA",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/porta-sao-paulo-brazil-5bd1a36c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/kiko-dinucci/2024/porta-sao-paulo-brazil-735f2271.html"
+    },
+    {
+      "id": "4b5fb71a",
+      "versionId": "g735c2269",
+      "eventDate": "19-12-2024",
+      "lastUpdated": "2024-12-23T21:25:42.894+0000",
+      "artist": {
+        "mbid": "d324a5ef-62da-4dff-8924-2065bebf0b99",
+        "name": "Arrigo Barnabé",
+        "sortName": "Barnabé, Arrigo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/arrigo-barnabe-13d455a1.html"
+      },
+      "venue": {
+        "id": "7bd0ee98",
+        "name": "Picles Cardeal",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/picles-cardeal-sao-paulo-brazil-7bd0ee98.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Diversões eletrônicas"
+              },
+              {
+                "name": "Orgasmo total"
+              },
+              {
+                "name": "Acapulco Drive-In"
+              },
+              {
+                "name": "Instante"
+              },
+              {
+                "name": "Sabor de veneno"
+              },
+              {
+                "name": "Infortúnio"
+              },
+              {
+                "name": "Office-Boy"
+              },
+              {
+                "name": "Clara Crocodilo"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/arrigo-barnabe/2024/picles-cardeal-sao-paulo-brazil-4b5fb71a.html"
+    },
+    {
+      "id": "3b5cac10",
+      "versionId": "g135c81b1",
+      "eventDate": "19-12-2024",
+      "lastUpdated": "2024-12-20T17:56:16.672+0000",
+      "artist": {
+        "mbid": "632ede40-c947-4dce-bedd-0d2b6e2a0b00",
+        "name": "ÀIYÉ",
+        "sortName": "ÀIYÉ",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/aiye-bf0d93e.html"
+      },
+      "venue": {
+        "id": "5bd04f38",
+        "name": "Bar Alto",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bar-alto-sao-paulo-brazil-5bd04f38.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/aiye/2024/bar-alto-sao-paulo-brazil-3b5cac10.html"
+    },
+    {
+      "id": "335c98c5",
+      "versionId": "gb5c818e",
+      "eventDate": "19-12-2024",
+      "lastUpdated": "2024-12-20T18:04:40.144+0000",
+      "artist": {
+        "mbid": "8e8f9c82-ca4e-48b1-8f30-4b62eb689050",
+        "name": "Skinner Project",
+        "sortName": "Skinner Project",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/skinner-project-1bfbc9b0.html"
+      },
+      "venue": {
+        "id": "6bde8a4e",
+        "name": "Casa Lab",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-lab-sao-paulo-brazil-6bde8a4e.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "No Answer"
+              },
+              {
+                "name": "Fields of June"
+              },
+              {
+                "name": "Behavior"
+              },
+              {
+                "name": "A Broken Window"
+              },
+              {
+                "name": "Disconnected"
+              },
+              {
+                "name": "Under the Water",
+                "info": "extended outro"
+              },
+              {
+                "name": "Celebration"
+              },
+              {
+                "name": "Instafame",
+                "info": "without intro"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "First show of the new keyboardist, Ranieri Benvenuto.",
+      "url": "https://www.setlist.fm/setlist/skinner-project/2024/casa-lab-sao-paulo-brazil-335c98c5.html"
+    },
+    {
+      "id": "2b5cac16",
+      "versionId": "g35c81b7",
+      "eventDate": "19-12-2024",
+      "lastUpdated": "2024-12-20T17:56:34.181+0000",
+      "artist": {
+        "mbid": "e0bde873-7cab-4140-bf47-901cd2ca2fd2",
+        "name": "Paira",
+        "sortName": "Paira",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/paira-4be24b5a.html"
+      },
+      "venue": {
+        "id": "5bd04f38",
+        "name": "Bar Alto",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bar-alto-sao-paulo-brazil-5bd04f38.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/paira/2024/bar-alto-sao-paulo-brazil-2b5cac16.html"
+    },
+    {
+      "id": "235cac0b",
+      "versionId": "gb5c81b6",
+      "eventDate": "19-12-2024",
+      "lastUpdated": "2024-12-20T17:56:54.091+0000",
+      "artist": {
+        "mbid": "1f590794-60ef-4ed6-84bf-e1860464c236",
+        "name": "Mundo Video",
+        "sortName": "Mundo Video",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/mundo-video-63e3d667.html"
+      },
+      "venue": {
+        "id": "5bd04f38",
+        "name": "Bar Alto",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bar-alto-sao-paulo-brazil-5bd04f38.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/mundo-video/2024/bar-alto-sao-paulo-brazil-235cac0b.html"
+    },
+    {
+      "id": "73536e2d",
+      "versionId": "g1377e9b5",
+      "eventDate": "18-12-2024",
+      "lastUpdated": "2025-06-23T19:56:27.267+0000",
+      "artist": {
+        "mbid": "cbe28a99-fb15-46b6-84b9-965b33206f1d",
+        "name": "Caetano Veloso & Maria Bethânia",
+        "sortName": "Caetano Veloso & Maria Bethânia",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/caetano-veloso-and-maria-bethania-63e4dac7.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "Caetano & Bethânia"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Alegria, alegria",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Os mais doces bárbaros",
+                "cover": {
+                  "mbid": "611dd28d-b609-46b4-99f5-565bfa74b058",
+                  "name": "Doces Bárbaros",
+                  "sortName": "Doces Bárbaros",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/doces-barbaros-63d48e73.html"
+                }
+              },
+              {
+                "name": "Gente",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Oração ao tempo"
+              },
+              {
+                "name": "Motriz"
+              },
+              {
+                "name": "Não identificado"
+              },
+              {
+                "name": "A tua presença morena",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "13 de maio / Samba de dois-dois / Lindomar / A donzela se casou"
+              },
+              {
+                "name": "Milagres do povo",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Filhos de Gandhi",
+                "cover": {
+                  "mbid": "cf6b70f6-2616-481c-912c-0263cabfc974",
+                  "name": "Gilberto Gil",
+                  "sortName": "Gil, Gilberto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gilberto-gil-3d6e18f.html"
+                }
+              },
+              {
+                "name": "Dedicatória"
+              },
+              {
+                "name": "Eu e água"
+              },
+              {
+                "name": "Tropicália",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Marginália II",
+                "cover": {
+                  "mbid": "cf6b70f6-2616-481c-912c-0263cabfc974",
+                  "name": "Gilberto Gil",
+                  "sortName": "Gil, Gilberto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gilberto-gil-3d6e18f.html"
+                }
+              },
+              {
+                "name": "Um índio"
+              },
+              {
+                "name": "Cajuína",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Sozinho",
+                "cover": {
+                  "mbid": "c6eb71c6-c9f5-43a0-93e2-637f1703cf4a",
+                  "name": "Peninha",
+                  "sortName": "Peninha",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/peninha-63dc766b.html"
+                }
+              },
+              {
+                "name": "O leãozinho",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Você não me ensinou a te esquecer",
+                "cover": {
+                  "mbid": "139b9503-ebdd-4be4-8869-82f429451b4c",
+                  "name": "Fernando Mendes",
+                  "sortName": "Fernando Mendes",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/fernando-mendes-33d77019.html"
+                }
+              },
+              {
+                "name": "Você é linda",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Deus cuida de mim",
+                "cover": {
+                  "mbid": "3c069548-19af-4b76-b8e7-4fb438c9e8fd",
+                  "name": "Kleber Lucas",
+                  "sortName": "Kleber Lucas",
+                  "disambiguation": "Brazilian Contemporany Christian Singer",
+                  "url": "https://www.setlist.fm/setlists/kleber-lucas-3bd788dc.html"
+                }
+              },
+              {
+                "name": "Brincar de viver",
+                "cover": {
+                  "mbid": "27aadd58-a2a2-4df4-8167-d806be0f9146",
+                  "name": "Guilherme Arantes",
+                  "sortName": "Arantes, Guilherme",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/guilherme-arantes-53d71395.html"
+                }
+              },
+              {
+                "name": "Explode coração",
+                "cover": {
+                  "mbid": "7169b325-505c-4daf-aa90-d3a84c112bc7",
+                  "name": "Gonzaguinha",
+                  "sortName": "Gonzaguinha",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gonzaguinha-1bd711f8.html"
+                }
+              },
+              {
+                "name": "As canções que você fez pra mim",
+                "cover": {
+                  "mbid": "e43f8c07-2d2e-47fd-8279-dc0e9880882c",
+                  "name": "Roberto Carlos",
+                  "sortName": "Roberto Carlos",
+                  "disambiguation": "Brazilian singer-songwriter, \"King of Latin Music\"",
+                  "url": "https://www.setlist.fm/setlists/roberto-carlos-6bd4b21a.html"
+                }
+              },
+              {
+                "name": "Negue"
+              },
+              {
+                "name": "Sei lá Mangueira / Atrás da verde e rosa só não vai quem já morreu / Exaltação à Mangueira"
+              },
+              {
+                "name": "Baby",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Vaca profana",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Gîtâ",
+                "cover": {
+                  "mbid": "c4efd92a-5692-41d5-91bb-b23d4b75e735",
+                  "name": "Raul Seixas",
+                  "sortName": "Seixas, Raul",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/raul-seixas-6bd6d23e.html"
+                }
+              },
+              {
+                "name": "O quereres",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Fé",
+                "cover": {
+                  "mbid": "de25f861-7578-49b2-b646-31d2c561d5ed",
+                  "name": "IZA",
+                  "sortName": "IZA",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/iza-23c1c4cf.html"
+                }
+              },
+              {
+                "name": "Reconvexo",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Tudo de novo"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Sampa",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Odara",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/caetano-veloso-and-maria-bethania/2024/allianz-parque-sao-paulo-brazil-73536e2d.html"
+    },
+    {
+      "id": "7b5cbeec",
+      "versionId": "g7b5f5ac8",
+      "eventDate": "17-12-2024",
+      "lastUpdated": "2024-12-17T19:25:57.624+0000",
+      "artist": {
+        "mbid": "cda5d022-15b4-4a3a-8ca7-24248c08dc31",
+        "name": "Lia de Itamaracá",
+        "sortName": "Itamaracá, Lia de",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/lia-de-itamaraca-13fe7941.html"
+      },
+      "venue": {
+        "id": "7bd4fef4",
+        "name": "Teatro Renault",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-renault-sao-paulo-brazil-7bd4fef4.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/lia-de-itamaraca/2024/teatro-renault-sao-paulo-brazil-7b5cbeec.html"
+    },
+    {
+      "id": "7b5cbee8",
+      "versionId": "g635f5ad7",
+      "eventDate": "17-12-2024",
+      "lastUpdated": "2024-12-17T19:25:11.418+0000",
+      "artist": {
+        "mbid": "ed667cac-2fdb-4401-973b-81c5b4a1717d",
+        "name": "Luísa Sonza",
+        "sortName": "Luísa Sonza",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/luisa-sonza-7bcad274.html"
+      },
+      "venue": {
+        "id": "7bd4fef4",
+        "name": "Teatro Renault",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-renault-sao-paulo-brazil-7bd4fef4.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/luisa-sonza/2024/teatro-renault-sao-paulo-brazil-7b5cbee8.html"
+    },
+    {
+      "id": "735cbeed",
+      "versionId": "g635f5acb",
+      "eventDate": "17-12-2024",
+      "lastUpdated": "2024-12-17T19:25:43.028+0000",
+      "artist": {
+        "mbid": "41dd10b2-0c6d-49f8-8593-9b6dc431813c",
+        "name": "Zaynara",
+        "sortName": "Zaynara",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/zaynara-6be47e06.html"
+      },
+      "venue": {
+        "id": "7bd4fef4",
+        "name": "Teatro Renault",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-renault-sao-paulo-brazil-7bd4fef4.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/zaynara/2024/teatro-renault-sao-paulo-brazil-735cbeed.html"
+    }
+  ]
+}

@@ -1,0 +1,1533 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 9,
+  "total": 2415,
+  "setlist": [
+    {
+      "id": "23aecc93",
+      "versionId": "g538a6381",
+      "eventDate": "07-12-2023",
+      "lastUpdated": "2023-12-26T16:22:55.241+0000",
+      "artist": {
+        "mbid": "ba550d0e-adac-4864-b88b-407cab5e76af",
+        "name": "Paul McCartney",
+        "sortName": "McCartney, Paul",
+        "disambiguation": "The Beatles",
+        "url": "https://www.setlist.fm/setlists/paul-mccartney-13d6bd15.html"
+      },
+      "venue": {
+        "id": "6bd41616",
+        "name": "Allianz Parque",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/allianz-parque-sao-paulo-brazil-6bd41616.html"
+      },
+      "tour": {
+        "name": "Got Back"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Coming Up",
+                "tape": true,
+                "info": "04 Summer Tour Remix"
+              },
+              {
+                "name": "A Day in the Life",
+                "tape": true,
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                },
+                "info": "Shortened; contained elements of \"The End\""
+              },
+              {
+                "name": "Can't Buy Me Love",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Junior's Farm",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "Letting Go",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "She's a Woman",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Got to Get You Into My Life",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Come On to Me"
+              },
+              {
+                "name": "Let Me Roll It",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                },
+                "info": "With \"Foxy Lady\" by Jimi Hendrix coda"
+              },
+              {
+                "name": "Getting Better",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Let 'Em In",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "My Valentine",
+                "info": "Dedicated to Nancy Shevell, who was in the audience"
+              },
+              {
+                "name": "Nineteen Hundred and Eighty-Five",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "Maybe I'm Amazed"
+              },
+              {
+                "name": "I've Just Seen a Face",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "In Spite of All the Danger",
+                "cover": {
+                  "mbid": "9fcc463b-7cfc-4ea4-a65e-bab77fc78e9a",
+                  "name": "The Quarrymen",
+                  "sortName": "Quarrymen, The",
+                  "disambiguation": "British group that evolved into The Beatles",
+                  "url": "https://www.setlist.fm/setlists/the-quarrymen-3bd6883c.html"
+                }
+              },
+              {
+                "name": "Love Me Do",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Dance Tonight"
+              },
+              {
+                "name": "Blackbird",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Here Today",
+                "info": "Dedicated to John Lennon"
+              },
+              {
+                "name": "New"
+              },
+              {
+                "name": "Lady Madonna",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Jet",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "Being for the Benefit of Mr. Kite!",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Something",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                },
+                "info": "Dedicated to George Harrison"
+              },
+              {
+                "name": "Ob-La-Di, Ob-La-Da",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Band on the Run",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "Get Back",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Let It Be",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Live and Let Die",
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              },
+              {
+                "name": "Hey Jude",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "I've Got a Feeling",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                },
+                "info": "With virtual duet with John Lennon from The Beatles rooftop concert and new coda"
+              },
+              {
+                "name": "Birthday",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Helter Skelter",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Golden Slumbers",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "Carry That Weight",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "The End",
+                "cover": {
+                  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+                  "name": "The Beatles",
+                  "sortName": "Beatles, The",
+                  "disambiguation": "UK rock band, “The Fab Four”",
+                  "url": "https://www.setlist.fm/setlists/the-beatles-23d6a88b.html"
+                }
+              },
+              {
+                "name": "No More Lonely Nights",
+                "tape": true
+              },
+              {
+                "name": "My Love",
+                "tape": true,
+                "cover": {
+                  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+                  "name": "Wings",
+                  "sortName": "Wings",
+                  "disambiguation": "Paul McCartney’s band",
+                  "url": "https://www.setlist.fm/setlists/wings-23d68837.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/paul-mccartney/2023/allianz-parque-sao-paulo-brazil-23aecc93.html"
+    },
+    {
+      "id": "3bae4cc0",
+      "versionId": "g638a8627",
+      "eventDate": "06-12-2023",
+      "lastUpdated": "2023-12-17T15:34:05.744+0000",
+      "artist": {
+        "mbid": "cacb7214-2881-44f3-9dfc-053e22449acb",
+        "name": "NX Zero",
+        "sortName": "NX Zero",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nx-zero-23d6541f.html"
+      },
+      "venue": {
+        "id": "3bd63414",
+        "name": "Hangar 110",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/hangar-110-sao-paulo-brazil-3bd63414.html"
+      },
+      "tour": {
+        "name": "Tour Cedo ou Tarde"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/nx-zero/2023/hangar-110-sao-paulo-brazil-3bae4cc0.html"
+    },
+    {
+      "id": "6baec26a",
+      "versionId": "g38c654b",
+      "eventDate": "05-12-2023",
+      "lastUpdated": "2023-12-06T02:41:17.782+0000",
+      "artist": {
+        "mbid": "30af9387-037c-4f4f-9a81-17c6d9f5a26e",
+        "name": "Gloria Groove",
+        "sortName": "Groove, Gloria",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/gloria-groove-23c11053.html"
+      },
+      "venue": {
+        "id": "53d7cb1d",
+        "name": "Transamerica Expo Center",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/transamerica-expo-center-sao-paulo-brazil-53d7cb1d.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/gloria-groove/2023/transamerica-expo-center-sao-paulo-brazil-6baec26a.html"
+    },
+    {
+      "id": "6baf8e0a",
+      "versionId": "g5b8a5fcc",
+      "eventDate": "04-12-2023",
+      "lastUpdated": "2023-12-26T23:05:22.888+0000",
+      "artist": {
+        "mbid": "5b3102e1-57e4-49b1-a912-3123630536b4",
+        "name": "Lamparina",
+        "sortName": "Lamparina",
+        "disambiguation": "Lamparina e a Primavera",
+        "url": "https://www.setlist.fm/setlists/lamparina-4bfe1f2e.html"
+      },
+      "venue": {
+        "id": "6bd7fa42",
+        "name": "União Fraterna",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/uniao-fraterna-sao-paulo-brazil-6bd7fa42.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/lamparina/2023/uniao-fraterna-sao-paulo-brazil-6baf8e0a.html"
+    },
+    {
+      "id": "63af8e0f",
+      "versionId": "g538a5fc1",
+      "eventDate": "04-12-2023",
+      "lastUpdated": "2023-12-26T23:05:57.016+0000",
+      "artist": {
+        "mbid": "01483051-308a-4e94-97e2-35f87275c421",
+        "name": "Marissol Mwaba",
+        "sortName": "Marissol Mwaba",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/marissol-mwaba-3fb69af.html"
+      },
+      "venue": {
+        "id": "6bd7fa42",
+        "name": "União Fraterna",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/uniao-fraterna-sao-paulo-brazil-6bd7fa42.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/marissol-mwaba/2023/uniao-fraterna-sao-paulo-brazil-63af8e0f.html"
+    },
+    {
+      "id": "23aec8bb",
+      "versionId": "g138c794d",
+      "eventDate": "04-12-2023",
+      "lastUpdated": "2023-12-05T14:43:59.138+0000",
+      "artist": {
+        "mbid": "be540c02-7898-4b79-9acc-c8122c7d9e83",
+        "name": "Pet Shop Boys",
+        "sortName": "Pet Shop Boys",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/pet-shop-boys-7bd6ae70.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "tour": {
+        "name": "Dreamworld - The Greatest Hits Live"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Suburbia"
+              },
+              {
+                "name": "Can You Forgive Her?"
+              },
+              {
+                "name": "Opportunities (Let's Make Lots of Money)"
+              },
+              {
+                "name": "Where the Streets Have No Name (I Can't Take My Eyes Off You)"
+              },
+              {
+                "name": "Rent"
+              },
+              {
+                "name": "I Don't Know What You Want but I Can't Give It Any More"
+              },
+              {
+                "name": "So Hard"
+              },
+              {
+                "name": "Left to My Own Devices"
+              },
+              {
+                "name": "Single-Bilingual / Se a vida é (That's the Way Life Is)"
+              },
+              {
+                "name": "You Only Tell Me You Love Me When You're Drunk",
+                "info": "Acoustic"
+              },
+              {
+                "name": "Love Comes Quickly"
+              },
+              {
+                "name": "Paninaro"
+              },
+              {
+                "name": "You Were Always on My Mind",
+                "cover": {
+                  "mbid": "bd518350-09ad-4ecc-934e-11168e84227c",
+                  "name": "Gwen McCrae",
+                  "sortName": "McCrae, Gwen",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gwen-mccrae-4bd7b74a.html"
+                }
+              },
+              {
+                "name": "Dreamland"
+              },
+              {
+                "name": "Heart"
+              },
+              {
+                "name": "What Have I Done to Deserve This?"
+              },
+              {
+                "name": "It's Alright",
+                "cover": {
+                  "mbid": "c28ed38d-3e91-4e20-9bf1-77fbad66c602",
+                  "name": "Sterling Void",
+                  "sortName": "Void, Sterling",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sterling-void-1bd765e0.html"
+                }
+              },
+              {
+                "name": "Vocal"
+              },
+              {
+                "name": "Go West",
+                "cover": {
+                  "mbid": "f19d3d49-be22-4ca6-9903-64d86984fbf2",
+                  "name": "Village People",
+                  "sortName": "Village People",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/village-people-1bd6bd40.html"
+                }
+              },
+              {
+                "name": "It's a Sin"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "West End Girls"
+              },
+              {
+                "name": "Being Boring"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/pet-shop-boys/2023/audio-sao-paulo-brazil-23aec8bb.html"
+    },
+    {
+      "id": "baef17a",
+      "versionId": "g738cf6c1",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2023-12-01T03:05:55.431+0000",
+      "artist": {
+        "mbid": "c729f4f3-3bfb-4bcd-92b8-673ba30d389b",
+        "name": "KL Jay",
+        "sortName": "KL Jay",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/kl-jay-3da8923.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/kl-jay/2023/autodromo-de-interlagos-sao-paulo-brazil-baef17a.html"
+    },
+    {
+      "id": "baef172",
+      "versionId": "g638c2683",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2023-12-03T22:17:30.103+0000",
+      "artist": {
+        "mbid": "4c56405d-ba8e-4283-99c3-1dc95bdd50e7",
+        "name": "Róisín Murphy",
+        "sortName": "Murphy, Róisín",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/roisin-murphy-5bd63304.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "tour": {
+        "name": "Hit Parade Tour"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Can't Replicate"
+              },
+              {
+                "name": "The Time Is Now",
+                "cover": {
+                  "mbid": "2f94016a-3880-4d8c-9af9-0e197ee77189",
+                  "name": "Moloko",
+                  "sortName": "Moloko",
+                  "disambiguation": "English‐Irish electronic music duo",
+                  "url": "https://www.setlist.fm/setlists/moloko-1bd6bd14.html"
+                }
+              },
+              {
+                "name": "Overpowered"
+              },
+              {
+                "name": "CooCool"
+              },
+              {
+                "name": "Something More / Let Me Know"
+              },
+              {
+                "name": "Incapable"
+              },
+              {
+                "name": "Sing It Back",
+                "cover": {
+                  "mbid": "2f94016a-3880-4d8c-9af9-0e197ee77189",
+                  "name": "Moloko",
+                  "sortName": "Moloko",
+                  "disambiguation": "English‐Irish electronic music duo",
+                  "url": "https://www.setlist.fm/setlists/moloko-1bd6bd14.html"
+                }
+              },
+              {
+                "name": "Murphy's Law"
+              },
+              {
+                "name": "Ramalama (Bang Bang)"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/roisin-murphy/2023/autodromo-de-interlagos-sao-paulo-brazil-baef172.html"
+    },
+    {
+      "id": "7baef69c",
+      "versionId": "g638cf6e3",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2023-12-01T03:02:42.562+0000",
+      "artist": {
+        "mbid": "584858ba-7a3b-49dc-b1b0-87ee58d1a984",
+        "name": "Nelson D",
+        "sortName": "Nelson D",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nelson-d-6bfb0a1a.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/nelson-d/2023/autodromo-de-interlagos-sao-paulo-brazil-7baef69c.html"
+    },
+    {
+      "id": "7baef698",
+      "versionId": "g7b8cf6e8",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2023-12-01T03:02:12.004+0000",
+      "artist": {
+        "mbid": "2913807a-22ac-4f0a-95a7-b09652ba0833",
+        "name": "Mateus Fazeno Rock",
+        "sortName": "Fazeno Rock, Mateus",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/mateus-fazeno-rock-53f933fd.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/mateus-fazeno-rock/2023/autodromo-de-interlagos-sao-paulo-brazil-7baef698.html"
+    },
+    {
+      "id": "7baef68c",
+      "versionId": "g7b8cf6d4",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2023-12-01T03:04:26.058+0000",
+      "artist": {
+        "mbid": "96f6ec97-998c-4991-b836-7b71feb3ca6f",
+        "name": "TOKiMONSTA",
+        "sortName": "TOKiMONSTA",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/tokimonsta-bd46122.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/tokimonsta/2023/autodromo-de-interlagos-sao-paulo-brazil-7baef68c.html"
+    },
+    {
+      "id": "73aef691",
+      "versionId": "g7b8cf6e4",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2023-12-01T03:03:04.326+0000",
+      "artist": {
+        "mbid": "f8cd5917-157e-4402-9d42-8cce215d815f",
+        "name": "Catto",
+        "sortName": "Catto, Filipe",
+        "disambiguation": "Brazilian artist formerly known as Filipe Catto",
+        "url": "https://www.setlist.fm/setlists/catto-7bd436d8.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/catto/2023/autodromo-de-interlagos-sao-paulo-brazil-73aef691.html"
+    },
+    {
+      "id": "73aef689",
+      "versionId": "g738cf6d1",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2023-12-01T03:03:55.369+0000",
+      "artist": {
+        "mbid": "8bb27dd8-d04a-4c38-a8f5-1536d20fc033",
+        "name": "DJ Mau Mau",
+        "sortName": "Mau Mau, DJ",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/dj-mau-mau-73d7228d.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/dj-mau-mau/2023/autodromo-de-interlagos-sao-paulo-brazil-73aef689.html"
+    },
+    {
+      "id": "73aeeaed",
+      "versionId": "g438cd77f",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2023-12-02T04:46:20.337+0000",
+      "artist": {
+        "mbid": "2674d9a0-7647-4220-8c10-6d8d0c9677d9",
+        "name": "Carlos Lyra",
+        "sortName": "Lyra, Carlos",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/carlos-lyra-2bd7fc26.html"
+      },
+      "venue": {
+        "id": "3bd61ce8",
+        "name": "SESC Pompéia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-pompeia-sao-paulo-brazil-3bd61ce8.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/carlos-lyra/2023/sesc-pompeia-sao-paulo-brazil-73aeeaed.html"
+    },
+    {
+      "id": "6baef6a6",
+      "versionId": "g234ad46f",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2025-05-17T15:15:34.013+0000",
+      "artist": {
+        "mbid": "7b386755-2a76-4da9-9e10-37e5657d9fd7",
+        "name": "Sophia Chablau e Uma Enorme Perda de Tempo",
+        "sortName": "Uma Enorme Perda de Tempo, Sophia Chablau",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/sophia-chablau-e-uma-enorme-perda-de-tempo-33f65491.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Minha mãe é perfeita"
+              },
+              {
+                "name": "Baby míssil"
+              },
+              {
+                "name": "Idas e vindas do amor"
+              },
+              {
+                "name": "Fora do meu quarto"
+              },
+              {
+                "name": "Embaraço total"
+              },
+              {
+                "name": "Neurose"
+              },
+              {
+                "name": "Quem vai apagar a luz"
+              },
+              {
+                "name": "Delícia/Luxúria"
+              },
+              {
+                "name": "Segredo"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/sophia-chablau-e-uma-enorme-perda-de-tempo/2023/autodromo-de-interlagos-sao-paulo-brazil-6baef6a6.html"
+    },
+    {
+      "id": "6baef682",
+      "versionId": "g6b8cf6ca",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2023-12-01T03:04:54.545+0000",
+      "artist": {
+        "mbid": "3f351696-75a2-4167-86b1-c5cd37770600",
+        "name": "The Blessed Madonna",
+        "sortName": "Blessed Madonna, The",
+        "disambiguation": "house/disco artist Marea Stamper",
+        "url": "https://www.setlist.fm/setlists/the-blessed-madonna-63d006bf.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/the-blessed-madonna/2023/autodromo-de-interlagos-sao-paulo-brazil-6baef682.html"
+    },
+    {
+      "id": "63aef687",
+      "versionId": "g38c0d1f",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2023-12-04T18:04:11.114+0000",
+      "artist": {
+        "mbid": "7f0e5963-41d3-4f68-91ed-39c81becb546",
+        "name": "Mu540",
+        "sortName": "Mu540",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/mu540-43ff531b.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "DESCE LICOR"
+              },
+              {
+                "name": "tipo, sonho de consumo!"
+              },
+              {
+                "name": "brinks!"
+              },
+              {
+                "name": "SE CONCENTRA"
+              },
+              {
+                "name": "JATADA NOSTÁLGICA AUTOMOTIVA"
+              },
+              {
+                "name": "Diaba",
+                "cover": {
+                  "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+                  "name": "Urias",
+                  "sortName": "Urias",
+                  "disambiguation": "Brazilian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+                },
+                "with": {
+                  "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+                  "name": "Urias",
+                  "sortName": "Urias",
+                  "disambiguation": "Brazilian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+                }
+              },
+              {
+                "name": "Peligrosa",
+                "cover": {
+                  "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+                  "name": "Urias",
+                  "sortName": "Urias",
+                  "disambiguation": "Brazilian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+                },
+                "with": {
+                  "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+                  "name": "Urias",
+                  "sortName": "Urias",
+                  "disambiguation": "Brazilian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+                }
+              },
+              {
+                "name": "Je ne sais quoi",
+                "cover": {
+                  "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+                  "name": "Urias",
+                  "sortName": "Urias",
+                  "disambiguation": "Brazilian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+                },
+                "with": {
+                  "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+                  "name": "Urias",
+                  "sortName": "Urias",
+                  "disambiguation": "Brazilian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+                }
+              },
+              {
+                "name": "Magnata",
+                "cover": {
+                  "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+                  "name": "Urias",
+                  "sortName": "Urias",
+                  "disambiguation": "Brazilian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+                },
+                "with": {
+                  "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+                  "name": "Urias",
+                  "sortName": "Urias",
+                  "disambiguation": "Brazilian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+                }
+              },
+              {
+                "name": "Cuntelectual",
+                "cover": {
+                  "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+                  "name": "Urias",
+                  "sortName": "Urias",
+                  "disambiguation": "Brazilian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+                },
+                "with": {
+                  "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+                  "name": "Urias",
+                  "sortName": "Urias",
+                  "disambiguation": "Brazilian singer-songwriter",
+                  "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/mu540/2023/autodromo-de-interlagos-sao-paulo-brazil-63aef687.html"
+    },
+    {
+      "id": "4baef762",
+      "versionId": "gbb0c93e",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2024-03-25T12:41:35.821+0000",
+      "artist": {
+        "mbid": "9eaf4321-20b8-4611-bc82-493a361104e3",
+        "name": "El Mató a un Policía Motorizado",
+        "sortName": "El Mató a un Policía Motorizado",
+        "disambiguation": "Argentinian indie rock band",
+        "url": "https://www.setlist.fm/setlists/el-mato-a-un-policia-motorizado-1bd7b9d8.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "tour": {
+        "name": "Gira Mundial Súper Terror 2023"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "El magnetismo"
+              },
+              {
+                "name": "Un segundo plan"
+              },
+              {
+                "name": "La noche eterna"
+              },
+              {
+                "name": "El perro"
+              },
+              {
+                "name": "Más o menos bien"
+              },
+              {
+                "name": "Tantas cosas buenas"
+              },
+              {
+                "name": "Chica rutera"
+              },
+              {
+                "name": "Medalla de oro"
+              },
+              {
+                "name": "Diamante roto"
+              },
+              {
+                "name": "El tesoro"
+              },
+              {
+                "name": "Yoni B"
+              },
+              {
+                "name": "Excálibur"
+              },
+              {
+                "name": "El mundo extraño"
+              },
+              {
+                "name": "Ahora imagino cosas"
+              },
+              {
+                "name": "Chica de oro"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/el-mato-a-un-policia-motorizado/2023/autodromo-de-interlagos-sao-paulo-brazil-4baef762.html"
+    },
+    {
+      "id": "3baef4d4",
+      "versionId": "g1b8c790c",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2023-12-05T14:59:05.350+0000",
+      "artist": {
+        "mbid": "7bab7a05-8b0f-4778-b0b8-02dd6deb463a",
+        "name": "Just Mustard",
+        "sortName": "Just Mustard",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/just-mustard-6bcb3e72.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Seven"
+              },
+              {
+                "name": "I Am You"
+              },
+              {
+                "name": "Curtains"
+              },
+              {
+                "name": "Deaf"
+              },
+              {
+                "name": "Frank"
+              },
+              {
+                "name": "Tainted"
+              },
+              {
+                "name": "October"
+              },
+              {
+                "name": "Still"
+              },
+              {
+                "name": "Seed"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/just-mustard/2023/autodromo-de-interlagos-sao-paulo-brazil-3baef4d4.html"
+    },
+    {
+      "id": "3baef4bc",
+      "versionId": "g53b61fe5",
+      "eventDate": "03-12-2023",
+      "lastUpdated": "2024-02-02T21:18:36.788+0000",
+      "artist": {
+        "mbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+        "name": "Marina Sena",
+        "sortName": "Sena, Marina",
+        "disambiguation": "Brazilian singer-songwriter",
+        "url": "https://www.setlist.fm/setlists/marina-sena-13f0f1f5.html"
+      },
+      "venue": {
+        "id": "5bd6c74c",
+        "name": "Autódromo de Interlagos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/autodromo-de-interlagos-sao-paulo-brazil-5bd6c74c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Meu paraíso sou eu",
+                "tape": true
+              },
+              {
+                "name": "Sonho bom"
+              },
+              {
+                "name": "Me toca"
+              },
+              {
+                "name": "Tudo pra amar você"
+              },
+              {
+                "name": "Me ganhar"
+              },
+              {
+                "name": "Dano sarrada"
+              },
+              {
+                "name": "Por supuesto"
+              },
+              {
+                "name": "Olho no gato"
+              },
+              {
+                "name": "Partiu capoeira"
+              },
+              {
+                "name": "Ombrim",
+                "cover": {
+                  "mbid": "bb2931a2-a9f9-4a40-abfd-19dd76f6edce",
+                  "name": "Rosa Neon",
+                  "sortName": "Neon, Rosa",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/rosa-neon-53f7635d.html"
+                },
+                "info": "shortened"
+              },
+              {
+                "name": "Pelejei"
+              },
+              {
+                "name": "Mande um sinal"
+              },
+              {
+                "name": "Mais de mil"
+              },
+              {
+                "name": "Que tal"
+              },
+              {
+                "name": "Voltei pra mim"
+              },
+              {
+                "name": "Tudo seu"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/marina-sena/2023/autodromo-de-interlagos-sao-paulo-brazil-3baef4bc.html"
+    }
+  ]
+}

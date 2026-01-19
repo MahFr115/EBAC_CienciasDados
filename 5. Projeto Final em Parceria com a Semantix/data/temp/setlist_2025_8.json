@@ -1,0 +1,1512 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 8,
+  "total": 3170,
+  "setlist": [
+    {
+      "id": "7b4fc604",
+      "versionId": "g3b652cc0",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-11-10T12:10:12.801+0000",
+      "artist": {
+        "mbid": "f2aa414f-6874-4023-b25a-bd4948d90bb9",
+        "name": "CACO/CONCHA",
+        "sortName": "CACO/CONCHA",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/cacoconcha-4b92b75e.html"
+      },
+      "venue": {
+        "id": "3bd18010",
+        "name": "Escola Politécnica da USP (Universidade Estadual de São Paulo)",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/escola-politecnica-da-usp-universidade-estadual-de-sao-paulo-sao-paulo-brazil-3bd18010.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Kim"
+              },
+              {
+                "name": "Modo avião"
+              },
+              {
+                "name": "Cassis cornuta"
+              },
+              {
+                "name": "I Wonder"
+              },
+              {
+                "name": "Diádromo"
+              },
+              {
+                "name": "Serasa Experience"
+              },
+              {
+                "name": "São Sebastião"
+              },
+              {
+                "name": "Parlo Giallo",
+                "info": "Live debut"
+              },
+              {
+                "name": "Chit Chat",
+                "info": "Live debut"
+              },
+              {
+                "name": "Babel"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/cacoconcha/2025/escola-politecnica-da-usp-universidade-estadual-de-sao-paulo-sao-paulo-brazil-7b4fc604.html"
+    },
+    {
+      "id": "7b4e2e14",
+      "versionId": "g236480d3",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-10-31T23:11:52.458+0000",
+      "artist": {
+        "mbid": "f18b8a7d-93b6-40ea-a9ef-122c6f3b787a",
+        "name": "Lagum",
+        "sortName": "Lagum",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/lagum-7bc88684.html"
+      },
+      "venue": {
+        "id": "13d17139",
+        "name": "MorumBIS",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/morumbis-sao-paulo-brazil-13d17139.html"
+      },
+      "tour": {
+        "name": "As Cores, as Curvas e as Dores do Mundo Tour"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Eterno agora"
+              },
+              {
+                "name": "Oi"
+              },
+              {
+                "name": "Bem melhor"
+              },
+              {
+                "name": "Universo de coisas que eu desconheço"
+              },
+              {
+                "name": "Eu não valho nada"
+              },
+              {
+                "name": "Não vou mentir"
+              },
+              {
+                "name": "Habite-se"
+              },
+              {
+                "name": "A cidade"
+              },
+              {
+                "name": "Telefone"
+              },
+              {
+                "name": "Hoje eu quero me perder"
+              },
+              {
+                "name": "Deixa"
+              },
+              {
+                "name": "NINGUÉM ME ENSINOU"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Opening act for Imagine Dragons",
+      "url": "https://www.setlist.fm/setlist/lagum/2025/morumbis-sao-paulo-brazil-7b4e2e14.html"
+    },
+    {
+      "id": "6b4faa36",
+      "versionId": "g6b64e2be",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-11-02T02:13:33.301+0000",
+      "artist": {
+        "mbid": "30543f92-121b-4f24-b716-4745b05b8eda",
+        "name": "Eddie",
+        "sortName": "Eddie",
+        "disambiguation": "Brazilian band from Pernambuco",
+        "url": "https://www.setlist.fm/setlists/eddie-3bc4bc68.html"
+      },
+      "venue": {
+        "id": "5bd10f88",
+        "name": "City Lights Music Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/city-lights-music-hall-sao-paulo-brazil-5bd10f88.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "name": "Original Olinda Style",
+            "song": [
+              {
+                "name": "Olinda Cidade Eterna",
+                "tape": true
+              },
+              {
+                "name": "Eu Sou Eddie"
+              },
+              {
+                "name": "Sentado na Beira do Rio"
+              },
+              {
+                "name": "Peixinhos"
+              },
+              {
+                "name": "Pode me Chamar"
+              },
+              {
+                "name": "O Amargo"
+              },
+              {
+                "name": "O Céu"
+              },
+              {
+                "name": "Radistae"
+              },
+              {
+                "name": "Urubu, Gabiru, Cachorro e Gente"
+              },
+              {
+                "name": "Não Vou Embora"
+              },
+              {
+                "name": "Eu Ia"
+              },
+              {
+                "name": "Futebol e Mulher"
+              },
+              {
+                "name": "Falta de Sol"
+              },
+              {
+                "name": "Guia de Olinda"
+              }
+            ]
+          },
+          {
+            "name": "",
+            "song": [
+              {
+                "name": "Quando a Maré Encher"
+              },
+              {
+                "name": "Desequilíbrio"
+              },
+              {
+                "name": "Vida Boa"
+              },
+              {
+                "name": "Lealdade"
+              },
+              {
+                "name": "Danada"
+              },
+              {
+                "name": "Para Tirar Coco",
+                "cover": {
+                  "mbid": "4f2d7238-d81e-4798-a158-39b1cc7d0e93",
+                  "name": "Messias Holanda",
+                  "sortName": "Holanda, Messias",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/messias-holanda-1bf1253c.html"
+                }
+              },
+              {
+                "name": "Betinha"
+              },
+              {
+                "name": "Ela Vai Dançar"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Incomplete and out of order",
+      "url": "https://www.setlist.fm/setlist/eddie/2025/city-lights-music-hall-sao-paulo-brazil-6b4faa36.html"
+    },
+    {
+      "id": "5b410798",
+      "versionId": "g3b78d4ac",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-10-02T03:14:00.300+0000",
+      "artist": {
+        "mbid": "8a53dc23-2e4c-4e22-8ed3-dcaab79fdf62",
+        "name": "Vale Cinza",
+        "sortName": "Vale Cinza",
+        "disambiguation": "Brazilian Post-Punk Band",
+        "url": "https://www.setlist.fm/setlists/vale-cinza-739e22b9.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/vale-cinza/2025/la-iglesia-borratxeria-sao-paulo-brazil-5b410798.html"
+    },
+    {
+      "id": "4b41079a",
+      "versionId": "g2378d4af",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-10-02T03:13:49.106+0000",
+      "artist": {
+        "mbid": "9eab9d1a-cdab-4cd6-aa26-7a16000f89b6",
+        "name": "Jesus Complex",
+        "sortName": "Jesus Complex",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/jesus-complex-33d5c04d.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/jesus-complex/2025/la-iglesia-borratxeria-sao-paulo-brazil-4b41079a.html"
+    },
+    {
+      "id": "4341079b",
+      "versionId": "g3b78d4a8",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-10-02T03:13:33.509+0000",
+      "artist": {
+        "mbid": "9a510f44-8160-4059-b535-d70dc040de88",
+        "name": "When I Die",
+        "sortName": "When I Die",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/when-i-die-63e426cb.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/when-i-die/2025/la-iglesia-borratxeria-sao-paulo-brazil-4341079b.html"
+    },
+    {
+      "id": "3b42b458",
+      "versionId": "g3643557",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-11-03T04:39:30.203+0000",
+      "artist": {
+        "mbid": "42884e27-dfb8-453d-990f-2ffd90bc2d1a",
+        "name": "Refused",
+        "sortName": "Refused",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/refused-2bd7a01a.html"
+      },
+      "venue": {
+        "id": "2bd1ac5a",
+        "name": "Terra SP",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/terra-sp-sao-paulo-brazil-2bd1ac5a.html"
+      },
+      "tour": {
+        "name": "Refused Are F**king Dead (and This TIme They Really Mean It) South America 2025"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Poetry Written in Gasoline"
+              },
+              {
+                "name": "The Shape of Punk to Come"
+              },
+              {
+                "name": "The Refused Party Program"
+              },
+              {
+                "name": "Rather Be Dead"
+              },
+              {
+                "name": "Malfire"
+              },
+              {
+                "name": "Liberation Frequency"
+              },
+              {
+                "name": "Summerholidays vs. Punkroutine"
+              },
+              {
+                "name": "The Deadly Rhythm",
+                "info": "with Slayer's \"Raining Blood\" interlude"
+              },
+              {
+                "name": "Circle Pit"
+              },
+              {
+                "name": "Burn It"
+              },
+              {
+                "name": "Economy of Death"
+              },
+              {
+                "name": "Refused Are Fucking Dead"
+              },
+              {
+                "name": "Worms of the Senses/Faculties of the Skull"
+              },
+              {
+                "name": "Elektra"
+              },
+              {
+                "name": "New Noise"
+              },
+              {
+                "name": "Tannhäuser / Derivè"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Pump the Brakes"
+              },
+              {
+                "name": "REV001"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/refused/2025/terra-sp-sao-paulo-brazil-3b42b458.html"
+    },
+    {
+      "id": "341c55f",
+      "versionId": "gb64f9a6",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-11-01T03:42:21.473+0000",
+      "artist": {
+        "mbid": "6ac4d6ec-0d09-4146-9930-0a00f19f5119",
+        "name": "Dominique Fils-Aimé",
+        "sortName": "Fils-Aimé, Dominique",
+        "disambiguation": "Canadian singer",
+        "url": "https://www.setlist.fm/setlists/dominique-fils-aime-13cb3525.html"
+      },
+      "venue": {
+        "id": "43d13763",
+        "name": "Sesc 14 Bis",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-14-bis-sao-paulo-brazil-43d13763.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Feeling Good / Feeling Like A Plant"
+              },
+              {
+                "name": "My Mind at Ease"
+              },
+              {
+                "name": "Home"
+              },
+              {
+                "name": "Birds"
+              },
+              {
+                "name": "Fall and All"
+              },
+              {
+                "name": "Old Love"
+              },
+              {
+                "name": "Love Will Grow Back"
+              },
+              {
+                "name": "Moi je t'aime"
+              },
+              {
+                "name": "Love Take Over"
+              },
+              {
+                "name": "Mind Made Up"
+              },
+              {
+                "name": "Big Man Do Cry"
+              },
+              {
+                "name": "Free Dom"
+              },
+              {
+                "name": "Just Let Me Go"
+              },
+              {
+                "name": "To Walk A Way"
+              },
+              {
+                "name": "Give Me a Reason"
+              },
+              {
+                "name": "Cheers to New Beginnings"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Or Let It Burn"
+              },
+              {
+                "name": "Our Roots Run Deep"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/dominique-fils-aime/2025/sesc-14-bis-sao-paulo-brazil-341c55f.html"
+    },
+    {
+      "id": "34109a7",
+      "versionId": "g6364fa6b",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-11-01T05:10:44.841+0000",
+      "artist": {
+        "mbid": "d316f174-4056-4d7c-b551-99da9925932f",
+        "name": "Baco Exu do Blues",
+        "sortName": "Baco Exu do Blues",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/baco-exu-do-blues-73cf6615.html"
+      },
+      "venue": {
+        "id": "3d021cb",
+        "name": "Espaço Unimed",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/espaco-unimed-sao-paulo-brazil-3d021cb.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Sinto tanta raiva…"
+              },
+              {
+                "name": "Dois amores"
+              },
+              {
+                "name": "20 ligações"
+              },
+              {
+                "name": "Mulheres grandes"
+              },
+              {
+                "name": "piscina vazia"
+              },
+              {
+                "name": "você foi a melhor"
+              },
+              {
+                "name": "limão siciliano"
+              },
+              {
+                "name": "fetiche"
+              },
+              {
+                "name": "pausa da sua tristeza"
+              },
+              {
+                "name": "Você me vira a cabeça (Me tira do sério)",
+                "tape": true,
+                "cover": {
+                  "mbid": "51bde19b-feed-4e6c-99e7-84327defabe2",
+                  "name": "Alcione",
+                  "sortName": "Alcione",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/alcione-53d78fd9.html"
+                },
+                "info": "sung by backing vocal"
+              },
+              {
+                "name": "Me desculpa Jay Z"
+              },
+              {
+                "name": "sodade"
+              },
+              {
+                "name": "Cigana"
+              },
+              {
+                "name": "Hotel caro",
+                "cover": {
+                  "mbid": "ed667cac-2fdb-4401-973b-81c5b4a1717d",
+                  "name": "Luísa Sonza",
+                  "sortName": "Luísa Sonza",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/luisa-sonza-7bcad274.html"
+                }
+              },
+              {
+                "name": "Autoestima"
+              },
+              {
+                "name": "Lágrimas"
+              },
+              {
+                "name": "Samba in Paris"
+              },
+              {
+                "name": "Bluesman"
+              },
+              {
+                "name": "Imortais e fatais 2"
+              },
+              {
+                "name": "4 da manhã em Salvador"
+              },
+              {
+                "name": "Abre caminho"
+              },
+              {
+                "name": "Inimigos"
+              },
+              {
+                "name": "Ela é gostosa pra caralho / Girassóis de Van Gogh / Queima minha pele / Sei partir / Te amo disgraça"
+              },
+              {
+                "name": "Flamingos"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/baco-exu-do-blues/2025/espaco-unimed-sao-paulo-brazil-34109a7.html"
+    },
+    {
+      "id": "334418b9",
+      "versionId": "g376991f",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-06-15T05:47:11.108+0000",
+      "artist": {
+        "mbid": "945c7768-c74e-4b7f-8dd1-ac5fec75c458",
+        "name": "Trend Kill Ghosts",
+        "sortName": "Trend Kill Ghosts",
+        "disambiguation": "Brazilian Power Metal Band",
+        "url": "https://www.setlist.fm/setlists/trend-kill-ghosts-2bf1985e.html"
+      },
+      "venue": {
+        "id": "73d29ac9",
+        "name": "Fabrique Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fabrique-club-sao-paulo-brazil-73d29ac9.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/trend-kill-ghosts/2025/fabrique-club-sao-paulo-brazil-334418b9.html"
+    },
+    {
+      "id": "33409c7d",
+      "versionId": "g637f5e3b",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-08-26T16:11:14.682+0000",
+      "artist": {
+        "mbid": "cda86e8a-a26a-4b3a-959c-bc9f8a88a1c1",
+        "name": "Nando Reis",
+        "sortName": "Reis, Nando",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nando-reis-5bd6c7ec.html"
+      },
+      "venue": {
+        "id": "4bde1b72",
+        "name": "Suhai Music Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/suhai-music-hall-sao-paulo-brazil-4bde1b72.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/nando-reis/2025/suhai-music-hall-sao-paulo-brazil-33409c7d.html"
+    },
+    {
+      "id": "2b458c5a",
+      "versionId": "g3b64c078",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-11-02T20:27:51.747+0000",
+      "artist": {
+        "mbid": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+        "name": "Imagine Dragons",
+        "sortName": "Imagine Dragons",
+        "disambiguation": "American pop rock band",
+        "url": "https://www.setlist.fm/setlists/imagine-dragons-5bd1b7fc.html"
+      },
+      "venue": {
+        "id": "13d17139",
+        "name": "MorumBIS",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/morumbis-sao-paulo-brazil-13d17139.html"
+      },
+      "tour": {
+        "name": "Loom World Tour"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Me and Giuliani Down by the School Yard (A True Story)",
+                "tape": true,
+                "cover": {
+                  "mbid": "f26c72d3-e52c-467b-b651-679c73d8e1a7",
+                  "name": "!!!",
+                  "sortName": "!!!",
+                  "disambiguation": "California dance-punk group",
+                  "url": "https://www.setlist.fm/setlists/--4bd6fbee.html"
+                },
+                "info": "Preshow song"
+              }
+            ]
+          },
+          {
+            "name": "Set 1",
+            "song": [
+              {
+                "name": "LOOM video intro",
+                "tape": true
+              },
+              {
+                "name": "Fire in These Hills"
+              },
+              {
+                "name": "Thunder"
+              },
+              {
+                "name": "Bones"
+              },
+              {
+                "name": "Take Me to the Beach",
+                "info": "Extended"
+              },
+              {
+                "name": "Shots",
+                "info": "Broiler remix"
+              },
+              {
+                "name": "Whatever It Takes"
+              }
+            ]
+          },
+          {
+            "name": "Acoustic",
+            "song": [
+              {
+                "name": "Next to Me",
+                "info": "With band introductions"
+              },
+              {
+                "name": "It's Time"
+              },
+              {
+                "name": "Amsterdam",
+                "info": "Shortened, interrupted due to Dan forgetting the lyrics, then restarted"
+              },
+              {
+                "name": "Follow You",
+                "info": "Shortened"
+              },
+              {
+                "name": "I Bet My Life",
+                "info": "Dan in the barriers"
+              }
+            ]
+          },
+          {
+            "name": "Set 2:",
+            "song": [
+              {
+                "name": "Interlude",
+                "tape": true,
+                "info": "Bad Liar poetry intro"
+              },
+              {
+                "name": "Bad Liar"
+              },
+              {
+                "name": "On Top of the World",
+                "info": "Dan in the barriers"
+              },
+              {
+                "name": "Wake Up",
+                "info": "With beatboxed bridge"
+              },
+              {
+                "name": "Radioactive",
+                "info": "Drum battle outro"
+              },
+              {
+                "name": "Demons"
+              },
+              {
+                "name": "Natural"
+              },
+              {
+                "name": "Walking the Wire"
+              },
+              {
+                "name": "Sharks"
+              },
+              {
+                "name": "Interlude",
+                "tape": true,
+                "info": "Enemy intro"
+              },
+              {
+                "name": "Enemy"
+              },
+              {
+                "name": "Eyes Closed"
+              },
+              {
+                "name": "Birds"
+              },
+              {
+                "name": "Interlude",
+                "tape": true,
+                "info": "Believer intro"
+              },
+              {
+                "name": "Believer"
+              },
+              {
+                "name": "Fire in These Hills",
+                "tape": true,
+                "info": "instrumental"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/imagine-dragons/2025/morumbis-sao-paulo-brazil-2b458c5a.html"
+    },
+    {
+      "id": "2b4418be",
+      "versionId": "gb769912",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-06-15T05:47:37.404+0000",
+      "artist": {
+        "mbid": "ba444ef7-0676-4a62-9440-581413492522",
+        "name": "Seventh Seal",
+        "sortName": "Seventh Seal",
+        "disambiguation": "Brazilian metal band",
+        "url": "https://www.setlist.fm/setlists/seventh-seal-3bcfc460.html"
+      },
+      "venue": {
+        "id": "73d29ac9",
+        "name": "Fabrique Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/fabrique-club-sao-paulo-brazil-73d29ac9.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/seventh-seal/2025/fabrique-club-sao-paulo-brazil-2b4418be.html"
+    },
+    {
+      "id": "234e2413",
+      "versionId": "g6364fe97",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-11-01T03:09:11.163+0000",
+      "artist": {
+        "mbid": "756d315a-ea25-4f7f-a368-780518a84959",
+        "name": "Eu Serei a Hiena",
+        "sortName": "Eu Serei a Hiena",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/eu-serei-a-hiena-7b9e9298.html"
+      },
+      "venue": {
+        "id": "2bd1ac5a",
+        "name": "Terra SP",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/terra-sp-sao-paulo-brazil-2bd1ac5a.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Descompressão"
+              },
+              {
+                "name": "Do the Free the Borders"
+              },
+              {
+                "name": "Na expectativa"
+              },
+              {
+                "name": "Doppelgänger"
+              },
+              {
+                "name": "Chotto Machigatte Iru"
+              },
+              {
+                "name": "Jovem sônico"
+              },
+              {
+                "name": "Talking and Thinking About the Weather"
+              },
+              {
+                "name": "Sob influência do teste Voight-Kampff"
+              },
+              {
+                "name": "Nheengatú"
+              },
+              {
+                "name": "Asterix"
+              },
+              {
+                "name": "Sonâmbulo"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/eu-serei-a-hiena/2025/terra-sp-sao-paulo-brazil-234e2413.html"
+    },
+    {
+      "id": "1b4ec910",
+      "versionId": "g4b663b42",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-10-18T02:20:28.252+0000",
+      "artist": {
+        "mbid": "2df823c6-a100-489b-b670-59ebbfb4e0e3",
+        "name": "Cólera",
+        "sortName": "Cólera",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/colera-6bd712f6.html"
+      },
+      "venue": {
+        "id": "2bd2c07e",
+        "name": "SESC Avenida Paulista",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-avenida-paulista-sao-paulo-brazil-2bd2c07e.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/colera/2025/sesc-avenida-paulista-sao-paulo-brazil-1b4ec910.html"
+    },
+    {
+      "id": "1b41dd30",
+      "versionId": "gb65853e",
+      "eventDate": "31-10-2025",
+      "lastUpdated": "2025-11-07T23:46:38.699+0000",
+      "artist": {
+        "mbid": "45de883b-cfb6-42c0-bb9a-cfb86e27a18f",
+        "name": "Otoboke Beaver",
+        "sortName": "Otoboke Beaver",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/otoboke-beaver-63c0f6cf.html"
+      },
+      "venue": {
+        "id": "23de9453",
+        "name": "Cine Joia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cine-joia-sao-paulo-brazil-23de9453.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Rock 'n' Roll Star",
+                "tape": true,
+                "cover": {
+                  "mbid": "39ab1aed-75e0-4140-bd47-540276886b60",
+                  "name": "Oasis",
+                  "sortName": "Oasis",
+                  "disambiguation": "Noel & Liam Gallagher",
+                  "url": "https://www.setlist.fm/setlists/oasis-bd6bd7e.html"
+                }
+              },
+              {
+                "name": "Yakitori"
+              },
+              {
+                "name": "Akimahenka"
+              },
+              {
+                "name": "Don't light my fire"
+              },
+              {
+                "name": "Bad luck"
+              },
+              {
+                "name": "S'il vous plait"
+              },
+              {
+                "name": "Bakuro Book"
+              },
+              {
+                "name": "Love Is Short"
+              },
+              {
+                "name": "What do you mean you have talk to me at this late date?",
+                "info": "followed by band introductions"
+              },
+              {
+                "name": "Introduce me to your family"
+              },
+              {
+                "name": "Datsu . Hikage no onna"
+              },
+              {
+                "name": "Dirty old fart is waiting for my reaction"
+              },
+              {
+                "name": "I am not maternal"
+              },
+              {
+                "name": "Don't call me Mojo"
+              },
+              {
+                "name": "George & Janice"
+              },
+              {
+                "name": "PARDON?"
+              },
+              {
+                "name": "Ippusu"
+              },
+              {
+                "name": "Sorosoro tenohira kaeshite kuru yatsu ga dete kuru koro",
+                "info": "New song, listed as \"Tenohira\" on the setlist"
+              },
+              {
+                "name": "I won't dish out salads"
+              },
+              {
+                "name": "Leave me alone! No, stay with me!"
+              },
+              {
+                "name": "I don't want to die alone"
+              },
+              {
+                "name": "First-class side-guy"
+              },
+              {
+                "name": "Anata Watashi Daita Ato Yome No Meshi"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Buddy Holly",
+                "cover": {
+                  "mbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+                  "name": "Weezer",
+                  "sortName": "Weezer",
+                  "disambiguation": "American rock band",
+                  "url": "https://www.setlist.fm/setlists/weezer-33d6a4f9.html"
+                },
+                "info": "Acapella snippet sang by Yoyoyoshie"
+              },
+              {
+                "name": "I'm tired of your repeating story"
+              }
+            ]
+          },
+          {
+            "encore": 2,
+            "song": [
+              {
+                "name": "Is there a new album yet?"
+              }
+            ]
+          },
+          {
+            "encore": 3,
+            "song": [
+              {
+                "name": "Ikezu"
+              },
+              {
+                "name": "We Are the Champions",
+                "tape": true,
+                "cover": {
+                  "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name": "Queen",
+                  "sortName": "Queen",
+                  "disambiguation": "UK rock group",
+                  "url": "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "",
+      "url": "https://www.setlist.fm/setlist/otoboke-beaver/2025/cine-joia-sao-paulo-brazil-1b41dd30.html"
+    },
+    {
+      "id": "7b4e3a48",
+      "versionId": "g53667b4d",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-10-19T21:36:22.119+0000",
+      "artist": {
+        "mbid": "f34f0700-1ae5-4b80-b506-252aeff31c71",
+        "name": "Ana Carolina",
+        "sortName": "Ana Carolina",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/ana-carolina-63d62e4f.html"
+      },
+      "venue": {
+        "id": "23d038af",
+        "name": "Tokio Marine Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/tokio-marine-hall-sao-paulo-brazil-23d038af.html"
+      },
+      "tour": {
+        "name": "25 Anas"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/ana-carolina/2025/tokio-marine-hall-sao-paulo-brazil-7b4e3a48.html"
+    },
+    {
+      "id": "73432a45",
+      "versionId": "g23649437",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-10-31T04:16:47.214+0000",
+      "artist": {
+        "mbid": "0b2665a9-14c0-499a-b9fd-46ed09bbf161",
+        "name": "Zé Ibarra",
+        "sortName": "Ibarra, Zé",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/ze-ibarra-43f54b63.html"
+      },
+      "venue": {
+        "id": "33d54c95",
+        "name": "Casa Natura Musical",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-natura-musical-sao-paulo-brazil-33d54c95.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Segredo"
+              },
+              {
+                "name": "Hexagrama 28"
+              },
+              {
+                "name": "Vou-Me Embora",
+                "cover": {
+                  "mbid": "4125b6d6-d421-4c05-ae57-49f7f59dab03",
+                  "name": "Paulo Diniz",
+                  "sortName": "Diniz, Paulo",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/paulo-diniz-6bd5e206.html"
+                }
+              },
+              {
+                "name": "Olho D'Água",
+                "cover": {
+                  "mbid": "b3998c06-04e6-4b1d-bd2a-d5b83572ae7b",
+                  "name": "Maria Bethânia",
+                  "sortName": "Bethânia, Maria",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/maria-bethania-1bd62d30.html"
+                }
+              },
+              {
+                "name": "Da Menor Importância"
+              },
+              {
+                "name": "Transe"
+              },
+              {
+                "name": "Someone to watch"
+              },
+              {
+                "name": "Dó a dó"
+              },
+              {
+                "name": "Vai atrás da vida que ela te espera"
+              },
+              {
+                "name": "Hello",
+                "cover": {
+                  "mbid": "8403eeda-a0b6-4785-a138-6a871a0f2bc2",
+                  "name": "Sophia Chablau",
+                  "sortName": "Chablau, Sophia",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/sophia-chablau-43ffe3a7.html"
+                }
+              },
+              {
+                "name": "Lobo bobo"
+              },
+              {
+                "name": "Morena"
+              },
+              {
+                "name": "Infinito em nós"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Nobreza"
+              },
+              {
+                "name": "Retrato de Maria Lúcia"
+              },
+              {
+                "name": "O último vôo"
+              },
+              {
+                "name": "Essa confusão"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/ze-ibarra/2025/casa-natura-musical-sao-paulo-brazil-73432a45.html"
+    },
+    {
+      "id": "6b4e62c2",
+      "versionId": "g136771a1",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-10-27T20:11:08.003+0000",
+      "artist": {
+        "mbid": "762f8713-15d0-45d7-b0d3-f989bfe1d233",
+        "name": "Curumin",
+        "sortName": "Curumin",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/curumin-63d77edf.html"
+      },
+      "venue": {
+        "id": "bd2253a",
+        "name": "Mundo Pensante",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/mundo-pensante-sao-paulo-brazil-bd2253a.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/curumin/2025/mundo-pensante-sao-paulo-brazil-6b4e62c2.html"
+    },
+    {
+      "id": "634fb66f",
+      "versionId": "g7b64e2a4",
+      "eventDate": "30-10-2025",
+      "lastUpdated": "2025-11-02T02:17:00.314+0000",
+      "artist": {
+        "mbid": "be00d346-8bb2-461e-9d5d-b1f1d63624b3",
+        "name": "Fruko",
+        "sortName": "Fruko",
+        "disambiguation": "Julio Ernesto Estrada Rincón",
+        "url": "https://www.setlist.fm/setlists/fruko-43d14793.html"
+      },
+      "venue": {
+        "id": "3bd61ce8",
+        "name": "SESC Pompéia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-pompeia-sao-paulo-brazil-3bd61ce8.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/fruko/2025/sesc-pompeia-sao-paulo-brazil-634fb66f.html"
+    }
+  ]
+}

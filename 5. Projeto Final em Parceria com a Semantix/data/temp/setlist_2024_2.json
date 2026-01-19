@@ -1,0 +1,974 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 2,
+  "total": 2954,
+  "setlist": [
+    {
+      "id": "5b5ff300",
+      "versionId": "g435cdf53",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-22T00:31:56.760+0000",
+      "artist": {
+        "mbid": "30eec9a6-a534-487d-9267-66c9797b9a9d",
+        "name": "Azeroth",
+        "sortName": "Azeroth",
+        "disambiguation": "power metal group from Argentina",
+        "url": "https://www.setlist.fm/setlists/azeroth-7bdcfe54.html"
+      },
+      "venue": {
+        "id": "23d038af",
+        "name": "Tokio Marine Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/tokio-marine-hall-sao-paulo-brazil-23d038af.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Left Behind"
+              },
+              {
+                "name": "Falling Mask"
+              },
+              {
+                "name": "Urd"
+              },
+              {
+                "name": "The Promise"
+              },
+              {
+                "name": "La salida"
+              },
+              {
+                "name": "Beyond Chaos"
+              },
+              {
+                "name": "Prelude to Oblivion",
+                "cover": {
+                  "mbid": "738ff9d9-c3f2-4329-9604-36ae354905de",
+                  "name": "Viper",
+                  "sortName": "Viper",
+                  "disambiguation": "Brazilian metal band",
+                  "url": "https://www.setlist.fm/setlists/viper-bd6f98a.html"
+                }
+              },
+              {
+                "name": "Trails of Destiny"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/azeroth/2024/tokio-marine-hall-sao-paulo-brazil-5b5ff300.html"
+    },
+    {
+      "id": "5b5f13dc",
+      "versionId": "g3b5e4410",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-10T22:44:31.675+0000",
+      "artist": {
+        "mbid": "1d437204-5dbd-4282-b04f-9eb7df4d5b64",
+        "name": "Nitrominds",
+        "sortName": "Nitrominds",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nitrominds-23d6c0c7.html"
+      },
+      "venue": {
+        "id": "4bd1b3f2",
+        "name": "Centro Cultural Tendal da Lapa",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-cultural-tendal-da-lapa-sao-paulo-brazil-4bd1b3f2.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/nitrominds/2024/centro-cultural-tendal-da-lapa-sao-paulo-brazil-5b5f13dc.html"
+    },
+    {
+      "id": "5b530368",
+      "versionId": "g3b742850",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2025-07-02T10:08:45.173+0000",
+      "artist": {
+        "mbid": "051439e5-478e-4c03-8bea-774ad0c28c12",
+        "name": "Information Society",
+        "sortName": "Information Society",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/information-society-43d65393.html"
+      },
+      "venue": {
+        "id": "43d01ba3",
+        "name": "Vibra São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/vibra-sao-paulo-sao-paulo-brazil-43d01ba3.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Extraordinary Popular Delusions and the Madness of Crowds"
+              },
+              {
+                "name": "I Like the Way You Werk It"
+              },
+              {
+                "name": "Running"
+              },
+              {
+                "name": "Growing Up With Shiva"
+              },
+              {
+                "name": "Make It Funky",
+                "tape": true,
+                "info": "Wardrobe change"
+              },
+              {
+                "name": "Peace & Love, Inc."
+              },
+              {
+                "name": "Walking Away"
+              },
+              {
+                "name": "Fire Tonight"
+              },
+              {
+                "name": "Think"
+              },
+              {
+                "name": "Room 1904"
+              },
+              {
+                "name": "Run Away",
+                "info": "With Marisa Lenhardt"
+              },
+              {
+                "name": "Great Big Disco World",
+                "info": "With Marisa Lenhardt"
+              },
+              {
+                "name": "Don't You Want Me",
+                "cover": {
+                  "mbid": "7adaabfb-acfb-47bc-8c7c-59471c2f0db8",
+                  "name": "The Human League",
+                  "sortName": "Human League, The",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/the-human-league-7bd6ba44.html"
+                },
+                "info": "With Marisa Lenhardt"
+              },
+              {
+                "name": "Praying to the Aliens",
+                "cover": {
+                  "mbid": "fc0bd304-cfd4-4478-9224-3446134d57fe",
+                  "name": "Tubeway Army",
+                  "sortName": "Tubeway Army",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/tubeway-army-63d60a9f.html"
+                },
+                "info": "With Marisa Lenhardt"
+              },
+              {
+                "name": "Dominion / Mother Russia",
+                "cover": {
+                  "mbid": "553d8166-27b0-49fe-b8e4-89a984e2c375",
+                  "name": "The Sisters of Mercy",
+                  "sortName": "Sisters of Mercy, The",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/the-sisters-of-mercy-7bd6b234.html"
+                },
+                "info": "With Marisa Lenhardt"
+              },
+              {
+                "name": "What's on Your Mind (Pure Energy)",
+                "info": "With Marisa Lenhardt"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Repetition"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/information-society/2024/vibra-sao-paulo-sao-paulo-brazil-5b530368.html"
+    },
+    {
+      "id": "4b5f4b8e",
+      "versionId": "g535f73a1",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-17T00:36:19.046+0000",
+      "artist": {
+        "mbid": "ff3a9243-6de6-48bd-be4e-69f50331f8f0",
+        "name": "Color for Shane",
+        "sortName": "Color for Shane",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/color-for-shane-3ff0dab.html"
+      },
+      "venue": {
+        "id": "6bd5fa96",
+        "name": "Casa Elefante",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-elefante-sao-paulo-brazil-6bd5fa96.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/color-for-shane/2024/casa-elefante-sao-paulo-brazil-4b5f4b8e.html"
+    },
+    {
+      "id": "4b5f13d2",
+      "versionId": "g3b5e4414",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-10T22:44:47.875+0000",
+      "artist": {
+        "mbid": "d5b7a15f-763c-474d-90db-6d40a2578bda",
+        "name": "Amorfo",
+        "sortName": "Amorfo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/amorfo-53e2eba1.html"
+      },
+      "venue": {
+        "id": "4bd1b3f2",
+        "name": "Centro Cultural Tendal da Lapa",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-cultural-tendal-da-lapa-sao-paulo-brazil-4bd1b3f2.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/amorfo/2024/centro-cultural-tendal-da-lapa-sao-paulo-brazil-4b5f13d2.html"
+    },
+    {
+      "id": "3b5f045c",
+      "versionId": "g235fa4af",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-12T00:26:05.262+0000",
+      "artist": {
+        "mbid": "ff5cc1fe-cb1b-444a-acff-c43a5b96814b",
+        "name": "Veigh",
+        "sortName": "Veigh",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/veigh-53ff4b89.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/veigh/2024/neo-quimica-arena-sao-paulo-brazil-3b5f045c.html"
+    },
+    {
+      "id": "3b5c8c7c",
+      "versionId": "gb726d72",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2025-07-18T19:31:19.778+0000",
+      "artist": {
+        "mbid": "cfa7b133-787c-45b6-9f9b-d5885752d71f",
+        "name": "Applegate",
+        "sortName": "Applegate",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/applegate-3bc6e4a4.html"
+      },
+      "venue": {
+        "id": "4bde0fae",
+        "name": "A Porta Maldita",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/a-porta-maldita-sao-paulo-brazil-4bde0fae.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/applegate/2024/a-porta-maldita-sao-paulo-brazil-3b5c8c7c.html"
+    },
+    {
+      "id": "35f01c7",
+      "versionId": "g735f9e41",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-12T09:32:23.444+0000",
+      "artist": {
+        "mbid": "c099c823-a0f2-4b7f-aa59-def5571f6fae",
+        "name": "Estado Laico",
+        "sortName": "Estado Laico",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/estado-laico-13e055d1.html"
+      },
+      "venue": {
+        "id": "6bd16e26",
+        "name": "Gaz Burning Bar",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/gaz-burning-bar-sao-paulo-brazil-6bd16e26.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/estado-laico/2024/gaz-burning-bar-sao-paulo-brazil-35f01c7.html"
+    },
+    {
+      "id": "35e7d13",
+      "versionId": "gb5035d6",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-11-21T20:54:28.988+0000",
+      "artist": {
+        "mbid": "2bfbd369-882a-4f23-a603-6d3aac8001cc",
+        "name": "Funk Como Le Gusta",
+        "sortName": "Funk Como Le Gusta",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/funk-como-le-gusta-1bd64df0.html"
+      },
+      "venue": {
+        "id": "2bd24026",
+        "name": "Blue Note São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/blue-note-sao-paulo-sao-paulo-brazil-2bd24026.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/funk-como-le-gusta/2024/blue-note-sao-paulo-sao-paulo-brazil-35e7d13.html"
+    },
+    {
+      "id": "35c9143",
+      "versionId": "gb5cf1ca",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-21T05:32:11.902+0000",
+      "artist": {
+        "mbid": "43aecce6-2672-424f-bb83-15b1c0f84ee5",
+        "name": "Futuro",
+        "sortName": "Futuro",
+        "disambiguation": "Brazilian Punk Rock/Hardcore band",
+        "url": "https://www.setlist.fm/setlists/futuro-63e782d3.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/futuro/2024/la-iglesia-borratxeria-sao-paulo-brazil-35c9143.html"
+    },
+    {
+      "id": "335f04c9",
+      "versionId": "g6b5fa66e",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-12T01:53:34.832+0000",
+      "artist": {
+        "mbid": "c34a9df5-9c32-4bb6-acd9-8fdeedc971df",
+        "name": "Desalmado",
+        "sortName": "Desalmado",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/desalmado-73db2675.html"
+      },
+      "venue": {
+        "id": "6bd16e26",
+        "name": "Gaz Burning Bar",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/gaz-burning-bar-sao-paulo-brazil-6bd16e26.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/desalmado/2024/gaz-burning-bar-sao-paulo-brazil-335f04c9.html"
+    },
+    {
+      "id": "335f045d",
+      "versionId": "g2b5fa4aa",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-12T00:25:07.525+0000",
+      "artist": {
+        "mbid": "48a3a1c5-8cf3-4a9a-bd5c-5082cf8d3639",
+        "name": "Gusttavo Lima",
+        "sortName": "Lima, Gusttavo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/gusttavo-lima-43d24b5b.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/gusttavo-lima/2024/neo-quimica-arena-sao-paulo-brazil-335f045d.html"
+    },
+    {
+      "id": "235f045f",
+      "versionId": "g2b5fa4b6",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-12T00:24:24.856+0000",
+      "artist": {
+        "mbid": "17978ff5-140c-43b7-85c6-d602a88af6c4",
+        "name": "Vintage Culture",
+        "sortName": "Vintage Culture",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/vintage-culture-23c484ab.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/vintage-culture/2024/neo-quimica-arena-sao-paulo-brazil-235f045f.html"
+    },
+    {
+      "id": "235f0453",
+      "versionId": "g335fa4ad",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-12T00:27:07.762+0000",
+      "artist": {
+        "mbid": "b41b3fb6-aad6-431c-8306-53d620acab6d",
+        "name": "Kevin Brauer",
+        "sortName": "Brauer, Kevin",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/kevin-brauer-53fb57f9.html"
+      },
+      "venue": {
+        "id": "63d34667",
+        "name": "Neo Química Arena",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/neo-quimica-arena-sao-paulo-brazil-63d34667.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/kevin-brauer/2024/neo-quimica-arena-sao-paulo-brazil-235f0453.html"
+    },
+    {
+      "id": "235cec17",
+      "versionId": "g3b5c1c9c",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-23T23:36:27.477+0000",
+      "artist": {
+        "mbid": "0366b18c-77c0-4cf1-83d2-b13e786732fa",
+        "name": "Decreto Lei 50",
+        "sortName": "DL-50",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/decreto-lei-50-53de47ad.html"
+      },
+      "venue": {
+        "id": "5bd1bb5c",
+        "name": "Instituto Cultural Bolivia Rock",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/instituto-cultural-bolivia-rock-sao-paulo-brazil-5bd1bb5c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "O Último tango em Paris"
+              },
+              {
+                "name": "Sétimo dia"
+              },
+              {
+                "name": "Ainda é cedo",
+                "cover": {
+                  "mbid": "47685be0-926f-4be9-b1ae-e32da47a3b99",
+                  "name": "Legião Urbana",
+                  "sortName": "Legião Urbana",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/legiao-urbana-6bd6d236.html"
+                }
+              },
+              {
+                "name": "Essa tristeza"
+              },
+              {
+                "name": "Shadowplay",
+                "cover": {
+                  "mbid": "9a58fda3-f4ed-4080-a3a5-f457aac9fcdd",
+                  "name": "Joy Division",
+                  "sortName": "Joy Division",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/joy-division-63d6b22b.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/decreto-lei-50/2024/instituto-cultural-bolivia-rock-sao-paulo-brazil-235cec17.html"
+    },
+    {
+      "id": "1b5f01c0",
+      "versionId": "g6b5f9e42",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-12T09:31:49.504+0000",
+      "artist": {
+        "mbid": "4effd729-ca76-4232-9856-27ea9d01d1dd",
+        "name": "Crexpo",
+        "sortName": "Crexpo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/crexpo-13e055b9.html"
+      },
+      "venue": {
+        "id": "6bd16e26",
+        "name": "Gaz Burning Bar",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/gaz-burning-bar-sao-paulo-brazil-6bd16e26.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/crexpo/2024/gaz-burning-bar-sao-paulo-brazil-1b5f01c0.html"
+    },
+    {
+      "id": "1b5c914c",
+      "versionId": "gb5cf1d6",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-21T05:31:55.742+0000",
+      "artist": {
+        "mbid": "4553484a-f667-4cef-866b-562ae6127f15",
+        "name": "Patife Band",
+        "sortName": "Patife Band",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/patife-band-4bd413ce.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/patife-band/2024/la-iglesia-borratxeria-sao-paulo-brazil-1b5c914c.html"
+    },
+    {
+      "id": "135f01c5",
+      "versionId": "g635f9e47",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-12-12T09:32:43.433+0000",
+      "artist": {
+        "mbid": "0f8c1e02-7932-4200-90a1-86c2fb03d40b",
+        "name": "SFAC",
+        "sortName": "SFAC",
+        "disambiguation": "Sociedade Forte Atitude Consciente",
+        "url": "https://www.setlist.fm/setlists/sfac-13e055b1.html"
+      },
+      "venue": {
+        "id": "6bd16e26",
+        "name": "Gaz Burning Bar",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/gaz-burning-bar-sao-paulo-brazil-6bd16e26.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/sfac/2024/gaz-burning-bar-sao-paulo-brazil-135f01c5.html"
+    },
+    {
+      "id": "135e7d19",
+      "versionId": "g1b5035dc",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2024-11-21T20:53:59.276+0000",
+      "artist": {
+        "mbid": "2bfbd369-882a-4f23-a603-6d3aac8001cc",
+        "name": "Funk Como Le Gusta",
+        "sortName": "Funk Como Le Gusta",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/funk-como-le-gusta-1bd64df0.html"
+      },
+      "venue": {
+        "id": "2bd24026",
+        "name": "Blue Note São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/blue-note-sao-paulo-sao-paulo-brazil-2bd24026.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/funk-como-le-gusta/2024/blue-note-sao-paulo-sao-paulo-brazil-135e7d19.html"
+    },
+    {
+      "id": "135ccd35",
+      "versionId": "g5b4b33b8",
+      "eventDate": "21-12-2024",
+      "lastUpdated": "2025-05-26T13:23:36.230+0000",
+      "artist": {
+        "mbid": "d3acca3b-2a75-4b2d-b15c-a5f6ee723b45",
+        "name": "Wanessa Camargo",
+        "sortName": "Wanessa Camargo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/wanessa-camargo-53d3b3cd.html"
+      },
+      "venue": {
+        "id": "43d387cb",
+        "name": "Teatro Bibi Ferreira",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-bibi-ferreira-sao-paulo-brazil-43d387cb.html"
+      },
+      "tour": {
+        "name": "Lado B(irthday)"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "A força da paixão"
+              },
+              {
+                "name": "Eu sei"
+              },
+              {
+                "name": "Antes e depois de você"
+              },
+              {
+                "name": "Girassóis"
+              },
+              {
+                "name": "Amor de verão"
+              },
+              {
+                "name": "De onde você vai surgir"
+              },
+              {
+                "name": "Um grande amor"
+              },
+              {
+                "name": "Eu estarei aqui"
+              },
+              {
+                "name": "Vou te amar pra sempre"
+              },
+              {
+                "name": "O tempo que a paixão quiser"
+              },
+              {
+                "name": "Te amo assim"
+              },
+              {
+                "name": "Eu vou sonhar"
+              },
+              {
+                "name": "Te quero só pra mim"
+              },
+              {
+                "name": "Só se vive uma vez"
+              },
+              {
+                "name": "Estou em suas mãos"
+              },
+              {
+                "name": "Eu voltei"
+              },
+              {
+                "name": "Amuleto protetor"
+              },
+              {
+                "name": "Sorte"
+              },
+              {
+                "name": "Como eu te quis"
+              },
+              {
+                "name": "Rescue Mission"
+              },
+              {
+                "name": "Tonight Forever"
+              },
+              {
+                "name": "It's Over"
+              },
+              {
+                "name": "Agora eu sei"
+              },
+              {
+                "name": "Se ainda tem amor"
+              },
+              {
+                "name": "Inquebrável"
+              },
+              {
+                "name": "O segredo"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/wanessa-camargo/2024/teatro-bibi-ferreira-sao-paulo-brazil-135ccd35.html"
+    }
+  ]
+}

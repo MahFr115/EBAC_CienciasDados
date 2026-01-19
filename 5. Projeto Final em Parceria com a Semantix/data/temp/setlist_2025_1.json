@@ -1,0 +1,953 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 1,
+  "total": 3170,
+  "setlist": [
+    {
+      "id": "7b4182c8",
+      "versionId": "g237ba01b",
+      "eventDate": "14-11-2025",
+      "lastUpdated": "2025-09-22T04:38:23.398+0000",
+      "artist": {
+        "mbid": "e43f8c07-2d2e-47fd-8279-dc0e9880882c",
+        "name": "Roberto Carlos",
+        "sortName": "Roberto Carlos",
+        "disambiguation": "Brazilian singer-songwriter, \"King of Latin Music\"",
+        "url": "https://www.setlist.fm/setlists/roberto-carlos-6bd4b21a.html"
+      },
+      "venue": {
+        "id": "4bde1b72",
+        "name": "Suhai Music Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/suhai-music-hall-sao-paulo-brazil-4bde1b72.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/roberto-carlos/2025/suhai-music-hall-sao-paulo-brazil-7b4182c8.html"
+    },
+    {
+      "id": "634f8207",
+      "versionId": "g2b646c5e",
+      "eventDate": "14-11-2025",
+      "lastUpdated": "2025-11-05T04:21:47.865+0000",
+      "artist": {
+        "mbid": "650726c6-cda9-4fc6-aac5-291e8628dfdf",
+        "name": "Yago Oproprio",
+        "sortName": "Oproprio, Yago",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/yago-oproprio-3f9c957.html"
+      },
+      "venue": {
+        "id": "23d7ac8f",
+        "name": "SESC Belenzinho",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-belenzinho-sao-paulo-brazil-23d7ac8f.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/yago-oproprio/2025/sesc-belenzinho-sao-paulo-brazil-634f8207.html"
+    },
+    {
+      "id": "434f2f27",
+      "versionId": "g3b657890",
+      "eventDate": "14-11-2025",
+      "lastUpdated": "2025-11-12T02:15:07.892+0000",
+      "artist": {
+        "mbid": "01029849-8b34-4138-8d8b-ddfadeeb9d49",
+        "name": "Frente Cumbiero",
+        "sortName": "Frente Cumbiero",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/frente-cumbiero-bd22dca.html"
+      },
+      "venue": {
+        "id": "4bd1b3f2",
+        "name": "Centro Cultural Tendal da Lapa",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-cultural-tendal-da-lapa-sao-paulo-brazil-4bd1b3f2.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/frente-cumbiero/2025/centro-cultural-tendal-da-lapa-sao-paulo-brazil-434f2f27.html"
+    },
+    {
+      "id": "341b90f",
+      "versionId": "g437ae37f",
+      "eventDate": "14-11-2025",
+      "lastUpdated": "2025-09-16T21:49:58.539+0000",
+      "artist": {
+        "mbid": "7b962f00-99d1-4c1f-a3d9-65cf896e997a",
+        "name": "Jaloo",
+        "sortName": "Jaloo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/jaloo-2bc664fa.html"
+      },
+      "venue": {
+        "id": "33d54c95",
+        "name": "Casa Natura Musical",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/casa-natura-musical-sao-paulo-brazil-33d54c95.html"
+      },
+      "tour": {
+        "name": "#1 Dez Anos Depois"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/jaloo/2025/casa-natura-musical-sao-paulo-brazil-341b90f.html"
+    },
+    {
+      "id": "334f38ed",
+      "versionId": "g4365170b",
+      "eventDate": "14-11-2025",
+      "lastUpdated": "2025-11-11T02:53:22.115+0000",
+      "artist": {
+        "mbid": "35fac010-dc46-4a98-b298-cf2d23f2e3e9",
+        "name": "Giant Jellyfish",
+        "sortName": "Giant Jellyfish",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/giant-jellyfish-5bfed7e4.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/giant-jellyfish/2025/la-iglesia-borratxeria-sao-paulo-brazil-334f38ed.html"
+    },
+    {
+      "id": "2b412832",
+      "versionId": "g1378b529",
+      "eventDate": "14-11-2025",
+      "lastUpdated": "2025-09-29T07:42:47.142+0000",
+      "artist": {
+        "mbid": "ed114045-8462-4b49-89ae-527fa2544a2b",
+        "name": "Grave Digger",
+        "sortName": "Grave Digger",
+        "disambiguation": "German classic/speed metal band",
+        "url": "https://www.setlist.fm/setlists/grave-digger-73d68211.html"
+      },
+      "venue": {
+        "id": "73d6daed",
+        "name": "Carioca Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/carioca-club-sao-paulo-brazil-73d6daed.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/grave-digger/2025/carioca-club-sao-paulo-brazil-2b412832.html"
+    },
+    {
+      "id": "234f38ef",
+      "versionId": "g43651717",
+      "eventDate": "14-11-2025",
+      "lastUpdated": "2025-11-11T02:53:08.517+0000",
+      "artist": {
+        "mbid": "05468cc0-60c9-4e92-b1ab-ab6d0f7ea203",
+        "name": "Hammerhead Blues",
+        "sortName": "Hammerhead Blues",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/hammerhead-blues-33fffca5.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/hammerhead-blues/2025/la-iglesia-borratxeria-sao-paulo-brazil-234f38ef.html"
+    },
+    {
+      "id": "1b4e4d48",
+      "versionId": "g4b64b3d6",
+      "eventDate": "14-11-2025",
+      "lastUpdated": "2025-10-30T03:04:20.845+0000",
+      "artist": {
+        "mbid": "c9f10840-34cf-40a5-9196-7b52df2efba1",
+        "name": "Odair José",
+        "sortName": "José, Odair",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/odair-jose-7bd4fa0c.html"
+      },
+      "venue": {
+        "id": "bd1f98e",
+        "name": "Bona Casa de Música",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/bona-casa-de-musica-sao-paulo-brazil-bd1f98e.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/odair-jose/2025/bona-casa-de-musica-sao-paulo-brazil-1b4e4d48.html"
+    },
+    {
+      "id": "7b4302e4",
+      "versionId": "g5b7e63c8",
+      "eventDate": "13-11-2025",
+      "lastUpdated": "2025-08-18T14:52:12.093+0000",
+      "artist": {
+        "mbid": "a2accb58-6099-4cb5-a3c8-f6332f364db5",
+        "name": "James",
+        "sortName": "James",
+        "disambiguation": "Manchester indie rock band",
+        "url": "https://www.setlist.fm/setlists/james-43d6ab6f.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "tour": {
+        "name": "2025 Brazilian Tour"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/james/2025/audio-sao-paulo-brazil-7b4302e4.html"
+    },
+    {
+      "id": "4b404b0a",
+      "versionId": "g2b6504be",
+      "eventDate": "13-11-2025",
+      "lastUpdated": "2025-11-11T17:25:42.617+0000",
+      "artist": {
+        "mbid": "5bd1060b-8608-4817-93ca-207f7c828e2f",
+        "name": "Cavalera Conspiracy",
+        "sortName": "Cavalera Conspiracy",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/cavalera-conspiracy-bd69902.html"
+      },
+      "venue": {
+        "id": "3d021cb",
+        "name": "Espaço Unimed",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/espaco-unimed-sao-paulo-brazil-3d021cb.html"
+      },
+      "tour": {
+        "name": "Chaos A.D. 2025 Tour"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/cavalera-conspiracy/2025/espaco-unimed-sao-paulo-brazil-4b404b0a.html"
+    },
+    {
+      "id": "3b4f38f4",
+      "versionId": "g4365171f",
+      "eventDate": "13-11-2025",
+      "lastUpdated": "2025-11-11T02:52:34.312+0000",
+      "artist": {
+        "mbid": "eba341d7-847b-4850-b590-745b9bed539b",
+        "name": "Andralls",
+        "sortName": "Andralls",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/andralls-63d74a07.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/andralls/2025/la-iglesia-borratxeria-sao-paulo-brazil-3b4f38f4.html"
+    },
+    {
+      "id": "2b4f38f6",
+      "versionId": "g53651719",
+      "eventDate": "13-11-2025",
+      "lastUpdated": "2025-11-11T02:52:24.593+0000",
+      "artist": {
+        "mbid": "d88d85ab-61dc-42c8-8938-004fb2b9e3af",
+        "name": "Rhegia",
+        "sortName": "Rhegia",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/rhegia-be629b6.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/rhegia/2025/la-iglesia-borratxeria-sao-paulo-brazil-2b4f38f6.html"
+    },
+    {
+      "id": "2b4f38ea",
+      "versionId": "g43651713",
+      "eventDate": "13-11-2025",
+      "lastUpdated": "2025-11-11T02:52:45.239+0000",
+      "artist": {
+        "mbid": "2d8070fd-1e72-4b58-bd76-c73036b8e240",
+        "name": "Inferno Nuclear",
+        "sortName": "Nuclear, Inferno",
+        "disambiguation": "Brazilian thrash metal",
+        "url": "https://www.setlist.fm/setlists/inferno-nuclear-2b9038fa.html"
+      },
+      "venue": {
+        "id": "3bde847c",
+        "name": "La Iglesia Borratxeria",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/la-iglesia-borratxeria-sao-paulo-brazil-3bde847c.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/inferno-nuclear/2025/la-iglesia-borratxeria-sao-paulo-brazil-2b4f38ea.html"
+    },
+    {
+      "id": "23407c2f",
+      "versionId": "g5b6507b4",
+      "eventDate": "13-11-2025",
+      "lastUpdated": "2025-11-11T17:57:01.270+0000",
+      "artist": {
+        "mbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
+        "name": "Massive Attack",
+        "sortName": "Massive Attack",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/massive-attack-4bd6abda.html"
+      },
+      "venue": {
+        "id": "3d021cb",
+        "name": "Espaço Unimed",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/espaco-unimed-sao-paulo-brazil-3d021cb.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/massive-attack/2025/espaco-unimed-sao-paulo-brazil-23407c2f.html"
+    },
+    {
+      "id": "7341d651",
+      "versionId": "g53655b6d",
+      "eventDate": "12-11-2025",
+      "lastUpdated": "2025-11-13T02:29:44.814+0000",
+      "artist": {
+        "mbid": "4173ee0d-e003-496a-98eb-a2eaa90cb3f7",
+        "name": "Nilüfer Yanya",
+        "sortName": "Yanya, Nilüfer",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/nilufer-yanya-43c6c35f.html"
+      },
+      "venue": {
+        "id": "23de9453",
+        "name": "Cine Joia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cine-joia-sao-paulo-brazil-23de9453.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Method Actor"
+              },
+              {
+                "name": "L/R"
+              },
+              {
+                "name": "chase me",
+                "info": "in"
+              },
+              {
+                "name": "Crash (Interlude)"
+              },
+              {
+                "name": "Like I Say (I runaway)"
+              },
+              {
+                "name": "Wingspan"
+              },
+              {
+                "name": "Ready for Sun (touch)"
+              },
+              {
+                "name": "Heavyweight Champion of the Year"
+              },
+              {
+                "name": "Call It Love"
+              },
+              {
+                "name": "Binding"
+              },
+              {
+                "name": "trouble"
+              },
+              {
+                "name": "the dealer"
+              },
+              {
+                "name": "stabilise"
+              },
+              {
+                "name": "Rid of Me",
+                "cover": {
+                  "mbid": "e795e03d-b5d5-4a5f-834d-162cfb308a2c",
+                  "name": "PJ Harvey",
+                  "sortName": "Harvey, PJ",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pj-harvey-33d6a8ed.html"
+                }
+              },
+              {
+                "name": "midnight sun"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nilufer-yanya/2025/cine-joia-sao-paulo-brazil-7341d651.html"
+    },
+    {
+      "id": "4b4f2f22",
+      "versionId": "g236578a7",
+      "eventDate": "12-11-2025",
+      "lastUpdated": "2025-11-12T02:14:17.295+0000",
+      "artist": {
+        "mbid": "01029849-8b34-4138-8d8b-ddfadeeb9d49",
+        "name": "Frente Cumbiero",
+        "sortName": "Frente Cumbiero",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/frente-cumbiero-bd22dca.html"
+      },
+      "venue": {
+        "id": "6bde667e",
+        "name": "Prato do Dia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/prato-do-dia-sao-paulo-brazil-6bde667e.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/frente-cumbiero/2025/prato-do-dia-sao-paulo-brazil-4b4f2f22.html"
+    },
+    {
+      "id": "434f83f7",
+      "versionId": "g5b655b78",
+      "eventDate": "12-11-2025",
+      "lastUpdated": "2025-11-13T02:23:57.529+0000",
+      "artist": {
+        "mbid": "8b060f17-69f6-48ae-add3-29df62e5eb0d",
+        "name": "Kiko Dinucci",
+        "sortName": "Dinucci, Kiko",
+        "disambiguation": "Brazilian musician",
+        "url": "https://www.setlist.fm/setlists/kiko-dinucci-2bddc4aa.html"
+      },
+      "venue": {
+        "id": "5bd1a36c",
+        "name": "PORTA",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/porta-sao-paulo-brazil-5bd1a36c.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "name": "Set 1: Cortes Curtos pt. 1",
+            "song": [
+              {
+                "name": "No Escuro"
+              },
+              {
+                "name": "Desmonto Sua Cabeça"
+              },
+              {
+                "name": "Fear of Pop"
+              },
+              {
+                "name": "Chorei"
+              },
+              {
+                "name": "Terra De Um Beijo Só"
+              },
+              {
+                "name": "Uma hora da manhã"
+              },
+              {
+                "name": "Seus Olhos"
+              },
+              {
+                "name": "O Inferno Tem Sede"
+              }
+            ]
+          },
+          {
+            "name": "Set 2: New Tracks",
+            "song": [
+              {
+                "name": "Água Viva"
+              },
+              {
+                "name": "Claudia, Frota e Eu"
+              },
+              {
+                "name": "Cão Perdido"
+              }
+            ]
+          },
+          {
+            "name": "Set 3: Cortes Curtos pt. 2",
+            "song": [
+              {
+                "name": "Quem Te Come"
+              },
+              {
+                "name": "Inferno Particular"
+              },
+              {
+                "name": "Chorinho"
+              },
+              {
+                "name": "Vazio Da Morte"
+              },
+              {
+                "name": "Crack para ninar"
+              },
+              {
+                "name": "A Gente Se Fode Bem Pra Caramba"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Água Viva"
+              },
+              {
+                "name": "Claudia, Frota e Eu"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/kiko-dinucci/2025/porta-sao-paulo-brazil-434f83f7.html"
+    },
+    {
+      "id": "3b4f2050",
+      "versionId": "g2b65582e",
+      "eventDate": "12-11-2025",
+      "lastUpdated": "2025-11-13T01:45:42.530+0000",
+      "artist": {
+        "mbid": "1d9ec7ea-0fa4-41d9-917b-723c735ebbfe",
+        "name": "Polo & Pan",
+        "sortName": "Polo & Pan",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/polo-and-pan-23d94033.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/polo-and-pan/2025/audio-sao-paulo-brazil-3b4f2050.html"
+    },
+    {
+      "id": "5b453b38",
+      "versionId": "g2b747cfa",
+      "eventDate": "11-11-2025",
+      "lastUpdated": "2025-07-03T17:12:26.150+0000",
+      "artist": {
+        "mbid": "73ee98fc-7e8c-465d-b42c-8772ebc53de8",
+        "name": "Sister Nancy",
+        "sortName": "Sister Nancy",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/sister-nancy-53d75f8d.html"
+      },
+      "venue": {
+        "id": "23de9453",
+        "name": "Cine Joia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cine-joia-sao-paulo-brazil-23de9453.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/sister-nancy/2025/cine-joia-sao-paulo-brazil-5b453b38.html"
+    },
+    {
+      "id": "33425089",
+      "versionId": "g73657af9",
+      "eventDate": "11-11-2025",
+      "lastUpdated": "2025-11-12T03:10:48.103+0000",
+      "artist": {
+        "mbid": "55704c38-224f-4b75-b29f-d43653f8bc9a",
+        "name": "Primal Scream",
+        "sortName": "Primal Scream",
+        "disambiguation": "Scottish rock band",
+        "url": "https://www.setlist.fm/setlists/primal-scream-13d6bde5.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Don't Fight It, Feel It"
+              },
+              {
+                "name": "Love Insurrection"
+              },
+              {
+                "name": "Jailbird"
+              },
+              {
+                "name": "Ready to Go Home"
+              },
+              {
+                "name": "Deep Dark Waters"
+              },
+              {
+                "name": "Medication"
+              },
+              {
+                "name": "Innocent Money",
+                "info": "Dedicated to President Lula"
+              },
+              {
+                "name": "Heal Yourself"
+              },
+              {
+                "name": "I'm Losing More Than I'll Ever Have"
+              },
+              {
+                "name": "Love Ain't Enough"
+              },
+              {
+                "name": "The Centre Cannot Hold"
+              },
+              {
+                "name": "Loaded"
+              },
+              {
+                "name": "Swastika Eyes"
+              },
+              {
+                "name": "Movin' on Up"
+              },
+              {
+                "name": "Country Girl"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Damaged"
+              },
+              {
+                "name": "Come Together"
+              },
+              {
+                "name": "Rocks"
+              }
+            ]
+          },
+          {
+            "encore": 2,
+            "song": [
+              {
+                "name": "No Fun",
+                "cover": {
+                  "mbid": "794c6bf2-3241-416f-9b8f-24e2d84a1c4b",
+                  "name": "The Stooges",
+                  "sortName": "Stooges, The",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/the-stooges-3bd6ac18.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/primal-scream/2025/audio-sao-paulo-brazil-33425089.html"
+    }
+  ]
+}

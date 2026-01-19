@@ -1,0 +1,1586 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 8,
+  "total": 255,
+  "setlist": [
+    {
+      "id": "638ab647",
+      "versionId": "g3bc600c4",
+      "eventDate": "28-10-2021",
+      "lastUpdated": "2021-10-27T10:01:24.545+0000",
+      "artist": {
+        "mbid": "f47a0968-f2c1-4ec5-b0e3-0a15ae73b88d",
+        "name": "Joyce",
+        "sortName": "Joyce",
+        "disambiguation": "bossa nova singer from Brazil, guitar",
+        "url": "https://www.setlist.fm/setlists/joyce-33d7ac45.html"
+      },
+      "venue": {
+        "id": "3bd61ce8",
+        "name": "SESC Pompéia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-pompeia-sao-paulo-brazil-3bd61ce8.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/joyce/2021/sesc-pompeia-sao-paulo-brazil-638ab647.html"
+    },
+    {
+      "id": "38ad94b",
+      "versionId": "g4bc723f6",
+      "eventDate": "28-10-2021",
+      "lastUpdated": "2021-11-08T19:47:26.375+0000",
+      "artist": {
+        "mbid": "8049c4ea-44e0-4d51-95c3-5d861c41ff4a",
+        "name": "Jair Naves",
+        "sortName": "Naves, Jair",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/jair-naves-43dc575f.html"
+      },
+      "venue": {
+        "id": "bd55166",
+        "name": "Teatro Arthur Azevedo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-arthur-azevedo-sao-paulo-brazil-bd55166.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/jair-naves/2021/teatro-arthur-azevedo-sao-paulo-brazil-38ad94b.html"
+    },
+    {
+      "id": "38d49f3",
+      "versionId": "g33c4f43d",
+      "eventDate": "23-10-2021",
+      "lastUpdated": "2021-11-16T23:08:25.939+0000",
+      "artist": {
+        "mbid": "0366b18c-77c0-4cf1-83d2-b13e786732fa",
+        "name": "Decreto Lei 50",
+        "sortName": "DL-50",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/decreto-lei-50-53de47ad.html"
+      },
+      "venue": {
+        "id": "23d0e47b",
+        "name": "Galeria do Rock",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/galeria-do-rock-sao-paulo-brazil-23d0e47b.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "A Porta, a cura e a divisão dos prazeres"
+              },
+              {
+                "name": "Bar Song"
+              },
+              {
+                "name": "Vem comigo"
+              },
+              {
+                "name": "Matança"
+              },
+              {
+                "name": "Ainda é cedo",
+                "cover": {
+                  "mbid": "47685be0-926f-4be9-b1ae-e32da47a3b99",
+                  "name": "Legião Urbana",
+                  "sortName": "Legião Urbana",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/legiao-urbana-6bd6d236.html"
+                }
+              },
+              {
+                "name": "Procissão"
+              },
+              {
+                "name": "Pra sempre",
+                "info": "Live Debut"
+              },
+              {
+                "name": "Shadowplay",
+                "cover": {
+                  "mbid": "9a58fda3-f4ed-4080-a3a5-f457aac9fcdd",
+                  "name": "Joy Division",
+                  "sortName": "Joy Division",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/joy-division-63d6b22b.html"
+                }
+              },
+              {
+                "name": "Essa tristeza"
+              },
+              {
+                "name": "Venha me abraçar"
+              },
+              {
+                "name": "Roger machista"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Ângela"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/decreto-lei-50/2021/galeria-do-rock-sao-paulo-brazil-38d49f3.html"
+    },
+    {
+      "id": "38d4523",
+      "versionId": "g33f0d0bd",
+      "eventDate": "23-10-2021",
+      "lastUpdated": "2022-07-28T23:38:24.992+0000",
+      "artist": {
+        "mbid": "56996a0e-bc29-476f-ba0e-e9fc80fdfb7c",
+        "name": "Glue Trip",
+        "sortName": "Glue Trip",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/glue-trip-3ca09eb.html"
+      },
+      "venue": {
+        "id": "3d0e9bb",
+        "name": "Black Princess House",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/black-princess-house-sao-paulo-brazil-3d0e9bb.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Intro",
+                "info": "Jam"
+              },
+              {
+                "name": "Fancy"
+              },
+              {
+                "name": "Time Lapses"
+              },
+              {
+                "name": "Birds Singing Lies",
+                "info": "with extended solos"
+              },
+              {
+                "name": "New Place to Start"
+              },
+              {
+                "name": "La Edad Del Futuro"
+              },
+              {
+                "name": "Tempo Presente",
+                "info": "New song",
+                "with": {
+                  "mbid": "82e78c4e-6977-40c5-bf49-a3263f30c7f2",
+                  "name": "Zé Nigro",
+                  "sortName": "Nigro, Zé",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ze-nigro-1bf059a8.html"
+                }
+              },
+              {
+                "name": "Levinha",
+                "info": "New song",
+                "with": {
+                  "mbid": "82e78c4e-6977-40c5-bf49-a3263f30c7f2",
+                  "name": "Zé Nigro",
+                  "sortName": "Nigro, Zé",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ze-nigro-1bf059a8.html"
+                }
+              },
+              {
+                "name": "Apocalip Se",
+                "cover": {
+                  "mbid": "82e78c4e-6977-40c5-bf49-a3263f30c7f2",
+                  "name": "Zé Nigro",
+                  "sortName": "Nigro, Zé",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ze-nigro-1bf059a8.html"
+                },
+                "with": {
+                  "mbid": "82e78c4e-6977-40c5-bf49-a3263f30c7f2",
+                  "name": "Zé Nigro",
+                  "sortName": "Nigro, Zé",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ze-nigro-1bf059a8.html"
+                }
+              },
+              {
+                "name": "Marcos Valle",
+                "with": {
+                  "mbid": "82e78c4e-6977-40c5-bf49-a3263f30c7f2",
+                  "name": "Zé Nigro",
+                  "sortName": "Nigro, Zé",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ze-nigro-1bf059a8.html"
+                }
+              },
+              {
+                "name": "Waves"
+              },
+              {
+                "name": "Old Blood"
+              },
+              {
+                "name": "Elbow Pain",
+                "info": "with extended solos"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/glue-trip/2021/black-princess-house-sao-paulo-brazil-38d4523.html"
+    },
+    {
+      "id": "38a0dcb",
+      "versionId": "g7bc4e6fc",
+      "eventDate": "23-10-2021",
+      "lastUpdated": "2021-11-18T02:09:06.971+0000",
+      "artist": {
+        "mbid": "80c39292-7d06-4dfa-80eb-4baccdb92726",
+        "name": "Maiara & Maraisa",
+        "sortName": "Maiara & Maraisa",
+        "disambiguation": "sertaneja duo",
+        "url": "https://www.setlist.fm/setlists/maiara-and-maraisa-3c5f1fb.html"
+      },
+      "venue": {
+        "id": "73d43299",
+        "name": "Villa Country",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/villa-country-sao-paulo-brazil-73d43299.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/maiara-and-maraisa/2021/villa-country-sao-paulo-brazil-38a0dcb.html"
+    },
+    {
+      "id": "1b8d4928",
+      "versionId": "g43a387bf",
+      "eventDate": "23-10-2021",
+      "lastUpdated": "2024-07-14T22:02:02.171+0000",
+      "artist": {
+        "mbid": "f3580347-b84a-47d8-b86e-cad642322a47",
+        "name": "Vanessa da Mata",
+        "sortName": "Mata, Vanessa da",
+        "disambiguation": "Brazilian singer-songwriter",
+        "url": "https://www.setlist.fm/setlists/vanessa-da-mata-73d62e49.html"
+      },
+      "venue": {
+        "id": "63d6d6d3",
+        "name": "Tom Brasil",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/tom-brasil-sao-paulo-brazil-63d6d6d3.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Tenha dó de mim"
+              },
+              {
+                "name": "Não me deixe só"
+              },
+              {
+                "name": "Debaixo da saia dela"
+              },
+              {
+                "name": "Nossa geração"
+              },
+              {
+                "name": "Boa sorte / Good Luck"
+              },
+              {
+                "name": "Vá com Deus"
+              },
+              {
+                "name": "Boa reza"
+              },
+              {
+                "name": "Demais pra mim"
+              },
+              {
+                "name": "O leãozinho",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Céu azul",
+                "cover": {
+                  "mbid": "29b550f2-04a3-4733-b6f5-4e347fac7e11",
+                  "name": "Charlie Brown Jr.",
+                  "sortName": "Charlie Brown Jr.",
+                  "disambiguation": "Brazilian rock band",
+                  "url": "https://www.setlist.fm/setlists/charlie-brown-jr-6bd6c6a6.html"
+                }
+              },
+              {
+                "name": "O mundo para Felipe"
+              },
+              {
+                "name": "Amado"
+              },
+              {
+                "name": "Ainda bem"
+              },
+              {
+                "name": "Hoje eu sei"
+              },
+              {
+                "name": "Vermelho"
+              },
+              {
+                "name": "Bam Bam"
+              },
+              {
+                "name": "Segue o som"
+              },
+              {
+                "name": "Só você e eu"
+              },
+              {
+                "name": "Nação de Passarinhos"
+              },
+              {
+                "name": "Quando deixamos nossos beijos na esquina"
+              },
+              {
+                "name": "Vá pro inferno com seu amor",
+                "cover": {
+                  "mbid": "b667be67-2c26-490d-a665-22d1d8113dd6",
+                  "name": "Milionário & José Rico",
+                  "sortName": "Milionário & José Rico",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/milionario-and-jose-rico-43ddfb7b.html"
+                }
+              },
+              {
+                "name": "Gente feliz"
+              },
+              {
+                "name": "Ai, ai, ai..."
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/vanessa-da-mata/2021/tom-brasil-sao-paulo-brazil-1b8d4928.html"
+    },
+    {
+      "id": "1b8a0dd4",
+      "versionId": "g73c4e6fd",
+      "eventDate": "23-10-2021",
+      "lastUpdated": "2021-11-18T02:08:53.452+0000",
+      "artist": {
+        "mbid": "462b0b27-7213-439e-8b12-693c332d4a87",
+        "name": "Fernando & Sorocaba",
+        "sortName": "Fernando & Sorocaba",
+        "disambiguation": "Dupla sertaneja",
+        "url": "https://www.setlist.fm/setlists/fernando-and-sorocaba-73d24e71.html"
+      },
+      "venue": {
+        "id": "73d43299",
+        "name": "Villa Country",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/villa-country-sao-paulo-brazil-73d43299.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/fernando-and-sorocaba/2021/villa-country-sao-paulo-brazil-1b8a0dd4.html"
+    },
+    {
+      "id": "b8a0dd6",
+      "versionId": "g6bc4e6fa",
+      "eventDate": "22-10-2021",
+      "lastUpdated": "2021-11-18T02:08:28.230+0000",
+      "artist": {
+        "mbid": "80c39292-7d06-4dfa-80eb-4baccdb92726",
+        "name": "Maiara & Maraisa",
+        "sortName": "Maiara & Maraisa",
+        "disambiguation": "sertaneja duo",
+        "url": "https://www.setlist.fm/setlists/maiara-and-maraisa-3c5f1fb.html"
+      },
+      "venue": {
+        "id": "73d43299",
+        "name": "Villa Country",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/villa-country-sao-paulo-brazil-73d43299.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/maiara-and-maraisa/2021/villa-country-sao-paulo-brazil-b8a0dd6.html"
+    },
+    {
+      "id": "738d4271",
+      "versionId": "g4bacef52",
+      "eventDate": "22-10-2021",
+      "lastUpdated": "2024-08-19T07:23:21.656+0000",
+      "artist": {
+        "mbid": "fc38752e-8310-464b-80b8-bbb2b9be2df1",
+        "name": "Day Limns",
+        "sortName": "Day Limns",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/day-limns-2bfb5c42.html"
+      },
+      "venue": {
+        "id": "33d0e401",
+        "name": "Morumbi Town Shopping",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/morumbi-town-shopping-sao-paulo-brazil-33d0e401.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Jurei que não ia falar de amor"
+              },
+              {
+                "name": "Finais mentem"
+              },
+              {
+                "name": "Clube dos sonhos frustrados"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/day-limns/2021/morumbi-town-shopping-sao-paulo-brazil-738d4271.html"
+    },
+    {
+      "id": "638d427b",
+      "versionId": "g1bc61dec",
+      "eventDate": "22-10-2021",
+      "lastUpdated": "2021-10-25T20:25:19.947+0000",
+      "artist": {
+        "mbid": "ffc6218b-6ec8-46eb-b6d2-040f92c95d2c",
+        "name": "Carol Biazin",
+        "sortName": "Biazin, Carol",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/carol-biazin-23f6606b.html"
+      },
+      "venue": {
+        "id": "33d0e401",
+        "name": "Morumbi Town Shopping",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/morumbi-town-shopping-sao-paulo-brazil-33d0e401.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Tentação"
+              },
+              {
+                "name": "Rolê"
+              },
+              {
+                "name": "Raio X"
+              },
+              {
+                "name": "Suas linhas"
+              },
+              {
+                "name": "A tua voz",
+                "cover": {
+                  "mbid": "30af9387-037c-4f4f-9a81-17c6d9f5a26e",
+                  "name": "Gloria Groove",
+                  "sortName": "Groove, Gloria",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gloria-groove-23c11053.html"
+                },
+                "with": {
+                  "mbid": "d7cec2ce-a6cf-4d20-8998-b0fc7c27fb21",
+                  "name": "Any Gabrielly",
+                  "sortName": "Gabrielly, Any",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/any-gabrielly-73c14e49.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/carol-biazin/2021/morumbi-town-shopping-sao-paulo-brazil-638d427b.html"
+    },
+    {
+      "id": "138a0dd5",
+      "versionId": "g7bc4e6f8",
+      "eventDate": "22-10-2021",
+      "lastUpdated": "2021-11-18T02:08:40.223+0000",
+      "artist": {
+        "mbid": "462b0b27-7213-439e-8b12-693c332d4a87",
+        "name": "Fernando & Sorocaba",
+        "sortName": "Fernando & Sorocaba",
+        "disambiguation": "Dupla sertaneja",
+        "url": "https://www.setlist.fm/setlists/fernando-and-sorocaba-73d24e71.html"
+      },
+      "venue": {
+        "id": "73d43299",
+        "name": "Villa Country",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/villa-country-sao-paulo-brazil-73d43299.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/fernando-and-sorocaba/2021/villa-country-sao-paulo-brazil-138a0dd5.html"
+    },
+    {
+      "id": "538d4b45",
+      "versionId": "g5bc63b78",
+      "eventDate": "21-10-2021",
+      "lastUpdated": "2021-10-24T18:22:05.664+0000",
+      "artist": {
+        "mbid": "43ba85f0-2a38-402b-8b9f-9302919bd2c3",
+        "name": "Fernando Rosa",
+        "sortName": "Rosa, Fernando",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/fernando-rosa-2bc01cae.html"
+      },
+      "venue": {
+        "id": "2bd24026",
+        "name": "Blue Note São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/blue-note-sao-paulo-sao-paulo-brazil-2bd24026.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/fernando-rosa/2021/blue-note-sao-paulo-sao-paulo-brazil-538d4b45.html"
+    },
+    {
+      "id": "6b8d6e52",
+      "versionId": "g7bc69aa8",
+      "eventDate": "16-10-2021",
+      "lastUpdated": "2021-10-20T02:35:28.878+0000",
+      "artist": {
+        "mbid": "cf1dfa40-db94-4bcc-bddc-96bdc7fe5163",
+        "name": "Hamilton de Holanda",
+        "sortName": "Holanda, Hamilton de",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/hamilton-de-holanda-bd7615a.html"
+      },
+      "venue": {
+        "id": "3bd61ce8",
+        "name": "SESC Pompéia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sesc-pompeia-sao-paulo-brazil-3bd61ce8.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/hamilton-de-holanda/2021/sesc-pompeia-sao-paulo-brazil-6b8d6e52.html"
+    },
+    {
+      "id": "4b8d7782",
+      "versionId": "g5bc6b718",
+      "eventDate": "16-10-2021",
+      "lastUpdated": "2021-10-18T17:07:40.565+0000",
+      "artist": {
+        "mbid": "5e8fdd97-c7ea-4579-a77c-7ab17e4ac6d4",
+        "name": "Children of the Beast",
+        "sortName": "Children of the Beast",
+        "disambiguation": "Brazilian Iron Maiden tribute band",
+        "url": "https://www.setlist.fm/setlists/children-of-the-beast-63f74a5b.html"
+      },
+      "venue": {
+        "id": "73d64221",
+        "name": "",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/unknown-venue-sao-paulo-brazil-73d64221.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "The Ides of March",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Wrathchild",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Another Life",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Charlotte the Harlot",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Genghis Khan",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Killers",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Twilight Zone",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Prodigal Son",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                },
+                "with": {
+                  "mbid": "2f33e705-5949-4efc-99e8-03eea5dff52b",
+                  "name": "Bruno Sutter",
+                  "sortName": "Sutter, Bruno",
+                  "disambiguation": "Brazilian heavy metal singer",
+                  "url": "https://www.setlist.fm/setlists/bruno-sutter-73c7c2f9.html"
+                }
+              },
+              {
+                "name": "Prowler",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                },
+                "with": {
+                  "mbid": "2f33e705-5949-4efc-99e8-03eea5dff52b",
+                  "name": "Bruno Sutter",
+                  "sortName": "Sutter, Bruno",
+                  "disambiguation": "Brazilian heavy metal singer",
+                  "url": "https://www.setlist.fm/setlists/bruno-sutter-73c7c2f9.html"
+                }
+              },
+              {
+                "name": "Murders in the Rue Morgue",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Remember Tomorrow",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Running Free",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Transylvania",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Strange World",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                },
+                "with": {
+                  "mbid": "2f33e705-5949-4efc-99e8-03eea5dff52b",
+                  "name": "Bruno Sutter",
+                  "sortName": "Sutter, Bruno",
+                  "disambiguation": "Brazilian heavy metal singer",
+                  "url": "https://www.setlist.fm/setlists/bruno-sutter-73c7c2f9.html"
+                }
+              },
+              {
+                "name": "Purgatory",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                },
+                "with": {
+                  "mbid": "2f33e705-5949-4efc-99e8-03eea5dff52b",
+                  "name": "Bruno Sutter",
+                  "sortName": "Sutter, Bruno",
+                  "disambiguation": "Brazilian heavy metal singer",
+                  "url": "https://www.setlist.fm/setlists/bruno-sutter-73c7c2f9.html"
+                }
+              },
+              {
+                "name": "Phantom of the Opera",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              },
+              {
+                "name": "Iron Maiden",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                },
+                "with": {
+                  "mbid": "2f33e705-5949-4efc-99e8-03eea5dff52b",
+                  "name": "Bruno Sutter",
+                  "sortName": "Sutter, Bruno",
+                  "disambiguation": "Brazilian heavy metal singer",
+                  "url": "https://www.setlist.fm/setlists/bruno-sutter-73c7c2f9.html"
+                }
+              },
+              {
+                "name": "Sanctuary",
+                "cover": {
+                  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+                  "name": "Iron Maiden",
+                  "sortName": "Iron Maiden",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/iron-maiden-3bd6803c.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/children-of-the-beast/2021/unknown-venue-sao-paulo-brazil-4b8d7782.html"
+    },
+    {
+      "id": "438d7b47",
+      "versionId": "g6badd6be",
+      "eventDate": "16-10-2021",
+      "lastUpdated": "2024-08-28T11:13:00.296+0000",
+      "artist": {
+        "mbid": "a4520f14-b3ed-4a1b-911c-c75f187941b7",
+        "name": "Tuyo",
+        "sortName": "Tuyo",
+        "disambiguation": "Brazilian band",
+        "url": "https://www.setlist.fm/setlists/tuyo-6bf04e56.html"
+      },
+      "venue": {
+        "id": "3d0e9bb",
+        "name": "Black Princess House",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/black-princess-house-sao-paulo-brazil-3d0e9bb.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Abismo"
+              },
+              {
+                "name": "Pra curar"
+              },
+              {
+                "name": "Do lado de dentro"
+              },
+              {
+                "name": "Sonho da Lay"
+              },
+              {
+                "name": "Vidaloca"
+              },
+              {
+                "name": "Turvo"
+              },
+              {
+                "name": "Eu não te conheço"
+              },
+              {
+                "name": "Pronta pra cair"
+              },
+              {
+                "name": "O jeito é ir embora"
+              },
+              {
+                "name": "Sem mentir"
+              },
+              {
+                "name": "Saudade impura"
+              },
+              {
+                "name": "Terminal"
+              },
+              {
+                "name": "Fracasso"
+              },
+              {
+                "name": "Hoje eu quero chorar"
+              },
+              {
+                "name": "Chegamos sozinhos em casa"
+              },
+              {
+                "name": "Tem dias"
+              },
+              {
+                "name": "Amadurece e apodrece"
+              },
+              {
+                "name": "Vitória Vila Velha"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/tuyo/2021/black-princess-house-sao-paulo-brazil-438d7b47.html"
+    },
+    {
+      "id": "3b8d1058",
+      "versionId": "g73a5663d",
+      "eventDate": "16-10-2021",
+      "lastUpdated": "2024-07-06T20:09:02.525+0000",
+      "artist": {
+        "mbid": "800ad415-da71-436b-87f1-9014628c60e4",
+        "name": "Alirio Netto",
+        "sortName": "Netto, Alirio",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/alirio-netto-4bcabfba.html"
+      },
+      "venue": {
+        "id": "2bd24026",
+        "name": "Blue Note São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/blue-note-sao-paulo-sao-paulo-brazil-2bd24026.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "All Things Must Pass",
+                "info": "Live debut"
+              },
+              {
+                "name": "Edinburgh",
+                "info": "Live debut"
+              },
+              {
+                "name": "Grey",
+                "info": "Live debut; with Stefano Mion"
+              },
+              {
+                "name": "Back to the Roots",
+                "info": "Live debut"
+              },
+              {
+                "name": "Your Hate",
+                "info": "Live debut"
+              },
+              {
+                "name": "Let It All Burn",
+                "info": "Live debut"
+              },
+              {
+                "name": "Under Pressure",
+                "cover": {
+                  "mbid": "25f54bb7-c393-44e4-8e26-e4f4cd7aa61c",
+                  "name": "Queen & David Bowie",
+                  "sortName": "Queen & Bowie, David",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/queen-and-david-bowie-6bd6ee46.html"
+                },
+                "info": "with Thiago Arancam"
+              },
+              {
+                "name": "Here I Am",
+                "info": "Live debut"
+              },
+              {
+                "name": "Gipsy",
+                "info": "Live debut"
+              },
+              {
+                "name": "I'm Still Here",
+                "info": "Live debut",
+                "with": {
+                  "mbid": "1bc249a9-93ff-48f4-a646-654a4cd992ef",
+                  "name": "Ivan Busic",
+                  "sortName": "Busic, Ivan",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ivan-busic-1bc4b9d0.html"
+                }
+              },
+              {
+                "name": "Back to the Light",
+                "info": "with Andria Busic and Alexandre Panta on bass"
+              },
+              {
+                "name": "Reason",
+                "cover": {
+                  "mbid": "9ff3eacb-c52e-40c6-8f0d-b242b05061f0",
+                  "name": "Shaman",
+                  "sortName": "Shaman",
+                  "disambiguation": "progressive power-metal band from Brazil",
+                  "url": "https://www.setlist.fm/setlists/shaman-4bd6ff26.html"
+                },
+                "with": {
+                  "mbid": "9ff3eacb-c52e-40c6-8f0d-b242b05061f0",
+                  "name": "Shaman",
+                  "sortName": "Shaman",
+                  "disambiguation": "progressive power-metal band from Brazil",
+                  "url": "https://www.setlist.fm/setlists/shaman-4bd6ff26.html"
+                }
+              },
+              {
+                "name": "Retrato / Like a Stone",
+                "info": "Alirio / Audioslave cover"
+              },
+              {
+                "name": "Bohemian Rhapsody",
+                "cover": {
+                  "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                  "name": "Queen",
+                  "sortName": "Queen",
+                  "disambiguation": "UK rock group",
+                  "url": "https://www.setlist.fm/setlists/queen-43d6e37f.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/alirio-netto/2021/blue-note-sao-paulo-sao-paulo-brazil-3b8d1058.html"
+    },
+    {
+      "id": "638d6a77",
+      "versionId": "g5b7e87ec",
+      "eventDate": "15-10-2021",
+      "lastUpdated": "2025-08-13T13:23:59.160+0000",
+      "artist": {
+        "mbid": "e7734c50-965a-4a35-b343-ede72454afa9",
+        "name": "Raquel",
+        "sortName": "Raquel",
+        "disambiguation": "Brazilian singer, ex act from As Baías",
+        "url": "https://www.setlist.fm/setlists/raquel-7bf0da78.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Faraó",
+                "cover": {
+                  "mbid": "ada1a988-1510-45e8-9cb2-268a36d19d5a",
+                  "name": "Margareth Menezes",
+                  "sortName": "Menezes, Margareth",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/margareth-menezes-7bd70660.html"
+                }
+              },
+              {
+                "name": "Eva",
+                "cover": {
+                  "mbid": "76dffaaa-57c7-4b86-8ea1-bcf351dc950c",
+                  "name": "Umberto Tozzi",
+                  "sortName": "Tozzi, Umberto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/umberto-tozzi-6bd62e16.html"
+                }
+              },
+              {
+                "name": "Chorando de foi",
+                "cover": {
+                  "mbid": "7df5de77-f197-4326-805e-2b2a128feb25",
+                  "name": "Fafá de Belém",
+                  "sortName": "Fafá de Belém",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/fafa-de-belem-7bd77efc.html"
+                }
+              },
+              {
+                "name": "Recairei"
+              },
+              {
+                "name": "Baby me atende",
+                "cover": {
+                  "mbid": "7d04674e-d927-400c-a801-50229b69697b",
+                  "name": "Matheus Fernandes",
+                  "sortName": "Fernandes, Matheus",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/matheus-fernandes-53f677cd.html"
+                }
+              },
+              {
+                "name": "Triste com T",
+                "cover": {
+                  "mbid": "d9550ac2-7bcf-4655-a3fe-24922e254a74",
+                  "name": "Pabllo Vittar",
+                  "sortName": "Vittar, Pabllo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/pabllo-vittar-7bc0fe4c.html"
+                }
+              },
+              {
+                "name": "BONEKINHA",
+                "cover": {
+                  "mbid": "30af9387-037c-4f4f-9a81-17c6d9f5a26e",
+                  "name": "Gloria Groove",
+                  "sortName": "Groove, Gloria",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gloria-groove-23c11053.html"
+                }
+              },
+              {
+                "name": "Las muchachas de Copacabana"
+              },
+              {
+                "name": "Cai de boca no meu bucetão",
+                "cover": {
+                  "mbid": "75fe4a7a-b48c-4d5d-960c-8bf27b390a26",
+                  "name": "Gabily",
+                  "sortName": "Gabily",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gabily-1bce4930.html"
+                }
+              },
+              {
+                "name": "Favela chegou",
+                "cover": {
+                  "mbid": "cf71e106-1003-4390-8477-cf268229df66",
+                  "name": "LUDMILLA",
+                  "sortName": "LUDMILLA",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/ludmilla-4bd9b3c2.html"
+                }
+              },
+              {
+                "name": "Estranha loucura",
+                "cover": {
+                  "mbid": "51bde19b-feed-4e6c-99e7-84327defabe2",
+                  "name": "Alcione",
+                  "sortName": "Alcione",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/alcione-53d78fd9.html"
+                }
+              },
+              {
+                "name": "Filhos de Gandhi",
+                "cover": {
+                  "mbid": "cf6b70f6-2616-481c-912c-0263cabfc974",
+                  "name": "Gilberto Gil",
+                  "sortName": "Gil, Gilberto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gilberto-gil-3d6e18f.html"
+                }
+              },
+              {
+                "name": "O mais belo dos belos",
+                "cover": {
+                  "mbid": "2cf241c0-0d6e-472c-be49-d7691a7aec61",
+                  "name": "Daniela Mercury",
+                  "sortName": "Mercury, Daniela",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/daniela-mercury-13d78155.html"
+                }
+              },
+              {
+                "name": "Por amor ao Ilê",
+                "cover": {
+                  "mbid": "2cf241c0-0d6e-472c-be49-d7691a7aec61",
+                  "name": "Daniela Mercury",
+                  "sortName": "Mercury, Daniela",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/daniela-mercury-13d78155.html"
+                }
+              },
+              {
+                "name": "Arerê",
+                "cover": {
+                  "mbid": "38e2bd6c-c8f0-4e63-ae1e-ccbd2e085772",
+                  "name": "Banda Eva",
+                  "sortName": "Banda Eva",
+                  "disambiguation": "Brazilian axé/samba-reggae band",
+                  "url": "https://www.setlist.fm/setlists/banda-eva-73d62ee1.html"
+                }
+              },
+              {
+                "name": "Levada louca",
+                "cover": {
+                  "mbid": "38e2bd6c-c8f0-4e63-ae1e-ccbd2e085772",
+                  "name": "Banda Eva",
+                  "sortName": "Banda Eva",
+                  "disambiguation": "Brazilian axé/samba-reggae band",
+                  "url": "https://www.setlist.fm/setlists/banda-eva-73d62ee1.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/raquel/2021/audio-sao-paulo-brazil-638d6a77.html"
+    },
+    {
+      "id": "438d7ba7",
+      "versionId": "g6bd942f2",
+      "eventDate": "15-10-2021",
+      "lastUpdated": "2021-10-18T01:42:19.258+0000",
+      "artist": {
+        "mbid": "632ede40-c947-4dce-bedd-0d2b6e2a0b00",
+        "name": "ÀIYÉ",
+        "sortName": "ÀIYÉ",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/aiye-bf0d93e.html"
+      },
+      "venue": {
+        "id": "3d0e9bb",
+        "name": "Black Princess House",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/black-princess-house-sao-paulo-brazil-3d0e9bb.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/aiye/2021/black-princess-house-sao-paulo-brazil-438d7ba7.html"
+    },
+    {
+      "id": "43b6670b",
+      "versionId": "g6bca1e12",
+      "eventDate": "10-10-2021",
+      "lastUpdated": "2022-04-25T14:03:06.789+0000",
+      "artist": {
+        "mbid": "f37e7b57-d68c-4247-a7c2-92aef05e2ae9",
+        "name": "Raf F. Guimarães",
+        "sortName": "Raf F. Guimarães",
+        "disambiguation": "Raf F Guimarães",
+        "url": "https://www.setlist.fm/setlists/raf-f-guimaraes-1bffb538.html"
+      },
+      "venue": {
+        "id": "3d02957",
+        "name": "Disconcert",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/disconcert-sao-paulo-brazil-3d02957.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/raf-f-guimaraes/2021/disconcert-sao-paulo-brazil-43b6670b.html"
+    },
+    {
+      "id": "b8d251a",
+      "versionId": "g43c09b73",
+      "eventDate": "09-10-2021",
+      "lastUpdated": "2022-01-23T16:18:13.454+0000",
+      "artist": {
+        "mbid": "2b1e7c27-2663-43df-9c23-8601e173e6ef",
+        "name": "Marina Sena",
+        "sortName": "Sena, Marina",
+        "disambiguation": "Brazilian singer-songwriter",
+        "url": "https://www.setlist.fm/setlists/marina-sena-13f0f1f5.html"
+      },
+      "venue": {
+        "id": "3d0e9bb",
+        "name": "Black Princess House",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/black-princess-house-sao-paulo-brazil-3d0e9bb.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Seu olhar"
+              },
+              {
+                "name": "Cabelo"
+              },
+              {
+                "name": "Santo"
+              },
+              {
+                "name": "Por supuesto"
+              },
+              {
+                "name": "Voltei pra mim"
+              },
+              {
+                "name": "Amiúde"
+              },
+              {
+                "name": "Tamborim"
+              },
+              {
+                "name": "Temporal"
+              },
+              {
+                "name": "Pelejei"
+              },
+              {
+                "name": "Me toca"
+              },
+              {
+                "name": "Ombrim",
+                "cover": {
+                  "mbid": "bb2931a2-a9f9-4a40-abfd-19dd76f6edce",
+                  "name": "Rosa Neon",
+                  "sortName": "Neon, Rosa",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/rosa-neon-53f7635d.html"
+                },
+                "info": "Snippet"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/marina-sena/2021/black-princess-house-sao-paulo-brazil-b8d251a.html"
+    }
+  ]
+}

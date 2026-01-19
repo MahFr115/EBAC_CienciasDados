@@ -1,0 +1,1847 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 2,
+  "total": 1994,
+  "setlist": [
+    {
+      "id": "7baf9ee0",
+      "versionId": "g6bb6fe4e",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2024-01-29T22:46:41.515+0000",
+      "artist": {
+        "mbid": "1b27bc62-0de9-4170-801d-8d6ac0c4b2a8",
+        "name": "Wasabi",
+        "sortName": "Wasabi",
+        "disambiguation": "Brazilian anime music band",
+        "url": "https://www.setlist.fm/setlists/wasabi-13e7a581.html"
+      },
+      "venue": {
+        "id": "2bd05082",
+        "name": "Distrito Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/distrito-anhembi-sao-paulo-brazil-2bd05082.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "THE HERO!! ~Ikareru Kobushi ni Hi wo Tsukero~",
+                "cover": {
+                  "mbid": "4760bf03-6921-4acf-bd6f-8743f5336008",
+                  "name": "JAM Project",
+                  "sortName": "JAM Project",
+                  "disambiguation": "Japanese anison band",
+                  "url": "https://www.setlist.fm/setlists/jam-project-5bd60b64.html"
+                },
+                "info": "from One-Punch Man"
+              },
+              {
+                "name": "Go Go Power Rangers",
+                "cover": {
+                  "mbid": "8d71e1c2-513c-4977-a078-f9031943b5c4",
+                  "name": "Ron Wasserman",
+                  "sortName": "Wasserman, Ron",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ron-wasserman-53d3ff0d.html"
+                }
+              },
+              {
+                "name": "Guren no Yumiya",
+                "cover": {
+                  "mbid": "cbb66a80-a3db-4c2f-a9a1-62a16f579712",
+                  "name": "Linked Horizon",
+                  "sortName": "Linked Horizon",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/linked-horizon-13df9d89.html"
+                },
+                "info": "from Shingeki no Kyojin"
+              },
+              {
+                "name": "Pokémon Theme",
+                "cover": {
+                  "mbid": "fb4aeed3-43ad-4f05-b01e-d9482d44b96e",
+                  "name": "Jason Paige",
+                  "sortName": "Paige, Jason",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jason-paige-bd7c996.html"
+                }
+              },
+              {
+                "name": "Pegasus Fantasy",
+                "cover": {
+                  "mbid": "785113ad-c6aa-4a89-a485-9534f2ac3726",
+                  "name": "MAKE‐UP",
+                  "sortName": "MAKE‐UP",
+                  "disambiguation": "Japanese hard rock/heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/makeup-13d43909.html"
+                },
+                "info": "from Saint Seiya"
+              },
+              {
+                "name": "Haruka Kanata",
+                "cover": {
+                  "mbid": "14e410f5-97f2-48ba-b1f7-a3a44cbea05c",
+                  "name": "ASIAN KUNG-FU GENERATION",
+                  "sortName": "ASIAN KUNG-FU GENERATION",
+                  "disambiguation": "Japanese rock band",
+                  "url": "https://www.setlist.fm/setlists/asian-kung-fu-generation-4bd62366.html"
+                },
+                "info": "from Naruto"
+              },
+              {
+                "name": "Blue Bird",
+                "cover": {
+                  "mbid": "18191eea-369f-42e8-96ab-c1c24e4d0011",
+                  "name": "Ikimonogakari",
+                  "sortName": "ikimonogakari",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ikimonogakari-7bd79278.html"
+                },
+                "info": "from Naruto Shippuden"
+              },
+              {
+                "name": "What's up, people?!",
+                "cover": {
+                  "mbid": "fb01635c-51fc-4cad-b71f-62e18bb3433b",
+                  "name": "Maximum the Hormone",
+                  "sortName": "Maximum the Hormone",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/maximum-the-hormone-53d323ed.html"
+                },
+                "info": "from Death Note"
+              },
+              {
+                "name": "Sousei no Aquarion",
+                "cover": {
+                  "mbid": "d2153175-41f6-4ab5-a955-1367f0f9c687",
+                  "name": "AKINO",
+                  "sortName": "AKINO",
+                  "disambiguation": "from bless4",
+                  "url": "https://www.setlist.fm/setlists/akino-33d7584d.html"
+                },
+                "with": {
+                  "mbid": "d2153175-41f6-4ab5-a955-1367f0f9c687",
+                  "name": "AKINO",
+                  "sortName": "AKINO",
+                  "disambiguation": "from bless4",
+                  "url": "https://www.setlist.fm/setlists/akino-33d7584d.html"
+                }
+              },
+              {
+                "name": "Gurenge",
+                "cover": {
+                  "mbid": "85d76093-9865-4605-97fa-8c910929d366",
+                  "name": "LiSA",
+                  "sortName": "LiSA",
+                  "disambiguation": "Japanese pop/rock singer",
+                  "url": "https://www.setlist.fm/setlists/lisa-43d5df7b.html"
+                },
+                "info": "from Kimetsu no Yaiba"
+              },
+              {
+                "name": "WE GOTTA POWER",
+                "cover": {
+                  "mbid": "4f764abb-ba0b-4ace-8e50-f9a97728d53e",
+                  "name": "Hironobu Kageyama",
+                  "sortName": "Kageyama, Hironobu",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/hironobu-kageyama-3bd39020.html"
+                },
+                "info": "from Dragon Ball Z"
+              },
+              {
+                "name": "DAN DAN Kokoro Hikareteku",
+                "cover": {
+                  "mbid": "7a0fb9d4-1e6e-4975-9c8c-36e1a890dbeb",
+                  "name": "FIELD OF VIEW",
+                  "sortName": "FIELD OF VIEW",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/field-of-view-5bd707f8.html"
+                },
+                "info": "from Dragon Ball GT"
+              },
+              {
+                "name": "CHA-LA HEAD-CHA-LA",
+                "cover": {
+                  "mbid": "4f764abb-ba0b-4ace-8e50-f9a97728d53e",
+                  "name": "Hironobu Kageyama",
+                  "sortName": "Kageyama, Hironobu",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/hironobu-kageyama-3bd39020.html"
+                },
+                "info": "from Dragon Ball Z"
+              },
+              {
+                "name": "GO!!!",
+                "cover": {
+                  "mbid": "a0387b9b-236d-475f-8846-b2dea4af1112",
+                  "name": "FLOW",
+                  "sortName": "FLOW",
+                  "disambiguation": "Japanese rock band",
+                  "url": "https://www.setlist.fm/setlists/flow-33d478fd.html"
+                },
+                "info": "from Naruto"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/wasabi/2022/distrito-anhembi-sao-paulo-brazil-7baf9ee0.html"
+    },
+    {
+      "id": "7baf9eac",
+      "versionId": "g538a7fd1",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2023-12-24T14:51:56.052+0000",
+      "artist": {
+        "mbid": "d2153175-41f6-4ab5-a955-1367f0f9c687",
+        "name": "AKINO",
+        "sortName": "AKINO",
+        "disambiguation": "from bless4",
+        "url": "https://www.setlist.fm/setlists/akino-33d7584d.html"
+      },
+      "venue": {
+        "id": "2bd05082",
+        "name": "Distrito Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/distrito-anhembi-sao-paulo-brazil-2bd05082.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Gurenge",
+                "cover": {
+                  "mbid": "85d76093-9865-4605-97fa-8c910929d366",
+                  "name": "LiSA",
+                  "sortName": "LiSA",
+                  "disambiguation": "Japanese pop/rock singer",
+                  "url": "https://www.setlist.fm/setlists/lisa-43d5df7b.html"
+                },
+                "info": "from Kimetsu no Yaiba"
+              },
+              {
+                "name": "CHA-LA HEAD-CHA-LA",
+                "cover": {
+                  "mbid": "4f764abb-ba0b-4ace-8e50-f9a97728d53e",
+                  "name": "Hironobu Kageyama",
+                  "sortName": "Kageyama, Hironobu",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/hironobu-kageyama-3bd39020.html"
+                },
+                "info": "from Dragon Ball Z"
+              },
+              {
+                "name": "Let's Have a Party"
+              },
+              {
+                "name": "Sousei no Aquarion"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/akino/2022/distrito-anhembi-sao-paulo-brazil-7baf9eac.html"
+    },
+    {
+      "id": "6bbcfe86",
+      "versionId": "g7370be7d",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2025-07-27T16:10:47.774+0000",
+      "artist": {
+        "mbid": "541f16f5-ad7a-428e-af89-9fa1b16d3c9c",
+        "name": "Pantera",
+        "sortName": "Pantera",
+        "disambiguation": "metal band",
+        "url": "https://www.setlist.fm/setlists/pantera-63d68e8b.html"
+      },
+      "venue": {
+        "id": "3bd64cb4",
+        "name": "Sambódromo do Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sambodromo-do-anhembi-sao-paulo-brazil-3bd64cb4.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Regular People (Conceit)",
+                "tape": true
+              },
+              {
+                "name": "In Heaven (Lady in the Radiator Song)",
+                "tape": true,
+                "cover": {
+                  "mbid": "c917c220-da17-4bc7-beee-d1419205b679",
+                  "name": "Peter Ivers & David Lynch",
+                  "sortName": "Peter Ivers & David Lynch",
+                  "disambiguation": "Co-wrote In Heaven, Lady in the Radiator song from Eraserhead",
+                  "url": "https://www.setlist.fm/setlists/peter-ivers-and-david-lynch-33fafcd9.html"
+                }
+              },
+              {
+                "name": "A New Level"
+              },
+              {
+                "name": "Mouth for War"
+              },
+              {
+                "name": "Strength Beyond Strength"
+              },
+              {
+                "name": "Becoming",
+                "info": "with 'Throes of Rejection' outro snippet"
+              },
+              {
+                "name": "I'm Broken",
+                "info": "with 'By Demons Be Driven' outro snippet"
+              },
+              {
+                "name": "5 Minutes Alone"
+              },
+              {
+                "name": "This Love"
+              },
+              {
+                "name": "Yesterday Don't Mean Shit"
+              },
+              {
+                "name": "Fucking Hostile"
+              },
+              {
+                "name": "Cemetery Gates",
+                "tape": true
+              },
+              {
+                "name": "Planet Caravan",
+                "cover": {
+                  "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+                  "name": "Black Sabbath",
+                  "sortName": "Black Sabbath",
+                  "disambiguation": "English heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/black-sabbath-33d6806d.html"
+                }
+              },
+              {
+                "name": "Walk"
+              },
+              {
+                "name": "Domination / Hollow"
+              },
+              {
+                "name": "Cowboys From Hell"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Concert performed without bassist Rex Brown due to COVID. Derek Engemann filled in on bass.",
+      "url": "https://www.setlist.fm/setlist/pantera/2022/sambodromo-do-anhembi-sao-paulo-brazil-6bbcfe86.html"
+    },
+    {
+      "id": "63af9a53",
+      "versionId": "g23b634bb",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2024-02-01T22:40:24.284+0000",
+      "artist": {
+        "mbid": "5264cf60-2dc4-4344-ae47-ad0b33ee7d0c",
+        "name": "Senpai Old School",
+        "sortName": "Senpai Old School",
+        "disambiguation": "Brazilian anime music band",
+        "url": "https://www.setlist.fm/setlists/senpai-old-school-23e7a44f.html"
+      },
+      "venue": {
+        "id": "2bd05082",
+        "name": "Distrito Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/distrito-anhembi-sao-paulo-brazil-2bd05082.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "We Are!",
+                "cover": {
+                  "mbid": "66938bb6-e328-46c7-8868-e84211f81751",
+                  "name": "Hiroshi Kitadani",
+                  "sortName": "Kitadani, Hiroshi",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/hiroshi-kitadani-33d39021.html"
+                },
+                "info": "from One Piece"
+              },
+              {
+                "name": "Hohoemi no Bakudan",
+                "cover": {
+                  "mbid": "255d0a52-ed64-4568-a67e-1b7ff6ab98d0",
+                  "name": "Matsuko Mawatari",
+                  "sortName": "Mawatari, Matsuko",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/matsuko-mawatari-23d35c4f.html"
+                },
+                "info": "from Yu Yu Hakusho"
+              },
+              {
+                "name": "Tokkei Winspector",
+                "cover": {
+                  "mbid": "4becda18-616e-4d9f-8304-94b3fec22e40",
+                  "name": "Takayuki Miyauchi",
+                  "sortName": "Miyauchi, Takayuki",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/takayuki-miyauchi-53d07fa1.html"
+                }
+              },
+              {
+                "name": "again",
+                "cover": {
+                  "mbid": "80d1d7e0-fdab-4009-8375-54bd63d74c0e",
+                  "name": "YUI",
+                  "sortName": "YUI",
+                  "disambiguation": "Japanese pop/rock singer‐songwriter",
+                  "url": "https://www.setlist.fm/setlists/yui-3d631d7.html"
+                },
+                "info": "from Fullmetal Alchemist: Brotherhood"
+              },
+              {
+                "name": "Brave Heart",
+                "cover": {
+                  "mbid": "8a129fa1-efa8-4aa0-ae3c-3140cf80c2d5",
+                  "name": "Ayumi Miyazaki",
+                  "sortName": "Miyazaki, Ayumi",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ayumi-miyazaki-73d36acd.html"
+                },
+                "info": "from Digimon Adventure"
+              },
+              {
+                "name": "Gotta Catch'Em All",
+                "cover": {
+                  "mbid": "fb4aeed3-43ad-4f05-b01e-d9482d44b96e",
+                  "name": "Jason Paige",
+                  "sortName": "Paige, Jason",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/jason-paige-bd7c996.html"
+                },
+                "info": "from Pokémon"
+              },
+              {
+                "name": "Haruka Kanata",
+                "cover": {
+                  "mbid": "14e410f5-97f2-48ba-b1f7-a3a44cbea05c",
+                  "name": "ASIAN KUNG-FU GENERATION",
+                  "sortName": "ASIAN KUNG-FU GENERATION",
+                  "disambiguation": "Japanese rock band",
+                  "url": "https://www.setlist.fm/setlists/asian-kung-fu-generation-4bd62366.html"
+                },
+                "info": "from Naruto"
+              },
+              {
+                "name": "Blue Bird",
+                "cover": {
+                  "mbid": "18191eea-369f-42e8-96ab-c1c24e4d0011",
+                  "name": "Ikimonogakari",
+                  "sortName": "ikimonogakari",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/ikimonogakari-7bd79278.html"
+                },
+                "info": "from Naruto Shippuden"
+              },
+              {
+                "name": "Gurenge",
+                "cover": {
+                  "mbid": "85d76093-9865-4605-97fa-8c910929d366",
+                  "name": "LiSA",
+                  "sortName": "LiSA",
+                  "disambiguation": "Japanese pop/rock singer",
+                  "url": "https://www.setlist.fm/setlists/lisa-43d5df7b.html"
+                },
+                "info": "from Kimetsu no Yaiba"
+              },
+              {
+                "name": "Pegasus Fantasy",
+                "cover": {
+                  "mbid": "785113ad-c6aa-4a89-a485-9534f2ac3726",
+                  "name": "MAKE‐UP",
+                  "sortName": "MAKE‐UP",
+                  "disambiguation": "Japanese hard rock/heavy metal band",
+                  "url": "https://www.setlist.fm/setlists/makeup-13d43909.html"
+                },
+                "info": "from Saint Seiya"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/senpai-old-school/2022/distrito-anhembi-sao-paulo-brazil-63af9a53.html"
+    },
+    {
+      "id": "4bbcdf2e",
+      "versionId": "g2356c89b",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2024-10-08T20:02:28.574+0000",
+      "artist": {
+        "mbid": "7146341f-8d24-4acc-b90f-f8f5f73f1d1e",
+        "name": "Maglore",
+        "sortName": "Maglore",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/maglore-1bc435d4.html"
+      },
+      "venue": {
+        "id": "23de9453",
+        "name": "Cine Joia",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/cine-joia-sao-paulo-brazil-23de9453.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "A vida é uma aventura"
+              },
+              {
+                "name": "Me deixa legal"
+              },
+              {
+                "name": "Todas as bandeiras"
+              },
+              {
+                "name": "Amor de verão"
+              },
+              {
+                "name": "Clonazepam 2mg"
+              },
+              {
+                "name": "Ai ai"
+              },
+              {
+                "name": "Se você fosse minha / Lenda do abaeté"
+              },
+              {
+                "name": "Não existe saudade no cosmos",
+                "cover": {
+                  "mbid": "c7c9fa4d-262b-45c1-9477-237849654948",
+                  "name": "Erasmo Carlos",
+                  "sortName": "Carlos, Erasmo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/erasmo-carlos-53d77781.html"
+                }
+              },
+              {
+                "name": "Enquanto sós"
+              },
+              {
+                "name": "Transicional"
+              },
+              {
+                "name": "Vira-lata"
+              },
+              {
+                "name": "Motor"
+              },
+              {
+                "name": "Invejosa"
+              },
+              {
+                "name": "Revés de tudo"
+              },
+              {
+                "name": "Outra vez"
+              },
+              {
+                "name": "Vampiro da Rua XV"
+              },
+              {
+                "name": "Hoje eu vou sair"
+              },
+              {
+                "name": "Café com pão"
+              },
+              {
+                "name": "Dança diferente"
+              },
+              {
+                "name": "Eles"
+              },
+              {
+                "name": "Espelho de banheiro"
+              },
+              {
+                "name": "Sobre Tudo Que Diz Adeus"
+              },
+              {
+                "name": "Maio, 1968"
+              },
+              {
+                "name": "O sol chegou"
+              },
+              {
+                "name": "Às vezes um clichê"
+              },
+              {
+                "name": "Talvez"
+              },
+              {
+                "name": "Calma"
+              },
+              {
+                "name": "Aquela força"
+              },
+              {
+                "name": "Valeu, valeu"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Avenida sete"
+              },
+              {
+                "name": "Mantra"
+              },
+              {
+                "name": "Espírito Selvagem"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/maglore/2022/cine-joia-sao-paulo-brazil-4bbcdf2e.html"
+    },
+    {
+      "id": "3bcf977",
+      "versionId": "g23e33027",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2022-12-22T03:09:44.498+0000",
+      "artist": {
+        "mbid": "074e3847-f67f-49f9-81f1-8c8cea147e8e",
+        "name": "Bring Me the Horizon",
+        "sortName": "Bring Me the Horizon",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/bring-me-the-horizon-73d6f639.html"
+      },
+      "venue": {
+        "id": "3bd64cb4",
+        "name": "Sambódromo do Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sambodromo-do-anhembi-sao-paulo-brazil-3bd64cb4.html"
+      },
+      "tour": {
+        "name": "Post Human Latin American Tour 2022"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Can You Feel My Heart"
+              },
+              {
+                "name": "Happy Song"
+              },
+              {
+                "name": "Teardrops"
+              },
+              {
+                "name": "MANTRA"
+              },
+              {
+                "name": "Dear Diary,"
+              },
+              {
+                "name": "Parasite Eve"
+              },
+              {
+                "name": "sTraNgeRs"
+              },
+              {
+                "name": "Shadow Moses"
+              },
+              {
+                "name": "Itch for the Cure (When Will We Be Free?)",
+                "tape": true
+              },
+              {
+                "name": "Kingslayer"
+              },
+              {
+                "name": "DiE4u"
+              },
+              {
+                "name": "Sleepwalking",
+                "info": "audience request"
+              },
+              {
+                "name": "Drown"
+              },
+              {
+                "name": "Obey"
+              },
+              {
+                "name": "Throne"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "\"Follow You\" was on setlist but was replaced by \"Sleepwalking\" due to audience request",
+      "url": "https://www.setlist.fm/setlist/bring-me-the-horizon/2022/sambodromo-do-anhembi-sao-paulo-brazil-3bcf977.html"
+    },
+    {
+      "id": "3bcf967",
+      "versionId": "g73825ad5",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2023-10-20T16:34:05.169+0000",
+      "artist": {
+        "mbid": "d24bd06d-4a7e-44aa-9c45-c4a5692dc50e",
+        "name": "Project46",
+        "sortName": "Project46",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/project46-3bc484e8.html"
+      },
+      "venue": {
+        "id": "3bd64cb4",
+        "name": "Sambódromo do Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sambodromo-do-anhembi-sao-paulo-brazil-3bd64cb4.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "809072",
+                "tape": true
+              },
+              {
+                "name": "Atrás das linhas inimigas"
+              },
+              {
+                "name": "Violência gratuita"
+              },
+              {
+                "name": "Impunidade"
+              },
+              {
+                "name": "Rédeas"
+              },
+              {
+                "name": "Pânico"
+              },
+              {
+                "name": "Erro +55"
+              },
+              {
+                "name": "Pode pá"
+              },
+              {
+                "name": "Foda-se (Se depender de nós)"
+              },
+              {
+                "name": "Acorda pra vida"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/project46/2022/sambodromo-do-anhembi-sao-paulo-brazil-3bcf967.html"
+    },
+    {
+      "id": "3bcf93b",
+      "versionId": "g1be30140",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2022-12-25T11:55:04.103+0000",
+      "artist": {
+        "mbid": "76d38f72-5fd0-4d70-942e-60a203e3f615",
+        "name": "Oitão",
+        "sortName": "Oitão",
+        "disambiguation": "Brazilian Hardcore band",
+        "url": "https://www.setlist.fm/setlists/oitao-1bda4df4.html"
+      },
+      "venue": {
+        "id": "3bd64cb4",
+        "name": "Sambódromo do Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sambodromo-do-anhembi-sao-paulo-brazil-3bd64cb4.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "",
+                "tape": true
+              },
+              {
+                "name": "Pobre povo"
+              },
+              {
+                "name": "Impunidade"
+              },
+              {
+                "name": "4º mundo"
+              },
+              {
+                "name": "Só lhe restam trevas"
+              },
+              {
+                "name": "Doença"
+              },
+              {
+                "name": "Tiro na rótula"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/oitao/2022/sambodromo-do-anhembi-sao-paulo-brazil-3bcf93b.html"
+    },
+    {
+      "id": "33b8b0ed",
+      "versionId": "g3394fcf9",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2023-05-14T01:31:45.401+0000",
+      "artist": {
+        "mbid": "8da63773-e618-412b-9411-ce315826d489",
+        "name": "Orquestra Experimental de Repertório",
+        "sortName": "OER",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/orquestra-experimental-de-repertorio-7bfb320c.html"
+      },
+      "venue": {
+        "id": "23d5accb",
+        "name": "Theatro Municipal de São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/theatro-municipal-de-sao-paulo-sao-paulo-brazil-23d5accb.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "name": "Sinfonias Fantásticas VIII",
+            "song": [
+              {
+                "name": "Symphony no. 1 in D major (\"Titan\")",
+                "cover": {
+                  "mbid": "8d610e51-64b4-4654-b8df-064b0fb7a9d9",
+                  "name": "Gustav Mahler",
+                  "sortName": "Mahler, Gustav",
+                  "disambiguation": "composer",
+                  "url": "https://www.setlist.fm/setlists/gustav-mahler-2bd6a00a.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "ORQUESTRA EXPERIMENTAL DE REPERTÓRIO & Jamil Maluf (maestro)",
+      "url": "https://www.setlist.fm/setlist/orquestra-experimental-de-repertorio/2022/theatro-municipal-de-sao-paulo-sao-paulo-brazil-33b8b0ed.html"
+    },
+    {
+      "id": "1bb8b59c",
+      "versionId": "g63b6de33",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2024-01-31T12:03:15.314+0000",
+      "artist": {
+        "mbid": "a0138d0b-3e45-4495-8fdd-290bcc8cf5d7",
+        "name": "Orquestra Sinfônica do Estado de São Paulo",
+        "sortName": "OSESP",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/orquestra-sinfonica-do-estado-de-sao-paulo-3d169df.html"
+      },
+      "venue": {
+        "id": "4bd7b3be",
+        "name": "Sala São Paulo",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sala-sao-paulo-sao-paulo-brazil-4bd7b3be.html"
+      },
+      "tour": {
+        "name": "TEMPORADA 2022 DA OSESP"
+      },
+      "sets": {
+        "set": [
+          {
+            "name": "Ludwig Van Beethoven — Sinfonia nº 9 em Ré Menor, Op. 125 - Coral",
+            "song": [
+              {
+                "name": "Allegro ma non troppo, un poco maestoso",
+                "cover": {
+                  "mbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+                  "name": "Ludwig van Beethoven",
+                  "sortName": "Beethoven, Ludwig van",
+                  "disambiguation": "German composer",
+                  "url": "https://www.setlist.fm/setlists/ludwig-van-beethoven-2bd43c2e.html"
+                }
+              },
+              {
+                "name": "Molto vivace",
+                "cover": {
+                  "mbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+                  "name": "Ludwig van Beethoven",
+                  "sortName": "Beethoven, Ludwig van",
+                  "disambiguation": "German composer",
+                  "url": "https://www.setlist.fm/setlists/ludwig-van-beethoven-2bd43c2e.html"
+                }
+              },
+              {
+                "name": "Adagio molto cantabile",
+                "cover": {
+                  "mbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+                  "name": "Ludwig van Beethoven",
+                  "sortName": "Beethoven, Ludwig van",
+                  "disambiguation": "German composer",
+                  "url": "https://www.setlist.fm/setlists/ludwig-van-beethoven-2bd43c2e.html"
+                }
+              },
+              {
+                "name": "Finale",
+                "cover": {
+                  "mbid": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+                  "name": "Ludwig van Beethoven",
+                  "sortName": "Beethoven, Ludwig van",
+                  "disambiguation": "German composer",
+                  "url": "https://www.setlist.fm/setlists/ludwig-van-beethoven-2bd43c2e.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Orquestra Sinfônica do Estado de São Paulo - OSESP, Coro da OSESP, Coro Acadêmico da OSESP, Christopher Allen (maestro), Camila Titinger (soprano), Ana Lucia Benedetti (mezzo soprano), Issachah Savage (tenor) e Paulo Szot (Barítono).",
+      "url": "https://www.setlist.fm/setlist/orquestra-sinfonica-do-estado-de-sao-paulo/2022/sala-sao-paulo-sao-paulo-brazil-1bb8b59c.html"
+    },
+    {
+      "id": "13bcf97d",
+      "versionId": "g6b97d6a2",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2023-05-06T01:25:29.938+0000",
+      "artist": {
+        "mbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+        "name": "Slipknot",
+        "sortName": "Slipknot",
+        "disambiguation": "US metal band",
+        "url": "https://www.setlist.fm/setlists/slipknot-1bd6a5b4.html"
+      },
+      "venue": {
+        "id": "3bd64cb4",
+        "name": "Sambódromo do Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sambodromo-do-anhembi-sao-paulo-brazil-3bd64cb4.html"
+      },
+      "tour": {
+        "name": "Latin America 2022"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "For Those About to Rock (We Salute You)",
+                "tape": true,
+                "cover": {
+                  "mbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+                  "name": "AC/DC",
+                  "sortName": "AC/DC",
+                  "disambiguation": "Australian hard rock band",
+                  "url": "https://www.setlist.fm/setlists/acdc-23d6807b.html"
+                }
+              },
+              {
+                "name": "Get Behind Me Satan and Push",
+                "tape": true,
+                "cover": {
+                  "mbid": "615d51ca-3d06-43dc-b956-4d76099f4b5e",
+                  "name": "Billie Jo Spears",
+                  "sortName": "Spears, Billie Jo",
+                  "disambiguation": "American country music singer",
+                  "url": "https://www.setlist.fm/setlists/billie-jo-spears-2bd6102a.html"
+                }
+              },
+              {
+                "name": "Disasterpiece"
+              },
+              {
+                "name": "Wait and Bleed"
+              },
+              {
+                "name": "All Out Life"
+              },
+              {
+                "name": "Sulfur"
+              },
+              {
+                "name": "Before I Forget"
+              },
+              {
+                "name": "The Dying Song (Time to Sing)"
+              },
+              {
+                "name": "Dead Memories"
+              },
+              {
+                "name": "Unsainted"
+              },
+              {
+                "name": "The Heretic Anthem"
+              },
+              {
+                "name": "Psychosocial",
+                "info": "Craig played percussion on the last verse."
+              },
+              {
+                "name": "Duality"
+              },
+              {
+                "name": "Custer"
+              },
+              {
+                "name": "Spit It Out"
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "(515)",
+                "tape": true
+              },
+              {
+                "name": "People = Shit"
+              },
+              {
+                "name": "Surfacing"
+              },
+              {
+                "name": "'Til We Die",
+                "tape": true
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/slipknot/2022/sambodromo-do-anhembi-sao-paulo-brazil-13bcf97d.html"
+    },
+    {
+      "id": "13bcf971",
+      "versionId": "g63e3e697",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2022-12-18T18:50:46.124+0000",
+      "artist": {
+        "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+        "name": "Sepultura",
+        "sortName": "Sepultura",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/sepultura-bd699d6.html"
+      },
+      "venue": {
+        "id": "3bd64cb4",
+        "name": "Sambódromo do Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sambodromo-do-anhembi-sao-paulo-brazil-3bd64cb4.html"
+      },
+      "tour": {
+        "name": "Quadra"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Isolation"
+              },
+              {
+                "name": "Refuse/Resist"
+              },
+              {
+                "name": "Means to an End"
+              },
+              {
+                "name": "Cut-Throat",
+                "with": {
+                  "mbid": "40b0dfb0-d7e7-4a92-b0fa-12ed9af54993",
+                  "name": "Scott Ian",
+                  "sortName": "Ian, Scott",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/scott-ian-2bd6d032.html"
+                }
+              },
+              {
+                "name": "Propaganda"
+              },
+              {
+                "name": "Dead Embryonic Cells"
+              },
+              {
+                "name": "Agony of Defeat"
+              },
+              {
+                "name": "Slave New World",
+                "with": {
+                  "mbid": "6aef178d-db24-4f6b-b0b7-e8e4d3a78d5a",
+                  "name": "Matt Heafy",
+                  "sortName": "Heafy, Matt",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/matt-heafy-2bd6fcc6.html"
+                }
+              },
+              {
+                "name": "Arise",
+                "with": {
+                  "mbid": "3e99e22f-3dc4-4b0c-b280-6f0bc7657474",
+                  "name": "Phil Anselmo",
+                  "sortName": "Anselmo, Phil",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/phil-anselmo-5bd61368.html"
+                }
+              },
+              {
+                "name": "Ratamahatta"
+              },
+              {
+                "name": "Roots Bloody Roots"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/sepultura/2022/sambodromo-do-anhembi-sao-paulo-brazil-13bcf971.html"
+    },
+    {
+      "id": "13bcf961",
+      "versionId": "g7be336b8",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2022-12-21T23:03:06.220+0000",
+      "artist": {
+        "mbid": "c674f0af-58fc-4e05-bca8-34eb811a7c84",
+        "name": "Vended",
+        "sortName": "Vended",
+        "disambiguation": "nu metal band from Des Moines",
+        "url": "https://www.setlist.fm/setlists/vended-3f4b9df.html"
+      },
+      "venue": {
+        "id": "3bd64cb4",
+        "name": "Sambódromo do Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sambodromo-do-anhembi-sao-paulo-brazil-3bd64cb4.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Ded to Me"
+              },
+              {
+                "name": "Burn My Misery"
+              },
+              {
+                "name": "Bloodline"
+              },
+              {
+                "name": "Overall"
+              },
+              {
+                "name": "Don't Scream"
+              },
+              {
+                "name": "My Wrongs"
+              },
+              {
+                "name": "Asylum"
+              },
+              {
+                "name": "Fear Forgotten"
+              },
+              {
+                "name": "Antibody"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Technical problems with microphone and guitars happened during the first four songs.",
+      "url": "https://www.setlist.fm/setlist/vended/2022/sambodromo-do-anhembi-sao-paulo-brazil-13bcf961.html"
+    },
+    {
+      "id": "13bcf959",
+      "versionId": "g7be3e6f0",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2022-12-18T18:11:05.386+0000",
+      "artist": {
+        "mbid": "1f5ff245-2837-4d4a-a609-e93e544478c3",
+        "name": "Trivium",
+        "sortName": "Trivium",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/trivium-73d68289.html"
+      },
+      "venue": {
+        "id": "3bd64cb4",
+        "name": "Sambódromo do Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sambodromo-do-anhembi-sao-paulo-brazil-3bd64cb4.html"
+      },
+      "tour": {
+        "name": "Deadmen and Dragons"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "X",
+                "tape": true
+              },
+              {
+                "name": "In the Court of the Dragon"
+              },
+              {
+                "name": "Down From the Sky"
+              },
+              {
+                "name": "The Sin and the Sentence"
+              },
+              {
+                "name": "A Gunshot to the Head of Trepidation"
+              },
+              {
+                "name": "The Heart From Your Hate"
+              },
+              {
+                "name": "Strife"
+              },
+              {
+                "name": "Pull Harder on the Strings of Your Martyr"
+              },
+              {
+                "name": "Capsizing the Sea",
+                "tape": true
+              },
+              {
+                "name": "In Waves"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/trivium/2022/sambodromo-do-anhembi-sao-paulo-brazil-13bcf959.html"
+    },
+    {
+      "id": "13bcf945",
+      "versionId": "g2be32866",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2022-12-22T18:32:31.303+0000",
+      "artist": {
+        "mbid": "fb0f4520-2095-491b-b2f2-ade4c3f2e5fa",
+        "name": "Black Pantera",
+        "sortName": "Black Pantera",
+        "disambiguation": "Brazilian Metal Group",
+        "url": "https://www.setlist.fm/setlists/black-pantera-23ccf053.html"
+      },
+      "venue": {
+        "id": "3bd64cb4",
+        "name": "Sambódromo do Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sambodromo-do-anhembi-sao-paulo-brazil-3bd64cb4.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Padrão é o caralho"
+              },
+              {
+                "name": "Mosha"
+              },
+              {
+                "name": "Legado"
+              },
+              {
+                "name": "Godzila"
+              },
+              {
+                "name": "Fogo nos racistas"
+              },
+              {
+                "name": "A carne",
+                "cover": {
+                  "mbid": "a619471e-ee2f-430f-b57b-262f94457559",
+                  "name": "Elza Soares",
+                  "sortName": "Soares, Elza",
+                  "disambiguation": "Brazilian samba singer",
+                  "url": "https://www.setlist.fm/setlists/elza-soares-43d6b317.html"
+                }
+              },
+              {
+                "name": "Abre a roda e senta o pé"
+              },
+              {
+                "name": "Execução na Av. 38"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/black-pantera/2022/sambodromo-do-anhembi-sao-paulo-brazil-13bcf945.html"
+    },
+    {
+      "id": "13bcf93d",
+      "versionId": "g3e32983",
+      "eventDate": "18-12-2022",
+      "lastUpdated": "2022-12-22T18:26:44.464+0000",
+      "artist": {
+        "mbid": "77191187-de3c-438e-8350-42797e112906",
+        "name": "Jimmy & Rats",
+        "sortName": "Jimmy & Rats",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/jimmy-and-rats-23f22cef.html"
+      },
+      "venue": {
+        "id": "3bd64cb4",
+        "name": "Sambódromo do Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/sambodromo-do-anhembi-sao-paulo-brazil-3bd64cb4.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Do meu jeito"
+              },
+              {
+                "name": "Medo"
+              },
+              {
+                "name": "Anne Bonny"
+              },
+              {
+                "name": "O temido lobo do mar"
+              },
+              {
+                "name": "Tempo ruim",
+                "cover": {
+                  "mbid": "cdac8d31-3e08-44d7-9620-aa209ecf0c10",
+                  "name": "Matanza",
+                  "sortName": "Matanza",
+                  "disambiguation": "Brazilian Rock Band",
+                  "url": "https://www.setlist.fm/setlists/matanza-3bd61890.html"
+                }
+              },
+              {
+                "name": "Pra nunca se entregar"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/jimmy-and-rats/2022/sambodromo-do-anhembi-sao-paulo-brazil-13bcf93d.html"
+    },
+    {
+      "id": "ba4d566",
+      "versionId": "g739c328d",
+      "eventDate": "17-12-2022",
+      "lastUpdated": "2023-07-27T19:36:05.263+0000",
+      "artist": {
+        "mbid": "1a65357d-b2d2-4bfa-b145-8e49e3c6265e",
+        "name": "Metade de Mim",
+        "sortName": "Metade de Mim",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/metade-de-mim-2bffb04a.html"
+      },
+      "venue": {
+        "id": "3bd63414",
+        "name": "Hangar 110",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/hangar-110-sao-paulo-brazil-3bd63414.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/metade-de-mim/2022/hangar-110-sao-paulo-brazil-ba4d566.html"
+    },
+    {
+      "id": "7bbcc658",
+      "versionId": "g33e3187d",
+      "eventDate": "17-12-2022",
+      "lastUpdated": "2022-12-23T20:06:37.411+0000",
+      "artist": {
+        "mbid": "0ea8e1a4-99f2-419f-b382-52ca3fc82a5b",
+        "name": "Em Ruínas",
+        "sortName": "Em Ruinas",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/em-ruinas-bdb59ca.html"
+      },
+      "venue": {
+        "id": "1bd535f4",
+        "name": "Jai Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/jai-club-sao-paulo-brazil-1bd535f4.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/em-ruinas/2022/jai-club-sao-paulo-brazil-7bbcc658.html"
+    },
+    {
+      "id": "73bcc651",
+      "versionId": "g33e31875",
+      "eventDate": "17-12-2022",
+      "lastUpdated": "2022-12-23T20:08:28.933+0000",
+      "artist": {
+        "mbid": "cedee9ca-fae9-40a0-a2f6-3a3825b05c79",
+        "name": "Cemitério",
+        "sortName": "Cemitério",
+        "disambiguation": "Brazilian Death/Thrash Metal",
+        "url": "https://www.setlist.fm/setlists/cemiterio-3bc69c40.html"
+      },
+      "venue": {
+        "id": "1bd535f4",
+        "name": "Jai Club",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/jai-club-sao-paulo-brazil-1bd535f4.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/cemiterio/2022/jai-club-sao-paulo-brazil-73bcc651.html"
+    },
+    {
+      "id": "73af2665",
+      "versionId": "g4bb6ffba",
+      "eventDate": "17-12-2022",
+      "lastUpdated": "2024-01-29T22:19:13.689+0000",
+      "artist": {
+        "mbid": "1a58ec5d-a68e-43e3-b481-b99a5964a74e",
+        "name": "YUYU20",
+        "sortName": "YUYU20",
+        "disambiguation": "Brazilian band",
+        "url": "https://www.setlist.fm/setlists/yuyu20-2be7f482.html"
+      },
+      "venue": {
+        "id": "2bd05082",
+        "name": "Distrito Anhembi",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/distrito-anhembi-sao-paulo-brazil-2bd05082.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Tank!",
+                "cover": {
+                  "mbid": "b5fb0f1a-2cd4-4759-9d80-648643f70c43",
+                  "name": "The Seatbelts",
+                  "sortName": "Seatbelts, The",
+                  "disambiguation": "Japanese space jazz band",
+                  "url": "https://www.setlist.fm/setlists/the-seatbelts-6bd3ee66.html"
+                },
+                "info": "from Cowboy Bebop"
+              },
+              {
+                "name": "All Right",
+                "cover": {
+                  "mbid": "6616093c-5f9e-40b1-ab47-264295de9868",
+                  "name": "Nozomu Sasaki",
+                  "sortName": "Sasaki, Nozomu",
+                  "disambiguation": "voice actor & singer",
+                  "url": "https://www.setlist.fm/setlists/nozomu-sasaki-1bdeb534.html"
+                },
+                "info": "\"Não Conheci O Outro Mundo Por Querer\" from Yu Yu Hakusho"
+              },
+              {
+                "name": "Tokkyuu Shirei Solbrain",
+                "cover": {
+                  "mbid": "4becda18-616e-4d9f-8304-94b3fec22e40",
+                  "name": "Takayuki Miyauchi",
+                  "sortName": "Miyauchi, Takayuki",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/takayuki-miyauchi-53d07fa1.html"
+                }
+              },
+              {
+                "name": "Homework ga Owaranai",
+                "cover": {
+                  "mbid": "255d0a52-ed64-4568-a67e-1b7ff6ab98d0",
+                  "name": "Matsuko Mawatari",
+                  "sortName": "Mawatari, Matsuko",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/matsuko-mawatari-23d35c4f.html"
+                },
+                "info": "\"O Tempo\" from Yu Yu Hakusho"
+              },
+              {
+                "name": "Eye to Eye",
+                "cover": {
+                  "mbid": "e3c8284e-2b88-4497-bd18-96d26966cdae",
+                  "name": "Megumi Ogata",
+                  "sortName": "Ogata, Megumi",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/megumi-ogata-3bd32c54.html"
+                },
+                "info": "\"Olhos nos Olhos\" from Yu Yu Hakusho"
+              },
+              {
+                "name": "Silhouette",
+                "cover": {
+                  "mbid": "33ff8a92-2f3b-4cac-8ea0-5eebfa995626",
+                  "name": "KANA-BOON",
+                  "sortName": "KANA-BOON",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/kana-boon-3bd85410.html"
+                },
+                "info": "\"Silhueta\" from Naruto Shippuden"
+              },
+              {
+                "name": "Kaikai Kitan",
+                "cover": {
+                  "mbid": "66bdd1c9-d1c5-40b7-a487-5061fffbd87d",
+                  "name": "Eve",
+                  "sortName": "Eve",
+                  "disambiguation": "Japanese singer-songwriter, utaite, and Vocaloid producer",
+                  "url": "https://www.setlist.fm/setlists/eve-5bceb32c.html"
+                },
+                "info": "\"Loop Infinito\" from Jujutsu Kaisen"
+              },
+              {
+                "name": "Ai ni Dakarete",
+                "cover": {
+                  "mbid": "4becda18-616e-4d9f-8304-94b3fec22e40",
+                  "name": "Takayuki Miyauchi",
+                  "sortName": "Miyauchi, Takayuki",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/takayuki-miyauchi-53d07fa1.html"
+                },
+                "info": "\"E Outra Vez O Sol Brilhou\" from Solbrain"
+              },
+              {
+                "name": "Taiyou ga Mata Kagayaku Toki",
+                "cover": {
+                  "mbid": "f1154997-db90-46db-b017-cc7ef8986f0c",
+                  "name": "Hiro Takahashi",
+                  "sortName": "Takahashi, Hiro",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/hiro-takahashi-2bd35c4e.html"
+                },
+                "info": "\"A Carta\" from Yu Yu Hakusho"
+              },
+              {
+                "name": "Daydream Generation",
+                "cover": {
+                  "mbid": "255d0a52-ed64-4568-a67e-1b7ff6ab98d0",
+                  "name": "Matsuko Mawatari",
+                  "sortName": "Mawatari, Matsuko",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/matsuko-mawatari-23d35c4f.html"
+                },
+                "info": "\"Geração dos Sonhos\" from Yu Yu Hakusho"
+              },
+              {
+                "name": "LOST IN PARADISE",
+                "cover": {
+                  "mbid": "a0bb95b8-9fd9-47dd-af28-d4210f7f2a11",
+                  "name": "ALI",
+                  "sortName": "ALI",
+                  "disambiguation": "ALIEN LIBERTY INTERNATIONAL; multinational HIP-HOP / FUNK BAND from Shibuya",
+                  "url": "https://www.setlist.fm/setlists/ali-6bf48af2.html"
+                },
+                "info": "from Jujutsu Kaisen"
+              },
+              {
+                "name": "Sayonara Bye Bye",
+                "cover": {
+                  "mbid": "255d0a52-ed64-4568-a67e-1b7ff6ab98d0",
+                  "name": "Matsuko Mawatari",
+                  "sortName": "Mawatari, Matsuko",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/matsuko-mawatari-23d35c4f.html"
+                },
+                "info": "\"Eu Vou Dizer Adeus\" from Yu Yu Hakusho"
+              },
+              {
+                "name": "Hohoemi no Bakudan",
+                "cover": {
+                  "mbid": "255d0a52-ed64-4568-a67e-1b7ff6ab98d0",
+                  "name": "Matsuko Mawatari",
+                  "sortName": "Mawatari, Matsuko",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/matsuko-mawatari-23d35c4f.html"
+                },
+                "info": "\"Sorriso Contagiante\" from Yu Yu Hakusho"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/yuyu20/2022/distrito-anhembi-sao-paulo-brazil-73af2665.html"
+    }
+  ]
+}

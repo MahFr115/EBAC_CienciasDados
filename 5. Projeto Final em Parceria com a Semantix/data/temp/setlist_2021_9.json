@@ -1,0 +1,1763 @@
+{
+  "type": "setlists",
+  "itemsPerPage": 20,
+  "page": 9,
+  "total": 255,
+  "setlist": [
+    {
+      "id": "53ac9799",
+      "versionId": "g4b89fb0a",
+      "eventDate": "09-10-2021",
+      "lastUpdated": "2024-01-20T01:29:44.759+0000",
+      "artist": {
+        "mbid": "67e97898-3bb5-412a-a51e-95a7b59a1bef",
+        "name": "Ney Matogrosso",
+        "sortName": "Matogrosso, Ney",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/ney-matogrosso-bd62de6.html"
+      },
+      "venue": {
+        "id": "13d61db9",
+        "name": "Espaço das Américas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/espaco-das-americas-sao-paulo-brazil-13d61db9.html"
+      },
+      "tour": {
+        "name": "Bloco na Rua"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/ney-matogrosso/2021/espaco-das-americas-sao-paulo-brazil-53ac9799.html"
+    },
+    {
+      "id": "2bb45c7a",
+      "versionId": "g33f75031",
+      "eventDate": "03-10-2021",
+      "lastUpdated": "2022-06-16T02:13:31.048+0000",
+      "artist": {
+        "mbid": "76ea8cba-eb69-4f64-97a0-ef7751e31887",
+        "name": "Joelma",
+        "sortName": "Joelma",
+        "disambiguation": "Ex Calypso",
+        "url": "https://www.setlist.fm/setlists/joelma-33c23c55.html"
+      },
+      "venue": {
+        "id": "73d56231",
+        "name": "Domingo Legal",
+        "city": {
+          "id": "3455775",
+          "name": "Osasco",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5325,
+            "long": -46.79166667
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/domingo-legal-osasco-brazil-73d56231.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Sim"
+              },
+              {
+                "name": "Dançando Calypso / Isso é calypso",
+                "cover": {
+                  "mbid": "49c2fb4d-5bb4-4b88-834e-79431dcfab08",
+                  "name": "Banda Calypso",
+                  "sortName": "Banda Calypso",
+                  "disambiguation": "Brazilian band",
+                  "url": "https://www.setlist.fm/setlists/banda-calypso-33d5a47d.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/joelma/2021/domingo-legal-osasco-brazil-2bb45c7a.html"
+    },
+    {
+      "id": "63bffaa3",
+      "versionId": "g13e4793d",
+      "eventDate": "02-10-2021",
+      "lastUpdated": "2022-11-20T11:45:47.211+0000",
+      "artist": {
+        "mbid": "f197a8df-ac2b-4e78-9913-4abf13741f12",
+        "name": "Os Paralamas do Sucesso",
+        "sortName": "Paralamas do Sucesso, Os",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/os-paralamas-do-sucesso-43d6c7ef.html"
+      },
+      "venue": {
+        "id": "13d61db9",
+        "name": "Espaço das Américas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/espaco-das-americas-sao-paulo-brazil-13d61db9.html"
+      },
+      "tour": {
+        "name": "Paralamas Clássicos"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/os-paralamas-do-sucesso/2021/espaco-das-americas-sao-paulo-brazil-63bffaa3.html"
+    },
+    {
+      "id": "4bbe6b9a",
+      "versionId": "g33e71425",
+      "eventDate": "02-10-2021",
+      "lastUpdated": "2022-11-10T01:33:00.570+0000",
+      "artist": {
+        "mbid": "a774549d-0bc6-470f-a055-c4b12dfd0085",
+        "name": "Zeca Baleiro",
+        "sortName": "Baleiro, Zeca",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/zeca-baleiro-33d6c4b1.html"
+      },
+      "venue": {
+        "id": "63d6d6d3",
+        "name": "Tom Brasil",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/tom-brasil-sao-paulo-brazil-63d6d6d3.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/zeca-baleiro/2021/tom-brasil-sao-paulo-brazil-4bbe6b9a.html"
+    },
+    {
+      "id": "6b8d3a02",
+      "versionId": "g2bc038ca",
+      "eventDate": "28-09-2021",
+      "lastUpdated": "2022-01-31T06:17:50.952+0000",
+      "artist": {
+        "mbid": "972980d2-5360-4964-b460-fca7372d3194",
+        "name": "UrucumTrio",
+        "sortName": "UrucumTrio",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/urucumtrio-2bf0f4ba.html"
+      },
+      "venue": {
+        "id": "4bd587b2",
+        "name": "Centro Cultural da Penha",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/centro-cultural-da-penha-sao-paulo-brazil-4bd587b2.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Lamento"
+              },
+              {
+                "name": "3$"
+              },
+              {
+                "name": "Dibaique"
+              },
+              {
+                "name": "Besame mucho / Ando meio desligado"
+              },
+              {
+                "name": "Rogério"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/urucumtrio/2021/centro-cultural-da-penha-sao-paulo-brazil-6b8d3a02.html"
+    },
+    {
+      "id": "53b2f7c9",
+      "versionId": "g43f3c3bb",
+      "eventDate": "28-09-2021",
+      "lastUpdated": "2022-07-19T05:58:41.649+0000",
+      "artist": {
+        "mbid": "ec09ccd3-a20f-4033-846b-5c42fc6d4dc9",
+        "name": "Manu Gavassi",
+        "sortName": "Gavassi, Manu",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/manu-gavassi-7bd1ae70.html"
+      },
+      "venue": {
+        "id": "53d21749",
+        "name": "Private Venue",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/private-venue-sao-paulo-brazil-53d21749.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Catarina"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Meus Prêmios Nick",
+      "url": "https://www.setlist.fm/setlist/manu-gavassi/2021/private-venue-sao-paulo-brazil-53b2f7c9.html"
+    },
+    {
+      "id": "63b7c63b",
+      "versionId": "g1b57e10c",
+      "eventDate": "26-09-2021",
+      "lastUpdated": "2024-10-14T14:20:04.682+0000",
+      "artist": {
+        "mbid": "76ea8cba-eb69-4f64-97a0-ef7751e31887",
+        "name": "Joelma",
+        "sortName": "Joelma",
+        "disambiguation": "Ex Calypso",
+        "url": "https://www.setlist.fm/setlists/joelma-33c23c55.html"
+      },
+      "venue": {
+        "id": "3d4b503",
+        "name": "Altas Horas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/altas-horas-sao-paulo-brazil-3d4b503.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Voando pro Pará"
+              },
+              {
+                "name": "Me chame de amendoim",
+                "info": "Live debut - Acapella"
+              },
+              {
+                "name": "Entre tapas e beijos",
+                "cover": {
+                  "mbid": "c1139317-02cf-4310-8722-93a095f5b1fa",
+                  "name": "Leandro & Leonardo",
+                  "sortName": "Leandro & Leonardo",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/leandro-and-leonardo-4bd49fae.html"
+                }
+              },
+              {
+                "name": "Sim"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/joelma/2021/altas-horas-sao-paulo-brazil-63b7c63b.html"
+    },
+    {
+      "id": "1b8d9d88",
+      "versionId": "g43ca3bfb",
+      "eventDate": "25-09-2021",
+      "lastUpdated": "2022-04-24T15:48:51.270+0000",
+      "artist": {
+        "mbid": "e5a4c61b-1613-4841-8706-33d99b1e7ba5",
+        "name": "Nirvana Experience (ex-Hormoaning)",
+        "sortName": "Nirvana Experience (ex-Hormoaning)",
+        "disambiguation": "Brazilian Nirvana cover band",
+        "url": "https://www.setlist.fm/setlists/nirvana-experience-ex-hormoaning-73cb8a89.html"
+      },
+      "venue": {
+        "id": "6bd3ca7e",
+        "name": "Santa Breja Bar",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/santa-breja-bar-sao-paulo-brazil-6bd3ca7e.html"
+      },
+      "tour": {
+        "name": "Unplugged 27 Years"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Been a Son",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "On a Plain",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Lounge Act",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Son of a Gun",
+                "cover": {
+                  "mbid": "a70b63fd-cae7-4a5f-b338-b18343f3ee2f",
+                  "name": "The Vaselines",
+                  "sortName": "Vaselines, The",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/the-vaselines-3bd670d0.html"
+                }
+              },
+              {
+                "name": "Frances Farmer Will Have Her Revenge on Seattle",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Spank Thru",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Jesus Wants Me for a Sunbeam",
+                "cover": {
+                  "mbid": "a70b63fd-cae7-4a5f-b338-b18343f3ee2f",
+                  "name": "The Vaselines",
+                  "sortName": "Vaselines, The",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/the-vaselines-3bd670d0.html"
+                }
+              },
+              {
+                "name": "Serve the Servants",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Pennyroyal Tea",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Dumb",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Love Buzz",
+                "cover": {
+                  "mbid": "8b399704-17f4-4001-943b-1d2b848940aa",
+                  "name": "Shocking Blue",
+                  "sortName": "Shocking Blue",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/shocking-blue-3d64da3.html"
+                }
+              },
+              {
+                "name": "School",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Polly",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Sliver",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Downer",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Molly's Lips",
+                "cover": {
+                  "mbid": "a70b63fd-cae7-4a5f-b338-b18343f3ee2f",
+                  "name": "The Vaselines",
+                  "sortName": "Vaselines, The",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/the-vaselines-3bd670d0.html"
+                }
+              },
+              {
+                "name": "About a Girl",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "All Apologies",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Moist Vagina",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "You Know You're Right",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Sappy",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Rape Me",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Where Did You Sleep Last Night?",
+                "cover": {
+                  "mbid": "ddcfbdcf-cf8d-4776-8a69-10f39376b5a2",
+                  "name": "Lead Belly",
+                  "sortName": "Lead Belly",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/lead-belly-63d626e7.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nirvana-experience-ex-hormoaning/2021/santa-breja-bar-sao-paulo-brazil-1b8d9d88.html"
+    },
+    {
+      "id": "5bb4c790",
+      "versionId": "gbf64dda",
+      "eventDate": "23-09-2021",
+      "lastUpdated": "2022-06-06T05:04:34.847+0000",
+      "artist": {
+        "mbid": "ec09ccd3-a20f-4033-846b-5c42fc6d4dc9",
+        "name": "Manu Gavassi",
+        "sortName": "Gavassi, Manu",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/manu-gavassi-7bd1ae70.html"
+      },
+      "venue": {
+        "id": "13d6c509",
+        "name": "Credicard Hall",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/credicard-hall-sao-paulo-brazil-13d6c509.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "sub.ver.si.va",
+                "info": "Live Debut"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/manu-gavassi/2021/credicard-hall-sao-paulo-brazil-5bb4c790.html"
+    },
+    {
+      "id": "7b8c46fc",
+      "versionId": "g53a85b01",
+      "eventDate": "18-09-2021",
+      "lastUpdated": "2024-09-26T22:52:45.532+0000",
+      "artist": {
+        "mbid": "838b1665-25bc-4f3e-bb56-7ce560297b72",
+        "name": "Urias",
+        "sortName": "Urias",
+        "disambiguation": "Brazilian singer-songwriter",
+        "url": "https://www.setlist.fm/setlists/urias-bc999ca.html"
+      },
+      "venue": {
+        "id": "3bd0f0bc",
+        "name": "Festival Cultural Plural",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/festival-cultural-plural-sao-paulo-brazil-3bd0f0bc.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Andar em paz"
+              },
+              {
+                "name": "Mulher do fim do mundo",
+                "cover": {
+                  "mbid": "a619471e-ee2f-430f-b57b-262f94457559",
+                  "name": "Elza Soares",
+                  "sortName": "Soares, Elza",
+                  "disambiguation": "Brazilian samba singer",
+                  "url": "https://www.setlist.fm/setlists/elza-soares-43d6b317.html"
+                }
+              },
+              {
+                "name": "Não faz diferença",
+                "cover": {
+                  "mbid": "5ad645c4-3e83-4edf-bd07-636e5dcb599d",
+                  "name": "Davi Sabbag",
+                  "sortName": "Sabbag, Davi",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/davi-sabbag-5bc4b740.html"
+                }
+              },
+              {
+                "name": "Você me vira a cabeça (Me tira do sério)",
+                "cover": {
+                  "mbid": "51bde19b-feed-4e6c-99e7-84327defabe2",
+                  "name": "Alcione",
+                  "sortName": "Alcione",
+                  "disambiguation": "Brazilian singer",
+                  "url": "https://www.setlist.fm/setlists/alcione-53d78fd9.html"
+                }
+              },
+              {
+                "name": "Meu mundo é o barro",
+                "cover": {
+                  "mbid": "00034ede-a1f1-4219-be39-02f36853373e",
+                  "name": "O Rappa",
+                  "sortName": "Rappa, O",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/o-rappa-3d6599f.html"
+                }
+              },
+              {
+                "name": "Foi mal"
+              },
+              {
+                "name": "Racha"
+              },
+              {
+                "name": "Rasga"
+              },
+              {
+                "name": "Interlúdio"
+              },
+              {
+                "name": "Frita"
+              },
+              {
+                "name": "Abracadabra"
+              },
+              {
+                "name": "Cadela"
+              },
+              {
+                "name": "Maserati"
+              },
+              {
+                "name": "Peligrosa"
+              }
+            ]
+          }
+        ]
+      },
+      "info": "songs performed at the festival \"Festival Plural\", on September 18th",
+      "url": "https://www.setlist.fm/setlist/urias/2021/festival-cultural-plural-sao-paulo-brazil-7b8c46fc.html"
+    },
+    {
+      "id": "73b7c631",
+      "versionId": "g33c8247d",
+      "eventDate": "13-09-2021",
+      "lastUpdated": "2022-05-12T06:55:41.473+0000",
+      "artist": {
+        "mbid": "76ea8cba-eb69-4f64-97a0-ef7751e31887",
+        "name": "Joelma",
+        "sortName": "Joelma",
+        "disambiguation": "Ex Calypso",
+        "url": "https://www.setlist.fm/setlists/joelma-33c23c55.html"
+      },
+      "venue": {
+        "id": "3bd500f0",
+        "name": "Programa do Ratinho",
+        "city": {
+          "id": "3455775",
+          "name": "Osasco",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5325,
+            "long": -46.79166667
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/programa-do-ratinho-osasco-brazil-3bd500f0.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Isso é calypso",
+                "cover": {
+                  "mbid": "49c2fb4d-5bb4-4b88-834e-79431dcfab08",
+                  "name": "Banda Calypso",
+                  "sortName": "Banda Calypso",
+                  "disambiguation": "Brazilian band",
+                  "url": "https://www.setlist.fm/setlists/banda-calypso-33d5a47d.html"
+                }
+              },
+              {
+                "name": "Sim"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/joelma/2021/programa-do-ratinho-osasco-brazil-73b7c631.html"
+    },
+    {
+      "id": "7b8c72a8",
+      "versionId": "g352718b",
+      "eventDate": "11-09-2021",
+      "lastUpdated": "2024-11-09T22:48:07.379+0000",
+      "artist": {
+        "mbid": "fc63a914-272d-4b95-9221-61adcce6f793",
+        "name": "Gal Costa",
+        "sortName": "Costa, Gal",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/gal-costa-1bd6e188.html"
+      },
+      "venue": {
+        "id": "63d35657",
+        "name": "Teatro Sérgio Cardoso",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/teatro-sergio-cardoso-sao-paulo-brazil-63d35657.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Todo amor que houver nessa vida"
+              },
+              {
+                "name": "Acontece"
+              },
+              {
+                "name": "Esotérico",
+                "cover": {
+                  "mbid": "cf6b70f6-2616-481c-912c-0263cabfc974",
+                  "name": "Gilberto Gil",
+                  "sortName": "Gil, Gilberto",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/gilberto-gil-3d6e18f.html"
+                }
+              },
+              {
+                "name": "Luz do sol"
+              },
+              {
+                "name": "Açaí",
+                "cover": {
+                  "mbid": "751e517d-9663-4692-8c20-942e16d484c5",
+                  "name": "Djavan",
+                  "sortName": "Djavan",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/djavan-7bd62e48.html"
+                }
+              },
+              {
+                "name": "Aquele frevo axé"
+              },
+              {
+                "name": "Meu bem, meu mal"
+              },
+              {
+                "name": "A história de Lily Braun"
+              },
+              {
+                "name": "Último blues"
+              },
+              {
+                "name": "Folhetim",
+                "cover": {
+                  "mbid": "3a5d1cc7-627e-48ea-aba3-fdd20d782c33",
+                  "name": "Chico Buarque",
+                  "sortName": "Buarque, Chico",
+                  "disambiguation": "Brazilian singer/lyricist",
+                  "url": "https://www.setlist.fm/setlists/chico-buarque-1bd62de4.html"
+                }
+              },
+              {
+                "name": "Palavras no corpo"
+              },
+              {
+                "name": "Baby",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Falsa baiana"
+              },
+              {
+                "name": "A verdadeira baiana"
+              },
+              {
+                "name": "Vatapá"
+              },
+              {
+                "name": "Barato total"
+              },
+              {
+                "name": "Sorte"
+              },
+              {
+                "name": "Brasil",
+                "cover": {
+                  "mbid": "e554daf4-4ad0-438f-a7f9-832519451fd2",
+                  "name": "Cazuza",
+                  "sortName": "Cazuza",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/cazuza-43d6c707.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/gal-costa/2021/teatro-sergio-cardoso-sao-paulo-brazil-7b8c72a8.html"
+    },
+    {
+      "id": "738c02b9",
+      "versionId": "g73dbde29",
+      "eventDate": "11-09-2021",
+      "lastUpdated": "2021-09-12T02:00:51.122+0000",
+      "artist": {
+        "mbid": "5e8fdd97-c7ea-4579-a77c-7ab17e4ac6d4",
+        "name": "Children of the Beast",
+        "sortName": "Children of the Beast",
+        "disambiguation": "Brazilian Iron Maiden tribute band",
+        "url": "https://www.setlist.fm/setlists/children-of-the-beast-63f74a5b.html"
+      },
+      "venue": {
+        "id": "5bd6d340",
+        "name": "Manifesto Bar",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/manifesto-bar-sao-paulo-brazil-5bd6d340.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/children-of-the-beast/2021/manifesto-bar-sao-paulo-brazil-738c02b9.html"
+    },
+    {
+      "id": "3b8c30d8",
+      "versionId": "g63c596eb",
+      "eventDate": "04-09-2021",
+      "lastUpdated": "2021-11-29T21:05:32.357+0000",
+      "artist": {
+        "mbid": "e5a4c61b-1613-4841-8706-33d99b1e7ba5",
+        "name": "Nirvana Experience (ex-Hormoaning)",
+        "sortName": "Nirvana Experience (ex-Hormoaning)",
+        "disambiguation": "Brazilian Nirvana cover band",
+        "url": "https://www.setlist.fm/setlists/nirvana-experience-ex-hormoaning-73cb8a89.html"
+      },
+      "venue": {
+        "id": "6bd08e5a",
+        "name": "Alcatéia Rock Bar",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/alcateia-rock-bar-sao-paulo-brazil-6bd08e5a.html"
+      },
+      "tour": {
+        "name": "Nevermind 30 Years"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Been a Son",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Negative Creep",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Scentless Apprentice",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Stain",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Blew",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Heart-Shaped Box",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Set Nevermind",
+            "song": [
+              {
+                "name": "Smells Like Teen Spirit",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "In Bloom",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Come as You Are",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Breed",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Lithium",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Polly",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                },
+                "info": "Nevermind version"
+              },
+              {
+                "name": "Territorial Pissings",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Drain You",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Lounge Act",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Stay Away",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "On a Plain",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Something in the Way",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              }
+            ]
+          },
+          {
+            "encore": 1,
+            "song": [
+              {
+                "name": "Paper Cuts",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Curmudgeon",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Big Cheese",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "Rape Me",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "tourette's",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              },
+              {
+                "name": "D-7",
+                "cover": {
+                  "mbid": "65aac2dc-216c-4b1a-8501-45567c901c0e",
+                  "name": "Wipers",
+                  "sortName": "Wipers",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/wipers-6bd6ea7a.html"
+                }
+              },
+              {
+                "name": "Endless, Nameless",
+                "cover": {
+                  "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+                  "name": "Nirvana",
+                  "sortName": "Nirvana",
+                  "disambiguation": "1980s–1990s US grunge band",
+                  "url": "https://www.setlist.fm/setlists/nirvana-7bd69ee8.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/nirvana-experience-ex-hormoaning/2021/alcateia-rock-bar-sao-paulo-brazil-3b8c30d8.html"
+    },
+    {
+      "id": "3b8c2c10",
+      "versionId": "g734aa6fd",
+      "eventDate": "04-09-2021",
+      "lastUpdated": "2025-05-15T00:50:55.652+0000",
+      "artist": {
+        "mbid": "17022e90-a743-4c5f-89b4-c9243be7b7ad",
+        "name": "Zezé Di Camargo & Luciano",
+        "sortName": "Zezé Di Camargo & Luciano",
+        "disambiguation": "Brazilian sertanejo/country duo",
+        "url": "https://www.setlist.fm/setlists/zeze-di-camargo-and-luciano-63d75abf.html"
+      },
+      "venue": {
+        "id": "13d61db9",
+        "name": "Espaço das Américas",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/espaco-das-americas-sao-paulo-brazil-13d61db9.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Fera mansa"
+              },
+              {
+                "name": "Como um anjo"
+              },
+              {
+                "name": "Vivendo por viver"
+              },
+              {
+                "name": "Dou a vida por um beijo"
+              },
+              {
+                "name": "Você vai ver"
+              },
+              {
+                "name": "Toma juízo"
+              },
+              {
+                "name": "Preciso ser amado"
+              },
+              {
+                "name": "Tarde demais"
+              },
+              {
+                "name": "Tão linda e tão louca"
+              },
+              {
+                "name": "Pra não pensar em você"
+              },
+              {
+                "name": "Estrada da vida"
+              },
+              {
+                "name": "Do outro lado da cidade",
+                "cover": {
+                  "mbid": "335606d0-8293-4982-84d7-6e5ab0adf335",
+                  "name": "Guilherme e Santiago",
+                  "sortName": "Guilherme e Santiago",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/guilherme-e-santiago-13d5f1fd.html"
+                }
+              },
+              {
+                "name": "Ainda ontem chorei de saudade"
+              },
+              {
+                "name": "Dois corações e uma história"
+              },
+              {
+                "name": "Sem medo de ser feliz"
+              },
+              {
+                "name": "Mentes tão bem"
+              },
+              {
+                "name": "A ferro e fogo"
+              },
+              {
+                "name": "1 hora e meia"
+              },
+              {
+                "name": "É o amor"
+              },
+              {
+                "name": "No dia em que eu saí de casa"
+              },
+              {
+                "name": "Flores em vida"
+              },
+              {
+                "name": "Sonho de amor"
+              },
+              {
+                "name": "Mexe que é bom"
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/zeze-di-camargo-and-luciano/2021/espaco-das-americas-sao-paulo-brazil-3b8c2c10.html"
+    },
+    {
+      "id": "38de9ff",
+      "versionId": "g33a00855",
+      "eventDate": "04-09-2021",
+      "lastUpdated": "2024-07-24T11:06:38.459+0000",
+      "artist": {
+        "mbid": "7f6d9e71-feed-4f33-aeaa-f727b952622b",
+        "name": "Paulo Ricardo",
+        "sortName": "Ricardo, Paulo",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/paulo-ricardo-33d7e891.html"
+      },
+      "venue": {
+        "id": "23d194c3",
+        "name": "Audio",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/audio-sao-paulo-brazil-23d194c3.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Revoluções por minuto",
+                "cover": {
+                  "mbid": "d8530921-e972-4263-9f52-9992d1ff4b28",
+                  "name": "RPM",
+                  "sortName": "RPM",
+                  "disambiguation": "Brazilian rock band",
+                  "url": "https://www.setlist.fm/setlists/rpm-13d79d49.html"
+                }
+              },
+              {
+                "name": "Alvorada voraz",
+                "cover": {
+                  "mbid": "d8530921-e972-4263-9f52-9992d1ff4b28",
+                  "name": "RPM",
+                  "sortName": "RPM",
+                  "disambiguation": "Brazilian rock band",
+                  "url": "https://www.setlist.fm/setlists/rpm-13d79d49.html"
+                }
+              },
+              {
+                "name": "Louras geladas",
+                "cover": {
+                  "mbid": "d8530921-e972-4263-9f52-9992d1ff4b28",
+                  "name": "RPM",
+                  "sortName": "RPM",
+                  "disambiguation": "Brazilian rock band",
+                  "url": "https://www.setlist.fm/setlists/rpm-13d79d49.html"
+                }
+              },
+              {
+                "name": "Estação do inferno"
+              },
+              {
+                "name": "A cruz e a espada",
+                "cover": {
+                  "mbid": "d8530921-e972-4263-9f52-9992d1ff4b28",
+                  "name": "RPM",
+                  "sortName": "RPM",
+                  "disambiguation": "Brazilian rock band",
+                  "url": "https://www.setlist.fm/setlists/rpm-13d79d49.html"
+                }
+              },
+              {
+                "name": "Sob a luz do sol",
+                "cover": {
+                  "mbid": "d8530921-e972-4263-9f52-9992d1ff4b28",
+                  "name": "RPM",
+                  "sortName": "RPM",
+                  "disambiguation": "Brazilian rock band",
+                  "url": "https://www.setlist.fm/setlists/rpm-13d79d49.html"
+                }
+              },
+              {
+                "name": "Pr'esse vício",
+                "cover": {
+                  "mbid": "d8530921-e972-4263-9f52-9992d1ff4b28",
+                  "name": "RPM",
+                  "sortName": "RPM",
+                  "disambiguation": "Brazilian rock band",
+                  "url": "https://www.setlist.fm/setlists/rpm-13d79d49.html"
+                }
+              },
+              {
+                "name": "Juvenília",
+                "cover": {
+                  "mbid": "d8530921-e972-4263-9f52-9992d1ff4b28",
+                  "name": "RPM",
+                  "sortName": "RPM",
+                  "disambiguation": "Brazilian rock band",
+                  "url": "https://www.setlist.fm/setlists/rpm-13d79d49.html"
+                }
+              },
+              {
+                "name": "Guerra Fria"
+              },
+              {
+                "name": "London, London",
+                "cover": {
+                  "mbid": "f07dbc2f-317b-470f-bad4-5f1b0eb6faf1",
+                  "name": "Caetano Veloso",
+                  "sortName": "Veloso, Caetano",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/caetano-veloso-3d6e183.html"
+                }
+              },
+              {
+                "name": "Flores astrais",
+                "cover": {
+                  "mbid": "6840dcbe-3aca-4057-8d16-4799c3730e3a",
+                  "name": "Secos & Molhados",
+                  "sortName": "Secos & Molhados",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/secos-and-molhados-73d62eed.html"
+                }
+              },
+              {
+                "name": "Naja",
+                "cover": {
+                  "mbid": "d8530921-e972-4263-9f52-9992d1ff4b28",
+                  "name": "RPM",
+                  "sortName": "RPM",
+                  "disambiguation": "Brazilian rock band",
+                  "url": "https://www.setlist.fm/setlists/rpm-13d79d49.html"
+                }
+              },
+              {
+                "name": "A fúria do sexo frágil"
+              },
+              {
+                "name": "Olhar 43",
+                "cover": {
+                  "mbid": "d8530921-e972-4263-9f52-9992d1ff4b28",
+                  "name": "RPM",
+                  "sortName": "RPM",
+                  "disambiguation": "Brazilian rock band",
+                  "url": "https://www.setlist.fm/setlists/rpm-13d79d49.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "url": "https://www.setlist.fm/setlist/paulo-ricardo/2021/audio-sao-paulo-brazil-38de9ff.html"
+    },
+    {
+      "id": "73a8eae1",
+      "versionId": "g13bf250d",
+      "eventDate": "29-08-2021",
+      "lastUpdated": "2024-04-18T06:37:16.521+0000",
+      "artist": {
+        "mbid": "5ac279c2-4623-487a-ad16-de031d1b364e",
+        "name": "Aquiles Priester",
+        "sortName": "Priester, Aquiles",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/aquiles-priester-1bd6f99c.html"
+      },
+      "venue": {
+        "id": "63d6d6d3",
+        "name": "Tom Brasil",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/tom-brasil-sao-paulo-brazil-63d6d6d3.html"
+      },
+      "sets": {
+        "set": []
+      },
+      "url": "https://www.setlist.fm/setlist/aquiles-priester/2021/tom-brasil-sao-paulo-brazil-73a8eae1.html"
+    },
+    {
+      "id": "538c2bbd",
+      "versionId": "g23fecc73",
+      "eventDate": "29-08-2021",
+      "lastUpdated": "2022-08-16T10:13:04.095+0000",
+      "artist": {
+        "mbid": "ead695d6-442d-4fca-b117-938d9ad5ce4f",
+        "name": "Fiuk",
+        "sortName": "Fiuk",
+        "disambiguation": "Brazilian singer",
+        "url": "https://www.setlist.fm/setlists/fiuk-1bc53990.html"
+      },
+      "venue": {
+        "id": "3d0f5ff",
+        "name": "Show dos Famosos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/show-dos-famosos-sao-paulo-brazil-3d0f5ff.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Valerie",
+                "cover": {
+                  "mbid": "6290b769-173d-49d1-990e-660a4e333877",
+                  "name": "The Zutons",
+                  "sortName": "Zutons, The",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/the-zutons-23d6bc73.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Aired on September 5, 2021",
+      "url": "https://www.setlist.fm/setlist/fiuk/2021/show-dos-famosos-sao-paulo-brazil-538c2bbd.html"
+    },
+    {
+      "id": "4b8c2bbe",
+      "versionId": "g3da415f",
+      "eventDate": "29-08-2021",
+      "lastUpdated": "2021-09-05T23:24:30.136+0000",
+      "artist": {
+        "mbid": "ada1a988-1510-45e8-9cb2-268a36d19d5a",
+        "name": "Margareth Menezes",
+        "sortName": "Menezes, Margareth",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/margareth-menezes-7bd70660.html"
+      },
+      "venue": {
+        "id": "3d0f5ff",
+        "name": "Show dos Famosos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/show-dos-famosos-sao-paulo-brazil-3d0f5ff.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "O campeão",
+                "cover": {
+                  "mbid": "52db4221-3049-409d-b731-ceb1b30a0cfe",
+                  "name": "Neguinho da Beija Flor",
+                  "sortName": "Neguinho da Beija Flor",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/neguinho-da-beija-flor-6bd4d66e.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Aired on September 5, 2021",
+      "url": "https://www.setlist.fm/setlist/margareth-menezes/2021/show-dos-famosos-sao-paulo-brazil-4b8c2bbe.html"
+    },
+    {
+      "id": "438c2bbf",
+      "versionId": "g13da4159",
+      "eventDate": "29-08-2021",
+      "lastUpdated": "2021-09-05T23:22:33.880+0000",
+      "artist": {
+        "mbid": "30af9387-037c-4f4f-9a81-17c6d9f5a26e",
+        "name": "Gloria Groove",
+        "sortName": "Groove, Gloria",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/gloria-groove-23c11053.html"
+      },
+      "venue": {
+        "id": "3d0f5ff",
+        "name": "Show dos Famosos",
+        "city": {
+          "id": "3448439",
+          "name": "São Paulo",
+          "state": "São Paulo",
+          "stateCode": "SP",
+          "coords": {
+            "lat": -23.5475,
+            "long": -46.63611111
+          },
+          "country": {
+            "code": "BR",
+            "name": "Brazil"
+          }
+        },
+        "url": "https://www.setlist.fm/venue/show-dos-famosos-sao-paulo-brazil-3d0f5ff.html"
+      },
+      "sets": {
+        "set": [
+          {
+            "song": [
+              {
+                "name": "Vem neném",
+                "cover": {
+                  "mbid": "8febb6a7-b10a-4923-82b0-a5a5b989c518",
+                  "name": "Harmonia do Samba",
+                  "sortName": "Harmonia do Samba",
+                  "disambiguation": "",
+                  "url": "https://www.setlist.fm/setlists/harmonia-do-samba-23d72c87.html"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "info": "Aired on September 5, 2021",
+      "url": "https://www.setlist.fm/setlist/gloria-groove/2021/show-dos-famosos-sao-paulo-brazil-438c2bbf.html"
+    }
+  ]
+}

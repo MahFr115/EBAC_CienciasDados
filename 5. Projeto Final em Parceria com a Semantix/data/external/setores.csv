@@ -1,0 +1,26 @@
+Setor_id;Nome_Setor;Categoria_Setor
+S001;Pista;Comum
+S002;Pista Premium;VIP
+S003;Camarote;Luxo
+S004;Cadeira Inferior;Intermediário
+S005;Cadeira Inferior Visão Parcial;Comum
+S006;Cadeira Superior;Intermediário
+S007;Cadeira Superior Visão Parcial;Comum
+S008;Mesa;Luxo
+S009;Cadeira;Intermediário
+S010;Open Bar;VIP
+S011;Arquibancada;Comum
+S012;PIT;Ultra VIP
+S013;Early Entrance;VIP
+S014;Lolla Pista;Comum
+S015;Lolla Lounge;Luxo
+S016;Lolla Confort;VIP
+S017;Meet & Greet;Ultra VIP
+S018;Backstage;VIP
+S019;Mezanino ;Intermediário
+S020;Frontstage;VIP
+S021;VIP I;VIP
+S022;VIP II;Ultra VIP
+S023;Super Premium;Luxo
+S024;Bistrô Superior;Comum
+S025;Lounge;Luxo

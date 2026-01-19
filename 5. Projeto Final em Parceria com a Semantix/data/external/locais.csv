@@ -1,0 +1,70 @@
+Local_ID;Nome_Local;Capacidade;Categoria_Local;Tipo_Espaco;Bairro;Latitude;Longitude
+L025;Centro Cultural São Paulo;2.000;Médias Casas;Teatro E Casa De Espetáculos;Vergueiro;'-23.5708;'-46.6403
+L033;Centro de Eventos São Luís;2.500;Médias Casas;Centro De Exposições;Bela Vista;'-23.5522;'-46.6594
+L034;Sambodramo Anhembi;2.500;Médias Casas;Casa De Shows;Santana;'-23.51611;'-46.64320
+L007;Komplexo Tempo;3.000;Médias Casas;Casa De Shows;Mooca;'-23.57034;'-46.60027
+L012;Espaço Leste Music;3.000;Médias Casas;Casa De Shows;Zona Leste;'-23.59208;'-46.47236
+L015;Centro de Convenções Rebouças;3.000;Médias Casas;Centro De Exposições;Pinheiros;'-23.5520;'-46.6790
+L036;Arena XP;3.000;Médias Casas;Estádio Multiuso;Marginal Tietê;'-23.5452934;'-46.4742864
+L044;Expo Alphaville;3.000;Médias Casas;Centro De Exposições;Barueri;'-23.4521;'-46.8434
+L008;Audio Club;3.200;Médias Casas;Casa De Shows;Barra Funda;'-23.5237;'-46.6551
+L060;Audio;3.200;Médias Casas;Casa De Shows;Barra Funda;'-23.52822;'-46.66968
+L041;Centro de Convenções Frei Caneca;3.800;Médias Casas;Centro De Exposições;Consolação;'-23.5538;'-46.6493
+L010;Tokio Marine Hall;4.000;Médias Casas;Casa De Shows;Barra Funda;'-23.6383;'-46.7203
+L011;Tom Brasil;4.000;Médias Casas;Casa De Shows;Santo Amaro;'-23.602102;'-46.687800
+L043;Arena Sertaneja;4.000;Médias Casas;Casa De Shows;Zona Leste;'-23.5160;'-46.5070
+L018;Centro de Eventos Pro Magno;5.000;Médias Casas;Centro De Eventos;Casa Verde;'-23.4764;'-46.6865
+L028;Expo Barra Funda;5.000;Médias Casas;Centro De Eventos;Barra Funda;'-23.52699;'-46.66954
+L029;Centro de Tradições Nordestinas;5.000;Médias Casas;Casa De Shows;Zona Norte;'-23.4723;'-46.6299
+L035;Expo Imigrantes;5.000;Médias Casas;Centro De Exposições;Jabaquara;'-23.6591;'-46.6358
+L038;Arena Villa Lobos;5.000;Médias Casas;Teatro E Casa De Espetáculos;Vila Leopoldina;'-23.5021;'-46.7142
+L039;Centro de Eventos Arca;5.000;Médias Casas;Centro De Exposições;Vila Leopoldina;'-23.5221;'-46.6910
+L040;Expo São Paulo;5.000;Médias Casas;Centro De Eventos;Casa Verde;'-23.6591;'-46.6358
+L046;Arena Interlagos;5.000;Médias Casas;Área Externa Para Eventos;Interlagos;'-23.7073;'-46.6943
+L049;Parque da Juventude;5.000;Médias Casas;Área Externa Para Eventos;Santana;'-23.50318;'-46.62131
+L054;Terra SP;6.000;Médias Casas;Casa De Shows;Campo Grande;'-23.6463;'-46.7763
+L009;Vibra São Paulo;7.000;Médias Casas;Teatro E Casa De Espetáculos;Marginal Pinheiros;'-23.6475;'-46.7239
+L004;Espaço Unimed;8.000;Médias Casas;Casa De Shows;Barra Funda;'-23.52812;'-46.66805
+L050;Villa Country;8.000;Médias Casas;Casa De Shows;Água Branca;'-23.5832;'-46.6348
+L051;Parque do Carmo;8.000;Médias Casas;Área Externa Para Eventos;Zona Leste;'-23.5725;'-46.4618
+L055;Espaço das Américas;8.000;Médias Casas;Casa De Shows;Barra Funda;'-23.5156;'-46.6820
+L067;Suhai Music Hall;9.000;Médias Casas;Casa De Shows;Jurubatuba;'-23.68026;'-46.69805
+L003;Ginásio do Ibirapuera;10.000;Médias Casas;Ginásio Coberto;Ibirapuera;'-23.57792595;'-46.65613433
+L017;Transamérica Expo Center;10.000;Médias Casas;Centro De Exposições;Santo Amaro;'-23.6069;'-46.7005
+L024;Centro Esportivo Tietê;10.000;Médias Casas;Estádio Multiuso;Luz;'-23.5269;'-46.6531
+L027;Estádio Nicolau Alayon;10.000;Médias Casas;Estádio Multiuso;Água Branca;'-23.5181;'-46.6853
+L047;Estádio Municipal de Diadema;10.000;Médias Casas;Estádio Multiuso;Diadema;'-23.6862;'-46.6225
+L052;Arena Guarulhos;10.000;Médias Casas;Estádio Multiuso;Guarulhos;'-23.44418;'-46.52400
+L057;Jockey Club;10.000;Médias Casas;Centro De Eventos;Cidade Jardim;'-23.57058;'-46.70035
+L058;Hipódromo da Cidade Jardim;10.000;Médias Casas;Centro De Eventos;Cidade Jardim;'-23.57058;'-46.70035
+L061;Pavilhão do Transamerica Expo Center;10.000;Médias Casas;Centro De Exposições;Santo Amaro;'-23.6069;'-46.7005
+L065;Transamerica Expo Center;10.000;Médias Casas;Centro De Exposições;Santo Amaro;'-23.6069;'-46.7005
+L032;Estádio Ícaro de Castro Melo;13.000;Médias Casas;Estádio Multiuso;Ibirapuera;'-23.5875;'-46.6607
+L022;Memorial da América Latina;15.000;Grandes Casas;Área Externa Para Eventos;Barra Funda;'-23.5274091;'-46.6656539
+L031;Estância Alto da Serra;15.000;Grandes Casas;Área Externa Para Eventos;São Bernardo do Campo;'-23.6634;'-46.5688
+L045;Estádio Municipal de Mogi das Cruzes;15.000;Grandes Casas;Estádio Multiuso;Mogi das Cruzes;'-23.5213;'-46.1859
+L021;Estádio Anacleto Campanella;16.000;Grandes Casas;Estádio Multiuso;São Caetano do Sul;'-23.6301;'-46.5599
+L019;Estádio Bruno José Daniel;18.000;Grandes Casas;Estádio Multiuso;Santo André;'-23.6694;'-46.5092
+L014;Estádio Canindé;20.000;Grandes Casas;Estádio Multiuso;Zona Norte;'-23.5363;'-46.6428
+L020;Estádio Primeiro de Maio;20.000;Grandes Casas;Estádio Multiuso;São Bernardo do Campo;'-23.6999;'-46.5564
+L042;Estádio José Liberatti;20.000;Grandes Casas;Estádio Multiuso;Osasco;'-23.5395;'-46.7876
+L059;Estádio do Canindé;21.000;Grandes Casas;Estádio Multiuso;Canindé;'-23.52019;'-46.61875
+L016;Expo Center Norte;25.000;Grandes Casas;Centro De Exposições;Vila Guilherme;'-23.5130;'-46.6237
+L013;Arena Anhembi;30.000;Grandes Casas;Área Externa Para Eventos;Santana;'-23.51611;'-46.64320
+L030;Arena Barueri;30.000;Grandes Casas;Estádio Multiuso;Barueri (Grande SP);'-23.5131;'-46.8994
+L006;Anhembi Parque;35.000;Grandes Casas;Centro De Eventos;Santana;'-23.50983;'-46.64055
+L062;Distrito Anhembi;35.000;Grandes Casas;Área Externa Para Eventos;Santana;'-23.51611;'-46.64320
+L063;Novo Anhangabaú;35.000;Grandes Casas;Área Externa Para Eventos;Centro Histórico;'-23.54429;'-46.63623
+L064;Vale do Anhangabaú;35.000;Grandes Casas;Área Externa Para Eventos;Centro Histórico;'-23.54429;'-46.63623
+L068;Anhembi;35.000;Grandes Casas;Área Externa Para Eventos;Santana;'-23.51611;'-46.64320
+L037;Estádio do Pacaembu ;40.000;Arenas e Estádios;Estádio Multiuso;Consolação;'-23.54825;'-46.66580
+L048;Mercado Livre Arena Pacaembu;40.000;Arenas e Estádios;Estádio Multiuso;Consolação;'-23.5486;'-46.6651
+L056;Mercado Livre Arena do Pacaembu ;40.000;Arenas e Estádios;Estádio Multiuso;Consolação;'-23.54825;'-46.66580
+L001;Allianz Parque;45.000;Arenas e Estádios;Estádio Multiuso;Perdizes;'-23.5276207;'-46.6784662
+L026;Neo Química Arena;49.000;Arenas e Estádios;Estádio Multiuso;Itaquera;'-23.54534;'-46.47476
+L002;Estádio do Morumbi;67.000;Arenas e Estádios;Estádio Multiuso;Morumbi;'-23.600089;'-46.720090
+L066;MorumBIS;67.000;Arenas e Estádios;Estádio Multiuso;Morumbi;'-23.60077;'-46.72010
+L069;Estádio MorumBIS;67.000;Arenas e Estádios;Estádio Multiuso;Morumbi;'-23.60077;'-46.72010
+L005;São Paulo Expo;100.000;Arenas e Estádios;Centro De Exposições;Jabaquara;'-23.64595;'-46.62967
+L023;Sambódromo do Anhembi;100.000;Arenas e Estádios;Área Externa Para Eventos;Santana;'-23.5079;'-46.6379
+L053;Autódromo de Interlagos;100.000;Arenas e Estádios;Área Externa Para Eventos;Interlagos;'-23.7000;'-46.6972
